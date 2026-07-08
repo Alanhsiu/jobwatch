@@ -1,0 +1,46 @@
+name: jobwatch
+
+# Runs on a schedule (twice a day) and can be triggered manually from the
+# Actions tab. Free for public repos; private repos use your free Actions minutes.
+on:
+  schedule:
+    # 15:00 and 23:00 UTC  = 08:00 and 16:00 US Pacific (roughly).
+    # Twice a day catches morning + late-day postings. Adjust or remove one line.
+    - cron: "0 15 * * *"
+    - cron: "0 23 * * *"
+  workflow_dispatch: {}   # manual "Run workflow" button
+
+permissions:
+  contents: write         # needed to commit the updated seen.json back
+
+concurrency:
+  group: jobwatch
+  cancel-in-progress: false
+
+jobs:
+  watch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Run jobwatch
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: python jobwatch.py
+
+      - name: Commit state
+        run: |
+          git config user.name  "jobwatch-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add seen.json latest_digest.md 2>/dev/null || true
+          if ! git diff --cached --quiet; then
+            git commit -m "jobwatch: update state [skip ci]"
+            git push
+          else
+            echo "no state changes to commit"
+          fi
