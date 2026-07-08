@@ -239,6 +239,35 @@ def fmt_role(r: dict) -> str:
     return f"{tag} {r['company']} — {r['title']}\n   {loc}\n   {r['url']}"
 
 
+def full_digest(matches: dict) -> str:
+    """The complete current match list, grouped by company, with clickable links.
+    Written to latest_digest.md on every run so the repo always has a browsable view."""
+    from collections import defaultdict
+    g = defaultdict(list)
+    for r in matches.values():
+        g[r["company"]].append(r)
+    now = time.time()
+
+    def ago(r):
+        d = (now - r["date_posted"]) / 86400
+        return f"{int(d)}d ago" if d >= 1 else "today"
+
+    tag = {"Quant": "🧮", "AI/ML/Data": "🤖", "Data Science, AI & Machine Learning": "🤖"}
+    order = sorted(g, key=lambda c: (-len(g[c]), c.lower()))
+    out = ["# jobwatch — current matches (with links)\n",
+           f"_{len(matches)} open new-grad SWE / AI-ML / Quant roles at {len(g)} "
+           f"target companies. Auto-refreshed every run._\n"]
+    for c in order:
+        rows = sorted(g[c], key=lambda r: -r["date_posted"])
+        out.append(f"\n## {c}  ({len(rows)})")
+        for r in rows:
+            loc = ", ".join(r["locations"][:3]) or "location N/A"
+            t = tag.get(r["category"], "💻")
+            title = r["title"].replace("[", "(").replace("]", ")").replace("|", "/")
+            out.append(f"- {t} [{title}]({r['url']}) — {loc} · {ago(r)}")
+    return "\n".join(out) + "\n"
+
+
 def chunk(lines, header, limit=3500):
     """Yield Telegram-sized messages."""
     buf, size = [header], len(header)
@@ -272,31 +301,36 @@ def send_telegram(text: str) -> bool:
         return False
 
 
-def deliver(messages, digest_md):
-    open(DIGEST_FILE, "w").write(digest_md)  # always leave a readable artifact
+def deliver(messages):
+    """Send the Telegram push messages (or print them if no creds are set)."""
     sent = False
     for m in messages:
         sent = send_telegram(m) or sent
     if not sent:
-        print("── No Telegram creds set; printing digest to stdout ──\n")
-        print(digest_md)
+        print("── No Telegram creds set; printing messages to stdout ──\n")
+        print("\n\n".join(messages) if messages else "(nothing to push)")
 
 
 def main():
     matches = collect_matches()
+
+    # Always refresh the browsable full list (with links) in the repo.
+    open(DIGEST_FILE, "w").write(full_digest(matches))
+
     seen = load_seen()
     first_run = not os.path.exists(SEEN_FILE)
 
     if first_run:
-        # Don't blast the whole backlog. Seed state and send one summary.
+        # Don't blast the whole backlog to Telegram — send one summary and seed state.
+        # (The complete list with links is in latest_digest.md, written above.)
         from collections import Counter
         by_co = Counter(r["company"] for r in matches.values())
         lines = [f"{n:>3}  {c}" for c, n in sorted(by_co.items(), key=lambda x: (-x[1], x[0]))]
         header = (f"✅ jobwatch is live. Watching {len(matches)} open new-grad "
                   f"SWE/AI/Quant roles across {len(by_co)} target companies.\n"
-                  f"From now on I'll only ping you about NEW postings.")
-        digest = "# jobwatch — initial snapshot\n\n" + header + "\n\n```\n" + "\n".join(lines) + "\n```\n"
-        deliver(list(chunk(lines, header)), digest)
+                  f"Full list with links is in latest_digest.md. "
+                  f"From now on I'll ping you about NEW postings (with links).")
+        deliver(list(chunk(lines, header)))
         save_seen(set(matches.keys()))
         print(f"[ok] seeded {len(matches)} roles into {SEEN_FILE}")
         return
@@ -306,15 +340,12 @@ def main():
 
     if not new:
         print(f"[ok] no new roles (still tracking {len(matches)} open).")
-        # refresh seen so closed roles can reappear later if reposted
-        save_seen(set(matches.keys()) | seen)
-        open(DIGEST_FILE, "w").write("# jobwatch\n\nNo new roles today.\n")
+        save_seen(set(matches.keys()) | seen)  # keep closed roles so reposts can re-fire
         return
 
     lines = [fmt_role(r) for r in new]
     header = f"🔔 {len(new)} new new-grad role(s) at your target companies:"
-    digest = "# jobwatch — new roles\n\n" + header + "\n\n" + "\n\n".join(lines) + "\n"
-    deliver(list(chunk(lines, header)), digest)
+    deliver(list(chunk(lines, header)))
     save_seen(set(matches.keys()) | seen)
     print(f"[ok] pushed {len(new)} new role(s).")
 
