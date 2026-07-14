@@ -8,41 +8,37 @@
   :root{
     --bg:#fbfbfa; --surface:#ffffff; --line:#e9e8e4; --line-strong:#d8d7d2;
     --ink:#191917; --muted:#77756e; --faint:#a3a199;
-    --seen:#0f766e; --seen-bg:#eff6f4;
-    --drop:#a8443b; --drop-bg:#faf0ef;
+    --seen:#4f46e5; --seen-bg:#eef0fd;      /* planning to apply */
+    --applied:#0f766e; --applied-bg:#eff6f4;/* already applied */
+    --drop:#a8443b; --drop-bg:#faf0ef;      /* dismissed */
+    --star:#c58a00;                          /* favorite */
     --ok:#0f766e; --warn:#b4772a;
     --mono:ui-monospace,SFMono-Regular,"SF Mono",Menlo,Consolas,monospace;
     --sans:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
   }
   *{box-sizing:border-box} html,body{margin:0}
-  body{background:var(--bg);color:var(--ink);font-family:var(--sans);font-size:15px;
-       line-height:1.45;-webkit-font-smoothing:antialiased}
+  body{background:var(--bg);color:var(--ink);font-family:var(--sans);font-size:15px;line-height:1.45;-webkit-font-smoothing:antialiased}
   a{color:inherit}
 
-  header{position:sticky;top:0;z-index:5;background:rgba(251,251,250,.92);
-         backdrop-filter:saturate(1.2) blur(8px);border-bottom:1px solid var(--line);padding:14px 16px 10px}
+  header{position:sticky;top:0;z-index:5;background:rgba(251,251,250,.92);backdrop-filter:saturate(1.2) blur(8px);border-bottom:1px solid var(--line);padding:14px 16px 10px}
   .wrap{max-width:820px;margin:0 auto}
   .title{display:flex;align-items:baseline;gap:10px;flex-wrap:wrap}
   .title h1{font-size:17px;font-weight:650;letter-spacing:-.01em;margin:0}
   .stat{font-family:var(--mono);font-size:12px;color:var(--muted)}
   .stat b{color:var(--ink);font-weight:600}
-  .stat .s{color:var(--seen)} .stat .d{color:var(--drop)}
-  .sync{margin-left:auto;font-family:var(--mono);font-size:11.5px;border:1px solid var(--line-strong);
-        background:var(--surface);color:var(--muted);border-radius:20px;padding:4px 10px;cursor:pointer;
-        display:inline-flex;align-items:center;gap:6px}
+  .stat .se{color:var(--seen)} .stat .ap{color:var(--applied)} .stat .dm{color:var(--drop)} .stat .st{color:var(--star)}
+  .sync{margin-left:auto;font-family:var(--mono);font-size:11.5px;border:1px solid var(--line-strong);background:var(--surface);color:var(--muted);border-radius:20px;padding:4px 10px;cursor:pointer;display:inline-flex;align-items:center;gap:6px}
   .dot{width:7px;height:7px;border-radius:50%;background:var(--faint)}
   .sync.on .dot{background:var(--ok)} .sync.busy .dot{background:var(--warn)} .sync.err .dot{background:var(--drop)}
 
   .controls{display:flex;gap:8px;margin-top:11px;flex-wrap:wrap;align-items:center}
-  .tabs{display:flex;gap:4px;background:#f0efec;border:1px solid var(--line);border-radius:9px;padding:3px}
+  .tabs{display:flex;gap:4px;background:#f0efec;border:1px solid var(--line);border-radius:9px;padding:3px;flex-wrap:wrap}
   .tab{font:inherit;font-size:12.5px;border:0;background:transparent;color:var(--muted);padding:5px 10px;border-radius:6px;cursor:pointer;white-space:nowrap}
   .tab[aria-selected="true"]{background:var(--surface);color:var(--ink);box-shadow:0 1px 2px rgba(0,0,0,.06);font-weight:550}
   .search{flex:1;min-width:150px;font:inherit;font-size:13px;padding:7px 10px;border:1px solid var(--line-strong);border-radius:8px;background:var(--surface)}
   .search:focus{outline:2px solid var(--seen);outline-offset:-1px;border-color:transparent}
 
-  /* sync settings panel */
-  .panel{max-width:820px;margin:10px auto 0;background:var(--surface);border:1px solid var(--line-strong);
-         border-radius:12px;padding:14px 16px;display:none}
+  .panel{max-width:820px;margin:10px auto 0;background:var(--surface);border:1px solid var(--line-strong);border-radius:12px;padding:14px 16px;display:none}
   .panel.open{display:block}
   .panel h3{margin:0 0 6px;font-size:13.5px;font-weight:600}
   .panel p{margin:0 0 10px;font-size:12.5px;color:var(--muted)}
@@ -50,33 +46,38 @@
   .panel input{width:100%;font:inherit;font-size:13px;padding:8px 10px;border:1px solid var(--line-strong);border-radius:8px;font-family:var(--mono)}
   .panel .btns{display:flex;gap:8px;margin-top:12px}
   .btn{font:inherit;font-size:13px;font-weight:550;border-radius:8px;padding:8px 14px;cursor:pointer;border:1px solid var(--line-strong);background:var(--surface);color:var(--ink)}
-  .btn.primary{background:var(--seen);border-color:var(--seen);color:#fff}
-  .panel a{color:var(--seen);text-decoration:none} .panel a:hover{text-decoration:underline}
+  .btn.primary{background:var(--applied);border-color:var(--applied);color:#fff}
+  .panel a{color:var(--applied);text-decoration:none} .panel a:hover{text-decoration:underline}
   .msg{font-size:12px;margin-top:8px;font-family:var(--mono)}
   .msg.ok{color:var(--ok)} .msg.err{color:var(--drop)}
 
   main{max-width:820px;margin:0 auto;padding:8px 16px 80px}
   .group{margin-top:22px}
-  .group h2{font-size:12px;font-weight:600;text-transform:uppercase;letter-spacing:.06em;color:var(--faint);
-            margin:0 0 8px;padding:0 2px;display:flex;align-items:center;gap:8px}
+  .group h2{font-size:12px;font-weight:600;text-transform:uppercase;letter-spacing:.06em;color:var(--faint);margin:0 0 8px;padding:0 2px;display:flex;align-items:center;gap:8px}
   .group h2 .n{font-family:var(--mono);letter-spacing:0}
   .group h2::after{content:"";flex:1;height:1px;background:var(--line)}
 
-  .row{display:flex;gap:12px;align-items:flex-start;background:var(--surface);border:1px solid var(--line);
-       border-radius:10px;padding:11px 12px;margin-bottom:7px;transition:opacity .12s ease,border-color .12s ease}
+  .row{display:flex;gap:10px;align-items:flex-start;background:var(--surface);border:1px solid var(--line);border-radius:10px;padding:11px 12px;margin-bottom:7px;transition:opacity .12s ease,border-color .12s ease}
   .row .body{flex:1;min-width:0}
   .row .t{font-weight:550;letter-spacing:-.005em;text-decoration:none;display:inline-block}
   .row .t:hover{text-decoration:underline}
   .row .meta{font-family:var(--mono);font-size:11.5px;color:var(--muted);margin-top:3px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
   .row .meta .tag{color:var(--faint)}
+
+  .star{flex-shrink:0;width:30px;height:30px;border:0;background:transparent;cursor:pointer;font-size:17px;line-height:1;color:var(--line-strong);padding:0;margin-top:1px;transition:color .12s ease,transform .08s ease}
+  .star:hover{color:var(--star)} .star.on{color:var(--star)} .star:active{transform:scale(.85)}
+  .star:focus-visible{outline:2px solid var(--star);outline-offset:2px;border-radius:6px}
+
   .marks{display:flex;gap:6px;flex-shrink:0}
-  .mark{width:34px;height:34px;border:1px solid var(--line-strong);border-radius:8px;background:var(--surface);
-        cursor:pointer;font-size:15px;line-height:1;display:flex;align-items:center;justify-content:center;color:var(--faint);transition:all .12s ease}
+  .mark{width:32px;height:32px;border:1px solid var(--line-strong);border-radius:8px;background:var(--surface);cursor:pointer;font-size:14px;line-height:1;display:flex;align-items:center;justify-content:center;color:var(--faint);transition:all .12s ease}
   .mark:hover{border-color:var(--muted);color:var(--muted)}
   .mark:focus-visible{outline:2px solid var(--seen);outline-offset:1px}
+
   .row[data-state="seen"]{border-color:var(--seen);background:var(--seen-bg)}
-  .row[data-state="seen"] .mark.ok{background:var(--seen);border-color:var(--seen);color:#fff}
-  .row[data-state="dropped"]{opacity:.55}
+  .row[data-state="seen"] .mark.seen{background:var(--seen);border-color:var(--seen);color:#fff}
+  .row[data-state="applied"]{border-color:var(--applied);background:var(--applied-bg)}
+  .row[data-state="applied"] .mark.ok{background:var(--applied);border-color:var(--applied);color:#fff}
+  .row[data-state="dropped"]{opacity:.5}
   .row[data-state="dropped"] .mark.no{background:var(--drop);border-color:var(--drop);color:#fff}
 
   .empty{text-align:center;color:var(--muted);padding:56px 20px;font-size:14px}
@@ -97,6 +98,8 @@
       <div class="tabs" role="tablist" id="tabs">
         <button class="tab" role="tab" data-f="todo" aria-selected="true">To review</button>
         <button class="tab" role="tab" data-f="seen" aria-selected="false">Seen</button>
+        <button class="tab" role="tab" data-f="applied" aria-selected="false">Applied</button>
+        <button class="tab" role="tab" data-f="star" aria-selected="false">★ Saved</button>
         <button class="tab" role="tab" data-f="dropped" aria-selected="false">Dismissed</button>
         <button class="tab" role="tab" data-f="all" aria-selected="false">All</button>
       </div>
@@ -107,10 +110,10 @@
 
 <div class="panel" id="panel">
   <h3>Sync across devices</h3>
-  <p>Your ✓/✕ are stored in <code>status.json</code> in your repo, so every device reads the same
-     thing. Create a <b>fine-grained token</b> scoped to <em>only this repo</em> with
-     <b>Contents: Read and write</b>, then paste it below. It's stored only in this browser.
-     <a href="https://github.com/settings/personal-access-tokens/new" target="_blank" rel="noopener">Create a token →</a></p>
+  <p>Your marks (seen / applied / dismissed / saved) live in <code>status.json</code> in your repo,
+     so every device reads the same thing. Create a <b>fine-grained token</b> scoped to
+     <em>only this repo</em> with <b>Contents: Read and write</b>, then paste it below. It's stored
+     only in this browser. <a href="https://github.com/settings/personal-access-tokens/new" target="_blank" rel="noopener">Create a token →</a></p>
   <label for="repoIn">Repository (owner/repo)</label>
   <input id="repoIn" placeholder="alanhsiu/jobwatch" autocomplete="off">
   <label for="patIn">Fine-grained token</label>
@@ -126,7 +129,7 @@
 <div class="foot" id="foot"></div>
 
 <script>
-const LKEY = "jobwatch.status.v1";     // local cache of {id:'seen'|'dropped'}
+const LKEY = "jobwatch.marks.v2";      // { id: {s?:'seen'|'applied'|'dropped', star?:true} }
 const PKEY = "jobwatch.gh.pat";
 const RKEY = "jobwatch.gh.repo";
 const FILE = "status.json";
@@ -134,16 +137,29 @@ const BRANCH = "main";
 const CAT_ORDER = {Quant:0, ML:1, SWE:2};
 
 let roles = [];
-let status = loadLocal();     // what the user sees
-let dirty = {};               // {id: 'seen'|'dropped'|null(cleared)} pending since last push
-let remoteSha = null;         // sha of status.json on remote (null = not created yet)
+let marks = parseMarks(loadLocalRaw());   // source of truth
+let dirty = new Set();                    // ids changed locally since last push
+let remoteSha = null;
 let filter = "todo";
 let query = "";
 let pushTimer = null;
 
-/* ---------- storage helpers ---------- */
-function loadLocal(){ try{ return JSON.parse(localStorage.getItem(LKEY)) || {}; }catch{ return {}; } }
-function saveLocal(){ localStorage.setItem(LKEY, JSON.stringify(status)); }
+/* accept both the new object form and any legacy string form ("seen"/"applied"/"dropped") */
+function parseMarks(obj){
+  const out = {};
+  for(const [id,v] of Object.entries(obj||{})){
+    if(typeof v === "string"){ if(v) out[id] = {s:v}; }
+    else if(v && typeof v === "object"){
+      const e = {}; if(v.s) e.s = v.s; if(v.star) e.star = true;
+      if(Object.keys(e).length) out[id] = e;
+    }
+  }
+  return out;
+}
+function loadLocalRaw(){ try{ return JSON.parse(localStorage.getItem(LKEY)) || {}; }catch{ return {}; } }
+function prune(m){ const o={}; for(const [id,e] of Object.entries(m)){ if(e && (e.s||e.star)) o[id]={...(e.s?{s:e.s}:{}),...(e.star?{star:true}:{})}; } return o; }
+function saveLocal(){ localStorage.setItem(LKEY, JSON.stringify(prune(marks))); }
+
 function getPat(){ return localStorage.getItem(PKEY) || ""; }
 function getRepo(){
   const o = localStorage.getItem(RKEY);
@@ -162,20 +178,20 @@ function ghHeaders(){
   const pat = getPat(); if(pat) h["Authorization"] = "Bearer " + pat;
   return h;
 }
-async function ghGet(){                       // -> {obj, sha}  (works unauth on public repos)
+async function ghGet(){
   const repo = getRepo(); if(!repo) return {obj:{}, sha:null};
   const url = `https://api.github.com/repos/${repo}/contents/${FILE}?ref=${BRANCH}&t=${Date.now()}`;
   const res = await fetch(url, {headers:ghHeaders(), cache:"no-store"});
   if(res.status === 404) return {obj:{}, sha:null};
   if(!res.ok) throw new Error("read " + res.status);
   const j = await res.json();
-  let obj = {}; try{ obj = JSON.parse(b64dec(j.content)) || {}; }catch{}
+  let obj = {}; try{ obj = parseMarks(JSON.parse(b64dec(j.content))); }catch{}
   return {obj, sha:j.sha};
 }
 async function ghPut(obj, sha){
   const repo = getRepo();
   const url = `https://api.github.com/repos/${repo}/contents/${FILE}`;
-  const body = {message:"jobwatch: update tracker state", content:b64enc(JSON.stringify(obj,null,1)), branch:BRANCH};
+  const body = {message:"jobwatch: update tracker state", content:b64enc(JSON.stringify(prune(obj),null,1)), branch:BRANCH};
   if(sha) body.sha = sha;
   const res = await fetch(url, {method:"PUT", headers:{...ghHeaders(),"Content-Type":"application/json"}, body:JSON.stringify(body)});
   if(!res.ok){ const t = await res.text(); throw new Error("write " + res.status + " " + t.slice(0,120)); }
@@ -183,39 +199,40 @@ async function ghPut(obj, sha){
   return j.content && j.content.sha;
 }
 
+/* merge remote with the ids we changed locally (local wins for dirty ids) */
+function mergeDirty(remote){
+  const merged = {...remote};
+  for(const id of dirty){
+    const local = marks[id];
+    if(local && (local.s || local.star)) merged[id] = {...local};
+    else delete merged[id];
+  }
+  return merged;
+}
+
 /* ---------- sync flow ---------- */
-async function pullRemote(initial){
-  if(!getRepo()) { setSync("off"); return; }
+async function pullRemote(){
+  if(!getRepo()){ setSync("off"); return; }
   try{
     setSync("busy");
     const {obj, sha} = await ghGet();
     remoteSha = sha;
-    // remote is the source of truth; re-apply any not-yet-pushed local changes on top
-    const merged = {...obj};
-    for(const [id,v] of Object.entries(dirty)){ if(v===null) delete merged[id]; else merged[id]=v; }
-    status = merged; saveLocal(); render();
+    marks = mergeDirty(obj); saveLocal(); render();
     setSync(syncEnabled() ? "on" : "off");
-    if(Object.keys(dirty).length) schedulePush();
+    if(dirty.size) schedulePush();
   }catch(e){ setSync("err", e.message); }
 }
-function schedulePush(){
-  if(!syncEnabled()) return;
-  clearTimeout(pushTimer);
-  pushTimer = setTimeout(pushRemote, 1000);   // debounce rapid triage into one commit
-}
+function schedulePush(){ if(!syncEnabled()) return; clearTimeout(pushTimer); pushTimer = setTimeout(pushRemote, 1000); }
 async function pushRemote(){
-  if(!syncEnabled() || !Object.keys(dirty).length) return;
+  if(!syncEnabled() || !dirty.size) return;
   try{
     setSync("busy");
-    const {obj, sha} = await ghGet();          // fetch latest first -> merges other devices
-    const merged = {...obj};
-    for(const [id,v] of Object.entries(dirty)){ if(v===null) delete merged[id]; else merged[id]=v; }
+    const {obj, sha} = await ghGet();
+    const merged = mergeDirty(obj);
     const newSha = await ghPut(merged, sha);
-    remoteSha = newSha;
-    status = merged; saveLocal();
-    dirty = {};
+    remoteSha = newSha; marks = merged; saveLocal(); dirty.clear();
     render(); setSync("on");
-  }catch(e){ setSync("err", e.message); /* keep dirty for a later retry */ }
+  }catch(e){ setSync("err", e.message); }
 }
 function setSync(state, detail){
   const btn = document.getElementById("syncBtn"), lbl = document.getElementById("syncLabel");
@@ -225,12 +242,22 @@ function setSync(state, detail){
 }
 
 /* ---------- state changes ---------- */
-function stateOf(id){ return status[id] || "todo"; }
-function setState(id, s){
-  if(stateOf(id) === s){ delete status[id]; dirty[id] = null; }
-  else { status[id] = s; dirty[id] = s; }
-  saveLocal(); render();
-  if(syncEnabled()) schedulePush();
+function statusOf(id){ return (marks[id] && marks[id].s) || "todo"; }
+function isStar(id){ return !!(marks[id] && marks[id].star); }
+function touch(id){ dirty.add(id); saveLocal(); render(); if(syncEnabled()) schedulePush(); }
+function setStatus(id, s){
+  const e = marks[id] || (marks[id] = {});
+  e.s = (e.s === s) ? undefined : s;        // click active again -> back to To review
+  if(!e.s) delete e.s;
+  if(!e.s && !e.star) delete marks[id];
+  touch(id);
+}
+function toggleStar(id){
+  const e = marks[id] || (marks[id] = {});
+  e.star = e.star ? undefined : true;
+  if(!e.star) delete e.star;
+  if(!e.s && !e.star) delete marks[id];
+  touch(id);
 }
 
 /* ---------- data + render ---------- */
@@ -246,23 +273,28 @@ async function boot(){
     document.getElementById("stat").textContent = "";
   }
   render();
-  // prefill settings + attempt a sync pull (public read works even without a token)
   document.getElementById("repoIn").value = getRepo();
   setSync(syncEnabled() ? "on" : "off");
-  if(getRepo()) pullRemote(true);
+  if(getRepo()) pullRemote();
 }
 function counts(){
-  let seen=0, dropped=0;
-  for(const r of roles){ const s=stateOf(r.id); if(s==="seen")seen++; else if(s==="dropped")dropped++; }
-  return {total:roles.length, seen, dropped, todo:roles.length-seen-dropped};
+  let seen=0, applied=0, dropped=0, star=0;
+  for(const r of roles){
+    const s = statusOf(r.id);
+    if(s==="seen")seen++; else if(s==="applied")applied++; else if(s==="dropped")dropped++;
+    if(isStar(r.id))star++;
+  }
+  return {total:roles.length, seen, applied, dropped, star, todo:roles.length-seen-applied-dropped};
 }
 function visible(){
   const q = query.trim().toLowerCase();
   return roles.filter(r=>{
-    const s = stateOf(r.id);
+    const s = statusOf(r.id);
     if(filter==="todo" && s!=="todo") return false;
     if(filter==="seen" && s!=="seen") return false;
+    if(filter==="applied" && s!=="applied") return false;
     if(filter==="dropped" && s!=="dropped") return false;
+    if(filter==="star" && !isStar(r.id)) return false;
     if(q && !(r.company.toLowerCase().includes(q) || r.title.toLowerCase().includes(q))) return false;
     return true;
   });
@@ -270,15 +302,18 @@ function visible(){
 function render(){
   const c = counts();
   document.getElementById("stat").innerHTML =
-    `<b>${c.todo}</b> to review · <span class="s"><b>${c.seen}</b> seen</span> · `
-    + `<span class="d"><b>${c.dropped}</b> dismissed</span> · ${c.total} total`;
+    `<b>${c.todo}</b> to review · <span class="se"><b>${c.seen}</b> seen</span> · `
+    + `<span class="ap"><b>${c.applied}</b> applied</span> · <span class="st"><b>${c.star}</b>★</span> · `
+    + `<span class="dm"><b>${c.dropped}</b> dismissed</span>`;
   document.querySelectorAll(".tab").forEach(t=>t.setAttribute("aria-selected", t.dataset.f===filter));
 
   const rows = visible(), list = document.getElementById("list");
   if(!rows.length){
     const msg = {
       todo:["Inbox zero.","No roles left to review. New postings will show up here."],
-      seen:["Nothing marked seen yet.","Tap the check on a role to keep track of it."],
+      seen:["Nothing marked seen yet.","Use the flag to mark roles you've read and plan to apply to."],
+      applied:["Nothing marked applied yet.","Tap the check once you've submitted an application."],
+      star:["No saved roles.","Tap the star to save any role here."],
       dropped:["Nothing dismissed.","Tap the cross to hide roles you're not interested in."],
       all:["No roles.","The bot hasn't found matches yet — check back after it runs."],
     }[filter];
@@ -293,26 +328,30 @@ function render(){
     const items = g[co].sort((a,b)=>(CAT_ORDER[a.category]??9)-(CAT_ORDER[b.category]??9) || b.date_posted-a.date_posted);
     html += `<section class="group"><h2>${esc(co)} <span class="n">${items.length}</span></h2>`;
     for(const r of items){
-      html += `<div class="row" data-state="${stateOf(r.id)}">
+      const id = esc(r.id);
+      html += `<div class="row" data-state="${statusOf(r.id)}">
+        <button class="star ${isStar(r.id)?'on':''}" data-id="${id}" data-act="star" title="Save to favorites" aria-label="Save">★</button>
         <div class="body">
           <a class="t" href="${esc(r.url)}" target="_blank" rel="noopener">${esc(r.title)}</a>
           <div class="meta">${esc(r.location)} · ${esc(r.posted||"")} <span class="tag">· ${esc(r.category)}</span></div>
         </div>
         <div class="marks">
-          <button class="mark ok" title="Mark reviewed / interested" data-id="${esc(r.id)}" data-s="seen" aria-label="Mark seen">✓</button>
-          <button class="mark no" title="Dismiss / not interested" data-id="${esc(r.id)}" data-s="dropped" aria-label="Dismiss">✕</button>
+          <button class="mark seen" data-id="${id}" data-s="seen" title="Seen — plan to apply" aria-label="Seen">⚑</button>
+          <button class="mark ok"   data-id="${id}" data-s="applied" title="Applied — you submitted an application" aria-label="Applied">✓</button>
+          <button class="mark no"   data-id="${id}" data-s="dropped" title="Dismiss / not interested" aria-label="Dismiss">✕</button>
         </div>
       </div>`;
     }
     html += `</section>`;
   }
   list.innerHTML = html;
-  list.querySelectorAll(".mark").forEach(b=> b.addEventListener("click", ()=> setState(b.dataset.id, b.dataset.s)));
+  list.querySelectorAll(".mark").forEach(b=> b.addEventListener("click", ()=> setStatus(b.dataset.id, b.dataset.s)));
+  list.querySelectorAll(".star").forEach(b=> b.addEventListener("click", ()=> toggleStar(b.dataset.id)));
   foot();
 }
 function foot(){
   document.getElementById("foot").textContent = syncEnabled()
-    ? "Synced to status.json in your repo — same marks on every device."
+    ? "Seen / applied / dismissed / saved are synced to status.json — same on every device."
     : "Marks saved in this browser only. Turn on Sync to share them across devices.";
 }
 function esc(s){ return (s??"").replace(/[&<>"]/g, m=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[m])); }
@@ -328,8 +367,7 @@ document.getElementById("saveSync").addEventListener("click", async ()=>{
   localStorage.setItem(RKEY, repo); localStorage.setItem(PKEY, pat);
   document.getElementById("patIn").value="";
   m.className="msg ok"; m.textContent="Saved. Syncing…";
-  await pushRemote();            // push any local marks up first
-  await pullRemote(true);        // then pull the merged truth
+  await pushRemote(); await pullRemote();
   if(syncEnabled()){ m.className="msg ok"; m.textContent="Sync is on for this device."; }
 });
 document.getElementById("clearSync").addEventListener("click", ()=>{
