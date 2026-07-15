@@ -8,10 +8,14 @@
   :root{
     --bg:#fbfbfa; --surface:#ffffff; --line:#e9e8e4; --line-strong:#d8d7d2;
     --ink:#191917; --muted:#77756e; --faint:#a3a199;
-    --seen:#4f46e5; --seen-bg:#eef0fd;      /* planning to apply */
-    --applied:#0f766e; --applied-bg:#eff6f4;/* already applied */
-    --drop:#a8443b; --drop-bg:#faf0ef;      /* dismissed */
-    --star:#c58a00;                          /* favorite */
+    --seen:#4f46e5;      --seen-bg:#eef0fd;
+    --applied:#0f766e;   --applied-bg:#eff6f4;
+    --oa:#b7791f;        --oa-bg:#fbf3e1;
+    --interview:#7c3aed; --interview-bg:#f3edfe;
+    --offer:#15803d;     --offer-bg:#e9f7ee;
+    --rejected:#b91c1c;  --rejected-bg:#fdecec;
+    --drop:#8a877f;      --drop-bg:#f2f1ee;
+    --star:#c58a00;
     --ok:#0f766e; --warn:#b4772a;
     --mono:ui-monospace,SFMono-Regular,"SF Mono",Menlo,Consolas,monospace;
     --sans:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
@@ -24,19 +28,21 @@
   .wrap{max-width:820px;margin:0 auto}
   .title{display:flex;align-items:baseline;gap:10px;flex-wrap:wrap}
   .title h1{font-size:17px;font-weight:650;letter-spacing:-.01em;margin:0}
-  .stat{font-family:var(--mono);font-size:12px;color:var(--muted)}
+  .stat{font-family:var(--mono);font-size:11.5px;color:var(--muted);line-height:1.7}
   .stat b{color:var(--ink);font-weight:600}
-  .stat .se{color:var(--seen)} .stat .ap{color:var(--applied)} .stat .dm{color:var(--drop)} .stat .st{color:var(--star)}
-  .sync{margin-left:auto;font-family:var(--mono);font-size:11.5px;border:1px solid var(--line-strong);background:var(--surface);color:var(--muted);border-radius:20px;padding:4px 10px;cursor:pointer;display:inline-flex;align-items:center;gap:6px}
+  .stat .c-seen{color:var(--seen)} .stat .c-applied{color:var(--applied)} .stat .c-oa{color:var(--oa)}
+  .stat .c-interview{color:var(--interview)} .stat .c-offer{color:var(--offer)} .stat .c-rejected{color:var(--rejected)} .stat .c-star{color:var(--star)}
+  .right{margin-left:auto;display:flex;gap:8px;flex-wrap:wrap}
+  .chip-btn{font-family:var(--mono);font-size:11.5px;border:1px solid var(--line-strong);background:var(--surface);color:var(--muted);border-radius:20px;padding:4px 10px;cursor:pointer;display:inline-flex;align-items:center;gap:6px}
+  .chip-btn:hover{border-color:var(--muted)}
   .dot{width:7px;height:7px;border-radius:50%;background:var(--faint)}
-  .sync.on .dot{background:var(--ok)} .sync.busy .dot{background:var(--warn)} .sync.err .dot{background:var(--drop)}
+  .chip-btn.on .dot{background:var(--ok)} .chip-btn.busy .dot{background:var(--warn)} .chip-btn.err .dot{background:var(--drop)}
 
   .controls{display:flex;gap:8px;margin-top:11px;flex-wrap:wrap;align-items:center}
-  .tabs{display:flex;gap:4px;background:#f0efec;border:1px solid var(--line);border-radius:9px;padding:3px;flex-wrap:wrap}
-  .tab{font:inherit;font-size:12.5px;border:0;background:transparent;color:var(--muted);padding:5px 10px;border-radius:6px;cursor:pointer;white-space:nowrap}
-  .tab[aria-selected="true"]{background:var(--surface);color:var(--ink);box-shadow:0 1px 2px rgba(0,0,0,.06);font-weight:550}
-  .search{flex:1;min-width:150px;font:inherit;font-size:13px;padding:7px 10px;border:1px solid var(--line-strong);border-radius:8px;background:var(--surface)}
-  .search:focus{outline:2px solid var(--seen);outline-offset:-1px;border-color:transparent}
+  select.filter,.search{font:inherit;font-size:13px;padding:7px 10px;border:1px solid var(--line-strong);border-radius:8px;background:var(--surface)}
+  select.filter{cursor:pointer}
+  .search{flex:1;min-width:150px}
+  .search:focus,select.filter:focus{outline:2px solid var(--seen);outline-offset:-1px;border-color:transparent}
 
   .panel{max-width:820px;margin:10px auto 0;background:var(--surface);border:1px solid var(--line-strong);border-radius:12px;padding:14px 16px;display:none}
   .panel.open{display:block}
@@ -44,12 +50,18 @@
   .panel p{margin:0 0 10px;font-size:12.5px;color:var(--muted)}
   .panel label{display:block;font-size:11.5px;color:var(--muted);margin:8px 0 3px;font-family:var(--mono)}
   .panel input{width:100%;font:inherit;font-size:13px;padding:8px 10px;border:1px solid var(--line-strong);border-radius:8px;font-family:var(--mono)}
-  .panel .btns{display:flex;gap:8px;margin-top:12px}
+  .panel .btns{display:flex;gap:8px;margin-top:12px;flex-wrap:wrap}
   .btn{font:inherit;font-size:13px;font-weight:550;border-radius:8px;padding:8px 14px;cursor:pointer;border:1px solid var(--line-strong);background:var(--surface);color:var(--ink)}
   .btn.primary{background:var(--applied);border-color:var(--applied);color:#fff}
+  .btn:disabled{opacity:.5;cursor:not-allowed}
   .panel a{color:var(--applied);text-decoration:none} .panel a:hover{text-decoration:underline}
   .msg{font-size:12px;margin-top:8px;font-family:var(--mono)}
   .msg.ok{color:var(--ok)} .msg.err{color:var(--drop)}
+  .addrow{display:flex;gap:8px} .addrow input{flex:1;width:auto}
+  .chips{display:flex;flex-wrap:wrap;gap:6px;margin-top:12px}
+  .chip{display:inline-flex;align-items:center;gap:4px;background:#f2f1ee;border:1px solid var(--line-strong);border-radius:20px;padding:4px 5px 4px 11px;font-size:12.5px;font-family:var(--mono)}
+  .chip button{border:0;background:transparent;cursor:pointer;color:var(--faint);font-size:13px;line-height:1;width:20px;height:20px;border-radius:50%;padding:0}
+  .chip button:hover{color:var(--rejected);background:var(--rejected-bg)}
 
   main{max-width:820px;margin:0 auto;padding:8px 16px 80px}
   .group{margin-top:22px}
@@ -57,28 +69,37 @@
   .group h2 .n{font-family:var(--mono);letter-spacing:0}
   .group h2::after{content:"";flex:1;height:1px;background:var(--line)}
 
-  .row{display:flex;gap:10px;align-items:flex-start;background:var(--surface);border:1px solid var(--line);border-radius:10px;padding:11px 12px;margin-bottom:7px;transition:opacity .12s ease,border-color .12s ease}
+  .row{display:flex;gap:10px;align-items:flex-start;background:var(--surface);border:1px solid var(--line);border-radius:10px;padding:11px 12px;margin-bottom:7px;transition:border-color .12s ease,opacity .12s ease}
   .row .body{flex:1;min-width:0}
   .row .t{font-weight:550;letter-spacing:-.005em;text-decoration:none;display:inline-block}
   .row .t:hover{text-decoration:underline}
-  .row .meta{font-family:var(--mono);font-size:11.5px;color:var(--muted);margin-top:3px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
-  .row .meta .tag{color:var(--faint)}
+  .row .meta{font-family:var(--mono);font-size:11.5px;color:var(--muted);margin-top:3px}
+  .row .meta .tag{color:var(--faint)} .row .meta .closed{color:var(--rejected)}
+  .notebtn{border:0;background:transparent;color:var(--faint);font-family:var(--mono);font-size:11.5px;cursor:pointer;padding:0 2px;text-decoration:underline;text-underline-offset:2px}
+  .notebtn:hover{color:var(--muted)} .notebtn.has{color:var(--applied)}
+  .note{font-size:12.5px;color:var(--ink);background:#f7f6f3;border-left:2px solid var(--line-strong);border-radius:4px;padding:6px 9px;margin-top:6px;white-space:pre-wrap;word-break:break-word}
+  .noteedit{width:100%;margin-top:6px;font:inherit;font-size:13px;padding:7px 9px;border:1px solid var(--line-strong);border-radius:8px;resize:vertical;min-height:56px;background:var(--surface)}
+  .noteedit:focus{outline:2px solid var(--applied);outline-offset:-1px;border-color:transparent}
 
   .star{flex-shrink:0;width:30px;height:30px;border:0;background:transparent;cursor:pointer;font-size:17px;line-height:1;color:var(--line-strong);padding:0;margin-top:1px;transition:color .12s ease,transform .08s ease}
   .star:hover{color:var(--star)} .star.on{color:var(--star)} .star:active{transform:scale(.85)}
   .star:focus-visible{outline:2px solid var(--star);outline-offset:2px;border-radius:6px}
 
-  .marks{display:flex;gap:6px;flex-shrink:0}
-  .mark{width:32px;height:32px;border:1px solid var(--line-strong);border-radius:8px;background:var(--surface);cursor:pointer;font-size:14px;line-height:1;display:flex;align-items:center;justify-content:center;color:var(--faint);transition:all .12s ease}
-  .mark:hover{border-color:var(--muted);color:var(--muted)}
-  .mark:focus-visible{outline:2px solid var(--seen);outline-offset:1px}
+  .stagesel{flex-shrink:0;font:inherit;font-size:12.5px;font-weight:550;border:1px solid var(--line-strong);border-radius:8px;
+            padding:6px 26px 6px 10px;background:var(--surface);color:var(--muted);cursor:pointer;
+            -webkit-appearance:none;appearance:none;
+            background-image:url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='10' height='6' viewBox='0 0 10 6'><path d='M1 1l4 4 4-4' fill='none' stroke='%2377756e' stroke-width='1.5'/></svg>");
+            background-repeat:no-repeat;background-position:right 9px center}
+  .stagesel:focus{outline:2px solid var(--seen);outline-offset:1px}
 
-  .row[data-state="seen"]{border-color:var(--seen);background:var(--seen-bg)}
-  .row[data-state="seen"] .mark.seen{background:var(--seen);border-color:var(--seen);color:#fff}
-  .row[data-state="applied"]{border-color:var(--applied);background:var(--applied-bg)}
-  .row[data-state="applied"] .mark.ok{background:var(--applied);border-color:var(--applied);color:#fff}
-  .row[data-state="dropped"]{opacity:.5}
-  .row[data-state="dropped"] .mark.no{background:var(--drop);border-color:var(--drop);color:#fff}
+  .row[data-state="seen"]{border-color:var(--seen);background:var(--seen-bg)}       .row[data-state="seen"] .stagesel{color:var(--seen);border-color:var(--seen)}
+  .row[data-state="applied"]{border-color:var(--applied);background:var(--applied-bg)} .row[data-state="applied"] .stagesel{color:var(--applied);border-color:var(--applied)}
+  .row[data-state="oa"]{border-color:var(--oa);background:var(--oa-bg)}             .row[data-state="oa"] .stagesel{color:var(--oa);border-color:var(--oa)}
+  .row[data-state="interview"]{border-color:var(--interview);background:var(--interview-bg)} .row[data-state="interview"] .stagesel{color:var(--interview);border-color:var(--interview)}
+  .row[data-state="offer"]{border-color:var(--offer);background:var(--offer-bg)}    .row[data-state="offer"] .stagesel{color:var(--offer);border-color:var(--offer)}
+  .row[data-state="rejected"]{border-color:var(--rejected);background:var(--rejected-bg);opacity:.85} .row[data-state="rejected"] .stagesel{color:var(--rejected);border-color:var(--rejected)}
+  .row[data-state="dropped"]{opacity:.5} .row[data-state="dropped"] .stagesel{color:var(--drop)}
+  .row[data-closed="1"] .t{color:var(--muted)}
 
   .empty{text-align:center;color:var(--muted);padding:56px 20px;font-size:14px}
   .empty .big{font-size:15px;color:var(--ink);font-weight:550;margin-bottom:4px}
@@ -92,28 +113,39 @@
     <div class="title">
       <h1>jobwatch</h1>
       <span class="stat" id="stat">loading…</span>
-      <button class="sync" id="syncBtn" title="Sync settings"><span class="dot"></span><span id="syncLabel">Sync off</span></button>
+      <span class="right">
+        <button class="chip-btn" id="coBtn" title="Tracked companies"><span id="coCount">…</span> companies</button>
+        <button class="chip-btn" id="syncBtn" title="Sync settings"><span class="dot"></span><span id="syncLabel">Sync off</span></button>
+      </span>
     </div>
     <div class="controls">
-      <div class="tabs" role="tablist" id="tabs">
-        <button class="tab" role="tab" data-f="todo" aria-selected="true">To review</button>
-        <button class="tab" role="tab" data-f="seen" aria-selected="false">Seen</button>
-        <button class="tab" role="tab" data-f="applied" aria-selected="false">Applied</button>
-        <button class="tab" role="tab" data-f="star" aria-selected="false">★ Saved</button>
-        <button class="tab" role="tab" data-f="dropped" aria-selected="false">Dismissed</button>
-        <button class="tab" role="tab" data-f="all" aria-selected="false">All</button>
-      </div>
+      <select class="filter" id="filter" aria-label="Filter by stage"></select>
       <input class="search" id="search" type="search" placeholder="Filter by company or title…" autocomplete="off">
     </div>
   </div>
 </header>
 
+<div class="panel" id="coPanel">
+  <h3>Tracked companies</h3>
+  <p>The daily scan only looks at these companies (matched as keywords in the job's company
+     name). Add or remove them here — changes take effect on the <b>next scan</b>, or hit
+     <b>Rescan now</b>. Use a distinctive keyword (e.g. “rivian”, “jane street”). Editing needs Sync on.</p>
+  <div class="addrow">
+    <input id="coInput" placeholder="Add a company or keyword…" autocomplete="off">
+    <button class="btn primary" id="coAdd">Add</button>
+  </div>
+  <div class="chips" id="coChips"></div>
+  <div class="btns"><button class="btn" id="coRescan">Rescan now</button></div>
+  <div class="msg" id="coMsg"></div>
+</div>
+
 <div class="panel" id="panel">
   <h3>Sync across devices</h3>
-  <p>Your marks (seen / applied / dismissed / saved) live in <code>status.json</code> in your repo,
-     so every device reads the same thing. Create a <b>fine-grained token</b> scoped to
-     <em>only this repo</em> with <b>Contents: Read and write</b>, then paste it below. It's stored
-     only in this browser. <a href="https://github.com/settings/personal-access-tokens/new" target="_blank" rel="noopener">Create a token →</a></p>
+  <p>Your stages, notes, stars and company list live in your repo (<code>status.json</code>,
+     <code>companies.json</code>), so every device matches. Create a <b>fine-grained token</b>
+     scoped to <em>only this repo</em> with <b>Contents: Read and write</b> (add
+     <b>Actions: Read and write</b> for the Rescan button), then paste it below. Stored only in this browser.
+     <a href="https://github.com/settings/personal-access-tokens/new" target="_blank" rel="noopener">Create a token →</a></p>
   <label for="repoIn">Repository (owner/repo)</label>
   <input id="repoIn" placeholder="alanhsiu/jobwatch" autocomplete="off">
   <label for="patIn">Fine-grained token</label>
@@ -129,35 +161,50 @@
 <div class="foot" id="foot"></div>
 
 <script>
-const LKEY = "jobwatch.marks.v2";      // { id: {s?:'seen'|'applied'|'dropped', star?:true} }
+const LKEY = "jobwatch.marks.v2";      // { id: {s?, star?, note?} }
 const PKEY = "jobwatch.gh.pat";
 const RKEY = "jobwatch.gh.repo";
-const FILE = "status.json";
+const STATUS_FILE = "status.json";
+const COMPANIES_FILE = "companies.json";
+const WORKFLOW = "jobwatch.yml";
 const BRANCH = "main";
 const CAT_ORDER = {Quant:0, ML:1, SWE:2};
 
+// application pipeline stages (todo = default, not stored)
+const STAGES = [
+  {v:"todo",     label:"To review"},
+  {v:"seen",     label:"Seen"},
+  {v:"applied",  label:"Applied"},
+  {v:"oa",       label:"OA"},
+  {v:"interview",label:"Interviewing"},
+  {v:"offer",    label:"Offer"},
+  {v:"rejected", label:"Rejected"},
+  {v:"dropped",  label:"Dismissed"},
+];
+const STAGE_LABEL = Object.fromEntries(STAGES.map(s=>[s.v,s.label]));
+
 let roles = [];
-let marks = parseMarks(loadLocalRaw());   // source of truth
-let dirty = new Set();                    // ids changed locally since last push
-let remoteSha = null;
+let marks = parseMarks(loadLocalRaw());
+let dirty = new Set();
+let companies = [];
 let filter = "todo";
 let query = "";
 let pushTimer = null;
 
-/* accept both the new object form and any legacy string form ("seen"/"applied"/"dropped") */
+/* ---------- marks storage ---------- */
 function parseMarks(obj){
   const out = {};
   for(const [id,v] of Object.entries(obj||{})){
     if(typeof v === "string"){ if(v) out[id] = {s:v}; }
     else if(v && typeof v === "object"){
-      const e = {}; if(v.s) e.s = v.s; if(v.star) e.star = true;
-      if(Object.keys(e).length) out[id] = e;
+      const e={}; if(v.s)e.s=v.s; if(v.star)e.star=true; if(v.note)e.note=String(v.note);
+      if(Object.keys(e).length) out[id]=e;
     }
   }
   return out;
 }
 function loadLocalRaw(){ try{ return JSON.parse(localStorage.getItem(LKEY)) || {}; }catch{ return {}; } }
-function prune(m){ const o={}; for(const [id,e] of Object.entries(m)){ if(e && (e.s||e.star)) o[id]={...(e.s?{s:e.s}:{}),...(e.star?{star:true}:{})}; } return o; }
+function prune(m){ const o={}; for(const [id,e] of Object.entries(m)){ if(e&&(e.s||e.star||e.note)) o[id]={...(e.s?{s:e.s}:{}),...(e.star?{star:true}:{}),...(e.note?{note:e.note}:{})}; } return o; }
 function saveLocal(){ localStorage.setItem(LKEY, JSON.stringify(prune(marks))); }
 
 function getPat(){ return localStorage.getItem(PKEY) || ""; }
@@ -172,208 +219,257 @@ function syncEnabled(){ return !!(getPat() && getRepo()); }
 function b64enc(s){ return btoa(unescape(encodeURIComponent(s))); }
 function b64dec(s){ return decodeURIComponent(escape(atob((s||"").replace(/\n/g,"")))); }
 
-/* ---------- GitHub API ---------- */
+/* ---------- generic GitHub file API ---------- */
 function ghHeaders(){
   const h = {"Accept":"application/vnd.github+json","X-GitHub-Api-Version":"2022-11-28"};
   const pat = getPat(); if(pat) h["Authorization"] = "Bearer " + pat;
   return h;
 }
-async function ghGet(){
-  const repo = getRepo(); if(!repo) return {obj:{}, sha:null};
-  const url = `https://api.github.com/repos/${repo}/contents/${FILE}?ref=${BRANCH}&t=${Date.now()}`;
+async function apiGet(file){
+  const repo = getRepo(); if(!repo) return {json:null, sha:null};
+  const url = `https://api.github.com/repos/${repo}/contents/${file}?ref=${BRANCH}&t=${Date.now()}`;
   const res = await fetch(url, {headers:ghHeaders(), cache:"no-store"});
-  if(res.status === 404) return {obj:{}, sha:null};
+  if(res.status === 404) return {json:null, sha:null};
   if(!res.ok) throw new Error("read " + res.status);
   const j = await res.json();
-  let obj = {}; try{ obj = parseMarks(JSON.parse(b64dec(j.content))); }catch{}
-  return {obj, sha:j.sha};
+  let parsed=null; try{ parsed=JSON.parse(b64dec(j.content)); }catch{}
+  return {json:parsed, sha:j.sha};
 }
-async function ghPut(obj, sha){
+async function apiPut(file, obj, sha, msg){
   const repo = getRepo();
-  const url = `https://api.github.com/repos/${repo}/contents/${FILE}`;
-  const body = {message:"jobwatch: update tracker state", content:b64enc(JSON.stringify(prune(obj),null,1)), branch:BRANCH};
+  const url = `https://api.github.com/repos/${repo}/contents/${file}`;
+  const body = {message:msg||("jobwatch: update "+file), content:b64enc(JSON.stringify(obj,null,1)), branch:BRANCH};
   if(sha) body.sha = sha;
   const res = await fetch(url, {method:"PUT", headers:{...ghHeaders(),"Content-Type":"application/json"}, body:JSON.stringify(body)});
-  if(!res.ok){ const t = await res.text(); throw new Error("write " + res.status + " " + t.slice(0,120)); }
-  const j = await res.json();
-  return j.content && j.content.sha;
+  if(!res.ok){ const t=await res.text(); throw new Error("write " + res.status + " " + t.slice(0,140)); }
+  const j = await res.json(); return j.content && j.content.sha;
 }
 
-/* merge remote with the ids we changed locally (local wins for dirty ids) */
+/* ---------- marks sync ---------- */
 function mergeDirty(remote){
   const merged = {...remote};
-  for(const id of dirty){
-    const local = marks[id];
-    if(local && (local.s || local.star)) merged[id] = {...local};
-    else delete merged[id];
-  }
+  for(const id of dirty){ const local=marks[id]; if(local&&(local.s||local.star||local.note)) merged[id]={...local}; else delete merged[id]; }
   return merged;
 }
-
-/* ---------- sync flow ---------- */
 async function pullRemote(){
   if(!getRepo()){ setSync("off"); return; }
   try{
     setSync("busy");
-    const {obj, sha} = await ghGet();
-    remoteSha = sha;
-    marks = mergeDirty(obj); saveLocal(); render();
-    setSync(syncEnabled() ? "on" : "off");
+    const {json,sha} = await apiGet(STATUS_FILE);
+    marks = mergeDirty(parseMarks(json||{})); saveLocal(); render();
+    setSync(syncEnabled()?"on":"off");
     if(dirty.size) schedulePush();
   }catch(e){ setSync("err", e.message); }
 }
-function schedulePush(){ if(!syncEnabled()) return; clearTimeout(pushTimer); pushTimer = setTimeout(pushRemote, 1000); }
+function schedulePush(){ if(!syncEnabled()) return; clearTimeout(pushTimer); pushTimer=setTimeout(pushRemote,1000); }
 async function pushRemote(){
   if(!syncEnabled() || !dirty.size) return;
   try{
     setSync("busy");
-    const {obj, sha} = await ghGet();
-    const merged = mergeDirty(obj);
-    const newSha = await ghPut(merged, sha);
-    remoteSha = newSha; marks = merged; saveLocal(); dirty.clear();
+    const {json,sha} = await apiGet(STATUS_FILE);
+    const merged = mergeDirty(parseMarks(json||{}));
+    await apiPut(STATUS_FILE, prune(merged), sha, "jobwatch: update tracker state");
+    marks = merged; saveLocal(); dirty.clear();
     render(); setSync("on");
   }catch(e){ setSync("err", e.message); }
 }
 function setSync(state, detail){
-  const btn = document.getElementById("syncBtn"), lbl = document.getElementById("syncLabel");
-  btn.className = "sync" + (state==="on"?" on":state==="busy"?" busy":state==="err"?" err":"");
+  const btn=document.getElementById("syncBtn"), lbl=document.getElementById("syncLabel");
+  btn.className = "chip-btn" + (state==="on"?" on":state==="busy"?" busy":state==="err"?" err":"");
   lbl.textContent = state==="on"?"Sync on":state==="busy"?"Syncing…":state==="err"?"Sync error":"Sync off";
   if(state==="err" && detail){ const m=document.getElementById("syncMsg"); m.className="msg err"; m.textContent=detail; }
 }
 
-/* ---------- state changes ---------- */
-function statusOf(id){ return (marks[id] && marks[id].s) || "todo"; }
-function isStar(id){ return !!(marks[id] && marks[id].star); }
-function touch(id){ dirty.add(id); saveLocal(); render(); if(syncEnabled()) schedulePush(); }
-function setStatus(id, s){
-  const e = marks[id] || (marks[id] = {});
-  e.s = (e.s === s) ? undefined : s;        // click active again -> back to To review
-  if(!e.s) delete e.s;
-  if(!e.s && !e.star) delete marks[id];
-  touch(id);
+/* ---------- companies ---------- */
+function dedupeSorted(arr){ return [...new Set(arr.map(x=>String(x).trim().toLowerCase()).filter(Boolean))].sort(); }
+async function loadCompanies(){
+  if(!getRepo()){ renderCompanies(); return; }
+  try{ const {json}=await apiGet(COMPANIES_FILE); companies = Array.isArray(json)?dedupeSorted(json):[]; }catch(e){}
+  renderCompanies();
 }
-function toggleStar(id){
-  const e = marks[id] || (marks[id] = {});
-  e.star = e.star ? undefined : true;
-  if(!e.star) delete e.star;
-  if(!e.s && !e.star) delete marks[id];
-  touch(id);
+async function saveCompanies(){
+  companies = dedupeSorted(companies); renderCompanies();
+  if(!syncEnabled()){ coMsg("Turn on Sync (token) to save changes.","err"); return; }
+  try{
+    coMsg("Saving…");
+    const {sha}=await apiGet(COMPANIES_FILE);
+    await apiPut(COMPANIES_FILE, companies, sha, "jobwatch: update tracked companies");
+    coMsg("Saved. New matches appear on the next scan — hit Rescan now to apply.","ok");
+  }catch(e){ coMsg("Save failed: "+e.message,"err"); }
 }
+function addCompany(name){ const v=String(name||"").trim().toLowerCase(); if(!v) return; if(companies.includes(v)){ coMsg("“"+v+"” is already tracked."); return; } companies.push(v); saveCompanies(); }
+function removeCompany(name){ companies=companies.filter(c=>c!==name); saveCompanies(); }
+function renderCompanies(){
+  document.getElementById("coCount").textContent = companies.length || "0";
+  const box=document.getElementById("coChips");
+  if(!companies.length){ box.innerHTML='<span style="color:var(--faint);font-size:12px">No companies loaded yet.</span>'; }
+  else{
+    box.innerHTML = companies.map(c=>`<span class="chip">${esc(c)}<button data-co="${esc(c)}" title="Remove" aria-label="Remove ${esc(c)}">✕</button></span>`).join("");
+    box.querySelectorAll("button[data-co]").forEach(b=>b.addEventListener("click",()=>removeCompany(b.dataset.co)));
+  }
+  document.getElementById("coAdd").disabled = !syncEnabled();
+}
+function coMsg(text,kind){ const m=document.getElementById("coMsg"); m.className="msg"+(kind?(" "+kind):""); m.textContent=text; }
+async function rescan(){
+  if(!syncEnabled()){ coMsg("Turn on Sync (token) first.","err"); return; }
+  try{
+    coMsg("Starting a scan…");
+    const res=await fetch(`https://api.github.com/repos/${getRepo()}/actions/workflows/${WORKFLOW}/dispatches`,
+      {method:"POST",headers:{...ghHeaders(),"Content-Type":"application/json"},body:JSON.stringify({ref:BRANCH})});
+    if(res.status===204){ coMsg("Scan started — refreshing the list in ~90s.","ok"); setTimeout(reloadRoles,90000); }
+    else{ coMsg("Couldn't start a scan ("+res.status+"). Token may lack Actions: Read and write — or run it from the repo's Actions tab.","err"); }
+  }catch(e){ coMsg("Rescan failed: "+e.message,"err"); }
+}
+async function reloadRoles(){ try{ const res=await fetch("roles.json?ts="+Date.now(),{cache:"no-store"}); if(res.ok){ roles=await res.json(); render(); coMsg("List refreshed.","ok"); } }catch{} }
+
+/* ---------- marks state ---------- */
+function statusOf(id){ return (marks[id]&&marks[id].s) || "todo"; }
+function isStar(id){ return !!(marks[id]&&marks[id].star); }
+function noteOf(id){ return (marks[id]&&marks[id].note) || ""; }
+function hasMark(id){ return statusOf(id)!=="todo" || isStar(id) || !!noteOf(id); }
+function cleanup(id){ const e=marks[id]; if(e && !e.s && !e.star && !e.note) delete marks[id]; }
+function touch(id){ dirty.add(id); saveLocal(); if(syncEnabled()) schedulePush(); }
+function setStatus(id,s){ const e=marks[id]||(marks[id]={}); e.s=(s==="todo")?undefined:s; if(!e.s)delete e.s; cleanup(id); touch(id); render(); }
+function toggleStar(id){ const e=marks[id]||(marks[id]={}); e.star=e.star?undefined:true; if(!e.star)delete e.star; cleanup(id); touch(id); render(); }
+function setNote(id,text){ const e=marks[id]||(marks[id]={}); const t=text.trim(); if(t)e.note=text; else delete e.note; cleanup(id); touch(id); }  // no render (keep textarea focus)
 
 /* ---------- data + render ---------- */
 async function boot(){
+  buildFilter();
   try{
-    const res = await fetch("roles.json?ts=" + Date.now(), {cache:"no-store"});
+    const res=await fetch("roles.json?ts="+Date.now(),{cache:"no-store"});
     if(!res.ok) throw new Error(res.status);
     roles = await res.json();
   }catch(e){
-    document.getElementById("list").innerHTML =
-      '<div class="empty"><div class="big">Couldn\'t load roles.json</div>'
-      + 'Open this page via your GitHub Pages URL, and make sure the bot has run at least once.</div>';
-    document.getElementById("stat").textContent = "";
+    document.getElementById("list").innerHTML='<div class="empty"><div class="big">Couldn\'t load roles.json</div>Open this page via your GitHub Pages URL, and make sure the bot has run at least once.</div>';
+    document.getElementById("stat").textContent="";
   }
   render();
   document.getElementById("repoIn").value = getRepo();
-  setSync(syncEnabled() ? "on" : "off");
-  if(getRepo()) pullRemote();
+  setSync(syncEnabled()?"on":"off");
+  if(getRepo()){ pullRemote(); loadCompanies(); } else { renderCompanies(); }
 }
+function buildFilter(){
+  const opts = [["all","All"], ...STAGES.map(s=>[s.v,s.label]), ["star","★ Saved"]];
+  document.getElementById("filter").innerHTML = opts.map(([v,l])=>`<option value="${v}"${v===filter?" selected":""}>${l==="All"?"Show: All":l}</option>`).join("");
+}
+function isActive(r){ return r.active !== false; }
 function counts(){
-  let seen=0, applied=0, dropped=0, star=0;
+  const c = {todo:0,seen:0,applied:0,oa:0,interview:0,offer:0,rejected:0,dropped:0,star:0};
   for(const r of roles){
-    const s = statusOf(r.id);
-    if(s==="seen")seen++; else if(s==="applied")applied++; else if(s==="dropped")dropped++;
-    if(isStar(r.id))star++;
+    const s=statusOf(r.id);
+    if(s==="todo"){ if(isActive(r)) c.todo++; } else c[s]++;
+    if(isStar(r.id)) c.star++;
   }
-  return {total:roles.length, seen, applied, dropped, star, todo:roles.length-seen-applied-dropped};
+  return c;
 }
 function visible(){
-  const q = query.trim().toLowerCase();
+  const q=query.trim().toLowerCase();
   return roles.filter(r=>{
-    const s = statusOf(r.id);
-    if(filter==="todo" && s!=="todo") return false;
-    if(filter==="seen" && s!=="seen") return false;
-    if(filter==="applied" && s!=="applied") return false;
-    if(filter==="dropped" && s!=="dropped") return false;
-    if(filter==="star" && !isStar(r.id)) return false;
-    if(q && !(r.company.toLowerCase().includes(q) || r.title.toLowerCase().includes(q))) return false;
+    const s=statusOf(r.id), active=isActive(r);
+    if(filter==="all"){ if(!(active||hasMark(r.id))) return false; }
+    else if(filter==="star"){ if(!isStar(r.id)) return false; }
+    else if(filter==="todo"){ if(!(active && s==="todo")) return false; }
+    else { if(s!==filter) return false; }
+    if(q && !(r.company.toLowerCase().includes(q)||r.title.toLowerCase().includes(q))) return false;
     return true;
   });
 }
+function stageOptions(cur){ return STAGES.map(s=>`<option value="${s.v}"${s.v===cur?" selected":""}>${s.label}</option>`).join(""); }
 function render(){
-  const c = counts();
+  const c=counts();
   document.getElementById("stat").innerHTML =
-    `<b>${c.todo}</b> to review · <span class="se"><b>${c.seen}</b> seen</span> · `
-    + `<span class="ap"><b>${c.applied}</b> applied</span> · <span class="st"><b>${c.star}</b>★</span> · `
-    + `<span class="dm"><b>${c.dropped}</b> dismissed</span>`;
-  document.querySelectorAll(".tab").forEach(t=>t.setAttribute("aria-selected", t.dataset.f===filter));
+    `<b>${c.todo}</b> to review · <span class="c-seen"><b>${c.seen}</b> seen</span> · `
+    + `<span class="c-applied"><b>${c.applied}</b> applied</span> · <span class="c-oa"><b>${c.oa}</b> OA</span> · `
+    + `<span class="c-interview"><b>${c.interview}</b> interviewing</span> · <span class="c-offer"><b>${c.offer}</b> offer</span> · `
+    + `<span class="c-rejected"><b>${c.rejected}</b> rejected</span> · <span class="c-star"><b>${c.star}</b>★</span>`;
 
-  const rows = visible(), list = document.getElementById("list");
+  const rows=visible(), list=document.getElementById("list");
   if(!rows.length){
-    const msg = {
-      todo:["Inbox zero.","No roles left to review. New postings will show up here."],
-      seen:["Nothing marked seen yet.","Use the flag to mark roles you've read and plan to apply to."],
-      applied:["Nothing marked applied yet.","Tap the check once you've submitted an application."],
-      star:["No saved roles.","Tap the star to save any role here."],
-      dropped:["Nothing dismissed.","Tap the cross to hide roles you're not interested in."],
+    const m = {
       all:["No roles.","The bot hasn't found matches yet — check back after it runs."],
-    }[filter];
-    list.innerHTML = `<div class="empty"><div class="big">${msg[0]}</div>${msg[1]}</div>`;
+      todo:["Inbox zero.","No open roles left to review. New postings will show up here."],
+      seen:["Nothing marked seen.","Set a role to “Seen” for ones you've read and plan to apply to."],
+      applied:["Nothing applied yet.","Set a role to “Applied” once you submit — it stays even after the posting closes."],
+      oa:["No OAs.","Set a role to “OA” when you get an online assessment."],
+      interview:["No interviews yet.","Set a role to “Interviewing” for phone screens / VOs."],
+      offer:["No offers yet.","Set a role to “Offer” when you get one. 🎯"],
+      rejected:["Nothing here.","Rejections you record will show up here."],
+      dropped:["Nothing dismissed.","Set “Dismissed” for roles you're not interested in."],
+      star:["No saved roles.","Tap the star to save any role here."],
+    }[filter] || ["Nothing here.",""];
+    list.innerHTML=`<div class="empty"><div class="big">${m[0]}</div>${m[1]}</div>`;
     foot(); return;
   }
-  const g = {};
+  const g={};
   for(const r of rows){ (g[r.company] ||= []).push(r); }
-  const companies = Object.keys(g).sort((a,b)=> g[b].length-g[a].length || a.localeCompare(b));
-  let html = "";
-  for(const co of companies){
-    const items = g[co].sort((a,b)=>(CAT_ORDER[a.category]??9)-(CAT_ORDER[b.category]??9) || b.date_posted-a.date_posted);
+  const companiesList = Object.keys(g).sort((a,b)=>a.localeCompare(b,undefined,{sensitivity:"base"}));
+  let html="";
+  for(const co of companiesList){
+    const items=g[co].sort((a,b)=>(CAT_ORDER[a.category]??9)-(CAT_ORDER[b.category]??9) || b.date_posted-a.date_posted);
     html += `<section class="group"><h2>${esc(co)} <span class="n">${items.length}</span></h2>`;
     for(const r of items){
-      const id = esc(r.id);
-      html += `<div class="row" data-state="${statusOf(r.id)}">
-        <button class="star ${isStar(r.id)?'on':''}" data-id="${id}" data-act="star" title="Save to favorites" aria-label="Save">★</button>
+      const id=esc(r.id), closed=!isActive(r), note=noteOf(r.id);
+      html += `<div class="row" data-state="${statusOf(r.id)}" ${closed?'data-closed="1"':''}>
+        <button class="star ${isStar(r.id)?'on':''}" data-id="${id}" title="Save to favorites" aria-label="Save">★</button>
         <div class="body">
           <a class="t" href="${esc(r.url)}" target="_blank" rel="noopener">${esc(r.title)}</a>
-          <div class="meta">${esc(r.location)} · ${esc(r.posted||"")} <span class="tag">· ${esc(r.category)}</span></div>
+          <div class="meta">${esc(r.location)} · ${esc(r.posted||"")} <span class="tag">· ${esc(r.category)}</span>${closed?' <span class="closed">· closed</span>':''}
+            &nbsp;<button class="notebtn ${note?'has':''}" data-note="${id}">${note?'edit note':'+ note'}</button></div>
+          ${note?`<div class="note" data-notetext="${id}">${esc(note)}</div>`:``}
+          <textarea class="noteedit" data-noteedit="${id}" placeholder="Notes — recruiter, dates, OA link, questions…" hidden>${esc(note)}</textarea>
         </div>
-        <div class="marks">
-          <button class="mark seen" data-id="${id}" data-s="seen" title="Seen — plan to apply" aria-label="Seen">⚑</button>
-          <button class="mark ok"   data-id="${id}" data-s="applied" title="Applied — you submitted an application" aria-label="Applied">✓</button>
-          <button class="mark no"   data-id="${id}" data-s="dropped" title="Dismiss / not interested" aria-label="Dismiss">✕</button>
-        </div>
+        <select class="stagesel" data-stage="${id}" aria-label="Stage">${stageOptions(statusOf(r.id))}</select>
       </div>`;
     }
     html += `</section>`;
   }
-  list.innerHTML = html;
-  list.querySelectorAll(".mark").forEach(b=> b.addEventListener("click", ()=> setStatus(b.dataset.id, b.dataset.s)));
-  list.querySelectorAll(".star").forEach(b=> b.addEventListener("click", ()=> toggleStar(b.dataset.id)));
+  list.innerHTML=html;
+  list.querySelectorAll("select[data-stage]").forEach(s=> s.addEventListener("change",()=> setStatus(s.dataset.stage, s.value)));
+  list.querySelectorAll(".star").forEach(b=> b.addEventListener("click",()=> toggleStar(b.dataset.id)));
+  list.querySelectorAll(".notebtn").forEach(b=> b.addEventListener("click",()=> openNote(b.dataset.note)));
+  list.querySelectorAll("textarea[data-noteedit]").forEach(t=>{
+    t.addEventListener("input", ()=> setNote(t.dataset.noteedit, t.value));  // save, no re-render
+    t.addEventListener("blur", ()=> render());                              // refresh preview when done
+  });
   foot();
 }
+function openNote(id){
+  const ta=document.querySelector(`textarea[data-noteedit="${cssq(id)}"]`);
+  const pv=document.querySelector(`[data-notetext="${cssq(id)}"]`);
+  if(!ta) return;
+  if(pv) pv.style.display="none";
+  ta.hidden=false; ta.focus();
+  ta.setSelectionRange(ta.value.length, ta.value.length);
+}
+function cssq(s){ return (s||"").replace(/["\\]/g,"\\$&"); }
 function foot(){
   document.getElementById("foot").textContent = syncEnabled()
-    ? "Seen / applied / dismissed / saved are synced to status.json — same on every device."
-    : "Marks saved in this browser only. Turn on Sync to share them across devices.";
+    ? "Stages, notes, stars & company list are synced to your repo — same on every device."
+    : "Saved in this browser only. Turn on Sync to share everything and edit the company list.";
 }
 function esc(s){ return (s??"").replace(/[&<>"]/g, m=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[m])); }
 
 /* ---------- events ---------- */
-document.getElementById("tabs").addEventListener("click", e=>{ const t=e.target.closest(".tab"); if(t){ filter=t.dataset.f; render(); }});
+document.getElementById("filter").addEventListener("change", e=>{ filter=e.target.value; render(); });
 document.getElementById("search").addEventListener("input", e=>{ query=e.target.value; render(); });
-document.getElementById("syncBtn").addEventListener("click", ()=> document.getElementById("panel").classList.toggle("open"));
+document.getElementById("syncBtn").addEventListener("click", ()=>{ document.getElementById("panel").classList.toggle("open"); document.getElementById("coPanel").classList.remove("open"); });
+document.getElementById("coBtn").addEventListener("click", ()=>{ document.getElementById("coPanel").classList.toggle("open"); document.getElementById("panel").classList.remove("open"); });
+document.getElementById("coAdd").addEventListener("click", ()=>{ const i=document.getElementById("coInput"); addCompany(i.value); i.value=""; i.focus(); });
+document.getElementById("coInput").addEventListener("keydown", e=>{ if(e.key==="Enter"){ addCompany(e.target.value); e.target.value=""; }});
+document.getElementById("coRescan").addEventListener("click", rescan);
 document.getElementById("saveSync").addEventListener("click", async ()=>{
-  const repo=document.getElementById("repoIn").value.trim(), pat=document.getElementById("patIn").value.trim();
-  const m=document.getElementById("syncMsg");
-  if(!repo.includes("/") || !pat){ m.className="msg err"; m.textContent="Enter owner/repo and a token."; return; }
-  localStorage.setItem(RKEY, repo); localStorage.setItem(PKEY, pat);
-  document.getElementById("patIn").value="";
+  const repo=document.getElementById("repoIn").value.trim(), pat=document.getElementById("patIn").value.trim(), m=document.getElementById("syncMsg");
+  if(!repo.includes("/")||!pat){ m.className="msg err"; m.textContent="Enter owner/repo and a token."; return; }
+  localStorage.setItem(RKEY,repo); localStorage.setItem(PKEY,pat); document.getElementById("patIn").value="";
   m.className="msg ok"; m.textContent="Saved. Syncing…";
-  await pushRemote(); await pullRemote();
+  await pushRemote(); await pullRemote(); await loadCompanies();
   if(syncEnabled()){ m.className="msg ok"; m.textContent="Sync is on for this device."; }
 });
 document.getElementById("clearSync").addEventListener("click", ()=>{
   localStorage.removeItem(PKEY);
-  const m=document.getElementById("syncMsg"); m.className="msg"; m.textContent="Sync turned off on this device (your marks stay saved locally).";
-  setSync("off"); foot();
+  const m=document.getElementById("syncMsg"); m.className="msg"; m.textContent="Sync turned off on this device (marks stay saved locally).";
+  setSync("off"); renderCompanies(); foot();
 });
 
 boot();
