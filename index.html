@@ -101,6 +101,21 @@
   .row[data-state="dropped"]{opacity:.5} .row[data-state="dropped"] .stagesel{color:var(--drop)}
   .row[data-closed="1"] .t{color:var(--muted)}
 
+  /* clickable header counts */
+  .statlink{font:inherit;font-size:inherit;border:0;background:transparent;padding:0;margin:0;cursor:pointer;color:var(--muted)}
+  .statlink:hover{text-decoration:underline}
+  .statlink.active{text-decoration:underline;text-underline-offset:3px}
+  .stat .c-seen{color:var(--seen)} .stat .c-applied{color:var(--applied)} .stat .c-oa{color:var(--oa)}
+  .stat .c-interview{color:var(--interview)} .stat .c-offer{color:var(--offer)} .stat .c-rejected{color:var(--rejected)} .stat .c-star{color:var(--star)}
+
+  /* To-review quick buttons */
+  .quick{display:flex;gap:6px;flex-shrink:0;flex-wrap:wrap;justify-content:flex-end}
+  .qbtn{font:inherit;font-size:12px;font-weight:550;border:1px solid var(--line-strong);border-radius:8px;padding:6px 9px;background:var(--surface);cursor:pointer;color:var(--muted);white-space:nowrap}
+  .qbtn.seen:hover{border-color:var(--seen);color:var(--seen);background:var(--seen-bg)}
+  .qbtn.applied:hover{border-color:var(--applied);color:var(--applied);background:var(--applied-bg)}
+  .qbtn.dismiss:hover{border-color:var(--drop);color:var(--drop);background:var(--drop-bg)}
+  .qbtn:focus-visible{outline:2px solid var(--seen);outline-offset:1px}
+
   .empty{text-align:center;color:var(--muted);padding:56px 20px;font-size:14px}
   .empty .big{font-size:15px;color:var(--ink);font-weight:550;margin-bottom:4px}
   .foot{max-width:820px;margin:24px auto 0;padding:0 16px;color:var(--faint);font-size:11.5px;font-family:var(--mono)}
@@ -378,11 +393,21 @@ function visible(){
 function stageOptions(cur){ return STAGES.map(s=>`<option value="${s.v}"${s.v===cur?" selected":""}>${s.label}</option>`).join(""); }
 function render(){
   const c=counts();
-  document.getElementById("stat").innerHTML =
-    `<b>${c.todo}</b> to review · <span class="c-seen"><b>${c.seen}</b> seen</span> · `
-    + `<span class="c-applied"><b>${c.applied}</b> applied</span> · <span class="c-oa"><b>${c.oa}</b> OA</span> · `
-    + `<span class="c-interview"><b>${c.interview}</b> interviewing</span> · <span class="c-offer"><b>${c.offer}</b> offer</span> · `
-    + `<span class="c-rejected"><b>${c.rejected}</b> rejected</span> · <span class="c-star"><b>${c.star}</b>★</span>`;
+  const statParts = [
+    ["todo", `<b>${c.todo}</b> to review`, ""],
+    ["seen", `<b>${c.seen}</b> seen`, "c-seen"],
+    ["applied", `<b>${c.applied}</b> applied`, "c-applied"],
+    ["oa", `<b>${c.oa}</b> OA`, "c-oa"],
+    ["interview", `<b>${c.interview}</b> interviewing`, "c-interview"],
+    ["offer", `<b>${c.offer}</b> offer`, "c-offer"],
+    ["rejected", `<b>${c.rejected}</b> rejected`, "c-rejected"],
+    ["star", `<b>${c.star}</b>★`, "c-star"],
+  ];
+  document.getElementById("stat").innerHTML = statParts.map(([f,html,cls])=>
+    `<button class="statlink ${cls} ${filter===f?'active':''}" data-filter="${f}">${html}</button>`).join(" · ");
+  document.getElementById("stat").querySelectorAll(".statlink").forEach(b=>
+    b.addEventListener("click", ()=>{ filter=b.dataset.filter; render(); }));
+  const fsel=document.getElementById("filter"); if(fsel) fsel.value=filter;
 
   const rows=visible(), list=document.getElementById("list");
   if(!rows.length){
@@ -419,13 +444,20 @@ function render(){
           ${note?`<div class="note" data-notetext="${id}">${esc(note)}</div>`:``}
           <textarea class="noteedit" data-noteedit="${id}" placeholder="Notes — recruiter, dates, OA link, questions…" hidden>${esc(note)}</textarea>
         </div>
-        <select class="stagesel" data-stage="${id}" aria-label="Stage">${stageOptions(statusOf(r.id))}</select>
+        ${filter==="todo"
+          ? `<div class="quick">
+               <button class="qbtn seen" data-quick="${id}" data-s="seen" title="Seen — plan to apply">Seen</button>
+               <button class="qbtn applied" data-quick="${id}" data-s="applied" title="Applied">Applied</button>
+               <button class="qbtn dismiss" data-quick="${id}" data-s="dropped" title="Dismiss / not interested">Dismiss</button>
+             </div>`
+          : `<select class="stagesel" data-stage="${id}" aria-label="Stage">${stageOptions(statusOf(r.id))}</select>`}
       </div>`;
     }
     html += `</section>`;
   }
   list.innerHTML=html;
   list.querySelectorAll("select[data-stage]").forEach(s=> s.addEventListener("change",()=> setStatus(s.dataset.stage, s.value)));
+  list.querySelectorAll(".qbtn[data-quick]").forEach(b=> b.addEventListener("click",()=> setStatus(b.dataset.quick, b.dataset.s)));
   list.querySelectorAll(".star").forEach(b=> b.addEventListener("click",()=> toggleStar(b.dataset.id)));
   list.querySelectorAll(".notebtn").forEach(b=> b.addEventListener("click",()=> openNote(b.dataset.note)));
   list.querySelectorAll("textarea[data-noteedit]").forEach(t=>{
