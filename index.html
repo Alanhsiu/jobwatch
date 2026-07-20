@@ -129,12 +129,18 @@
       <h1>jobwatch</h1>
       <span class="stat" id="stat">loading…</span>
       <span class="right">
+        <button class="chip-btn" id="addBtn" title="Add a role by hand">+ role</button>
         <button class="chip-btn" id="coBtn" title="Tracked companies"><span id="coCount">…</span> companies</button>
         <button class="chip-btn" id="syncBtn" title="Sync settings"><span class="dot"></span><span id="syncLabel">Sync off</span></button>
       </span>
     </div>
     <div class="controls">
       <select class="filter" id="filter" aria-label="Filter by stage"></select>
+      <select class="filter" id="sort" aria-label="Sort order">
+        <option value="company">By company</option>
+        <option value="newest">Newest first</option>
+        <option value="oldest">Oldest first</option>
+      </select>
       <input class="search" id="search" type="search" placeholder="Filter by company or title…" autocomplete="off">
     </div>
   </div>
@@ -152,6 +158,27 @@
   <div class="chips" id="coChips"></div>
   <div class="btns"><button class="btn" id="coRescan">Rescan now</button></div>
   <div class="msg" id="coMsg"></div>
+</div>
+
+<div class="panel" id="addPanel">
+  <h3>Add a role by hand</h3>
+  <p>For postings Simplify doesn't have (e.g. a Taiwan Google / Nvidia listing). It's added to
+     your tracker like any other role — with stages, notes, and stars — and synced. Needs Sync on.</p>
+  <label for="mCompany">Company</label>
+  <input id="mCompany" placeholder="Google" autocomplete="off">
+  <label for="mTitle">Role title</label>
+  <input id="mTitle" placeholder="Software Engineer, New Grad (Taipei)" autocomplete="off">
+  <label for="mUrl">Link (optional)</label>
+  <input id="mUrl" placeholder="https://careers.google.com/jobs/..." autocomplete="off">
+  <div style="display:flex;gap:8px">
+    <div style="flex:1"><label for="mLoc">Location (optional)</label>
+      <input id="mLoc" placeholder="Taipei, Taiwan" autocomplete="off"></div>
+    <div><label for="mCat">Type</label>
+      <select id="mCat" class="filter" style="width:100%"><option>SWE</option><option>ML</option><option>Quant</option></select></div>
+  </div>
+  <div class="btns"><button class="btn primary" id="mAdd">Add role</button></div>
+  <div class="msg" id="mMsg"></div>
+  <div class="chips" id="mList" style="margin-top:14px"></div>
 </div>
 
 <div class="panel" id="panel">
@@ -181,6 +208,7 @@ const PKEY = "jobwatch.gh.pat";
 const RKEY = "jobwatch.gh.repo";
 const STATUS_FILE = "status.json";
 const COMPANIES_FILE = "companies.json";
+const MANUAL_FILE = "manual.json";   // roles you add by hand (not from Simplify)
 const WORKFLOW = "jobwatch.yml";
 const BRANCH = "main";
 const CAT_ORDER = {Quant:0, ML:1, SWE:2};
@@ -199,10 +227,13 @@ const STAGES = [
 const STAGE_LABEL = Object.fromEntries(STAGES.map(s=>[s.v,s.label]));
 
 let roles = [];
+let botRoles = [];
+let manualRoles = [];
 let marks = parseMarks(loadLocalRaw());
 let dirty = new Set();
 let companies = [];
 let filter = "todo";
+let sort = "company";
 let query = "";
 let pushTimer = null;
 
@@ -270,11 +301,22 @@ async function pullRemote(){
   if(!getRepo()){ setSync("off"); return; }
   try{
     setSync("busy");
-    const {json,sha} = await apiGet(STATUS_FILE);
-    marks = mergeDirty(parseMarks(json||{})); saveLocal(); render();
+    const {json} = await apiGet(STATUS_FILE);
+    const remote = parseMarks(json||{});
+    // Union, not replace: remote wins for keys it has; keep any local key that's dirty or that
+    // remote is missing. This guarantees an empty/stale remote can NEVER wipe local marks.
+    const merged = {...remote};
+    for(const [id,e] of Object.entries(marks)){
+      if(dirty.has(id) || !(id in remote)) merged[id] = e;
+    }
+    marks = merged; saveLocal(); render();
     setSync(syncEnabled()?"on":"off");
-    if(dirty.size) schedulePush();
-  }catch(e){ setSync("err", e.message); }
+    // push up any local-only marks so the repo actually persists them
+    if(syncEnabled()){
+      for(const id of Object.keys(marks)) if(!(id in remote)) dirty.add(id);
+      if(dirty.size) schedulePush();
+    }
+  }catch(e){ setSync("err", syncErrText(e.message)); }
 }
 function schedulePush(){ if(!syncEnabled()) return; clearTimeout(pushTimer); pushTimer=setTimeout(pushRemote,1000); }
 async function pushRemote(){
@@ -286,7 +328,33 @@ async function pushRemote(){
     await apiPut(STATUS_FILE, prune(merged), sha, "jobwatch: update tracker state");
     marks = merged; saveLocal(); dirty.clear();
     render(); setSync("on");
-  }catch(e){ setSync("err", e.message); }
+  }catch(e){ setSync("err", syncErrText(e.message)); }
+}
+function syncErrText(msg){
+  if(/401/.test(msg)) return "Token invalid or expired — create a new fine-grained token for this repo.";
+  if(/403/.test(msg)) return "Token can't write — set Contents: Read and write for this repo, then paste again.";
+  if(/404/.test(msg)) return "Repo not found — check the owner/repo value.";
+  return "Sync error: " + msg;
+}
+// Save-time check that PROVES the token can read AND write, with a clear result.
+async function verifySync(){
+  const m=document.getElementById("syncMsg");
+  if(!getRepo()||!getPat()){ setSync("off"); return false; }
+  setSync("busy"); if(m){ m.className="msg"; m.textContent="Checking token…"; }
+  try{
+    const {json,sha} = await apiGet(STATUS_FILE);                 // read test (authenticated)
+    const remote = parseMarks(json||{});
+    const merged = {...remote};
+    for(const [id,e] of Object.entries(marks)){ if(dirty.has(id)||!(id in remote)) merged[id]=e; }
+    await apiPut(STATUS_FILE, prune(merged), sha, "jobwatch: verify sync");  // write test
+    marks = merged; saveLocal(); dirty.clear(); render();
+    setSync("on");
+    if(m){ m.className="msg ok"; m.textContent="✓ Connected to "+getRepo()+" — reads and writes work. Your marks now save to the repo automatically."; }
+    return true;
+  }catch(e){
+    setSync("err"); if(m){ m.className="msg err"; m.textContent="✗ "+syncErrText(e.message); }
+    return false;
+  }
 }
 function setSync(state, detail){
   const btn=document.getElementById("syncBtn"), lbl=document.getElementById("syncLabel");
@@ -335,7 +403,46 @@ async function rescan(){
     else{ coMsg("Couldn't start a scan ("+res.status+"). Token may lack Actions: Read and write — or run it from the repo's Actions tab.","err"); }
   }catch(e){ coMsg("Rescan failed: "+e.message,"err"); }
 }
-async function reloadRoles(){ try{ const res=await fetch("roles.json?ts="+Date.now(),{cache:"no-store"}); if(res.ok){ roles=await res.json(); render(); coMsg("List refreshed.","ok"); } }catch{} }
+async function reloadRoles(){ try{ const res=await fetch("roles.json?ts="+Date.now(),{cache:"no-store"}); if(res.ok){ botRoles=await res.json(); mergeRoles(); render(); coMsg("List refreshed.","ok"); } }catch{} }
+
+/* ---------- manual (hand-added) roles ---------- */
+function mMsg(text,kind){ const m=document.getElementById("mMsg"); m.className="msg"+(kind?(" "+kind):""); m.textContent=text; }
+async function saveManual(){
+  if(!syncEnabled()){ mMsg("Turn on Sync (token) to add roles.","err"); return false; }
+  try{
+    const {sha} = await apiGet(MANUAL_FILE);
+    await apiPut(MANUAL_FILE, manualRoles, sha, "jobwatch: update manual roles");
+    return true;
+  }catch(e){ mMsg("Save failed: "+e.message,"err"); return false; }
+}
+async function addManualRole(){
+  const company=document.getElementById("mCompany").value.trim();
+  const title=document.getElementById("mTitle").value.trim();
+  const url=document.getElementById("mUrl").value.trim();
+  const loc=document.getElementById("mLoc").value.trim();
+  const cat=document.getElementById("mCat").value;
+  if(!company || !title){ mMsg("Company and role title are required.","err"); return; }
+  const role={ id:"manual:"+Date.now().toString(36)+Math.random().toString(36).slice(2,6),
+    company, title, url, location:loc||"—", category:cat, posted:"added by you",
+    date_posted:Math.floor(Date.now()/1000), active:true, manual:true };
+  manualRoles.push(role); mergeRoles(); render(); renderManual();
+  ["mCompany","mTitle","mUrl","mLoc"].forEach(i=>document.getElementById(i).value="");
+  mMsg("Saving…");
+  if(await saveManual()) mMsg("Added “"+company+" — "+title+"”.","ok");
+}
+async function removeManualRole(id){
+  manualRoles = manualRoles.filter(r=>r.id!==id);
+  mergeRoles(); render(); renderManual();
+  mMsg("Removing…"); if(await saveManual()) mMsg("Removed.","ok");
+}
+function renderManual(){
+  const box=document.getElementById("mList"); if(!box) return;
+  if(!manualRoles.length){ box.innerHTML='<span style="color:var(--faint);font-size:12px">No hand-added roles yet.</span>'; return; }
+  box.innerHTML = manualRoles.map(r=>
+    `<span class="chip">${esc(r.company)} — ${esc(r.title)}<button data-mrm="${esc(r.id)}" title="Remove" aria-label="Remove">✕</button></span>`).join("");
+  box.querySelectorAll("button[data-mrm]").forEach(b=> b.addEventListener("click", ()=> removeManualRole(b.dataset.mrm)));
+  document.getElementById("mAdd").disabled = !syncEnabled();
+}
 
 /* ---------- marks state ---------- */
 function statusOf(id){ return (marks[id]&&marks[id].s) || "todo"; }
@@ -349,19 +456,31 @@ function toggleStar(id){ const e=marks[id]||(marks[id]={}); e.star=e.star?undefi
 function setNote(id,text){ const e=marks[id]||(marks[id]={}); const t=text.trim(); if(t)e.note=text; else delete e.note; cleanup(id); touch(id); }  // no render (keep textarea focus)
 
 /* ---------- data + render ---------- */
+async function loadManual(){
+  // hand-added roles live in manual.json (read fresh from the repo via API so it's not
+  // delayed by GitHub Pages caching); merged with the bot's roles.json.
+  manualRoles = [];
+  if(getRepo()){
+    try{ const {json} = await apiGet(MANUAL_FILE); if(Array.isArray(json)) manualRoles = json; }catch(e){}
+  }
+}
+function mergeRoles(){ roles = [...botRoles, ...manualRoles]; }
 async function boot(){
   buildFilter();
   try{
     const res=await fetch("roles.json?ts="+Date.now(),{cache:"no-store"});
     if(!res.ok) throw new Error(res.status);
-    roles = await res.json();
+    botRoles = await res.json();
   }catch(e){
     document.getElementById("list").innerHTML='<div class="empty"><div class="big">Couldn\'t load roles.json</div>Open this page via your GitHub Pages URL, and make sure the bot has run at least once.</div>';
     document.getElementById("stat").textContent="";
   }
+  await loadManual();
+  mergeRoles();
   render();
   document.getElementById("repoIn").value = getRepo();
   setSync(syncEnabled()?"on":"off");
+  renderManual();
   if(getRepo()){ pullRemote(); loadCompanies(); } else { renderCompanies(); }
 }
 function buildFilter(){
@@ -426,20 +545,14 @@ function render(){
     list.innerHTML=`<div class="empty"><div class="big">${m[0]}</div>${m[1]}</div>`;
     foot(); return;
   }
-  const g={};
-  for(const r of rows){ (g[r.company] ||= []).push(r); }
-  const companiesList = Object.keys(g).sort((a,b)=>a.localeCompare(b,undefined,{sensitivity:"base"}));
-  let html="";
-  for(const co of companiesList){
-    const items=g[co].sort((a,b)=>(CAT_ORDER[a.category]??9)-(CAT_ORDER[b.category]??9) || b.date_posted-a.date_posted);
-    html += `<section class="group"><h2>${esc(co)} <span class="n">${items.length}</span></h2>`;
-    for(const r of items){
-      const id=esc(r.id), closed=!isActive(r), note=noteOf(r.id);
-      html += `<div class="row" data-state="${statusOf(r.id)}" ${closed?'data-closed="1"':''}>
+  const rowHtml = (r, showCompany) => {
+    const id=esc(r.id), closed=!isActive(r), note=noteOf(r.id);
+    const co = showCompany ? `<b style="color:var(--ink)">${esc(r.company)}</b> · ` : "";
+    return `<div class="row" data-state="${statusOf(r.id)}" ${closed?'data-closed="1"':''}>
         <button class="star ${isStar(r.id)?'on':''}" data-id="${id}" title="Save to favorites" aria-label="Save">★</button>
         <div class="body">
           <a class="t" href="${esc(r.url)}" target="_blank" rel="noopener">${esc(r.title)}</a>
-          <div class="meta">${esc(r.location)} · ${esc(r.posted||"")} <span class="tag">· ${esc(r.category)}</span>${closed?' <span class="closed">· closed</span>':''}
+          <div class="meta">${co}${esc(r.location)} · ${esc(r.posted||"")} <span class="tag">· ${esc(r.category)}</span>${closed?' <span class="closed">· closed</span>':''}
             &nbsp;<button class="notebtn ${note?'has':''}" data-note="${id}">${note?'edit note':'+ note'}</button></div>
           ${note?`<div class="note" data-notetext="${id}">${esc(note)}</div>`:``}
           <textarea class="noteedit" data-noteedit="${id}" placeholder="Notes — recruiter, dates, OA link, questions…" hidden>${esc(note)}</textarea>
@@ -452,7 +565,23 @@ function render(){
              </div>`
           : `<select class="stagesel" data-stage="${id}" aria-label="Stage">${stageOptions(statusOf(r.id))}</select>`}
       </div>`;
+  };
+
+  let html="";
+  if(sort==="company"){
+    const g={};
+    for(const r of rows){ (g[r.company] ||= []).push(r); }
+    const companiesList = Object.keys(g).sort((a,b)=>a.localeCompare(b,undefined,{sensitivity:"base"}));
+    for(const co of companiesList){
+      const items=g[co].sort((a,b)=>(CAT_ORDER[a.category]??9)-(CAT_ORDER[b.category]??9) || b.date_posted-a.date_posted);
+      html += `<section class="group"><h2>${esc(co)} <span class="n">${items.length}</span></h2>`;
+      for(const r of items){ html += rowHtml(r, false); }
+      html += `</section>`;
     }
+  } else {
+    const flat = rows.slice().sort((a,b)=> sort==="oldest" ? a.date_posted-b.date_posted : b.date_posted-a.date_posted);
+    html += `<section class="group">`;
+    for(const r of flat){ html += rowHtml(r, true); }
     html += `</section>`;
   }
   list.innerHTML=html;
@@ -484,9 +613,13 @@ function esc(s){ return (s??"").replace(/[&<>"]/g, m=>({'&':'&amp;','<':'&lt;','
 
 /* ---------- events ---------- */
 document.getElementById("filter").addEventListener("change", e=>{ filter=e.target.value; render(); });
+document.getElementById("sort").addEventListener("change", e=>{ sort=e.target.value; render(); });
 document.getElementById("search").addEventListener("input", e=>{ query=e.target.value; render(); });
-document.getElementById("syncBtn").addEventListener("click", ()=>{ document.getElementById("panel").classList.toggle("open"); document.getElementById("coPanel").classList.remove("open"); });
-document.getElementById("coBtn").addEventListener("click", ()=>{ document.getElementById("coPanel").classList.toggle("open"); document.getElementById("panel").classList.remove("open"); });
+document.getElementById("syncBtn").addEventListener("click", ()=>{ document.getElementById("panel").classList.toggle("open"); document.getElementById("coPanel").classList.remove("open"); document.getElementById("addPanel").classList.remove("open"); });
+document.getElementById("coBtn").addEventListener("click", ()=>{ document.getElementById("coPanel").classList.toggle("open"); document.getElementById("panel").classList.remove("open"); document.getElementById("addPanel").classList.remove("open"); });
+document.getElementById("addBtn").addEventListener("click", ()=>{ const p=document.getElementById("addPanel"); p.classList.toggle("open"); document.getElementById("panel").classList.remove("open"); document.getElementById("coPanel").classList.remove("open"); renderManual(); });
+document.getElementById("mAdd").addEventListener("click", addManualRole);
+document.getElementById("mTitle").addEventListener("keydown", e=>{ if(e.key==="Enter") addManualRole(); });
 document.getElementById("coAdd").addEventListener("click", ()=>{ const i=document.getElementById("coInput"); addCompany(i.value); i.value=""; i.focus(); });
 document.getElementById("coInput").addEventListener("keydown", e=>{ if(e.key==="Enter"){ addCompany(e.target.value); e.target.value=""; }});
 document.getElementById("coRescan").addEventListener("click", rescan);
@@ -494,9 +627,8 @@ document.getElementById("saveSync").addEventListener("click", async ()=>{
   const repo=document.getElementById("repoIn").value.trim(), pat=document.getElementById("patIn").value.trim(), m=document.getElementById("syncMsg");
   if(!repo.includes("/")||!pat){ m.className="msg err"; m.textContent="Enter owner/repo and a token."; return; }
   localStorage.setItem(RKEY,repo); localStorage.setItem(PKEY,pat); document.getElementById("patIn").value="";
-  m.className="msg ok"; m.textContent="Saved. Syncing…";
-  await pushRemote(); await pullRemote(); await loadCompanies();
-  if(syncEnabled()){ m.className="msg ok"; m.textContent="Sync is on for this device."; }
+  const ok = await verifySync();
+  if(ok){ await loadCompanies(); await loadManual(); mergeRoles(); render(); renderManual(); }
 });
 document.getElementById("clearSync").addEventListener("click", ()=>{
   localStorage.removeItem(PKEY);

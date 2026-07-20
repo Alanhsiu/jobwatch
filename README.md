@@ -29,6 +29,11 @@ Three surfaces:
   - A **★ save** toggle for favorites (independent of stage).
   - A **filter dropdown** (any stage / ★ Saved / All) + search, with a live count per stage.
   - A **Companies** panel to add/remove tracked companies, plus **Rescan now**.
+  - A **+ role** button to add a posting Simplify doesn't have (e.g. a Taiwan Google/Nvidia
+    listing) by hand; it's tracked like any other role and synced (kept in `manual.json`).
+  - **Save & sync** actually tests the token (read + write) and tells you plainly whether it
+    worked, so you know sync is really on.
+  - A **sort** control (by company / newest / oldest) and clickable header counts.
   - Roles you've touched stay after a posting closes (shown "closed"), so your history persists.
   - Everything (stages, notes, stars, company list) syncs across devices via your repo.
 - **Telegram** — a one-time summary, then only *new* postings (each with its link).
@@ -55,6 +60,7 @@ your-repo/
 ├── index.html
 ├── roles.json          (scanned job data; refreshed by the bot, keeps closed roles you marked)
 ├── companies.json      (the tracked-company list; editable from the tracker page)
+├── manual.json         ([] — roles you add by hand on the tracker page)
 ├── status.json         ({} — your stages, notes, and stars)
 ├── README.md
 └── .github/workflows/jobwatch.yml
