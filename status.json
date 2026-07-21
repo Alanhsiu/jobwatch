@@ -1,1 +1,60 @@
-{}
+{
+ "simplify:036f95f0-b954-4120-bd02-980666b57a4d": {
+  "s": "applied"
+ },
+ "simplify:b3876b2d-c196-46fb-96c4-bbb3e767c0b0": {
+  "s": "applied"
+ },
+ "simplify:5de30536-7ed9-4121-977c-734010710c22": {
+  "s": "seen"
+ },
+ "simplify:75726ef3-f9b8-48b0-a583-16fb91a0f78a": {
+  "s": "dropped"
+ },
+ "simplify:2c2aafd9-d2b4-4c8e-a730-7169cb5ae715": {
+  "s": "dropped"
+ },
+ "simplify:4390c758-6e51-424d-a81b-424561f1847e": {
+  "s": "dropped"
+ },
+ "simplify:e3155c50-29ce-48b3-a6f0-47903713b81b": {
+  "s": "dropped"
+ },
+ "simplify:504f0b08-afb2-4964-b3cd-5dee1937b1ad": {
+  "s": "dropped"
+ },
+ "simplify:ba5a942e-be3c-493b-9ef4-bf0dbc07a0ce": {
+  "s": "seen",
+  "star": true
+ },
+ "simplify:5ea8412e-6f15-4f24-b9a2-a32f48b02a27": {
+  "s": "dropped"
+ },
+ "simplify:a92f1e72-634c-4222-886a-0b93307f9477": {
+  "s": "dropped"
+ },
+ "simplify:0ddd865a-c11f-4160-8014-9d9cb6889252": {
+  "s": "dropped"
+ },
+ "simplify:73cbd0da-d5af-4887-a89e-c404bc218ef3": {
+  "s": "dropped"
+ },
+ "simplify:5be19b71-5be3-40a9-ac72-91fc3223c702": {
+  "s": "dropped"
+ },
+ "simplify:0489a50d-5cd6-4f17-8222-4ac7f89961cf": {
+  "s": "dropped"
+ },
+ "simplify:bd0b2123-9f3b-49ff-9a03-199d556d06fb": {
+  "s": "dropped"
+ },
+ "simplify:e03e4fce-69ff-4c7c-9d31-8e33a590167d": {
+  "s": "seen"
+ },
+ "simplify:f65657ff-9f42-4256-ac69-c3a4b36628ea": {
+  "s": "dropped"
+ },
+ "simplify:27a0f900-c5b2-4b8f-85c2-8614ea5badf0": {
+  "s": "dropped"
+ }
+}
