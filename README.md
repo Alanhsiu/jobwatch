@@ -5,21 +5,21 @@ pushes only the *new* ones to Telegram. The list below is refreshed automaticall
 run, and an interactive tracker page lets you manage each application through its pipeline.
 
 <!-- JOBS:START -->
-_147 open new-grad SWE / ML / Quant roles at 37 target companies. Auto-updated on every run._
+_145 open new-grad SWE / ML / Quant roles at 37 target companies. Auto-updated on every run._
 
 **[Open the interactive tracker](https://Alanhsiu.github.io/jobwatch/)** — tick/cross each role and your marks are remembered.
 
 
 ### ByteDance (15)
-- [Graduate Software Engineer - Dev Infra](https://jobs.bytedance.com/en/position/7536272435440716040/detail) &mdash; San Jose, CA · 16d ago · SWE
-- [AI/LLM Network Software Development Engineer Graduate - High Speed Network](https://jobs.bytedance.com/en/position/7509262740803930376/detail) &mdash; San Jose, CA · 50d ago · ML
-- [RDMA Network Software Development Engineer Graduate - High Speed Network](https://jobs.bytedance.com/en/position/7509266973013690631/detail) &mdash; Seattle, WA · 50d ago · SWE
-- [Software Development Engineer Graduate - SDN Traffic Intelligence & Control](https://jobs.bytedance.com/en/position/7509262736619571474/detail) &mdash; Seattle, WA · 50d ago · SWE
-- [Graduate AIOps Engineer - Data Center Networking](https://jobs.bytedance.com/en/position/7538114876280817927/detail) &mdash; San Jose, CA · 50d ago · ML
-- [Graduate Machine Learning Engineer - E-Commerce Governance-CV/NLP/Multimodal/LLM](https://jobs.bytedance.com/en/position/7515582521393318151/detail) &mdash; Seattle, WA · 50d ago · ML
-- [Graduate Machine Learning Engineer](https://jobs.bytedance.com/en/position/7515571512419338514/detail) &mdash; San Jose, CA · 50d ago · ML
-- [Machine Learning Graduate - E-Commerce Governance - BS/MS](https://jobs.bytedance.com/en/position/7538929248565381383/detail) &mdash; Seattle, WA · 50d ago · ML
-- [Graduate Software Engineer - Cloud Native Infrastructure](https://jobs.bytedance.com/en/position/7538951609075271943/detail) &mdash; San Jose, CA · 50d ago · SWE
+- [Graduate Software Engineer - Dev Infra](https://jobs.bytedance.com/en/position/7536272435440716040/detail) &mdash; San Jose, CA · 17d ago · SWE
+- [AI/LLM Network Software Development Engineer Graduate - High Speed Network](https://jobs.bytedance.com/en/position/7509262740803930376/detail) &mdash; San Jose, CA · 51d ago · ML
+- [RDMA Network Software Development Engineer Graduate - High Speed Network](https://jobs.bytedance.com/en/position/7509266973013690631/detail) &mdash; Seattle, WA · 51d ago · SWE
+- [Software Development Engineer Graduate - SDN Traffic Intelligence & Control](https://jobs.bytedance.com/en/position/7509262736619571474/detail) &mdash; Seattle, WA · 51d ago · SWE
+- [Graduate AIOps Engineer - Data Center Networking](https://jobs.bytedance.com/en/position/7538114876280817927/detail) &mdash; San Jose, CA · 51d ago · ML
+- [Graduate Machine Learning Engineer - E-Commerce Governance-CV/NLP/Multimodal/LLM](https://jobs.bytedance.com/en/position/7515582521393318151/detail) &mdash; Seattle, WA · 51d ago · ML
+- [Graduate Machine Learning Engineer](https://jobs.bytedance.com/en/position/7515571512419338514/detail) &mdash; San Jose, CA · 51d ago · ML
+- [Machine Learning Graduate - E-Commerce Governance - BS/MS](https://jobs.bytedance.com/en/position/7538929248565381383/detail) &mdash; Seattle, WA · 51d ago · ML
+- [Graduate Software Engineer - Cloud Native Infrastructure](https://jobs.bytedance.com/en/position/7538951609075271943/detail) &mdash; San Jose, CA · 51d ago · SWE
 - [Graduate Software Engineer - Inference Infrastructure](https://jobs.bytedance.com/en/position/7556439896494754066/detail) &mdash; San Jose, CA · 51d ago · SWE
 - [Software Engineer Graduate - Cloud Native Infrastructure](https://jobs.bytedance.com/en/position/7540437542564301063/detail) &mdash; San Jose, CA · 51d ago · SWE
 - [Software Engineer Graduate - Inference Infrastructure](https://jobs.bytedance.com/en/position/7556509698578663687/detail) &mdash; Seattle, WA · 51d ago · SWE
@@ -33,39 +33,26 @@ _147 open new-grad SWE / ML / Quant roles at 37 target companies. Auto-updated o
 - [Software Engineer New Grad - Defense](https://jobs.lever.co/palantir/0a838e66-1ab0-4fc4-b4d3-4671c0352278/apply) &mdash; NYC · 24d ago · SWE
 - [Software Engineer New Grad - Defense](https://jobs.lever.co/palantir/f362d7aa-360d-4059-ab38-f482742693b3/apply) &mdash; Palo Alto, CA · 24d ago · SWE
 - [Forward Deployed Software Engineer New Grad - Commercial](https://jobs.lever.co/palantir/e500bcf3-19d8-4d3c-b340-4d76e4a55b40/apply) &mdash; Chicago, IL · 24d ago · SWE
-- [Forward Deployed Software Engineer New Grad - Commercial](https://jobs.lever.co/palantir/2e6b0ac8-83e9-4be5-a3aa-cf319f751728/apply) &mdash; NYC · 24d ago · SWE
-- [Software Engineer New Grad](https://jobs.lever.co/palantir/c34b424e-caf2-455a-b104-ae1096ccca29/apply) &mdash; Denver, CO · 24d ago · SWE
+- [Forward Deployed Software Engineer New Grad - Commercial](https://jobs.lever.co/palantir/2e6b0ac8-83e9-4be5-a3aa-cf319f751728/apply) &mdash; NYC · 25d ago · SWE
+- [Software Engineer New Grad](https://jobs.lever.co/palantir/c34b424e-caf2-455a-b104-ae1096ccca29/apply) &mdash; Denver, CO · 25d ago · SWE
 - [Privacy & Civil Liberties Engineer New Grad](https://jobs.lever.co/palantir/95e0d2b0-437a-4096-a5c6-0f247f426c90/apply) &mdash; NYC · 27d ago · SWE
 - [Forward Deployed Software Engineer New Grad](https://jobs.lever.co/palantir/cbe90327-3e6e-451c-a54c-1d3cbcef5aeb/apply) &mdash; Washington, DC · 37d ago · SWE
 - [Forward Deployed Software Engineer New Grad](https://jobs.lever.co/palantir/d1ac83d0-e923-42a5-8e6d-58dd0cab25ca/apply) &mdash; NYC · 37d ago · SWE
 - [Forward Deployed Software Engineer New Grad](https://jobs.lever.co/palantir/fbca0358-083a-4222-bdbb-3bd729b48382/apply) &mdash; Washington, DC · 37d ago · SWE
 - [Deployment Strategist New Grad - Intel - US Government](https://jobs.lever.co/palantir/5d8286d6-992a-404b-94af-99c173d40299/apply) &mdash; Washington, DC · 37d ago · ML
 
-### Tesla (11)
-- [Data Collection Operator - Optimus](https://www.tesla.com/careers/search/job/267142) &mdash; Henderson, NV · 2d ago · ML
-- [Data Labeler](https://www.tesla.com/careers/search/job/276585) &mdash; Palo Alto, CA · 8d ago · ML
-- [Energy Analyst - Residential Energy](https://www.tesla.com/careers/search/job/276044) &mdash; Henderson, NV · 14d ago · ML
-- [AI Engineer - Whole Body Controls - Optimus](https://www.tesla.com/careers/search/job/275999) &mdash; Palo Alto, CA · 17d ago · ML
-- [Applied Reinforcement Learning Engineer - Whole Body Controls - Optimus](https://www.tesla.com/careers/search/job/276000) &mdash; Palo Alto, CA · 17d ago · ML
-- [Frontend Software Engineer - Infrastructure](https://www.tesla.com/careers/search/job/274330) &mdash; Fremont, CA · 35d ago · SWE
-- [Data Collection Operator - Optimus](https://www.tesla.com/careers/search/job/253975) &mdash; Palo Alto, CA · 46d ago · ML
-- [AI Safety Operator](https://www.tesla.com/careers/search/job/247016) &mdash; Orlando, FL · 46d ago · ML
-- [Data Collection Operator - Optimus](https://www.tesla.com/careers/search/job/271842) &mdash; Dallas, TX · 46d ago · ML
-- [Data Labeler](https://www.tesla.com/careers/search/job/267078) &mdash; Austin, TX · 46d ago · ML
-- [Data Labeler](https://www.tesla.com/careers/search/job/260509) &mdash; Draper, UT · 46d ago · ML
-
 ### TikTok (11)
 - [Data Scientist - Multiple Positions](https://lifeattiktok.com/search/7660649494686976309) &mdash; Culver City, CA · 10d ago · ML
-- [Machine Learning Engineer Graduate - E-Commerce Supply Chain & Logistics](https://lifeattiktok.com/search/7515557805312297223) &mdash; San Jose, CA · 21d ago · ML
-- [Software Engineer - Data Arch - Data Ecosystem](https://lifeattiktok.com/search/7527441329384147208) &mdash; San Jose, CA · 38d ago · SWE
-- [Software Engineer Graduate - Experimentation and Evaluation](https://lifeattiktok.com/search/7533278507406182674) &mdash; San Jose, CA · 38d ago · SWE
-- [Software Engineer Graduate](https://lifeattiktok.com/search/7531175534148045063) &mdash; San Jose, CA · 38d ago · SWE
-- [Machine Learning Engineer Graduate - TikTok Recommendation](https://lifeattiktok.com/search/7518139910798215442) &mdash; San Jose, CA · 38d ago · ML
-- [Frontend Software Engineer - Global CRM Platform](https://lifeattiktok.com/search/7104433489986734350) &mdash; San Jose, CA · 38d ago · SWE
-- [CV/NLP/Multimodal Large Language Model Engineer Graduate - TikTok Trust and Safety - BS/MS](https://lifeattiktok.com/search/7517099008936397064) &mdash; San Jose, CA · 38d ago · ML
-- [CV/NLP/Multimodal Large Language Models Machine Learning Engineer Graduate - Tiktok-Trust and Safety](https://lifeattiktok.com/search/7517107684337748242) &mdash; Seattle, WA · 38d ago · ML
-- [Graduate Machine Learning Engineer - Local Services Search](https://lifeattiktok.com/search/7639861897214773509) &mdash; San Jose, CA · 69d ago · ML
-- [Machine Learning Engineer Graduate - Tiktok-Data-Search-Local Service](https://lifeattiktok.com/search/7457274634057615624) &mdash; Seattle, WA · 69d ago · ML
+- [Machine Learning Engineer Graduate - E-Commerce Supply Chain & Logistics](https://lifeattiktok.com/search/7515557805312297223) &mdash; San Jose, CA · 22d ago · ML
+- [Software Engineer - Data Arch - Data Ecosystem](https://lifeattiktok.com/search/7527441329384147208) &mdash; San Jose, CA · 39d ago · SWE
+- [Software Engineer Graduate - Experimentation and Evaluation](https://lifeattiktok.com/search/7533278507406182674) &mdash; San Jose, CA · 39d ago · SWE
+- [Software Engineer Graduate](https://lifeattiktok.com/search/7531175534148045063) &mdash; San Jose, CA · 39d ago · SWE
+- [Machine Learning Engineer Graduate - TikTok Recommendation](https://lifeattiktok.com/search/7518139910798215442) &mdash; San Jose, CA · 39d ago · ML
+- [Frontend Software Engineer - Global CRM Platform](https://lifeattiktok.com/search/7104433489986734350) &mdash; San Jose, CA · 39d ago · SWE
+- [CV/NLP/Multimodal Large Language Model Engineer Graduate - TikTok Trust and Safety - BS/MS](https://lifeattiktok.com/search/7517099008936397064) &mdash; San Jose, CA · 39d ago · ML
+- [CV/NLP/Multimodal Large Language Models Machine Learning Engineer Graduate - Tiktok-Trust and Safety](https://lifeattiktok.com/search/7517107684337748242) &mdash; Seattle, WA · 39d ago · ML
+- [Graduate Machine Learning Engineer - Local Services Search](https://lifeattiktok.com/search/7639861897214773509) &mdash; San Jose, CA · 70d ago · ML
+- [Machine Learning Engineer Graduate - Tiktok-Data-Search-Local Service](https://lifeattiktok.com/search/7457274634057615624) &mdash; Seattle, WA · 70d ago · ML
 
 ### NVIDIA (10)
 - [AI and ML Infra Software Engineer New Grad - GPU Clusters](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/AI-and-ML-Infra-Software-Engineer--GPU-Clusters---New-College-Grad-2026_JR2021591) &mdash; Redmond, WA, Santa Clara, CA · 1d ago · SWE
@@ -79,8 +66,19 @@ _147 open new-grad SWE / ML / Quant roles at 37 target companies. Auto-updated o
 - [Software Engineer New Grad - Hardware Tools and Methodology](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--Hardware-Tools-and-Methodology---New-College-Grad-2026_JR2018659) &mdash; Santa Clara, CA · 50d ago · SWE
 - [Software R&D Engineer New Grad - Digital Logic Synthesis](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-R-D-Engineer--Digital-Logic-Synthesis---New-College-Grad-2026_JR2018263) &mdash; Austin, TX, Santa Clara, CA · 69d ago · SWE
 
-### Susquehanna International Group (SIG) (10)
-- [Python Developer Quant Core Data](https://careers-sig.icims.com/jobs/11163/job?mobile=true&needsRedirect=false) &mdash; Ardmore, PA · 21d ago · Quant
+### Tesla (10)
+- [Data Collection Operator - Optimus](https://www.tesla.com/careers/search/job/267142) &mdash; Henderson, NV · 3d ago · ML
+- [Data Labeler](https://www.tesla.com/careers/search/job/276585) &mdash; Palo Alto, CA · 9d ago · ML
+- [Energy Analyst - Residential Energy](https://www.tesla.com/careers/search/job/276044) &mdash; Henderson, NV · 15d ago · ML
+- [AI Engineer - Whole Body Controls - Optimus](https://www.tesla.com/careers/search/job/275999) &mdash; Palo Alto, CA · 17d ago · ML
+- [Applied Reinforcement Learning Engineer - Whole Body Controls - Optimus](https://www.tesla.com/careers/search/job/276000) &mdash; Palo Alto, CA · 17d ago · ML
+- [Frontend Software Engineer - Infrastructure](https://www.tesla.com/careers/search/job/274330) &mdash; Fremont, CA · 35d ago · SWE
+- [Data Collection Operator - Optimus](https://www.tesla.com/careers/search/job/253975) &mdash; Palo Alto, CA · 47d ago · ML
+- [AI Safety Operator](https://www.tesla.com/careers/search/job/247016) &mdash; Orlando, FL · 47d ago · ML
+- [Data Labeler](https://www.tesla.com/careers/search/job/267078) &mdash; Austin, TX · 47d ago · ML
+- [Data Labeler](https://www.tesla.com/careers/search/job/260509) &mdash; Draper, UT · 47d ago · ML
+
+### Susquehanna International Group (SIG) (9)
 - [Quantitative Systematic Trader](https://careers-sig.icims.com/jobs/11019/job?mobile=true&needsRedirect=false) &mdash; Ardmore, PA · 24d ago · Quant
 - [Quantitative Researcher](https://careers-sig.icims.com/jobs/11016/job?mobile=true&needsRedirect=false) &mdash; Ardmore, PA · 24d ago · Quant
 - [Quantitative Systematic Trader](https://careers-sig.icims.com/jobs/11020/job?mobile=true&needsRedirect=false) &mdash; Ardmore, PA · 24d ago · Quant
@@ -93,20 +91,12 @@ _147 open new-grad SWE / ML / Quant roles at 37 target companies. Auto-updated o
 
 ### Amazon (7)
 - [EFA Network Software Engineer 1 - Annapurna Labs](https://amazon.jobs/en/jobs/10481932/efa-network-software-engineer-i-annapurna-labs) &mdash; Seattle, WA · 1d ago · SWE
-- [Programmer Analyst 1](https://amazon.jobs/en/jobs/10480255/programmer-analyst-i-ftc) &mdash; Indianapolis, IN, Hyderabad, Telangana, India · 1d ago · SWE
-- [Software Development Engineer - Military Veterans](https://amazon.jobs/en/jobs/3179205/software-development-engineer-military-veterans) &mdash; Seattle, WA, Redmond, WA, Arlington, VA · 9d ago · SWE
-- [Analytics Manager](https://amazon.jobs/en/jobs/10469494/manager-analytics-adbl191) &mdash; Newark, NJ · 14d ago · ML
+- [Programmer Analyst 1](https://amazon.jobs/en/jobs/10480255/programmer-analyst-i-ftc) &mdash; Indianapolis, IN, Hyderabad, Telangana, India · 2d ago · SWE
+- [Software Development Engineer - Military Veterans](https://amazon.jobs/en/jobs/3179205/software-development-engineer-military-veterans) &mdash; Seattle, WA, Redmond, WA, Arlington, VA · 10d ago · SWE
+- [Analytics Manager](https://amazon.jobs/en/jobs/10469494/manager-analytics-adbl191) &mdash; Newark, NJ · 15d ago · ML
 - [Data Engineer Data Science Focus - Ads Science Analysis & Tech - Asat](https://amazon.jobs/en/jobs/10461781/data-engineer-data-science-focus-ads-science-analysis-tech-asat) &mdash; Palo Alto, CA, Seattle, WA, NYC · 24d ago · ML
-- [Software Engineer 1](https://amazon.jobs/en/jobs/3141336/software-engineer-i) &mdash; Seattle, WA, SF · 56d ago · SWE
-- [ITS Support Engineer 1](https://amazon.jobs/en/jobs/10432510/its-support-engineer-i) &mdash; Tempe, AZ · 56d ago · SWE
-
-### Cerebras (6)
-- [Kernel Engineer New Grad](https://jobs.ashbyhq.com/cerebras/9c7da4b8-446b-4bf2-8d07-23241590bf2e/application?embed=true) &mdash; Canada, United States · today · SWE
-- [ML Software Engineer New Grad - Integration & Quality](https://jobs.ashbyhq.com/cerebras/05fd05ea-b515-4c26-851e-b3882dfba154/application?embed=true) &mdash; Toronto, ON, Canada, Sunnyvale, CA · today · SWE
-- [Software Engineer - Cluster Deployment](https://jobs.ashbyhq.com/cerebras/63b9c135-ce5d-4898-8e4d-9422d39e4ca6/application?embed=true) &mdash; Sunnyvale, CA · today · SWE
-- [Software Engineer - Tools & Infrastructure / DevOps](https://jobs.ashbyhq.com/cerebras/c0d8fa46-fd9e-49b5-80c9-040bbd0da916/application?embed=true) &mdash; Toronto, ON, Canada, Sunnyvale, CA · 8d ago · SWE
-- [Simulation Engineer New Grad](https://jobs.ashbyhq.com/cerebras/bf6f81b2-f079-483a-9238-295a184b3f0f/application) &mdash; Toronto, ON, Canada, Sunnyvale, CA · 9d ago · SWE
-- [Software Engineer New Grad](https://jobs.ashbyhq.com/cerebras/99c289fa-8fc6-49f7-b7e8-78ac4e9d99ac/application) &mdash; Toronto, ON, Canada, Sunnyvale, CA · 16d ago · SWE
+- [Software Engineer 1](https://amazon.jobs/en/jobs/3141336/software-engineer-i) &mdash; Seattle, WA, SF · 57d ago · SWE
+- [ITS Support Engineer 1](https://amazon.jobs/en/jobs/10432510/its-support-engineer-i) &mdash; Tempe, AZ · 57d ago · SWE
 
 ### Akuna Capital University (5)
 - [Entry Level Software Engineer - C++](https://www.akunacapital.com/careers/job/8013085/?gh_jid=8013085) &mdash; Chicago, IL · 10d ago · SWE
@@ -114,6 +104,13 @@ _147 open new-grad SWE / ML / Quant roles at 37 target companies. Auto-updated o
 - [Junior Quantitative Researcher](https://www.akunacapital.com/careers/job/8036541/?gh_jid=8036541) &mdash; Chicago, IL · 10d ago · Quant
 - [Junior Quantitative Developer & Strategist](https://www.akunacapital.com/careers/job/8016687/?gh_jid=8016687) &mdash; Chicago, IL · 10d ago · Quant
 - [Software Engineer - Python](https://www.akunacapital.com/careers/job/8013230/?gh_jid=8013230) &mdash; Chicago, IL · 10d ago · SWE
+
+### Cerebras (5)
+- [Kernel Engineer New Grad](https://jobs.ashbyhq.com/cerebras/9c7da4b8-446b-4bf2-8d07-23241590bf2e/application?embed=true) &mdash; Canada, United States · today · SWE
+- [ML Software Engineer New Grad - Integration & Quality](https://jobs.ashbyhq.com/cerebras/05fd05ea-b515-4c26-851e-b3882dfba154/application?embed=true) &mdash; Toronto, ON, Canada, Sunnyvale, CA · today · SWE
+- [Software Engineer - Tools & Infrastructure / DevOps](https://jobs.ashbyhq.com/cerebras/c0d8fa46-fd9e-49b5-80c9-040bbd0da916/application?embed=true) &mdash; Toronto, ON, Canada, Sunnyvale, CA · 9d ago · SWE
+- [Simulation Engineer New Grad](https://jobs.ashbyhq.com/cerebras/bf6f81b2-f079-483a-9238-295a184b3f0f/application) &mdash; Toronto, ON, Canada, Sunnyvale, CA · 9d ago · SWE
+- [Software Engineer New Grad](https://jobs.ashbyhq.com/cerebras/99c289fa-8fc6-49f7-b7e8-78ac4e9d99ac/application) &mdash; Toronto, ON, Canada, Sunnyvale, CA · 17d ago · SWE
 
 ### Jump Trading (5)
 - [Campus Software Engineer](https://boards.greenhouse.io/embed/job_app?token=8000835) &mdash; Chicago, IL · 15d ago · SWE
@@ -130,10 +127,10 @@ _147 open new-grad SWE / ML / Quant roles at 37 target companies. Auto-updated o
 - [Junior Quantitative Researcher](https://www.oldmissioncapital.com/careers/?gh_jid=6309652003) &mdash; Chicago, IL · 66d ago · Quant
 
 ### Citadel (4)
-- [Quantitative Trader: Equity Quantitative Research – University Graduate](https://www.citadel.com/careers/details/quantitative-trader-equity-quantitative-research-university-graduate-us/) &mdash; NYC · 16d ago · Quant
-- [Quantitative Research Analyst University Graduate](https://www.citadel.com/careers/details/quantitative-research-analyst-university-graduate-us/) &mdash; Greenwich, CT, Miami, FL, NYC · 17d ago · Quant
-- [Software Engineer – University Graduate](https://www.citadel.com/careers/details/software-engineer-university-graduate-us/) &mdash; Greenwich, CT, Houston, TX, Miami, FL · 17d ago · SWE
-- [Quantitative Researcher](https://www.citadel.com/careers/details/quantitative-researcher-phd-graduate-us/) &mdash; Greenwich, CT, Houston, TX, Miami, FL · 22d ago · Quant
+- [Quantitative Trader: Equity Quantitative Research – University Graduate](https://www.citadel.com/careers/details/quantitative-trader-equity-quantitative-research-university-graduate-us/) &mdash; NYC · 17d ago · Quant
+- [Quantitative Research Analyst University Graduate](https://www.citadel.com/careers/details/quantitative-research-analyst-university-graduate-us/) &mdash; Greenwich, CT, Miami, FL, NYC · 18d ago · Quant
+- [Software Engineer – University Graduate](https://www.citadel.com/careers/details/software-engineer-university-graduate-us/) &mdash; Greenwich, CT, Houston, TX, Miami, FL · 18d ago · SWE
+- [Quantitative Researcher](https://www.citadel.com/careers/details/quantitative-researcher-phd-graduate-us/) &mdash; Greenwich, CT, Houston, TX, Miami, FL · 23d ago · Quant
 
 ### IMC Trading (4)
 - [Graduate Software Engineer](https://job-boards.eu.greenhouse.io/imc/jobs/4818790101) &mdash; Chicago, IL · 22d ago · SWE
@@ -147,10 +144,15 @@ _147 open new-grad SWE / ML / Quant roles at 37 target companies. Auto-updated o
 - [Graduate Software Engineer](https://www.optiver.com/join-us/jobs/8401042002/?gh_jid=8401042002) &mdash; Chicago, IL · 22d ago · SWE
 - [Graduate Quantitative Researcher](https://www.optiver.com/join-us/jobs/8451762002/?gh_jid=8451762002) &mdash; Austin, TX, Chicago, IL · 22d ago · Quant
 
+### Apple (3)
+- [GPU ML Engineer](https://jobs.apple.com/en-us/details/200672759) &mdash; Cupertino, CA · today · ML
+- [Software Engineer-Systems](https://jobs.apple.com/en-us/details/200669153) &mdash; Cupertino, CA · 22d ago · SWE
+- [Software Engineer-SoC Level Validation Engineer](https://jobs.apple.com/en-us/details/200665150) &mdash; Beaverton, OR · 58d ago · SWE
+
 ### Citadel Securities (3)
 - [Quantitative AI Technical Staff](https://www.citadelsecurities.com/careers/details/quantitative-ai-technical-staff/) &mdash; Miami, FL · 1d ago · ML
-- [Graduate Software Engineer](https://www.citadelsecurities.com/careers/details/software-engineer-university-graduate-us/) &mdash; Miami, FL, NYC · 17d ago · SWE
-- [Quantitative Research Engineer](https://www.citadelsecurities.com/careers/details/quantitative-research-engineer-phd-graduate-us/) &mdash; Miami, FL, NYC · 22d ago · Quant
+- [Graduate Software Engineer](https://www.citadelsecurities.com/careers/details/software-engineer-university-graduate-us/) &mdash; Miami, FL, NYC · 18d ago · SWE
+- [Quantitative Research Engineer](https://www.citadelsecurities.com/careers/details/quantitative-research-engineer-phd-graduate-us/) &mdash; Miami, FL, NYC · 23d ago · Quant
 
 ### Five Rings Capital (3)
 - [Campus Full Time - Software Developer](https://job-boards.greenhouse.io/fiveringsllc/jobs/5349839008) &mdash; NYC · 9d ago · SWE
@@ -165,15 +167,11 @@ _147 open new-grad SWE / ML / Quant roles at 37 target companies. Auto-updated o
 ### ServiceNow (3)
 - [Servicenow Futures Summit - SWE Experience](https://jobs.smartrecruiters.com/ServiceNow/744000129860849) &mdash; West Palm Beach, FL · 18d ago · SWE
 - [Software Engineer - Agentic AI Systems - Moveworks](https://jobs.smartrecruiters.com/ServiceNow/744000128997739) &mdash; Mountain View, CA · 56d ago · SWE
-- [Software Engineer - Agentic AI Systems - Moveworks](https://jobs.smartrecruiters.com/ServiceNow/744000126417779) &mdash; Mountain View, CA · 70d ago · SWE
-
-### Apple (2)
-- [Software Engineer-Systems](https://jobs.apple.com/en-us/details/200669153) &mdash; Cupertino, CA · 21d ago · SWE
-- [Software Engineer-SoC Level Validation Engineer](https://jobs.apple.com/en-us/details/200665150) &mdash; Beaverton, OR · 57d ago · SWE
+- [Software Engineer - Agentic AI Systems - Moveworks](https://jobs.smartrecruiters.com/ServiceNow/744000126417779) &mdash; Mountain View, CA · 71d ago · SWE
 
 ### Chicago Trading Company (2)
 - [Floor Trader](https://job-boards.greenhouse.io/chicagotrading/jobs/4715673005) &mdash; Miami, FL · today · Quant
-- [Equities Trading Clerk](https://job-boards.greenhouse.io/chicagotrading/jobs/4703954005) &mdash; Chicago, IL · 44d ago · Quant
+- [Equities Trading Clerk](https://job-boards.greenhouse.io/chicagotrading/jobs/4703954005) &mdash; Chicago, IL · 45d ago · Quant
 
 ### DRW (2)
 - [Software Developer](https://job-boards.greenhouse.io/drweng/jobs/7980165) &mdash; Chicago, IL · 10d ago · SWE
@@ -193,7 +191,7 @@ _147 open new-grad SWE / ML / Quant roles at 37 target companies. Auto-updated o
 
 ### xAI (2)
 - [Member of Technical Staff](https://job-boards.greenhouse.io/xai/jobs/5173147007) &mdash; Palo Alto, CA · 15d ago · SWE
-- [Software Engineer - Ads Product](https://job-boards.greenhouse.io/xai/jobs/5152408007) &mdash; Palo Alto, CA · 51d ago · SWE
+- [Software Engineer - Ads Product](https://job-boards.greenhouse.io/xai/jobs/5152408007) &mdash; Palo Alto, CA · 52d ago · SWE
 
 ### Adobe (1)
 - [Software Development Engineer](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Seattle/Software-Development-Engineer_R170466-1) &mdash; Seattle, WA · 4d ago · SWE
@@ -207,20 +205,20 @@ _147 open new-grad SWE / ML / Quant roles at 37 target companies. Auto-updated o
 ### Figure (1)
 - [Data Creator](https://job-boards.greenhouse.io/figureai/jobs/4585080006) &mdash; San Jose, CA · 7d ago · ML
 
-### Google (1)
-- [Data Engineer - Gup Engineering](https://www.google.com/about/careers/applications/jobs/results/143481941373395654) &mdash; Boulder, CO · 1d ago · ML
-
 ### Headlands Tech Holdings (1)
-- [Research Developer New Grad](https://job-boards.greenhouse.io/headlandstechnologiesllc/jobs/4227566009) &mdash; London, UK, Chicago, IL, NYC · 18d ago · ML
+- [Research Developer New Grad](https://job-boards.greenhouse.io/headlandstechnologiesllc/jobs/4227566009) &mdash; London, UK, Chicago, IL, NYC · 19d ago · ML
 
 ### Jane Street (1)
-- [Quantitative Trader](https://job-boards.greenhouse.io/janestreet/jobs/8573523002) &mdash; NYC · 51d ago · Quant
+- [Quantitative Trader](https://job-boards.greenhouse.io/janestreet/jobs/8573523002) &mdash; NYC · 52d ago · Quant
 
 ### Rippling (1)
-- [Software Engineer 2 - Backend - Rippling AI](https://ats.rippling.com/rippling/jobs/9a82b4f8-ca55-4d20-9d20-b91dfd6901b5) &mdash; NYC · 2d ago · SWE
+- [Software Engineer 2 - Backend - Rippling AI](https://ats.rippling.com/rippling/jobs/9a82b4f8-ca55-4d20-9d20-b91dfd6901b5) &mdash; NYC · 3d ago · SWE
+
+### Salesforce (1)
+- [Software Engineering Member of Technical Staff - Full Stack](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Software-Engineering-MTS--Full-Stack_JR352457) &mdash; Seattle, WA, SF · 4d ago · SWE
 
 ### SambaNova Systems (1)
-- [AI Systems Performance Engineer New Grad](https://sambanova.ai/sambanova-available-positions/?gh_jid=6115124004) &mdash; San Jose, CA · 9d ago · ML
+- [AI Systems Performance Engineer New Grad](https://sambanova.ai/sambanova-available-positions/?gh_jid=6115124004) &mdash; San Jose, CA · 10d ago · ML
 
 ### Tower Research Capital (1)
 - [Quantitative Trader](https://www.tower-research.com/open-positions/?gh_jid=8024142) &mdash; Chicago, IL, NYC · 18d ago · Quant
@@ -229,7 +227,7 @@ _147 open new-grad SWE / ML / Quant roles at 37 target companies. Auto-updated o
 - [Quantitative Strategist](https://job-boards.greenhouse.io/virtu/jobs/4205353002) &mdash; Austin, TX · 48d ago · Quant
 
 ### Walleye Capital (1)
-- [Volatility Quantitative Researcher](https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4586185006) &mdash; Miami, FL · 43d ago · Quant
+- [Volatility Quantitative Researcher](https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4586185006) &mdash; Miami, FL · 44d ago · Quant
 <!-- JOBS:END -->
 
 ---
