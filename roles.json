@@ -1,16 +1,692 @@
 [
  {
-  "id": "simplify:f6bb2b02-e42b-41a6-9f90-35a28fcb0708",
-  "company": "Wolverine Trading",
-  "title": "Entry-Level C++ Software Engineer",
-  "location": "Chicago, IL",
-  "url": "https://wolve.pinpointhq.com/en/postings/71814bfd-b9a3-4e7a-8c32-ef0ed6f3f7aa?ats=pinpointhq",
-  "category": "SWE",
-  "posted": "1d ago",
-  "date_posted": 1785547327,
+  "id": "simplify:6877141a-26a2-42c6-affa-8795287920b8",
+  "company": "TikTok",
+  "title": "Machine Learning Engineer New Grad - Recommendation",
+  "location": "San Jose, CA",
+  "url": "https://lifeattiktok.com/search/7663389745178757429",
+  "category": "ML",
+  "posted": "today",
+  "date_posted": 1785766821,
   "active": true,
-  "first_seen": 1785599856.6978114,
-  "last_seen": 1785715362.2448258
+  "first_seen": 1785776785.3406992,
+  "last_seen": 1785776785.3406992
+ },
+ {
+  "id": "simplify:3ff95d68-7985-49f9-9cd5-08275666f3d9",
+  "company": "TikTok",
+  "title": "Machine Learning Scientist New Grad - Trust and Safety",
+  "location": "San Jose, CA",
+  "url": "https://lifeattiktok.com/search/7665989163791403269",
+  "category": "ML",
+  "posted": "today",
+  "date_posted": 1785766820,
+  "active": true,
+  "first_seen": 1785776785.3406992,
+  "last_seen": 1785776785.3406992
+ },
+ {
+  "id": "simplify:1e93d3f9-f99a-4fad-89d9-68c176cd5b89",
+  "company": "TikTok",
+  "title": "Machine Learning Scientist New Grad - Recommendation",
+  "location": "San Jose, CA",
+  "url": "https://lifeattiktok.com/search/7663389363824773381",
+  "category": "ML",
+  "posted": "today",
+  "date_posted": 1785766820,
+  "active": true,
+  "first_seen": 1785776785.3406992,
+  "last_seen": 1785776785.3406992
+ },
+ {
+  "id": "simplify:e5443b5b-331f-470e-b03e-f8cb378f467a",
+  "company": "TikTok",
+  "title": "Machine Learning Engineer New Grad - Trust and Safety",
+  "location": "San Jose, CA",
+  "url": "https://lifeattiktok.com/search/7665991852209932597",
+  "category": "ML",
+  "posted": "today",
+  "date_posted": 1785766819,
+  "active": true,
+  "first_seen": 1785776785.3406992,
+  "last_seen": 1785776785.3406992
+ },
+ {
+  "id": "simplify:80a6fe19-0d74-4dcf-82d0-0833ae58fd78",
+  "company": "TikTok",
+  "title": "Machine Learning Engineer Graduate - Trust and Safety",
+  "location": "Seattle, WA",
+  "url": "https://lifeattiktok.com/search/7665994926854555909",
+  "category": "ML",
+  "posted": "today",
+  "date_posted": 1785766818,
+  "active": true,
+  "first_seen": 1785776785.3406992,
+  "last_seen": 1785776785.3406992
+ },
+ {
+  "id": "simplify:7f68f7a5-a5b3-40e6-bd0d-3fbf7b677c24",
+  "company": "TikTok",
+  "title": "Research Engineer Graduate - Monetization Technology - Business Integrity",
+  "location": "San Jose, CA",
+  "url": "https://lifeattiktok.com/search/7667769079948347701",
+  "category": "ML",
+  "posted": "today",
+  "date_posted": 1785766816,
+  "active": true,
+  "first_seen": 1785776785.3406992,
+  "last_seen": 1785776785.3406992
+ },
+ {
+  "id": "simplify:a361534e-bae9-48ea-971f-acc6566fbb47",
+  "company": "TikTok",
+  "title": "Research Engineer New Grad - Multiple Teams",
+  "location": "San Jose, CA",
+  "url": "https://lifeattiktok.com/search/7667767820142643461",
+  "category": "ML",
+  "posted": "today",
+  "date_posted": 1785766816,
+  "active": true,
+  "first_seen": 1785776785.3406992,
+  "last_seen": 1785776785.3406992
+ },
+ {
+  "id": "simplify:1d8ef6ff-9176-44e2-bc80-a46b75516ff9",
+  "company": "TikTok",
+  "title": "Machine Learning Engineer Graduate - Ads Creative",
+  "location": "San Jose, CA",
+  "url": "https://lifeattiktok.com/search/7668681119759616309",
+  "category": "ML",
+  "posted": "today",
+  "date_posted": 1785748882,
+  "active": true,
+  "first_seen": 1785776785.3406992,
+  "last_seen": 1785776785.3406992
+ },
+ {
+  "id": "simplify:8cad0fcf-e891-4637-91ed-259c291121f3",
+  "company": "ByteDance",
+  "title": "Software Engineer New Grad - AI Infrastructure-Compute Efficiency & Scheduling",
+  "location": "Seattle, WA",
+  "url": "https://jobs.bytedance.com/en/position/7668799020705679669/detail",
+  "category": "SWE",
+  "posted": "today",
+  "date_posted": 1785748605,
+  "active": true,
+  "first_seen": 1785776785.3406992,
+  "last_seen": 1785776785.3406992
+ },
+ {
+  "id": "simplify:d7b7af97-f9b0-4faf-84d3-6c33874a3f86",
+  "company": "ByteDance",
+  "title": "Software Engineer New Grad - Traffic Infrastructure",
+  "location": "San Jose, CA",
+  "url": "https://jobs.bytedance.com/en/position/7665849950984194309/detail",
+  "category": "SWE",
+  "posted": "today",
+  "date_posted": 1785748599,
+  "active": true,
+  "first_seen": 1785776785.3406992,
+  "last_seen": 1785776785.3406992
+ },
+ {
+  "id": "simplify:03ff98d0-9bb1-4b91-a11f-1ed8b3777519",
+  "company": "ByteDance",
+  "title": "Test Software Engineer Graduate - Research and Development Middle Platform",
+  "location": "San Jose, CA",
+  "url": "https://jobs.bytedance.com/en/position/7664894974764828981/detail",
+  "category": "SWE",
+  "posted": "today",
+  "date_posted": 1785748599,
+  "active": true,
+  "first_seen": 1785776785.3406992,
+  "last_seen": 1785776785.3406992
+ },
+ {
+  "id": "simplify:53efd4af-54a6-411e-a939-031cead7e3c1",
+  "company": "ByteDance",
+  "title": "Security Engineer New Grad - Threat Detection and Response",
+  "location": "San Jose, CA",
+  "url": "https://jobs.bytedance.com/en/position/7668614787018393909/detail",
+  "category": "SWE",
+  "posted": "today",
+  "date_posted": 1785748598,
+  "active": true,
+  "first_seen": 1785776785.3406992,
+  "last_seen": 1785776785.3406992
+ },
+ {
+  "id": "simplify:e568e4b0-521c-46fd-9755-b2d6ee6b85f3",
+  "company": "ByteDance",
+  "title": "Backend Software Engineer Graduate - Platform",
+  "location": "San Jose, CA",
+  "url": "https://jobs.bytedance.com/en/position/7667269919588321541/detail",
+  "category": "SWE",
+  "posted": "today",
+  "date_posted": 1785748598,
+  "active": true,
+  "first_seen": 1785776785.3406992,
+  "last_seen": 1785776785.3406992
+ },
+ {
+  "id": "simplify:1b859931-1544-478a-bc10-f4d7d0521089",
+  "company": "ByteDance",
+  "title": "Software Engineer Graduate - AI Infrastructure Compute",
+  "location": "San Jose, CA",
+  "url": "https://jobs.bytedance.com/en/position/7667334059728341253/detail",
+  "category": "SWE",
+  "posted": "today",
+  "date_posted": 1785748598,
+  "active": true,
+  "first_seen": 1785776785.3406992,
+  "last_seen": 1785776785.3406992
+ },
+ {
+  "id": "simplify:4ae93ef5-d293-43c9-8bb7-53f4c2e97749",
+  "company": "ByteDance",
+  "title": "Software Engineer New Grad - AI Infra Compute",
+  "location": "Seattle, WA",
+  "url": "https://jobs.bytedance.com/en/position/7667303429264115973/detail",
+  "category": "SWE",
+  "posted": "today",
+  "date_posted": 1785748598,
+  "active": true,
+  "first_seen": 1785776785.3406992,
+  "last_seen": 1785776785.3406992
+ },
+ {
+  "id": "simplify:7ffeb3ff-36cb-4a84-be96-de9c169871f8",
+  "company": "ByteDance",
+  "title": "Backend Software Engineer Graduate - Platform",
+  "location": "NYC",
+  "url": "https://jobs.bytedance.com/en/position/7667267464923171077/detail",
+  "category": "SWE",
+  "posted": "today",
+  "date_posted": 1785748597,
+  "active": true,
+  "first_seen": 1785776785.3406992,
+  "last_seen": 1785776785.3406992
+ },
+ {
+  "id": "simplify:7c78b644-a242-4bdb-b125-4624e558f892",
+  "company": "ByteDance",
+  "title": "Research Graduate - AI Infra Compute",
+  "location": "Seattle, WA",
+  "url": "https://jobs.bytedance.com/en/position/7667304540048787765/detail",
+  "category": "ML",
+  "posted": "today",
+  "date_posted": 1785748597,
+  "active": true,
+  "first_seen": 1785776785.3406992,
+  "last_seen": 1785776785.3406992
+ },
+ {
+  "id": "simplify:906a54ba-479e-4593-8fae-3ac47867717b",
+  "company": "ByteDance",
+  "title": "Software Engineer AI Agent Infrastructure - Security Engineering",
+  "location": "San Jose, CA",
+  "url": "https://jobs.bytedance.com/en/position/7667976924430633269/detail",
+  "category": "SWE",
+  "posted": "today",
+  "date_posted": 1785748596,
+  "active": true,
+  "first_seen": 1785776785.3406992,
+  "last_seen": 1785776785.3406992
+ },
+ {
+  "id": "simplify:eeae9e48-e67c-41d3-9962-8fc290fdc2a8",
+  "company": "ByteDance",
+  "title": "Computer Vision Research Engineer Graduate",
+  "location": "San Jose, CA",
+  "url": "https://jobs.bytedance.com/en/position/7668433722454935861/detail",
+  "category": "ML",
+  "posted": "today",
+  "date_posted": 1785748596,
+  "active": true,
+  "first_seen": 1785776785.3406992,
+  "last_seen": 1785776785.3406992
+ },
+ {
+  "id": "simplify:c1f8fe81-6b8b-4d12-b133-c8b19cbe336d",
+  "company": "ByteDance",
+  "title": "Artificial Intelligence Software Engineer - Development Infrastructure",
+  "location": "San Jose, CA",
+  "url": "https://jobs.bytedance.com/en/position/7667901772678302005/detail",
+  "category": "SWE",
+  "posted": "today",
+  "date_posted": 1785748596,
+  "active": true,
+  "first_seen": 1785776785.3406992,
+  "last_seen": 1785776785.3406992
+ },
+ {
+  "id": "simplify:89cf07d7-dea8-45c0-bd63-f03870bf2088",
+  "company": "ByteDance",
+  "title": "Backend and Infrastructure Software Engineer New Grad - Dev Infra",
+  "location": "San Jose, CA",
+  "url": "https://jobs.bytedance.com/en/position/7667894766036322565/detail",
+  "category": "SWE",
+  "posted": "today",
+  "date_posted": 1785748596,
+  "active": true,
+  "first_seen": 1785776785.3406992,
+  "last_seen": 1785776785.3406992
+ },
+ {
+  "id": "simplify:566a98e3-cad9-4eb0-b7a7-ee9879c926e5",
+  "company": "ByteDance",
+  "title": "Software Engineer Graduate - AI Infrastructure - Compute Efficiency & Scheduling",
+  "location": "San Jose, CA",
+  "url": "https://jobs.bytedance.com/en/position/7668799019359357237/detail",
+  "category": "SWE",
+  "posted": "today",
+  "date_posted": 1785748594,
+  "active": true,
+  "first_seen": 1785776785.3406992,
+  "last_seen": 1785776785.3406992
+ },
+ {
+  "id": "simplify:f9add744-8aa3-4ddc-ac2b-b7469ddaf7d5",
+  "company": "TikTok",
+  "title": "Backend Software Engineer Graduate - Risk & Response",
+  "location": "Seattle, WA",
+  "url": "https://lifeattiktok.com/search/7663032057264244997",
+  "category": "SWE",
+  "posted": "today",
+  "date_posted": 1785737712,
+  "active": true,
+  "first_seen": 1785776785.3406992,
+  "last_seen": 1785776785.3406992
+ },
+ {
+  "id": "simplify:9fc08ecc-c555-4f84-aeef-984cfa3686f1",
+  "company": "TikTok",
+  "title": "Backend Software Engineer - Machine Moderation Platform",
+  "location": "Seattle, WA",
+  "url": "https://lifeattiktok.com/search/7663036950303050037",
+  "category": "SWE",
+  "posted": "today",
+  "date_posted": 1785737711,
+  "active": true,
+  "first_seen": 1785776785.3406992,
+  "last_seen": 1785776785.3406992
+ },
+ {
+  "id": "simplify:50d9a250-7c25-4fe5-861d-0c8ad7f9299a",
+  "company": "TikTok",
+  "title": "Backend Software Engineer New Grad - Feed Safety",
+  "location": "Seattle, WA",
+  "url": "https://lifeattiktok.com/search/7663028952600807733",
+  "category": "SWE",
+  "posted": "today",
+  "date_posted": 1785737711,
+  "active": true,
+  "first_seen": 1785776785.3406992,
+  "last_seen": 1785776785.3406992
+ },
+ {
+  "id": "simplify:1d7d6985-791b-4b60-be34-7ca3806aacba",
+  "company": "TikTok",
+  "title": "Backend Software Engineer Graduate - Business Governance",
+  "location": "San Jose, CA",
+  "url": "https://lifeattiktok.com/search/7663042453461600517",
+  "category": "SWE",
+  "posted": "today",
+  "date_posted": 1785737711,
+  "active": true,
+  "first_seen": 1785776785.3406992,
+  "last_seen": 1785776785.3406992
+ },
+ {
+  "id": "simplify:e4f90f60-0ef3-4d02-97a2-ee3aa0c21d26",
+  "company": "TikTok",
+  "title": "Machine Learning Engineer Graduate",
+  "location": "San Jose, CA",
+  "url": "https://lifeattiktok.com/search/7665797203155896581",
+  "category": "ML",
+  "posted": "today",
+  "date_posted": 1785737710,
+  "active": true,
+  "first_seen": 1785776785.3406992,
+  "last_seen": 1785776785.3406992
+ },
+ {
+  "id": "simplify:de1b7df6-c4f8-41ea-bdff-5598ed16df6d",
+  "company": "TikTok",
+  "title": "Backend Software Engineer New Grad - Trust & Safety",
+  "location": "San Jose, CA",
+  "url": "https://lifeattiktok.com/search/7665994926887291189",
+  "category": "SWE",
+  "posted": "today",
+  "date_posted": 1785737710,
+  "active": true,
+  "first_seen": 1785776785.3406992,
+  "last_seen": 1785776785.3406992
+ },
+ {
+  "id": "simplify:5ae7b62f-063f-4d13-b197-9798beafa475",
+  "company": "TikTok",
+  "title": "Backend Software Engineer New Grad - Emerging Products & AI Safety",
+  "location": "San Jose, CA",
+  "url": "https://lifeattiktok.com/search/7663036952090347829",
+  "category": "SWE",
+  "posted": "today",
+  "date_posted": 1785737710,
+  "active": true,
+  "first_seen": 1785776785.3406992,
+  "last_seen": 1785776785.3406992
+ },
+ {
+  "id": "simplify:3bf4faa5-c7e0-48ae-bb7e-3da108f4ae3d",
+  "company": "TikTok",
+  "title": "Backend Software Engineer New Grad - Trust & Safety",
+  "location": "Seattle, WA",
+  "url": "https://lifeattiktok.com/search/7664533229944178949",
+  "category": "SWE",
+  "posted": "today",
+  "date_posted": 1785737710,
+  "active": true,
+  "first_seen": 1785776785.3406992,
+  "last_seen": 1785776785.3406992
+ },
+ {
+  "id": "simplify:d8f41f3f-586c-4f20-8868-e9832e690e61",
+  "company": "TikTok",
+  "title": "Machine Learning Engineer New Grad - Search Quality",
+  "location": "San Jose, CA",
+  "url": "https://lifeattiktok.com/search/7665793152026740997",
+  "category": "ML",
+  "posted": "today",
+  "date_posted": 1785737709,
+  "active": true,
+  "first_seen": 1785776785.3406992,
+  "last_seen": 1785776785.3406992
+ },
+ {
+  "id": "simplify:bf2f405c-0408-4c38-9e0c-74452b23f46e",
+  "company": "TikTok",
+  "title": "Machine Learning Engineer Graduate",
+  "location": "San Jose, CA",
+  "url": "https://lifeattiktok.com/search/7667344113001384197",
+  "category": "ML",
+  "posted": "today",
+  "date_posted": 1785737709,
+  "active": true,
+  "first_seen": 1785776785.3406992,
+  "last_seen": 1785776785.3406992
+ },
+ {
+  "id": "simplify:78f040d4-9950-46c8-93de-a0a189144450",
+  "company": "TikTok",
+  "title": "Machine Learning Engineer New Grad - Data Search Visual Search",
+  "location": "San Jose, CA",
+  "url": "https://lifeattiktok.com/search/7667349591747758341",
+  "category": "ML",
+  "posted": "today",
+  "date_posted": 1785737708,
+  "active": true,
+  "first_seen": 1785776785.3406992,
+  "last_seen": 1785776785.3406992
+ },
+ {
+  "id": "simplify:06426b56-1656-40d9-af47-7df0807a5b02",
+  "company": "TikTok",
+  "title": "Machine Learning Engineer Graduate - Data Search Basic Ranking",
+  "location": "San Jose, CA",
+  "url": "https://lifeattiktok.com/search/7667344111675246901",
+  "category": "ML",
+  "posted": "today",
+  "date_posted": 1785737708,
+  "active": true,
+  "first_seen": 1785776785.3406992,
+  "last_seen": 1785776785.3406992
+ },
+ {
+  "id": "simplify:7e9606aa-9929-4fef-ac09-5b2a857dca9c",
+  "company": "TikTok",
+  "title": "Machine Learning Engineer Graduate",
+  "location": "San Jose, CA",
+  "url": "https://lifeattiktok.com/search/7667346543553710389",
+  "category": "ML",
+  "posted": "today",
+  "date_posted": 1785737707,
+  "active": true,
+  "first_seen": 1785776785.3406992,
+  "last_seen": 1785776785.3406992
+ },
+ {
+  "id": "simplify:18aa6242-cd69-4aa2-999b-e8a7f5daa34f",
+  "company": "TikTok",
+  "title": "Machine Learning Engineer New Grad - Data Search - Visual Search",
+  "location": "San Jose, CA",
+  "url": "https://lifeattiktok.com/search/7667346535273007413",
+  "category": "ML",
+  "posted": "today",
+  "date_posted": 1785737707,
+  "active": true,
+  "first_seen": 1785776785.3406992,
+  "last_seen": 1785776785.3406992
+ },
+ {
+  "id": "simplify:79b491ab-bce0-4dfc-8c6b-bf158961339b",
+  "company": "TikTok",
+  "title": "Design Engineering Graduate",
+  "location": "San Jose, CA",
+  "url": "https://lifeattiktok.com/search/7667837906192877829",
+  "category": "SWE",
+  "posted": "today",
+  "date_posted": 1785737705,
+  "active": true,
+  "first_seen": 1785776785.3406992,
+  "last_seen": 1785776785.3406992
+ },
+ {
+  "id": "simplify:db70cc78-6903-4f3e-98df-d5eef1dabd84",
+  "company": "TikTok",
+  "title": "Machine Learning Engineer New Grad - Data-Global E-Commerce-Search",
+  "location": "Seattle, WA",
+  "url": "https://lifeattiktok.com/search/7668389759463393589",
+  "category": "ML",
+  "posted": "today",
+  "date_posted": 1785737702,
+  "active": true,
+  "first_seen": 1785776785.3406992,
+  "last_seen": 1785776785.3406992
+ },
+ {
+  "id": "simplify:b027e384-ef72-4db9-8ff3-c63ea36f4583",
+  "company": "TikTok",
+  "title": "Machine Learning Engineer New Grad",
+  "location": "Seattle, WA",
+  "url": "https://lifeattiktok.com/search/7668376903708281141",
+  "category": "ML",
+  "posted": "today",
+  "date_posted": 1785737702,
+  "active": true,
+  "first_seen": 1785776785.3406992,
+  "last_seen": 1785776785.3406992
+ },
+ {
+  "id": "simplify:5352619a-3d75-4bd9-b7af-098751f77cad",
+  "company": "TikTok",
+  "title": "Machine Learning Engineer New Grad - E-Commerce Search",
+  "location": "Seattle, WA",
+  "url": "https://lifeattiktok.com/search/7668390999147776309",
+  "category": "ML",
+  "posted": "today",
+  "date_posted": 1785737701,
+  "active": true,
+  "first_seen": 1785776785.3406992,
+  "last_seen": 1785776785.3406992
+ },
+ {
+  "id": "simplify:74e63cee-7e63-4b47-9dcd-f6b3b72a68f7",
+  "company": "TikTok",
+  "title": "Machine Learning Engineer Graduate - Ads Delivery",
+  "location": "San Jose, CA",
+  "url": "https://lifeattiktok.com/search/7668660365135808821",
+  "category": "ML",
+  "posted": "today",
+  "date_posted": 1785737700,
+  "active": true,
+  "first_seen": 1785776785.3406992,
+  "last_seen": 1785776785.3406992
+ },
+ {
+  "id": "simplify:972a395a-4b76-444b-8f8a-9ce1e1a55d22",
+  "company": "TikTok",
+  "title": "Machine Learning Engineer Graduate - Monetization Technology - Ads Core Global",
+  "location": "San Jose, CA",
+  "url": "https://lifeattiktok.com/search/7668592348941273349",
+  "category": "ML",
+  "posted": "today",
+  "date_posted": 1785737700,
+  "active": true,
+  "first_seen": 1785776785.3406992,
+  "last_seen": 1785776785.3406992
+ },
+ {
+  "id": "simplify:0327292f-07c4-467b-83c8-867fbee19266",
+  "company": "TikTok",
+  "title": "Software Engineer New Grad - Business Integrity",
+  "location": "San Jose, CA",
+  "url": "https://lifeattiktok.com/search/7668592494649690421",
+  "category": "SWE",
+  "posted": "today",
+  "date_posted": 1785737700,
+  "active": true,
+  "first_seen": 1785776785.3406992,
+  "last_seen": 1785776785.3406992
+ },
+ {
+  "id": "simplify:492953a8-9863-41ff-b149-9e8fa3081af9",
+  "company": "TikTok",
+  "title": "Software Engineer/Mobile Engineer New Grad - Ads Core Demonstration",
+  "location": "San Jose, CA",
+  "url": "https://lifeattiktok.com/search/7668701834807101749",
+  "category": "SWE",
+  "posted": "today",
+  "date_posted": 1785737699,
+  "active": true,
+  "first_seen": 1785776785.3406992,
+  "last_seen": 1785776785.3406992
+ },
+ {
+  "id": "simplify:dfb14959-39c2-4aaa-8ea0-a7f75c6dd02e",
+  "company": "TikTok",
+  "title": "Software Engineer New Grad - Quality and Efficiency Technology",
+  "location": "San Jose, CA",
+  "url": "https://lifeattiktok.com/search/7668680253677504821",
+  "category": "SWE",
+  "posted": "today",
+  "date_posted": 1785737699,
+  "active": true,
+  "first_seen": 1785776785.3406992,
+  "last_seen": 1785776785.3406992
+ },
+ {
+  "id": "simplify:93395aed-f45b-4289-ad27-7ae05d2558c0",
+  "company": "TikTok",
+  "title": "Machine Learning Engineer Graduate - Monetization Technology - Ads Core Global",
+  "location": "San Jose, CA",
+  "url": "https://lifeattiktok.com/search/7668675484492597557",
+  "category": "ML",
+  "posted": "today",
+  "date_posted": 1785737699,
+  "active": true,
+  "first_seen": 1785776785.3406992,
+  "last_seen": 1785776785.3406992
+ },
+ {
+  "id": "simplify:2e854092-b1ff-4691-a581-23d94da76a5b",
+  "company": "TikTok",
+  "title": "Machine Learning Engineer Graduate - Brand Ads",
+  "location": "San Jose, CA",
+  "url": "https://lifeattiktok.com/search/7668698260232702261",
+  "category": "ML",
+  "posted": "today",
+  "date_posted": 1785737699,
+  "active": true,
+  "first_seen": 1785776785.3406992,
+  "last_seen": 1785776785.3406992
+ },
+ {
+  "id": "simplify:234d00c7-54f5-4ec4-b8c2-ad6ae52fd01e",
+  "company": "TikTok",
+  "title": "Machine Learning Engineer Graduate - Ads Targeting",
+  "location": "San Jose, CA",
+  "url": "https://lifeattiktok.com/search/7668629846058223877",
+  "category": "ML",
+  "posted": "today",
+  "date_posted": 1785737699,
+  "active": true,
+  "first_seen": 1785776785.3406992,
+  "last_seen": 1785776785.3406992
+ },
+ {
+  "id": "simplify:6908222c-e936-4f53-9279-78f6f59e507d",
+  "company": "TikTok",
+  "title": "Software Engineer Graduate - MLOps",
+  "location": "San Jose, CA",
+  "url": "https://lifeattiktok.com/search/7668700671828707589",
+  "category": "SWE",
+  "posted": "today",
+  "date_posted": 1785737699,
+  "active": true,
+  "first_seen": 1785776785.3406992,
+  "last_seen": 1785776785.3406992
+ },
+ {
+  "id": "simplify:5ec4eb06-b685-4987-acef-eb1358008f6b",
+  "company": "TikTok",
+  "title": "Software Engineer Graduate - Ads Delivery",
+  "location": "San Jose, CA",
+  "url": "https://lifeattiktok.com/search/7668662545059023157",
+  "category": "SWE",
+  "posted": "today",
+  "date_posted": 1785737699,
+  "active": true,
+  "first_seen": 1785776785.3406992,
+  "last_seen": 1785776785.3406992
+ },
+ {
+  "id": "simplify:2e5c1d58-b0ed-49e8-9544-80f758fb517a",
+  "company": "TikTok",
+  "title": "Machine Learning Engineer Graduate - Ads Creative",
+  "location": "San Jose, CA",
+  "url": "https://lifeattiktok.com/search/7668669015051405573",
+  "category": "ML",
+  "posted": "today",
+  "date_posted": 1785737699,
+  "active": true,
+  "first_seen": 1785776785.3406992,
+  "last_seen": 1785776785.3406992
+ },
+ {
+  "id": "simplify:d6849abb-e865-4cce-a9b9-a23021fc49f7",
+  "company": "TikTok",
+  "title": "Software Engineer New Grad - Ads Measurement Signal Technology",
+  "location": "San Jose, CA",
+  "url": "https://lifeattiktok.com/search/7668717356843977013",
+  "category": "SWE",
+  "posted": "today",
+  "date_posted": 1785737698,
+  "active": true,
+  "first_seen": 1785776785.3406992,
+  "last_seen": 1785776785.3406992
+ },
+ {
+  "id": "simplify:7656aad8-a423-4e16-bb7e-5b487532457f",
+  "company": "TikTok",
+  "title": "Software Engineer New Grad - Ads Signal & Measurement",
+  "location": "San Jose, CA",
+  "url": "https://lifeattiktok.com/search/7668724383120804149",
+  "category": "SWE",
+  "posted": "today",
+  "date_posted": 1785737698,
+  "active": true,
+  "first_seen": 1785776785.3406992,
+  "last_seen": 1785776785.3406992
  },
  {
   "id": "simplify:1ea84bed-f524-4362-a619-d1e3b98d2e7c",
@@ -23,7 +699,7 @@
   "date_posted": 1785536244,
   "active": true,
   "first_seen": 1785542706.685228,
-  "last_seen": 1785715362.2448258
+  "last_seen": 1785776785.3406992
  },
  {
   "id": "simplify:949d8a95-4a05-4773-abf0-ef1ba68de79d",
@@ -32,11 +708,11 @@
   "location": "Cupertino, CA",
   "url": "https://jobs.apple.com/en-us/details/200675075",
   "category": "SWE",
-  "posted": "2d ago",
+  "posted": "3d ago",
   "date_posted": 1785478448,
   "active": true,
   "first_seen": 1785628906.54175,
-  "last_seen": 1785715362.2448258
+  "last_seen": 1785776785.3406992
  },
  {
   "id": "simplify:a7801247-e97d-4b93-a90e-e5706b8a7c25",
@@ -49,7 +725,7 @@
   "date_posted": 1785363963,
   "active": true,
   "first_seen": 1785369846.1362014,
-  "last_seen": 1785715362.2448258
+  "last_seen": 1785776785.3406992
  },
  {
   "id": "simplify:d6ad51e0-366b-4b13-b829-8c5dacf13565",
@@ -62,7 +738,7 @@
   "date_posted": 1785276759,
   "active": true,
   "first_seen": 1785283374.1764333,
-  "last_seen": 1785715362.2448258
+  "last_seen": 1785776785.3406992
  },
  {
   "id": "simplify:202582b8-f2ba-49d1-a082-3974fba7627a",
@@ -75,7 +751,7 @@
   "date_posted": 1785190044,
   "active": true,
   "first_seen": 1785197147.0675843,
-  "last_seen": 1785715362.2448258
+  "last_seen": 1785776785.3406992
  },
  {
   "id": "simplify:3c0a86be-29d0-4b44-9bd5-3bf8fcf2a4f2",
@@ -88,7 +764,7 @@
   "date_posted": 1785189834,
   "active": true,
   "first_seen": 1785197147.0675843,
-  "last_seen": 1785715362.2448258
+  "last_seen": 1785776785.3406992
  },
  {
   "id": "simplify:5bba1eb0-8e8f-4a1d-891d-12fc7a1f1f65",
@@ -97,11 +773,11 @@
   "location": "Dallas, TX",
   "url": "https://www.tesla.com/careers/search/job/278079",
   "category": "ML",
-  "posted": "7d ago",
+  "posted": "8d ago",
   "date_posted": 1785028231,
   "active": true,
   "first_seen": 1785081481.2181506,
-  "last_seen": 1785715362.2448258
+  "last_seen": 1785776785.3406992
  },
  {
   "id": "simplify:990f303a-7466-45ea-b93d-7870da5c7f7a",
@@ -114,7 +790,7 @@
   "date_posted": 1784845039,
   "active": true,
   "first_seen": 1784851514.9686809,
-  "last_seen": 1785715362.2448258
+  "last_seen": 1785776785.3406992
  },
  {
   "id": "simplify:fabf124a-32b2-45ba-bffe-d3084937296a",
@@ -127,7 +803,7 @@
   "date_posted": 1784845011,
   "active": true,
   "first_seen": 1784851514.9686809,
-  "last_seen": 1785715362.2448258
+  "last_seen": 1785776785.3406992
  },
  {
   "id": "simplify:30612f5b-226b-4ab8-9610-ae2ae82ca2a0",
@@ -140,7 +816,7 @@
   "date_posted": 1784758590,
   "active": true,
   "first_seen": 1785341858.006412,
-  "last_seen": 1785715362.2448258
+  "last_seen": 1785776785.3406992
  },
  {
   "id": "simplify:f2abc99e-93ba-424e-8d7c-0e3382978e05",
@@ -153,7 +829,7 @@
   "date_posted": 1784758384,
   "active": true,
   "first_seen": 1784765156.130683,
-  "last_seen": 1785715362.2448258
+  "last_seen": 1785776785.3406992
  },
  {
   "id": "simplify:5b94931b-c8c1-4030-94fd-b855ea4581c5",
@@ -166,7 +842,7 @@
   "date_posted": 1784758338,
   "active": true,
   "first_seen": 1784765156.130683,
-  "last_seen": 1785715362.2448258
+  "last_seen": 1785776785.3406992
  },
  {
   "id": "simplify:328f9f48-1b9a-42bd-8438-ab12c2bde5bf",
@@ -175,11 +851,11 @@
   "location": "Indianapolis, IN, Hyderabad, Telangana, India",
   "url": "https://amazon.jobs/en/jobs/10480255/programmer-analyst-i-ftc",
   "category": "SWE",
-  "posted": "11d ago",
+  "posted": "12d ago",
   "date_posted": 1784711419,
   "active": true,
   "first_seen": 1784737062.4389405,
-  "last_seen": 1785715362.2448258
+  "last_seen": 1785776785.3406992
  },
  {
   "id": "simplify:a7f7b2b9-28f5-4516-aece-535cd1c0c1b1",
@@ -188,11 +864,11 @@
   "location": "Henderson, NV",
   "url": "https://www.tesla.com/careers/search/job/267142",
   "category": "ML",
-  "posted": "12d ago",
+  "posted": "13d ago",
   "date_posted": 1784614437,
   "active": true,
   "first_seen": 1784678336.2126446,
-  "last_seen": 1785715362.2448258
+  "last_seen": 1785776785.3406992
  },
  {
   "id": "simplify:373ffa0d-6efb-4fdc-9e34-45018a822f3d",
@@ -205,7 +881,7 @@
   "date_posted": 1784505600,
   "active": true,
   "first_seen": 1784678336.2126446,
-  "last_seen": 1785715362.2448258
+  "last_seen": 1785776785.3406992
  },
  {
   "id": "simplify:91e63edf-634a-438a-8645-8b316d48cfcf",
@@ -218,7 +894,7 @@
   "date_posted": 1784240713,
   "active": true,
   "first_seen": 1784564485.8354206,
-  "last_seen": 1785715362.2448258
+  "last_seen": 1785776785.3406992
  },
  {
   "id": "simplify:d50dd4f1-ca8c-4636-9452-4d9f4073bd45",
@@ -231,7 +907,7 @@
   "date_posted": 1784239482,
   "active": true,
   "first_seen": 1784564485.8354206,
-  "last_seen": 1785715362.2448258
+  "last_seen": 1785776785.3406992
  },
  {
   "id": "simplify:9b9c2cf4-ae65-4bf0-92ad-ce556576f42a",
@@ -240,11 +916,11 @@
   "location": "Cupertino, CA",
   "url": "https://jobs.apple.com/en-us/details/200671631",
   "category": "SWE",
-  "posted": "17d ago",
+  "posted": "18d ago",
   "date_posted": 1784211017,
   "active": true,
   "first_seen": 1785628906.54175,
-  "last_seen": 1785715362.2448258
+  "last_seen": 1785776785.3406992
  },
  {
   "id": "simplify:1fa3e9a7-321d-47ac-ac1b-3223f34a6cbf",
@@ -253,11 +929,11 @@
   "location": "Palo Alto, CA",
   "url": "https://www.tesla.com/careers/search/job/276585",
   "category": "ML",
-  "posted": "18d ago",
+  "posted": "19d ago",
   "date_posted": 1784078614,
   "active": true,
   "first_seen": 1784564485.8354206,
-  "last_seen": 1785715362.2448258
+  "last_seen": 1785776785.3406992
  },
  {
   "id": "simplify:3ace8680-5997-4467-ad7e-82ecc656e241",
@@ -270,7 +946,7 @@
   "date_posted": 1784068200,
   "active": true,
   "first_seen": 1784564485.8354206,
-  "last_seen": 1785715362.2448258
+  "last_seen": 1785776785.3406992
  },
  {
   "id": "simplify:3a402286-5e69-475d-bc36-48cf8a3e43fe",
@@ -283,7 +959,7 @@
   "date_posted": 1784068199,
   "active": true,
   "first_seen": 1784564485.8354206,
-  "last_seen": 1785715362.2448258
+  "last_seen": 1785776785.3406992
  },
  {
   "id": "simplify:0e014b55-7295-4b7b-817a-ee4f8de89e5f",
@@ -296,7 +972,7 @@
   "date_posted": 1784067191,
   "active": true,
   "first_seen": 1784564485.8354206,
-  "last_seen": 1785715362.2448258
+  "last_seen": 1785776785.3406992
  },
  {
   "id": "simplify:de413639-c1d4-4d67-91c6-800f92bfe49b",
@@ -305,11 +981,11 @@
   "location": "Seattle, WA, Redmond, WA, Arlington, VA",
   "url": "https://amazon.jobs/en/jobs/3179205/software-development-engineer-military-veterans",
   "category": "SWE",
-  "posted": "19d ago",
+  "posted": "20d ago",
   "date_posted": 1784020125,
   "active": true,
   "first_seen": 1784564485.8354206,
-  "last_seen": 1785715362.2448258
+  "last_seen": 1785776785.3406992
  },
  {
   "id": "simplify:94b5c207-eda9-41bc-b43a-082ff957f285",
@@ -318,11 +994,11 @@
   "location": "San Jose, CA",
   "url": "https://sambanova.ai/sambanova-available-positions/?gh_jid=6115124004",
   "category": "ML",
-  "posted": "19d ago",
+  "posted": "20d ago",
   "date_posted": 1783992816,
   "active": true,
   "first_seen": 1784014543.6740808,
-  "last_seen": 1785715362.2448258
+  "last_seen": 1785776785.3406992
  },
  {
   "id": "simplify:cb54a03c-1819-40d6-85dd-7c94b79b337e",
@@ -335,7 +1011,7 @@
   "date_posted": 1783982168,
   "active": true,
   "first_seen": 1784014543.6740808,
-  "last_seen": 1785715362.2448258
+  "last_seen": 1785776785.3406992
  },
  {
   "id": "simplify:e86b89ae-77b5-4654-8e2f-f42f32a10866",
@@ -348,7 +1024,7 @@
   "date_posted": 1783981847,
   "active": true,
   "first_seen": 1784014543.6740808,
-  "last_seen": 1785715362.2448258
+  "last_seen": 1785776785.3406992
  },
  {
   "id": "simplify:053e56c0-3d9e-4d1c-83c7-b891671a652c",
@@ -361,7 +1037,7 @@
   "date_posted": 1783981845,
   "active": true,
   "first_seen": 1784014543.6740808,
-  "last_seen": 1785715362.2448258
+  "last_seen": 1785776785.3406992
  },
  {
   "id": "simplify:33d712fe-87e1-49e6-ba71-1dd17d118d63",
@@ -374,7 +1050,7 @@
   "date_posted": 1783981844,
   "active": true,
   "first_seen": 1784014543.6740808,
-  "last_seen": 1785715362.2448258
+  "last_seen": 1785776785.3406992
  },
  {
   "id": "simplify:d0a9a917-c584-4609-9cdb-f603bc663215",
@@ -387,7 +1063,7 @@
   "date_posted": 1783981824,
   "active": true,
   "first_seen": 1784014543.6740808,
-  "last_seen": 1785715362.2448258
+  "last_seen": 1785776785.3406992
  },
  {
   "id": "simplify:41d187c2-7c7d-4c78-bfeb-532bbe7ca543",
@@ -400,7 +1076,7 @@
   "date_posted": 1783981823,
   "active": true,
   "first_seen": 1784014543.6740808,
-  "last_seen": 1785715362.2448258
+  "last_seen": 1785776785.3406992
  },
  {
   "id": "simplify:aafa1895-fe91-4e4b-af42-cf3c9ef2d784",
@@ -413,7 +1089,7 @@
   "date_posted": 1783981823,
   "active": true,
   "first_seen": 1784014543.6740808,
-  "last_seen": 1785715362.2448258
+  "last_seen": 1785776785.3406992
  },
  {
   "id": "simplify:460b6640-45d1-4a42-94ac-6d460f1287b6",
@@ -426,7 +1102,7 @@
   "date_posted": 1783981823,
   "active": true,
   "first_seen": 1784014543.6740808,
-  "last_seen": 1785715362.2448258
+  "last_seen": 1785776785.3406992
  },
  {
   "id": "simplify:bdc4dc00-1451-4635-9061-5f99a7bb9c42",
@@ -439,7 +1115,7 @@
   "date_posted": 1783980958,
   "active": true,
   "first_seen": 1784014543.6740808,
-  "last_seen": 1785715362.2448258
+  "last_seen": 1785776785.3406992
  },
  {
   "id": "simplify:f23af277-4d3f-4466-bf58-2551a4eff09a",
@@ -452,7 +1128,7 @@
   "date_posted": 1783980950,
   "active": true,
   "first_seen": 1784014543.6740808,
-  "last_seen": 1785715362.2448258
+  "last_seen": 1785776785.3406992
  },
  {
   "id": "simplify:914a3b9a-ec4f-4ff5-8714-fd060a543f01",
@@ -465,7 +1141,7 @@
   "date_posted": 1783980906,
   "active": true,
   "first_seen": 1784014543.6740808,
-  "last_seen": 1785715362.2448258
+  "last_seen": 1785776785.3406992
  },
  {
   "id": "simplify:ba5a942e-be3c-493b-9ef4-bf0dbc07a0ce",
@@ -478,7 +1154,7 @@
   "date_posted": 1783980609,
   "active": true,
   "first_seen": 1784014543.6740808,
-  "last_seen": 1785715362.2448258
+  "last_seen": 1785776785.3406992
  },
  {
   "id": "simplify:73cbd0da-d5af-4887-a89e-c404bc218ef3",
@@ -491,7 +1167,7 @@
   "date_posted": 1783980602,
   "active": true,
   "first_seen": 1784014543.6740808,
-  "last_seen": 1785715362.2448258
+  "last_seen": 1785776785.3406992
  },
  {
   "id": "simplify:0ddd865a-c11f-4160-8014-9d9cb6889252",
@@ -504,7 +1180,7 @@
   "date_posted": 1783980595,
   "active": true,
   "first_seen": 1784014543.6740808,
-  "last_seen": 1785715362.2448258
+  "last_seen": 1785776785.3406992
  },
  {
   "id": "simplify:a92f1e72-634c-4222-886a-0b93307f9477",
@@ -517,7 +1193,7 @@
   "date_posted": 1783980586,
   "active": true,
   "first_seen": 1784014543.6740808,
-  "last_seen": 1785715362.2448258
+  "last_seen": 1785776785.3406992
  },
  {
   "id": "simplify:5ea8412e-6f15-4f24-b9a2-a32f48b02a27",
@@ -530,7 +1206,7 @@
   "date_posted": 1783980578,
   "active": true,
   "first_seen": 1784014543.6740808,
-  "last_seen": 1785715362.2448258
+  "last_seen": 1785776785.3406992
  },
  {
   "id": "simplify:58e0500b-3577-4e69-9d43-b710f8155f10",
@@ -543,7 +1219,7 @@
   "date_posted": 1783900800,
   "active": true,
   "first_seen": 1784014543.6740808,
-  "last_seen": 1785715362.2448258
+  "last_seen": 1785776785.3406992
  },
  {
   "id": "simplify:e705fffd-6c2f-4555-b991-f5808e23542c",
@@ -556,7 +1232,7 @@
   "date_posted": 1783900800,
   "active": true,
   "first_seen": 1784014543.6740808,
-  "last_seen": 1785715362.2448258
+  "last_seen": 1785776785.3406992
  },
  {
   "id": "simplify:5a3af054-4413-4265-a625-02bc1cc34542",
@@ -565,11 +1241,11 @@
   "location": "Henderson, NV",
   "url": "https://www.tesla.com/careers/search/job/276044",
   "category": "ML",
-  "posted": "24d ago",
+  "posted": "25d ago",
   "date_posted": 1783559572,
   "active": true,
   "first_seen": 1784014543.6740808,
-  "last_seen": 1785715362.2448258
+  "last_seen": 1785776785.3406992
  },
  {
   "id": "simplify:b3b5bb79-eed9-4cae-a682-cc7068f5d3eb",
@@ -582,7 +1258,7 @@
   "date_posted": 1783549629,
   "active": true,
   "first_seen": 1784014543.6740808,
-  "last_seen": 1785715362.2448258
+  "last_seen": 1785776785.3406992
  },
  {
   "id": "simplify:75793f35-9526-4aea-ab29-82d83486b9b9",
@@ -595,7 +1271,7 @@
   "date_posted": 1783549629,
   "active": true,
   "first_seen": 1784014543.6740808,
-  "last_seen": 1785715362.2448258
+  "last_seen": 1785776785.3406992
  },
  {
   "id": "simplify:372f6713-b484-4724-ac51-015c5d0810f2",
@@ -608,7 +1284,7 @@
   "date_posted": 1783549628,
   "active": true,
   "first_seen": 1784014543.6740808,
-  "last_seen": 1785715362.2448258
+  "last_seen": 1785776785.3406992
  },
  {
   "id": "simplify:86eec77e-62fa-43bc-a011-1e73aac2d372",
@@ -621,7 +1297,7 @@
   "date_posted": 1783549628,
   "active": true,
   "first_seen": 1784014543.6740808,
-  "last_seen": 1785715362.2448258
+  "last_seen": 1785776785.3406992
  },
  {
   "id": "simplify:acf78218-ae13-4623-950b-916366d02693",
@@ -634,7 +1310,7 @@
   "date_posted": 1783549627,
   "active": true,
   "first_seen": 1784014543.6740808,
-  "last_seen": 1785715362.2448258
+  "last_seen": 1785776785.3406992
  },
  {
   "id": "simplify:036f95f0-b954-4120-bd02-980666b57a4d",
@@ -647,7 +1323,7 @@
   "date_posted": 1783549489,
   "active": true,
   "first_seen": 1784014543.6740808,
-  "last_seen": 1785715362.2448258
+  "last_seen": 1785776785.3406992
  },
  {
   "id": "simplify:66cb9e6f-2e5e-4fab-be1b-bf612ad91a02",
@@ -656,24 +1332,11 @@
   "location": "NYC",
   "url": "https://www.citadel.com/careers/details/quantitative-trader-equity-quantitative-research-university-graduate-us/",
   "category": "Quant",
-  "posted": "26d ago",
+  "posted": "27d ago",
   "date_posted": 1783433322,
   "active": true,
   "first_seen": 1784014543.6740808,
-  "last_seen": 1785715362.2448258
- },
- {
-  "id": "simplify:a4db1cdd-98a3-4e59-b6c0-9baff85f5a46",
-  "company": "ByteDance",
-  "title": "Graduate Software Engineer - Dev Infra",
-  "location": "San Jose, CA",
-  "url": "https://jobs.bytedance.com/en/position/7536272435440716040/detail",
-  "category": "SWE",
-  "posted": "26d ago",
-  "date_posted": 1783415561,
-  "active": true,
-  "first_seen": 1784014543.6740808,
-  "last_seen": 1785715362.2448258
+  "last_seen": 1785776785.3406992
  },
  {
   "id": "simplify:c0479012-54e4-478d-922f-1948cd356ac4",
@@ -682,11 +1345,11 @@
   "location": "Toronto, ON, Canada, Sunnyvale, CA",
   "url": "https://jobs.ashbyhq.com/cerebras/99c289fa-8fc6-49f7-b7e8-78ac4e9d99ac/application",
   "category": "SWE",
-  "posted": "26d ago",
+  "posted": "27d ago",
   "date_posted": 1783415519,
   "active": true,
   "first_seen": 1784014543.6740808,
-  "last_seen": 1785715362.2448258
+  "last_seen": 1785776785.3406992
  },
  {
   "id": "simplify:dfefadf6-a92d-41fc-848a-72a23b8703b3",
@@ -699,7 +1362,7 @@
   "date_posted": 1783376336,
   "active": true,
   "first_seen": 1785197147.0675843,
-  "last_seen": 1785715362.2448258
+  "last_seen": 1785776785.3406992
  },
  {
   "id": "simplify:923db8bc-d310-4bbd-8a32-88861442e7c4",
@@ -712,7 +1375,7 @@
   "date_posted": 1783375817,
   "active": true,
   "first_seen": 1784014543.6740808,
-  "last_seen": 1785715362.2448258
+  "last_seen": 1785776785.3406992
  },
  {
   "id": "simplify:c4af7370-f86a-400a-b34e-5235aa8c49d8",
@@ -725,7 +1388,7 @@
   "date_posted": 1783375813,
   "active": true,
   "first_seen": 1784014543.6740808,
-  "last_seen": 1785715362.2448258
+  "last_seen": 1785776785.3406992
  },
  {
   "id": "simplify:495929ef-4f6f-4cdb-9c26-6156e4966b6b",
@@ -734,11 +1397,11 @@
   "location": "Miami, FL, NYC",
   "url": "https://www.citadelsecurities.com/careers/details/software-engineer-university-graduate-us/",
   "category": "SWE",
-  "posted": "27d ago",
+  "posted": "28d ago",
   "date_posted": 1783328994,
   "active": true,
   "first_seen": 1784014543.6740808,
-  "last_seen": 1785715362.2448258
+  "last_seen": 1785776785.3406992
  },
  {
   "id": "simplify:d724f264-a5fb-4740-bde3-38ab45368cba",
@@ -747,11 +1410,11 @@
   "location": "Greenwich, CT, Miami, FL, NYC",
   "url": "https://www.citadel.com/careers/details/quantitative-research-analyst-university-graduate-us/",
   "category": "Quant",
-  "posted": "27d ago",
+  "posted": "28d ago",
   "date_posted": 1783318148,
   "active": true,
   "first_seen": 1784014543.6740808,
-  "last_seen": 1785715362.2448258
+  "last_seen": 1785776785.3406992
  },
  {
   "id": "simplify:410b28b6-b357-4b72-9480-bad83701b4cb",
@@ -760,11 +1423,11 @@
   "location": "Greenwich, CT, Houston, TX, Miami, FL",
   "url": "https://www.citadel.com/careers/details/software-engineer-university-graduate-us/",
   "category": "SWE",
-  "posted": "27d ago",
+  "posted": "28d ago",
   "date_posted": 1783318138,
   "active": true,
   "first_seen": 1784014543.6740808,
-  "last_seen": 1785715362.2448258
+  "last_seen": 1785776785.3406992
  },
  {
   "id": "simplify:5825825a-af07-4016-acd3-ebb1c85f9d91",
@@ -777,7 +1440,7 @@
   "date_posted": 1783290840,
   "active": true,
   "first_seen": 1784014543.6740808,
-  "last_seen": 1785715362.2448258
+  "last_seen": 1785776785.3406992
  },
  {
   "id": "simplify:90b92c02-68ac-4402-b8f2-91494bc89e19",
@@ -786,11 +1449,11 @@
   "location": "London, UK, Chicago, IL, NYC",
   "url": "https://job-boards.greenhouse.io/headlandstechnologiesllc/jobs/4227566009",
   "category": "ML",
-  "posted": "28d ago",
+  "posted": "29d ago",
   "date_posted": 1783260128,
   "active": true,
   "first_seen": 1784014543.6740808,
-  "last_seen": 1785715362.2448258
+  "last_seen": 1785776785.3406992
  },
  {
   "id": "simplify:dfa18e49-c9cd-498f-b8ea-c499d20247b2",
@@ -799,11 +1462,11 @@
   "location": "San Jose, CA",
   "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Senior-Machine-Learning-Engineer_R165453-1",
   "category": "ML",
-  "posted": "29d ago",
+  "posted": "30d ago",
   "date_posted": 1783166321,
   "active": true,
   "first_seen": 1785516098.0477452,
-  "last_seen": 1785715362.2448258
+  "last_seen": 1785776785.3406992
  },
  {
   "id": "simplify:dc8cd8dc-3c3b-409c-9320-6db0956ea02c",
@@ -816,7 +1479,7 @@
   "date_posted": 1783029963,
   "active": true,
   "first_seen": 1784014543.6740808,
-  "last_seen": 1785715362.2448258
+  "last_seen": 1785776785.3406992
  },
  {
   "id": "simplify:939c8fec-74a5-4b4f-8885-23c551df8eca",
@@ -825,11 +1488,11 @@
   "location": "San Jose, CA",
   "url": "https://lifeattiktok.com/search/7515557805312297223",
   "category": "ML",
-  "posted": "31d ago",
+  "posted": "32d ago",
   "date_posted": 1782956262,
   "active": true,
   "first_seen": 1784014543.6740808,
-  "last_seen": 1785715362.2448258
+  "last_seen": 1785776785.3406992
  },
  {
   "id": "simplify:1c8d5fb4-7d30-4fff-adcc-7926baadf184",
@@ -842,7 +1505,7 @@
   "date_posted": 1782944921,
   "active": true,
   "first_seen": 1784014543.6740808,
-  "last_seen": 1785715362.2448258
+  "last_seen": 1785776785.3406992
  },
  {
   "id": "simplify:dcd794ed-4bea-4e26-81ff-e15bcf21d74a",
@@ -855,7 +1518,7 @@
   "date_posted": 1782944920,
   "active": true,
   "first_seen": 1784014543.6740808,
-  "last_seen": 1785715362.2448258
+  "last_seen": 1785776785.3406992
  },
  {
   "id": "simplify:cab69aff-72b9-4758-b1e7-b89d00f92f99",
@@ -868,7 +1531,7 @@
   "date_posted": 1782944920,
   "active": true,
   "first_seen": 1784014543.6740808,
-  "last_seen": 1785715362.2448258
+  "last_seen": 1785776785.3406992
  },
  {
   "id": "simplify:c672badc-9657-46ee-bfdf-c31ec6e4308c",
@@ -881,7 +1544,7 @@
   "date_posted": 1782944920,
   "active": true,
   "first_seen": 1784014543.6740808,
-  "last_seen": 1785715362.2448258
+  "last_seen": 1785776785.3406992
  },
  {
   "id": "simplify:b79b2e09-dc0f-40e5-8a4d-961fa83bc2fc",
@@ -894,7 +1557,7 @@
   "date_posted": 1782943969,
   "active": true,
   "first_seen": 1784014543.6740808,
-  "last_seen": 1785715362.2448258
+  "last_seen": 1785776785.3406992
  },
  {
   "id": "simplify:9806b0c4-6f96-463b-b16f-410fc0a1ae51",
@@ -907,7 +1570,7 @@
   "date_posted": 1782943968,
   "active": true,
   "first_seen": 1784014543.6740808,
-  "last_seen": 1785715362.2448258
+  "last_seen": 1785776785.3406992
  },
  {
   "id": "simplify:1e2b7529-adf7-49ab-8d4a-8979fab4e3e9",
@@ -920,7 +1583,7 @@
   "date_posted": 1782943968,
   "active": true,
   "first_seen": 1784014543.6740808,
-  "last_seen": 1785715362.2448258
+  "last_seen": 1785776785.3406992
  },
  {
   "id": "simplify:03c41462-567b-45cd-bd7a-c296b9b2d016",
@@ -933,7 +1596,7 @@
   "date_posted": 1782943968,
   "active": true,
   "first_seen": 1784014543.6740808,
-  "last_seen": 1785715362.2448258
+  "last_seen": 1785776785.3406992
  },
  {
   "id": "simplify:6a5a374d-834e-4bb6-992d-4cc74f3f8e8e",
@@ -942,11 +1605,11 @@
   "location": "Greenwich, CT, Houston, TX, Miami, FL",
   "url": "https://www.citadel.com/careers/details/quantitative-researcher-phd-graduate-us/",
   "category": "Quant",
-  "posted": "32d ago",
+  "posted": "33d ago",
   "date_posted": 1782889199,
   "active": true,
   "first_seen": 1784014543.6740808,
-  "last_seen": 1785715362.2448258
+  "last_seen": 1785776785.3406992
  },
  {
   "id": "simplify:00c2f102-60e5-4ef5-84c6-4515f2459a86",
@@ -955,11 +1618,11 @@
   "location": "Miami, FL, NYC",
   "url": "https://www.citadelsecurities.com/careers/details/quantitative-research-engineer-phd-graduate-us/",
   "category": "Quant",
-  "posted": "32d ago",
+  "posted": "33d ago",
   "date_posted": 1782886125,
   "active": true,
   "first_seen": 1784014543.6740808,
-  "last_seen": 1785715362.2448258
+  "last_seen": 1785776785.3406992
  },
  {
   "id": "simplify:2f5cd43f-64f8-4bb0-b465-626e62376256",
@@ -972,7 +1635,7 @@
   "date_posted": 1782857830,
   "active": true,
   "first_seen": 1784014543.6740808,
-  "last_seen": 1785715362.2448258
+  "last_seen": 1785776785.3406992
  },
  {
   "id": "simplify:b2121226-8983-4430-91a7-95bf8bc84e96",
@@ -985,7 +1648,7 @@
   "date_posted": 1782857829,
   "active": true,
   "first_seen": 1784014543.6740808,
-  "last_seen": 1785715362.2448258
+  "last_seen": 1785776785.3406992
  },
  {
   "id": "simplify:31b3c490-c657-472c-8aec-d367ec0d3a3a",
@@ -998,7 +1661,7 @@
   "date_posted": 1782770988,
   "active": true,
   "first_seen": 1784014543.6740808,
-  "last_seen": 1785715362.2448258
+  "last_seen": 1785776785.3406992
  },
  {
   "id": "simplify:04b469a0-dcfe-4ba4-b011-d0cbc2f2f6bf",
@@ -1011,7 +1674,7 @@
   "date_posted": 1782770788,
   "active": true,
   "first_seen": 1784014543.6740808,
-  "last_seen": 1785715362.2448258
+  "last_seen": 1785776785.3406992
  },
  {
   "id": "simplify:b2ffbf79-12f6-4a0d-a44f-81db7e09aaaf",
@@ -1024,7 +1687,7 @@
   "date_posted": 1782770788,
   "active": true,
   "first_seen": 1784014543.6740808,
-  "last_seen": 1785715362.2448258
+  "last_seen": 1785776785.3406992
  },
  {
   "id": "simplify:d1bd4c62-1898-4f9d-be41-c433dacb61f5",
@@ -1037,7 +1700,7 @@
   "date_posted": 1782770788,
   "active": true,
   "first_seen": 1784014543.6740808,
-  "last_seen": 1785715362.2448258
+  "last_seen": 1785776785.3406992
  },
  {
   "id": "simplify:57c0a0af-24f9-4227-b1af-ab0d9214f1a2",
@@ -1050,7 +1713,7 @@
   "date_posted": 1782770788,
   "active": true,
   "first_seen": 1784014543.6740808,
-  "last_seen": 1785715362.2448258
+  "last_seen": 1785776785.3406992
  },
  {
   "id": "simplify:48008e25-fd18-4181-a61e-792a9c962548",
@@ -1063,7 +1726,7 @@
   "date_posted": 1782770788,
   "active": true,
   "first_seen": 1784014543.6740808,
-  "last_seen": 1785715362.2448258
+  "last_seen": 1785776785.3406992
  },
  {
   "id": "simplify:6470fc04-154d-4d53-9a4c-9f69aaba3aaf",
@@ -1076,7 +1739,7 @@
   "date_posted": 1782770788,
   "active": true,
   "first_seen": 1784564485.8354206,
-  "last_seen": 1785715362.2448258
+  "last_seen": 1785776785.3406992
  },
  {
   "id": "simplify:ac3e9cad-2324-4beb-a175-1d9b537b0de9",
@@ -1089,7 +1752,7 @@
   "date_posted": 1782770787,
   "active": true,
   "first_seen": 1784014543.6740808,
-  "last_seen": 1785715362.2448258
+  "last_seen": 1785776785.3406992
  },
  {
   "id": "simplify:926f6a3a-e7a1-426f-b008-2345912b0b2e",
@@ -1102,7 +1765,7 @@
   "date_posted": 1782770787,
   "active": true,
   "first_seen": 1784014543.6740808,
-  "last_seen": 1785715362.2448258
+  "last_seen": 1785776785.3406992
  },
  {
   "id": "simplify:2da60465-c35e-418c-ba70-4bdf052f70b7",
@@ -1115,7 +1778,7 @@
   "date_posted": 1782770697,
   "active": true,
   "first_seen": 1784014543.6740808,
-  "last_seen": 1785715362.2448258
+  "last_seen": 1785776785.3406992
  },
  {
   "id": "simplify:057e0386-1d1a-425c-b6a6-d6e3374a3d52",
@@ -1128,7 +1791,7 @@
   "date_posted": 1782770695,
   "active": true,
   "first_seen": 1784014543.6740808,
-  "last_seen": 1785715362.2448258
+  "last_seen": 1785776785.3406992
  },
  {
   "id": "simplify:645100d8-0e6e-414b-aa7c-96ecb3ea36e4",
@@ -1141,7 +1804,7 @@
   "date_posted": 1782770695,
   "active": true,
   "first_seen": 1784014543.6740808,
-  "last_seen": 1785715362.2448258
+  "last_seen": 1785776785.3406992
  },
  {
   "id": "simplify:345a57b5-fae1-45c1-8deb-5bbec4479e03",
@@ -1154,7 +1817,7 @@
   "date_posted": 1782770695,
   "active": true,
   "first_seen": 1784014543.6740808,
-  "last_seen": 1785715362.2448258
+  "last_seen": 1785776785.3406992
  },
  {
   "id": "simplify:267d5473-4baf-4bba-ba9c-ccd65a1c0e30",
@@ -1167,7 +1830,7 @@
   "date_posted": 1782770692,
   "active": true,
   "first_seen": 1784014543.6740808,
-  "last_seen": 1785715362.2448258
+  "last_seen": 1785776785.3406992
  },
  {
   "id": "simplify:fef271f0-0395-41e1-bc64-b0f2f454e58f",
@@ -1176,11 +1839,11 @@
   "location": "NYC",
   "url": "https://jobs.lever.co/palantir/2e6b0ac8-83e9-4be5-a3aa-cf319f751728/apply",
   "category": "SWE",
-  "posted": "34d ago",
+  "posted": "35d ago",
   "date_posted": 1782741889,
   "active": true,
   "first_seen": 1784014543.6740808,
-  "last_seen": 1785715362.2448258
+  "last_seen": 1785776785.3406992
  },
  {
   "id": "simplify:7e134007-3fa8-4732-84ca-e7119c8f4116",
@@ -1189,11 +1852,11 @@
   "location": "Denver, CO",
   "url": "https://jobs.lever.co/palantir/c34b424e-caf2-455a-b104-ae1096ccca29/apply",
   "category": "SWE",
-  "posted": "34d ago",
+  "posted": "35d ago",
   "date_posted": 1782741889,
   "active": true,
   "first_seen": 1784014543.6740808,
-  "last_seen": 1785715362.2448258
+  "last_seen": 1785776785.3406992
  },
  {
   "id": "simplify:6f509f3e-5e63-482f-8eb9-7847a0c9d9b6",
@@ -1206,7 +1869,7 @@
   "date_posted": 1782511501,
   "active": true,
   "first_seen": 1784014543.6740808,
-  "last_seen": 1785715362.2448258
+  "last_seen": 1785776785.3406992
  },
  {
   "id": "simplify:1941cf58-d377-4f13-8d66-ee6d978d4f5a",
@@ -1219,7 +1882,7 @@
   "date_posted": 1781820624,
   "active": true,
   "first_seen": 1784014543.6740808,
-  "last_seen": 1785715362.2448258
+  "last_seen": 1785776785.3406992
  },
  {
   "id": "simplify:f6f83b45-cf4c-4a3e-8f32-4c64672610a1",
@@ -1232,7 +1895,7 @@
   "date_posted": 1781638668,
   "active": true,
   "first_seen": 1784014543.6740808,
-  "last_seen": 1785715362.2448258
+  "last_seen": 1785776785.3406992
  },
  {
   "id": "simplify:1f6bee99-9cca-467c-a0b3-899d61139a03",
@@ -1245,7 +1908,7 @@
   "date_posted": 1781638660,
   "active": true,
   "first_seen": 1784014543.6740808,
-  "last_seen": 1785715362.2448258
+  "last_seen": 1785776785.3406992
  },
  {
   "id": "simplify:50390a34-333d-471c-9a4b-c2b34ecb25ad",
@@ -1258,7 +1921,7 @@
   "date_posted": 1781638659,
   "active": true,
   "first_seen": 1784014543.6740808,
-  "last_seen": 1785715362.2448258
+  "last_seen": 1785776785.3406992
  },
  {
   "id": "simplify:1f372754-6b14-48cf-8c8f-f0cf5c56ae82",
@@ -1271,7 +1934,7 @@
   "date_posted": 1781638658,
   "active": true,
   "first_seen": 1784014543.6740808,
-  "last_seen": 1785715362.2448258
+  "last_seen": 1785776785.3406992
  },
  {
   "id": "simplify:c89cddfc-ea4d-453c-91cd-3f9293e56a32",
@@ -1280,50 +1943,11 @@
   "location": "San Jose, CA",
   "url": "https://lifeattiktok.com/search/7527441329384147208",
   "category": "SWE",
-  "posted": "48d ago",
+  "posted": "49d ago",
   "date_posted": 1781503952,
   "active": true,
   "first_seen": 1784014543.6740808,
-  "last_seen": 1785715362.2448258
- },
- {
-  "id": "simplify:d7a737ee-392f-4ed2-97f3-7b7b61ebefd5",
-  "company": "TikTok",
-  "title": "Software Engineer Graduate - Experimentation and Evaluation",
-  "location": "San Jose, CA",
-  "url": "https://lifeattiktok.com/search/7533278507406182674",
-  "category": "SWE",
-  "posted": "48d ago",
-  "date_posted": 1781503942,
-  "active": true,
-  "first_seen": 1784014543.6740808,
-  "last_seen": 1785715362.2448258
- },
- {
-  "id": "simplify:7a8c16e6-b29e-441d-9635-d193fe1c96fa",
-  "company": "TikTok",
-  "title": "Software Engineer Graduate",
-  "location": "San Jose, CA",
-  "url": "https://lifeattiktok.com/search/7531175534148045063",
-  "category": "SWE",
-  "posted": "48d ago",
-  "date_posted": 1781503937,
-  "active": true,
-  "first_seen": 1784014543.6740808,
-  "last_seen": 1785715362.2448258
- },
- {
-  "id": "simplify:cba3f10a-54b4-46e8-b274-6000b2fccc5a",
-  "company": "TikTok",
-  "title": "Machine Learning Engineer Graduate - TikTok Recommendation",
-  "location": "San Jose, CA",
-  "url": "https://lifeattiktok.com/search/7518139910798215442",
-  "category": "ML",
-  "posted": "48d ago",
-  "date_posted": 1781503935,
-  "active": true,
-  "first_seen": 1784014543.6740808,
-  "last_seen": 1785715362.2448258
+  "last_seen": 1785776785.3406992
  },
  {
   "id": "simplify:504f0b08-afb2-4964-b3cd-5dee1937b1ad",
@@ -1332,24 +1956,11 @@
   "location": "San Jose, CA",
   "url": "https://lifeattiktok.com/search/7104433489986734350",
   "category": "SWE",
-  "posted": "48d ago",
+  "posted": "49d ago",
   "date_posted": 1781503901,
   "active": true,
   "first_seen": 1784014543.6740808,
-  "last_seen": 1785715362.2448258
- },
- {
-  "id": "simplify:d19126c7-186e-4d14-ae4d-756c4d86041d",
-  "company": "TikTok",
-  "title": "CV/NLP/Multimodal Large Language Model Engineer Graduate - TikTok Trust and Safety - BS/MS",
-  "location": "San Jose, CA",
-  "url": "https://lifeattiktok.com/search/7517099008936397064",
-  "category": "ML",
-  "posted": "48d ago",
-  "date_posted": 1781503889,
-  "active": true,
-  "first_seen": 1784014543.6740808,
-  "last_seen": 1785715362.2448258
+  "last_seen": 1785776785.3406992
  },
  {
   "id": "simplify:bb7aa421-4cfb-4baa-9fc0-bea49fa9b593",
@@ -1358,11 +1969,11 @@
   "location": "Seattle, WA",
   "url": "https://lifeattiktok.com/search/7517107684337748242",
   "category": "ML",
-  "posted": "48d ago",
+  "posted": "49d ago",
   "date_posted": 1781503888,
   "active": true,
   "first_seen": 1784014543.6740808,
-  "last_seen": 1785715362.2448258
+  "last_seen": 1785776785.3406992
  },
  {
   "id": "simplify:b303c78e-833c-439d-ae95-e3911da5ceb8",
@@ -1375,7 +1986,7 @@
   "date_posted": 1781302051,
   "active": true,
   "first_seen": 1785542706.685228,
-  "last_seen": 1785715362.2448258
+  "last_seen": 1785776785.3406992
  },
  {
   "id": "simplify:9b3d2be7-1291-4e46-8d88-5212363141cd",
@@ -1388,7 +1999,7 @@
   "date_posted": 1781216095,
   "active": true,
   "first_seen": 1784014543.6740808,
-  "last_seen": 1785715362.2448258
+  "last_seen": 1785776785.3406992
  },
  {
   "id": "simplify:e03e4fce-69ff-4c7c-9d31-8e33a590167d",
@@ -1397,11 +2008,11 @@
   "location": "Miami, FL",
   "url": "https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4586185006",
   "category": "Quant",
-  "posted": "53d ago",
+  "posted": "54d ago",
   "date_posted": 1781083266,
   "active": true,
   "first_seen": 1784014543.6740808,
-  "last_seen": 1785715362.2448258
+  "last_seen": 1785776785.3406992
  },
  {
   "id": "simplify:a49e7579-210f-49f7-8f18-b3e7c9767e76",
@@ -1410,11 +2021,11 @@
   "location": "Palo Alto, CA",
   "url": "https://www.tesla.com/careers/search/job/253975",
   "category": "ML",
-  "posted": "56d ago",
+  "posted": "57d ago",
   "date_posted": 1780844312,
   "active": true,
   "first_seen": 1784014543.6740808,
-  "last_seen": 1785715362.2448258
+  "last_seen": 1785776785.3406992
  },
  {
   "id": "simplify:5b67def9-a0ed-4081-8704-cad041d68197",
@@ -1423,11 +2034,11 @@
   "location": "Orlando, FL",
   "url": "https://www.tesla.com/careers/search/job/247016",
   "category": "ML",
-  "posted": "56d ago",
+  "posted": "57d ago",
   "date_posted": 1780844293,
   "active": true,
   "first_seen": 1784014543.6740808,
-  "last_seen": 1785715362.2448258
+  "last_seen": 1785776785.3406992
  },
  {
   "id": "simplify:cd77dcd5-5398-4e0e-933c-9a0d9ec1ddc0",
@@ -1436,11 +2047,11 @@
   "location": "Austin, TX",
   "url": "https://www.tesla.com/careers/search/job/267078",
   "category": "ML",
-  "posted": "56d ago",
+  "posted": "57d ago",
   "date_posted": 1780814633,
   "active": true,
   "first_seen": 1784014543.6740808,
-  "last_seen": 1785715362.2448258
+  "last_seen": 1785776785.3406992
  },
  {
   "id": "simplify:b09d7306-4475-4ca5-be47-5b9888b848ec",
@@ -1449,11 +2060,11 @@
   "location": "Draper, UT",
   "url": "https://www.tesla.com/careers/search/job/260509",
   "category": "ML",
-  "posted": "56d ago",
+  "posted": "57d ago",
   "date_posted": 1780812847,
   "active": true,
   "first_seen": 1784014543.6740808,
-  "last_seen": 1785715362.2448258
+  "last_seen": 1785776785.3406992
  },
  {
   "id": "simplify:a98768c3-1d79-4f8a-89a9-d3357004a2de",
@@ -1462,11 +2073,11 @@
   "location": "Cupertino, CA",
   "url": "https://jobs.apple.com/en-us/details/200666380",
   "category": "SWE",
-  "posted": "59d ago",
+  "posted": "60d ago",
   "date_posted": 1780583255,
   "active": true,
   "first_seen": 1785599856.6978114,
-  "last_seen": 1785715362.2448258
+  "last_seen": 1785776785.3406992
  },
  {
   "id": "simplify:fb8993b6-84c3-4607-801f-ed29b702f2f8",
@@ -1479,7 +2090,7 @@
   "date_posted": 1780524471,
   "active": true,
   "first_seen": 1784678336.2126446,
-  "last_seen": 1785715362.2448258
+  "last_seen": 1785776785.3406992
  },
  {
   "id": "simplify:d0a7e5d4-0029-4c15-aec8-ea347fe6067b",
@@ -1488,11 +2099,11 @@
   "location": "San Jose, CA",
   "url": "https://jobs.bytedance.com/en/position/7509262740803930376/detail",
   "category": "ML",
-  "posted": "60d ago",
+  "posted": "61d ago",
   "date_posted": 1780466902,
   "active": true,
   "first_seen": 1784014543.6740808,
-  "last_seen": 1785715362.2448258
+  "last_seen": 1785776785.3406992
  },
  {
   "id": "simplify:70940fcd-5a16-43f2-a8b6-6d04d6592298",
@@ -1501,11 +2112,11 @@
   "location": "Seattle, WA",
   "url": "https://jobs.bytedance.com/en/position/7509266973013690631/detail",
   "category": "SWE",
-  "posted": "60d ago",
+  "posted": "61d ago",
   "date_posted": 1780466900,
   "active": true,
   "first_seen": 1784014543.6740808,
-  "last_seen": 1785715362.2448258
+  "last_seen": 1785776785.3406992
  },
  {
   "id": "simplify:093acc82-ac5e-463e-8739-43de0fe8a38d",
@@ -1514,11 +2125,11 @@
   "location": "San Jose, CA",
   "url": "https://jobs.bytedance.com/en/position/7509266973236152583/detail",
   "category": "SWE",
-  "posted": "60d ago",
+  "posted": "61d ago",
   "date_posted": 1780466900,
   "active": true,
   "first_seen": 1785686239.6762471,
-  "last_seen": 1785715362.2448258
+  "last_seen": 1785776785.3406992
  },
  {
   "id": "simplify:ad0c0ea3-6eff-409b-91d6-adcf6f76c26e",
@@ -1527,37 +2138,11 @@
   "location": "Seattle, WA",
   "url": "https://jobs.bytedance.com/en/position/7509262736619571474/detail",
   "category": "SWE",
-  "posted": "60d ago",
+  "posted": "61d ago",
   "date_posted": 1780466897,
   "active": true,
   "first_seen": 1784014543.6740808,
-  "last_seen": 1785715362.2448258
- },
- {
-  "id": "simplify:7e4aaa4a-ae09-48e2-814b-00f042663aa4",
-  "company": "ByteDance",
-  "title": "Graduate AIOps Engineer - Data Center Networking",
-  "location": "San Jose, CA",
-  "url": "https://jobs.bytedance.com/en/position/7538114876280817927/detail",
-  "category": "ML",
-  "posted": "60d ago",
-  "date_posted": 1780466896,
-  "active": true,
-  "first_seen": 1784014543.6740808,
-  "last_seen": 1785715362.2448258
- },
- {
-  "id": "simplify:7dc64487-f056-4398-92c1-882600b6b151",
-  "company": "ByteDance",
-  "title": "Machine Learning Graduate - E-Commerce Governance - BS/MS",
-  "location": "Seattle, WA",
-  "url": "https://jobs.bytedance.com/en/position/7538929248565381383/detail",
-  "category": "ML",
-  "posted": "60d ago",
-  "date_posted": 1780466889,
-  "active": true,
-  "first_seen": 1784014543.6740808,
-  "last_seen": 1785715362.2448258
+  "last_seen": 1785776785.3406992
  },
  {
   "id": "simplify:53afcb81-1e2e-483f-a749-45c014336327",
@@ -1566,11 +2151,11 @@
   "location": "San Jose, CA",
   "url": "https://jobs.bytedance.com/en/position/7538951609075271943/detail",
   "category": "SWE",
-  "posted": "60d ago",
+  "posted": "61d ago",
   "date_posted": 1780448907,
   "active": true,
   "first_seen": 1784014543.6740808,
-  "last_seen": 1785715362.2448258
+  "last_seen": 1785776785.3406992
  },
  {
   "id": "simplify:f023b068-443c-4a3f-a999-a2a15a39b368",
@@ -1583,20 +2168,7 @@
   "date_posted": 1780438068,
   "active": true,
   "first_seen": 1784014543.6740808,
-  "last_seen": 1785715362.2448258
- },
- {
-  "id": "simplify:1a5bab17-a87a-4a4a-90a6-d59319742705",
-  "company": "ByteDance",
-  "title": "Software Engineer Graduate - Cloud Native Infrastructure",
-  "location": "San Jose, CA",
-  "url": "https://jobs.bytedance.com/en/position/7540437542564301063/detail",
-  "category": "SWE",
-  "posted": "61d ago",
-  "date_posted": 1780438068,
-  "active": true,
-  "first_seen": 1784014543.6740808,
-  "last_seen": 1785715362.2448258
+  "last_seen": 1785776785.3406992
  },
  {
   "id": "simplify:8e4681bc-b6c9-4d01-beaa-cc1ded6e2b9c",
@@ -1609,20 +2181,7 @@
   "date_posted": 1780438068,
   "active": true,
   "first_seen": 1784014543.6740808,
-  "last_seen": 1785715362.2448258
- },
- {
-  "id": "simplify:788a250d-5057-4584-ba08-4aece01fb4c1",
-  "company": "ByteDance",
-  "title": "Software Engineer Graduate - Cloud Native Infrastructure - BS/MS",
-  "location": "Seattle, WA",
-  "url": "https://jobs.bytedance.com/en/position/7540437283565848850/detail",
-  "category": "SWE",
-  "posted": "61d ago",
-  "date_posted": 1780438067,
-  "active": true,
-  "first_seen": 1784014543.6740808,
-  "last_seen": 1785715362.2448258
+  "last_seen": 1785776785.3406992
  },
  {
   "id": "simplify:1fbda922-46f7-467c-92fd-f4b3ee1dc2fd",
@@ -1635,7 +2194,7 @@
   "date_posted": 1780438065,
   "active": true,
   "first_seen": 1784014543.6740808,
-  "last_seen": 1785715362.2448258
+  "last_seen": 1785776785.3406992
  },
  {
   "id": "simplify:f5a9931b-496d-472a-b3d6-3701df506088",
@@ -1648,7 +2207,7 @@
   "date_posted": 1780438061,
   "active": true,
   "first_seen": 1784014543.6740808,
-  "last_seen": 1785715362.2448258
+  "last_seen": 1785776785.3406992
  },
  {
   "id": "simplify:7b0d6688-299a-480f-9354-5e5e92b47e2c",
@@ -1657,11 +2216,11 @@
   "location": "NYC",
   "url": "https://job-boards.greenhouse.io/janestreet/jobs/8573523002",
   "category": "Quant",
-  "posted": "61d ago",
+  "posted": "62d ago",
   "date_posted": 1780409972,
   "active": true,
   "first_seen": 1784014543.6740808,
-  "last_seen": 1785715362.2448258
+  "last_seen": 1785776785.3406992
  },
  {
   "id": "simplify:b3876b2d-c196-46fb-96c4-bbb3e767c0b0",
@@ -1670,11 +2229,11 @@
   "location": "Palo Alto, CA",
   "url": "https://job-boards.greenhouse.io/xai/jobs/5152408007",
   "category": "SWE",
-  "posted": "61d ago",
+  "posted": "62d ago",
   "date_posted": 1780363118,
   "active": true,
   "first_seen": 1784014543.6740808,
-  "last_seen": 1785715362.2448258
+  "last_seen": 1785776785.3406992
  },
  {
   "id": "simplify:acbc4b8d-0115-4cb4-aac8-da1952d07302",
@@ -1687,7 +2246,7 @@
   "date_posted": 1780352007,
   "active": true,
   "first_seen": 1784014543.6740808,
-  "last_seen": 1785715362.2448258
+  "last_seen": 1785776785.3406992
  },
  {
   "id": "simplify:809e3bd7-037b-470d-9d66-42bb3152d971",
@@ -1700,7 +2259,7 @@
   "date_posted": 1780005957,
   "active": true,
   "first_seen": 1784014543.6740808,
-  "last_seen": 1785715362.2448258
+  "last_seen": 1785776785.3406992
  },
  {
   "id": "simplify:6d55f27f-9786-4c75-ab7c-c79dd9c729e0",
@@ -1709,11 +2268,11 @@
   "location": "Seattle, WA, SF",
   "url": "https://amazon.jobs/en/jobs/3141336/software-engineer-i",
   "category": "SWE",
-  "posted": "66d ago",
+  "posted": "67d ago",
   "date_posted": 1779930365,
   "active": true,
   "first_seen": 1784014543.6740808,
-  "last_seen": 1785715362.2448258
+  "last_seen": 1785776785.3406992
  },
  {
   "id": "simplify:e3155c50-29ce-48b3-a6f0-47903713b81b",
@@ -1722,10 +2281,23 @@
   "location": "Tempe, AZ",
   "url": "https://amazon.jobs/en/jobs/10432510/its-support-engineer-i",
   "category": "SWE",
-  "posted": "66d ago",
+  "posted": "67d ago",
   "date_posted": 1779930364,
   "active": true,
   "first_seen": 1784014543.6740808,
+  "last_seen": 1785776785.3406992
+ },
+ {
+  "id": "simplify:f6bb2b02-e42b-41a6-9f90-35a28fcb0708",
+  "company": "Wolverine Trading",
+  "title": "Entry-Level C++ Software Engineer",
+  "location": "Chicago, IL",
+  "url": "https://wolve.pinpointhq.com/en/postings/71814bfd-b9a3-4e7a-8c32-ef0ed6f3f7aa?ats=pinpointhq",
+  "category": "SWE",
+  "posted": "1d ago",
+  "date_posted": 1785547327,
+  "active": false,
+  "first_seen": 1785599856.6978114,
   "last_seen": 1785715362.2448258
  },
  {
@@ -2041,6 +2613,19 @@
   "last_seen": 1784014543.6740808
  },
  {
+  "id": "simplify:a4db1cdd-98a3-4e59-b6c0-9baff85f5a46",
+  "company": "ByteDance",
+  "title": "Graduate Software Engineer - Dev Infra",
+  "location": "San Jose, CA",
+  "url": "https://jobs.bytedance.com/en/position/7536272435440716040/detail",
+  "category": "SWE",
+  "posted": "26d ago",
+  "date_posted": 1783415561,
+  "active": false,
+  "first_seen": 1784014543.6740808,
+  "last_seen": 1785715362.2448258
+ },
+ {
   "id": "simplify:a321ad73-583a-4203-bee3-a9fe75923346",
   "company": "ServiceNow",
   "title": "Servicenow Futures Summit - SWE Experience",
@@ -2210,6 +2795,58 @@
   "last_seen": 1784014543.6740808
  },
  {
+  "id": "simplify:d7a737ee-392f-4ed2-97f3-7b7b61ebefd5",
+  "company": "TikTok",
+  "title": "Software Engineer Graduate - Experimentation and Evaluation",
+  "location": "San Jose, CA",
+  "url": "https://lifeattiktok.com/search/7533278507406182674",
+  "category": "SWE",
+  "posted": "48d ago",
+  "date_posted": 1781503942,
+  "active": false,
+  "first_seen": 1784014543.6740808,
+  "last_seen": 1785715362.2448258
+ },
+ {
+  "id": "simplify:7a8c16e6-b29e-441d-9635-d193fe1c96fa",
+  "company": "TikTok",
+  "title": "Software Engineer Graduate",
+  "location": "San Jose, CA",
+  "url": "https://lifeattiktok.com/search/7531175534148045063",
+  "category": "SWE",
+  "posted": "48d ago",
+  "date_posted": 1781503937,
+  "active": false,
+  "first_seen": 1784014543.6740808,
+  "last_seen": 1785715362.2448258
+ },
+ {
+  "id": "simplify:cba3f10a-54b4-46e8-b274-6000b2fccc5a",
+  "company": "TikTok",
+  "title": "Machine Learning Engineer Graduate - TikTok Recommendation",
+  "location": "San Jose, CA",
+  "url": "https://lifeattiktok.com/search/7518139910798215442",
+  "category": "ML",
+  "posted": "48d ago",
+  "date_posted": 1781503935,
+  "active": false,
+  "first_seen": 1784014543.6740808,
+  "last_seen": 1785715362.2448258
+ },
+ {
+  "id": "simplify:d19126c7-186e-4d14-ae4d-756c4d86041d",
+  "company": "TikTok",
+  "title": "CV/NLP/Multimodal Large Language Model Engineer Graduate - TikTok Trust and Safety - BS/MS",
+  "location": "San Jose, CA",
+  "url": "https://lifeattiktok.com/search/7517099008936397064",
+  "category": "ML",
+  "posted": "48d ago",
+  "date_posted": 1781503889,
+  "active": false,
+  "first_seen": 1784014543.6740808,
+  "last_seen": 1785715362.2448258
+ },
+ {
   "id": "simplify:5be19b71-5be3-40a9-ac72-91fc3223c702",
   "company": "Chicago Trading Company",
   "title": "Equities Trading Clerk",
@@ -2249,6 +2886,19 @@
   "last_seen": 1785516098.0477452
  },
  {
+  "id": "simplify:7e4aaa4a-ae09-48e2-814b-00f042663aa4",
+  "company": "ByteDance",
+  "title": "Graduate AIOps Engineer - Data Center Networking",
+  "location": "San Jose, CA",
+  "url": "https://jobs.bytedance.com/en/position/7538114876280817927/detail",
+  "category": "ML",
+  "posted": "60d ago",
+  "date_posted": 1780466896,
+  "active": false,
+  "first_seen": 1784014543.6740808,
+  "last_seen": 1785715362.2448258
+ },
+ {
   "id": "simplify:2e3c62d7-145c-40a1-be15-9566931b9276",
   "company": "ByteDance",
   "title": "Graduate Machine Learning Engineer - E-Commerce Governance-CV/NLP/Multimodal/LLM",
@@ -2273,6 +2923,45 @@
   "active": false,
   "first_seen": 1784014543.6740808,
   "last_seen": 1785456490.3957133
+ },
+ {
+  "id": "simplify:7dc64487-f056-4398-92c1-882600b6b151",
+  "company": "ByteDance",
+  "title": "Machine Learning Graduate - E-Commerce Governance - BS/MS",
+  "location": "Seattle, WA",
+  "url": "https://jobs.bytedance.com/en/position/7538929248565381383/detail",
+  "category": "ML",
+  "posted": "60d ago",
+  "date_posted": 1780466889,
+  "active": false,
+  "first_seen": 1784014543.6740808,
+  "last_seen": 1785715362.2448258
+ },
+ {
+  "id": "simplify:1a5bab17-a87a-4a4a-90a6-d59319742705",
+  "company": "ByteDance",
+  "title": "Software Engineer Graduate - Cloud Native Infrastructure",
+  "location": "San Jose, CA",
+  "url": "https://jobs.bytedance.com/en/position/7540437542564301063/detail",
+  "category": "SWE",
+  "posted": "61d ago",
+  "date_posted": 1780438068,
+  "active": false,
+  "first_seen": 1784014543.6740808,
+  "last_seen": 1785715362.2448258
+ },
+ {
+  "id": "simplify:788a250d-5057-4584-ba08-4aece01fb4c1",
+  "company": "ByteDance",
+  "title": "Software Engineer Graduate - Cloud Native Infrastructure - BS/MS",
+  "location": "Seattle, WA",
+  "url": "https://jobs.bytedance.com/en/position/7540437283565848850/detail",
+  "category": "SWE",
+  "posted": "61d ago",
+  "date_posted": 1780438067,
+  "active": false,
+  "first_seen": 1784014543.6740808,
+  "last_seen": 1785715362.2448258
  },
  {
   "id": "simplify:707771fb-25df-4144-b1f3-3c16c3211429",
