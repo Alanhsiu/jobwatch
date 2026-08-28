@@ -5,7 +5,7 @@ pushes only the *new* ones to Telegram. The list below is refreshed automaticall
 run, and an interactive tracker page lets you manage each application through its pipeline.
 
 <!-- JOBS:START -->
-_304 open new-grad SWE / ML / Quant roles at 46 target companies. Auto-updated on every run._
+_307 open new-grad SWE / ML / Quant roles at 46 target companies. Auto-updated on every run._
 
 **[Open the interactive tracker](https://Alanhsiu.github.io/jobwatch/)** — tick/cross each role and your marks are remembered.
 
@@ -14,7 +14,7 @@ _304 open new-grad SWE / ML / Quant roles at 46 target companies. Auto-updated o
 - [Machine Learning Engineer Graduate - E-Commerce Recommendation Video](https://lifeattiktok.com/search/7678145401619237173) &mdash; Seattle, WA · today · ML
 - [Data Engineer Graduate - Data Platform E-commerce](https://lifeattiktok.com/search/7676253726624024837) &mdash; San Jose, CA · 1d ago · ML
 - [Data Engineer Graduate - Data Platform Global Live](https://lifeattiktok.com/search/7678120538997098805) &mdash; San Jose, CA · 1d ago · ML
-- [Machine Learning Engineer - E-Commerce Knowledge Graph](https://lifeattiktok.com/search/7676647728043280645) &mdash; San Jose, CA · 2d ago · ML
+- [Machine Learning Engineer - E-Commerce Knowledge Graph](https://lifeattiktok.com/search/7676647728043280645) &mdash; San Jose, CA · 3d ago · ML
 - [Machine Learning Engineer Graduate - E-Commerce Supply Chain & Logistics](https://lifeattiktok.com/search/7675843332462872885) &mdash; Seattle, WA · 7d ago · ML
 - [Machine Learning Engineer Graduate - E-Commerce Supply Chain & Logistics - LLM/Agent](https://lifeattiktok.com/search/7675842865566222597) &mdash; Seattle, WA · 7d ago · ML
 - [Graduate Software Engineer - TikTok Search Data Infra](https://lifeattiktok.com/search/7675829388634392837) &mdash; San Jose, CA · 7d ago · SWE
@@ -22,33 +22,33 @@ _304 open new-grad SWE / ML / Quant roles at 46 target companies. Auto-updated o
 - [Machine Learning Engineer Graduate - Multiple Teams](https://lifeattiktok.com/search/7675841339440941317) &mdash; San Jose, CA · 7d ago · ML
 - [Data Analyst Graduate](https://lifeattiktok.com/search/7675510156642142469) &mdash; Fontana, CA · 8d ago · ML
 - [Data Engineer Graduate - Data Platform - Global Live](https://lifeattiktok.com/search/7675484418022181173) &mdash; San Jose, CA · 8d ago · ML
-- [Machine Learning Engineer Graduate - E-Commerce Governance](https://lifeattiktok.com/search/7674023327725373701) &mdash; San Jose, CA · 9d ago · ML
-- [Machine Learning Engineer Graduate - E-Commerce Governance](https://lifeattiktok.com/search/7674025781001062709) &mdash; Seattle, WA · 9d ago · ML
-- [Data Scientist Graduate - E-Commerce Governance](https://lifeattiktok.com/search/7674027218993154357) &mdash; Seattle, WA · 9d ago · ML
+- [Machine Learning Engineer Graduate - E-Commerce Governance](https://lifeattiktok.com/search/7674023327725373701) &mdash; San Jose, CA · 10d ago · ML
+- [Machine Learning Engineer Graduate - E-Commerce Governance](https://lifeattiktok.com/search/7674025781001062709) &mdash; Seattle, WA · 10d ago · ML
+- [Data Scientist Graduate - E-Commerce Governance](https://lifeattiktok.com/search/7674027218993154357) &mdash; Seattle, WA · 10d ago · ML
 - [Data Scientist Graduate - Multimedia](https://lifeattiktok.com/search/7673672141010815237) &mdash; San Jose, CA · 12d ago · ML
-- [Software Engineer Graduate - Foundation Platform](https://lifeattiktok.com/search/7673674252889246005) &mdash; San Jose, CA · 12d ago · SWE
-- [Software Engineer Graduate - Video-on-Demand Algorithm](https://lifeattiktok.com/search/7673674249270839557) &mdash; San Jose, CA · 12d ago · SWE
-- [Software Engineer Graduate - Ads Infra](https://lifeattiktok.com/search/7673409179353139461) &mdash; San Jose, CA · 12d ago · SWE
-- [LLM Post-Training Engineer Graduate - Research & Product](https://lifeattiktok.com/search/7673672141012093189) &mdash; San Jose, CA · 12d ago · ML
-- [Software Engineer Graduate - Media Engine](https://lifeattiktok.com/search/7673667938889009461) &mdash; San Jose, CA · 12d ago · SWE
-- [Backend Software Engineer Graduate - Creation Platform](https://lifeattiktok.com/search/7673669198965278981) &mdash; San Jose, CA · 12d ago · SWE
-- [Data Science Graduate - Advertisement Team](https://lifeattiktok.com/search/7673232905797880069) &mdash; San Jose, CA · 13d ago · ML
-- [Software Engineer Graduate - Recommendation Infrastructure](https://lifeattiktok.com/search/7673284715407886597) &mdash; San Jose, CA · 13d ago · SWE
-- [Data Scientist Graduate - Multimedia](https://lifeattiktok.com/search/7670288355678177589) &mdash; San Jose, CA · 13d ago · ML
+- [Software Engineer Graduate - Foundation Platform](https://lifeattiktok.com/search/7673674252889246005) &mdash; San Jose, CA · 13d ago · SWE
+- [Software Engineer Graduate - Video-on-Demand Algorithm](https://lifeattiktok.com/search/7673674249270839557) &mdash; San Jose, CA · 13d ago · SWE
+- [Software Engineer Graduate - Ads Infra](https://lifeattiktok.com/search/7673409179353139461) &mdash; San Jose, CA · 13d ago · SWE
+- [LLM Post-Training Engineer Graduate - Research & Product](https://lifeattiktok.com/search/7673672141012093189) &mdash; San Jose, CA · 13d ago · ML
+- [Software Engineer Graduate - Media Engine](https://lifeattiktok.com/search/7673667938889009461) &mdash; San Jose, CA · 13d ago · SWE
+- [Backend Software Engineer Graduate - Creation Platform](https://lifeattiktok.com/search/7673669198965278981) &mdash; San Jose, CA · 13d ago · SWE
+- [Data Science Graduate - Advertisement Team](https://lifeattiktok.com/search/7673232905797880069) &mdash; San Jose, CA · 14d ago · ML
+- [Software Engineer Graduate - Recommendation Infrastructure](https://lifeattiktok.com/search/7673284715407886597) &mdash; San Jose, CA · 14d ago · SWE
+- [Data Scientist Graduate - Multimedia](https://lifeattiktok.com/search/7670288355678177589) &mdash; San Jose, CA · 14d ago · ML
 - [Backend Software Engineer New Grad - Creator Strategy](https://lifeattiktok.com/search/7672976491146004741) &mdash; San Jose, CA · 14d ago · SWE
 - [Software Engineer Graduate - Recommendation Architecture - Feeds Infrastructure](https://lifeattiktok.com/search/7672530785573980421) &mdash; Seattle, WA · 14d ago · SWE
-- [Backend Software Engineer Graduate - Creation Platform](https://lifeattiktok.com/search/7670292836050422021) &mdash; San Jose, CA · 14d ago · SWE
-- [Graduate Software Engineer - Media Engine](https://lifeattiktok.com/search/7670367152357673221) &mdash; San Jose, CA · 14d ago · SWE
-- [Software Engineer Graduate - Foundation Platform](https://lifeattiktok.com/search/7670276769459456309) &mdash; San Jose, CA · 14d ago · SWE
-- [Large Language Model Post-training Engineer Graduate - Research & Product](https://lifeattiktok.com/search/7670285949976201477) &mdash; San Jose, CA · 14d ago · ML
-- [Machine Learning Engineer Graduate - E-Commerce Governance](https://lifeattiktok.com/search/7672928557539002629) &mdash; San Jose, CA · 14d ago · ML
-- [Software Engineer Graduate - Video-on-Demand Algorithm](https://lifeattiktok.com/search/7670282906426476853) &mdash; San Jose, CA · 14d ago · SWE
-- [Software Engineer Graduate - Recommendation](https://lifeattiktok.com/search/7672517471946000645) &mdash; San Jose, CA · 14d ago · SWE
-- [Machine Learning Engineer Graduate - E-Commerce Recommendation Mall](https://lifeattiktok.com/search/7672915427278457141) &mdash; San Jose, CA · 14d ago · ML
-- [Machine Learning Engineer Graduate - TikTok Vertical Recommendation](https://lifeattiktok.com/search/7672532275557583157) &mdash; San Jose, CA · 14d ago · ML
-- [Machine Learning Engineer Graduate - E-Commerce Recommendation Mall](https://lifeattiktok.com/search/7672911151560296709) &mdash; Seattle, WA · 14d ago · ML
-- [Big Data Engineer Graduate - TikTok Recommendation Architecture](https://lifeattiktok.com/search/7672518398222387461) &mdash; San Jose, CA · 14d ago · ML
-- [Backend Engineer Graduate - TikTok Vertical Recommendation Architecture - 2027 Start](https://lifeattiktok.com/search/7672532801686571317) &mdash; San Jose, CA · 14d ago · SWE
+- [Backend Software Engineer Graduate - Creation Platform](https://lifeattiktok.com/search/7670292836050422021) &mdash; San Jose, CA · 15d ago · SWE
+- [Graduate Software Engineer - Media Engine](https://lifeattiktok.com/search/7670367152357673221) &mdash; San Jose, CA · 15d ago · SWE
+- [Software Engineer Graduate - Foundation Platform](https://lifeattiktok.com/search/7670276769459456309) &mdash; San Jose, CA · 15d ago · SWE
+- [Large Language Model Post-training Engineer Graduate - Research & Product](https://lifeattiktok.com/search/7670285949976201477) &mdash; San Jose, CA · 15d ago · ML
+- [Machine Learning Engineer Graduate - E-Commerce Governance](https://lifeattiktok.com/search/7672928557539002629) &mdash; San Jose, CA · 15d ago · ML
+- [Software Engineer Graduate - Video-on-Demand Algorithm](https://lifeattiktok.com/search/7670282906426476853) &mdash; San Jose, CA · 15d ago · SWE
+- [Software Engineer Graduate - Recommendation](https://lifeattiktok.com/search/7672517471946000645) &mdash; San Jose, CA · 15d ago · SWE
+- [Machine Learning Engineer Graduate - E-Commerce Recommendation Mall](https://lifeattiktok.com/search/7672915427278457141) &mdash; San Jose, CA · 15d ago · ML
+- [Machine Learning Engineer Graduate - TikTok Vertical Recommendation](https://lifeattiktok.com/search/7672532275557583157) &mdash; San Jose, CA · 15d ago · ML
+- [Machine Learning Engineer Graduate - E-Commerce Recommendation Mall](https://lifeattiktok.com/search/7672911151560296709) &mdash; Seattle, WA · 15d ago · ML
+- [Big Data Engineer Graduate - TikTok Recommendation Architecture](https://lifeattiktok.com/search/7672518398222387461) &mdash; San Jose, CA · 15d ago · ML
+- [Backend Engineer Graduate - TikTok Vertical Recommendation Architecture - 2027 Start](https://lifeattiktok.com/search/7672532801686571317) &mdash; San Jose, CA · 15d ago · SWE
 - [AI Infrastructure Engineer Graduate - Recommendation & LLM](https://lifeattiktok.com/search/7672656091025066293) &mdash; San Jose, CA · 15d ago · ML
 - [AI Infrastructure Engineer Graduate - Recommendation & LLM](https://lifeattiktok.com/search/7672654026594093317) &mdash; San Jose, CA · 15d ago · ML
 - [Machine Learning Engineer Graduate - E-Commerce Recommendation Foundation](https://lifeattiktok.com/search/7672880386574338309) &mdash; Seattle, WA · 15d ago · ML
@@ -66,345 +66,348 @@ _304 open new-grad SWE / ML / Quant roles at 46 target companies. Auto-updated o
 - [Software Engineer Graduate - Data Arch - E-commerce](https://lifeattiktok.com/search/7668582542044072245) &mdash; Seattle, WA · 21d ago · SWE
 - [Software Engineer Graduate - Global E-commerce-Search - 2027 Start](https://lifeattiktok.com/search/7670558992960358661) &mdash; Seattle, WA · 21d ago · SWE
 - [Graduate Software Engineer - Global CRM](https://lifeattiktok.com/search/7668554579301124357) &mdash; San Jose, CA · 21d ago · SWE
-- [Machine Learning Engineer Graduate - Monetization Technology-Ads Core Global](https://lifeattiktok.com/search/7668809845088504117) &mdash; San Jose, CA · 22d ago · ML
-- [Machine Learning Engineer Graduate - Performance Monetization](https://lifeattiktok.com/search/7669691057987520773) &mdash; San Jose, CA · 22d ago · ML
-- [Machine Learning Scientist Graduate - Trust and Safety](https://lifeattiktok.com/search/7665985896410368261) &mdash; Seattle, WA · 22d ago · ML
-- [AI Engineer Graduate - Client Architecture - 2027 Start](https://lifeattiktok.com/search/7664978367107713333) &mdash; San Jose, CA · 22d ago · ML
-- [Frontend Software Engineer Graduate - Global E-commerce](https://lifeattiktok.com/search/7668828193675036981) &mdash; Seattle, WA · 22d ago · SWE
-- [Data Engineer Graduate - Monetization Data](https://lifeattiktok.com/search/7668550561096665397) &mdash; San Jose, CA · 22d ago · ML
-- [Mobile Software Engineer Graduate - Global E-commerce](https://lifeattiktok.com/search/7668831181590513925) &mdash; San Jose, CA · 22d ago · SWE
-- [Backend Engineer Graduate - User Growth](https://lifeattiktok.com/search/7665986019233958197) &mdash; San Jose, CA · 22d ago · SWE
-- [Backend Software Engineer Graduate - Global E-commerce](https://lifeattiktok.com/search/7668827379083823413) &mdash; Seattle, WA · 22d ago · SWE
-- [Graduate Software Engineer](https://lifeattiktok.com/search/7668566347702569269) &mdash; San Jose, CA · 22d ago · SWE
-- [Machine Learning Engineer Graduate - Commerce Ads - 2027 Start](https://lifeattiktok.com/search/7669711968024430853) &mdash; San Jose, CA · 22d ago · ML
-- [Machine Learning Engineer Graduate - Ads Signal & Measurement](https://lifeattiktok.com/search/7669700358734170373) &mdash; San Jose, CA · 22d ago · ML
-- [Graduate Software Engineer - Global Live](https://lifeattiktok.com/search/7668845522007722245) &mdash; San Jose, CA · 22d ago · SWE
-- [Backend Software Engineer Graduate - Digital Content Center](https://lifeattiktok.com/search/7668843238309824773) &mdash; San Jose, CA · 22d ago · SWE
-- [Machine Learning Engineer New Grad - Performance Monetization](https://lifeattiktok.com/search/7669691374918011141) &mdash; San Jose, CA · 22d ago · ML
-- [Backend Software Engineer Graduate - Global E-commerce](https://lifeattiktok.com/search/7668824169648097541) &mdash; San Jose, CA · 22d ago · SWE
-- [Machine Learning Engineer Graduate - Data Search Recommendation Global E-Commerce](https://lifeattiktok.com/search/7668384123840514309) &mdash; Seattle, WA · 22d ago · ML
-- [Frontend Software Engineer Graduate - Global CRM](https://lifeattiktok.com/search/7668561079544154373) &mdash; San Jose, CA · 22d ago · SWE
-- [Graduate Software Engineer - Transaction Platform](https://lifeattiktok.com/search/7668557209047894325) &mdash; San Jose, CA · 22d ago · SWE
-- [Frontend Software Engineer New Grad - Ads Interface](https://lifeattiktok.com/search/7668569995571726597) &mdash; San Jose, CA · 22d ago · SWE
-- [Machine Learning Engineer Graduate - Brand Ads](https://lifeattiktok.com/search/7668663594419374341) &mdash; San Jose, CA · 22d ago · ML
-- [Machine Learning Engineer Graduate - Tiktok Content Ecology](https://lifeattiktok.com/search/7668838052657678597) &mdash; San Jose, CA · 22d ago · ML
-- [Graduate Software Engineer - Ads Interface](https://lifeattiktok.com/search/7668855346857019701) &mdash; San Jose, CA · 22d ago · SWE
-- [Software Engineer New Grad - Ads Infrastructure](https://lifeattiktok.com/search/7668879883938203957) &mdash; San Jose, CA · 22d ago · SWE
-- [Machine Learning Engineer New Grad - Search Ads](https://lifeattiktok.com/search/7669698543896054069) &mdash; San Jose, CA · 22d ago · ML
-- [Machine Learning Engineer Graduate - App Ads and Gaming](https://lifeattiktok.com/search/7669709290431236357) &mdash; San Jose, CA · 22d ago · ML
-- [Machine Learning Engineer Graduate - Lead Ads](https://lifeattiktok.com/search/7669707604717209861) &mdash; San Jose, CA · 22d ago · ML
-- [Graduate Machine Learning Engineer](https://lifeattiktok.com/search/7669702699627661573) &mdash; San Jose, CA · 22d ago · ML
-- [Machine Learning Engineer New Grad - Recommendation](https://lifeattiktok.com/search/7663389745178757429) &mdash; San Jose, CA · 23d ago · ML
-- [Machine Learning Scientist New Grad - Trust and Safety](https://lifeattiktok.com/search/7665989163791403269) &mdash; San Jose, CA · 23d ago · ML
-- [Machine Learning Scientist New Grad - Recommendation](https://lifeattiktok.com/search/7663389363824773381) &mdash; San Jose, CA · 23d ago · ML
-- [Machine Learning Engineer New Grad - Trust and Safety](https://lifeattiktok.com/search/7665991852209932597) &mdash; San Jose, CA · 23d ago · ML
-- [Machine Learning Engineer Graduate - Trust and Safety](https://lifeattiktok.com/search/7665994926854555909) &mdash; Seattle, WA · 23d ago · ML
-- [Research Engineer Graduate - Monetization Technology - Business Integrity](https://lifeattiktok.com/search/7667769079948347701) &mdash; San Jose, CA · 23d ago · ML
-- [Research Engineer New Grad - Multiple Teams](https://lifeattiktok.com/search/7667767820142643461) &mdash; San Jose, CA · 23d ago · ML
-- [Machine Learning Engineer Graduate - Ads Creative](https://lifeattiktok.com/search/7668681119759616309) &mdash; San Jose, CA · 23d ago · ML
-- [Backend Software Engineer Graduate - Risk & Response](https://lifeattiktok.com/search/7663032057264244997) &mdash; Seattle, WA · 23d ago · SWE
-- [Backend Software Engineer - Machine Moderation Platform](https://lifeattiktok.com/search/7663036950303050037) &mdash; Seattle, WA · 23d ago · SWE
-- [Backend Software Engineer New Grad - Feed Safety](https://lifeattiktok.com/search/7663028952600807733) &mdash; Seattle, WA · 23d ago · SWE
-- [Backend Software Engineer Graduate - Business Governance](https://lifeattiktok.com/search/7663042453461600517) &mdash; San Jose, CA · 23d ago · SWE
-- [Machine Learning Engineer Graduate](https://lifeattiktok.com/search/7665797203155896581) &mdash; San Jose, CA · 23d ago · ML
-- [Backend Software Engineer New Grad - Trust & Safety](https://lifeattiktok.com/search/7665994926887291189) &mdash; San Jose, CA · 23d ago · SWE
-- [Backend Software Engineer New Grad - Emerging Products & AI Safety](https://lifeattiktok.com/search/7663036952090347829) &mdash; San Jose, CA · 23d ago · SWE
-- [Backend Software Engineer New Grad - Trust & Safety](https://lifeattiktok.com/search/7664533229944178949) &mdash; Seattle, WA · 23d ago · SWE
-- [Machine Learning Engineer New Grad - Search Quality](https://lifeattiktok.com/search/7665793152026740997) &mdash; San Jose, CA · 23d ago · ML
-- [Machine Learning Engineer Graduate](https://lifeattiktok.com/search/7667344113001384197) &mdash; San Jose, CA · 23d ago · ML
-- [Machine Learning Engineer New Grad - Data Search Visual Search](https://lifeattiktok.com/search/7667349591747758341) &mdash; San Jose, CA · 23d ago · ML
-- [Machine Learning Engineer Graduate - Data Search Basic Ranking](https://lifeattiktok.com/search/7667344111675246901) &mdash; San Jose, CA · 23d ago · ML
-- [Machine Learning Engineer Graduate](https://lifeattiktok.com/search/7667346543553710389) &mdash; San Jose, CA · 23d ago · ML
-- [Machine Learning Engineer New Grad - Data Search - Visual Search](https://lifeattiktok.com/search/7667346535273007413) &mdash; San Jose, CA · 23d ago · ML
-- [Design Engineering Graduate](https://lifeattiktok.com/search/7667837906192877829) &mdash; San Jose, CA · 23d ago · SWE
-- [Machine Learning Engineer New Grad - Data-Global E-Commerce-Search](https://lifeattiktok.com/search/7668389759463393589) &mdash; Seattle, WA · 23d ago · ML
-- [Machine Learning Engineer New Grad](https://lifeattiktok.com/search/7668376903708281141) &mdash; Seattle, WA · 23d ago · ML
-- [Machine Learning Engineer New Grad - E-Commerce Search](https://lifeattiktok.com/search/7668390999147776309) &mdash; Seattle, WA · 23d ago · ML
-- [Machine Learning Engineer Graduate - Ads Delivery](https://lifeattiktok.com/search/7668660365135808821) &mdash; San Jose, CA · 23d ago · ML
-- [Machine Learning Engineer Graduate - Monetization Technology - Ads Core Global](https://lifeattiktok.com/search/7668592348941273349) &mdash; San Jose, CA · 23d ago · ML
-- [Software Engineer New Grad - Business Integrity](https://lifeattiktok.com/search/7668592494649690421) &mdash; San Jose, CA · 23d ago · SWE
-- [Software Engineer/Mobile Engineer New Grad - Ads Core Demonstration](https://lifeattiktok.com/search/7668701834807101749) &mdash; San Jose, CA · 23d ago · SWE
-- [Software Engineer New Grad - Quality and Efficiency Technology](https://lifeattiktok.com/search/7668680253677504821) &mdash; San Jose, CA · 23d ago · SWE
-- [Machine Learning Engineer Graduate - Monetization Technology - Ads Core Global](https://lifeattiktok.com/search/7668675484492597557) &mdash; San Jose, CA · 23d ago · ML
-- [Machine Learning Engineer Graduate - Brand Ads](https://lifeattiktok.com/search/7668698260232702261) &mdash; San Jose, CA · 23d ago · ML
-- [Machine Learning Engineer Graduate - Ads Targeting](https://lifeattiktok.com/search/7668629846058223877) &mdash; San Jose, CA · 23d ago · ML
-- [Software Engineer Graduate - MLOps](https://lifeattiktok.com/search/7668700671828707589) &mdash; San Jose, CA · 23d ago · SWE
-- [Software Engineer Graduate - Ads Delivery](https://lifeattiktok.com/search/7668662545059023157) &mdash; San Jose, CA · 23d ago · SWE
-- [Machine Learning Engineer Graduate - Ads Creative](https://lifeattiktok.com/search/7668669015051405573) &mdash; San Jose, CA · 23d ago · ML
-- [Software Engineer New Grad - Ads Measurement Signal Technology](https://lifeattiktok.com/search/7668717356843977013) &mdash; San Jose, CA · 23d ago · SWE
-- [Software Engineer New Grad - Ads Signal & Measurement](https://lifeattiktok.com/search/7668724383120804149) &mdash; San Jose, CA · 23d ago · SWE
-- [Data Scientist - Multiple Positions](https://lifeattiktok.com/search/7660649494686976309) &mdash; Culver City, CA · 44d ago · ML
-- [Software Engineer - Data Arch - Data Ecosystem](https://lifeattiktok.com/search/7527441329384147208) &mdash; San Jose, CA · 72d ago · SWE
-- [CV/NLP/Multimodal Large Language Models Machine Learning Engineer Graduate - Tiktok-Trust and Safety](https://lifeattiktok.com/search/7517107684337748242) &mdash; Seattle, WA · 72d ago · ML
-- [Tech Lead Software Engineer - AI & Agent - TikTok Ecosystem & Platform](https://lifeattiktok.com/search/7647672631889873205) &mdash; San Jose, CA · 72d ago · SWE
+- [Machine Learning Engineer Graduate - Monetization Technology-Ads Core Global](https://lifeattiktok.com/search/7668809845088504117) &mdash; San Jose, CA · 23d ago · ML
+- [Machine Learning Engineer Graduate - Performance Monetization](https://lifeattiktok.com/search/7669691057987520773) &mdash; San Jose, CA · 23d ago · ML
+- [Machine Learning Scientist Graduate - Trust and Safety](https://lifeattiktok.com/search/7665985896410368261) &mdash; Seattle, WA · 23d ago · ML
+- [AI Engineer Graduate - Client Architecture - 2027 Start](https://lifeattiktok.com/search/7664978367107713333) &mdash; San Jose, CA · 23d ago · ML
+- [Frontend Software Engineer Graduate - Global E-commerce](https://lifeattiktok.com/search/7668828193675036981) &mdash; Seattle, WA · 23d ago · SWE
+- [Data Engineer Graduate - Monetization Data](https://lifeattiktok.com/search/7668550561096665397) &mdash; San Jose, CA · 23d ago · ML
+- [Mobile Software Engineer Graduate - Global E-commerce](https://lifeattiktok.com/search/7668831181590513925) &mdash; San Jose, CA · 23d ago · SWE
+- [Backend Engineer Graduate - User Growth](https://lifeattiktok.com/search/7665986019233958197) &mdash; San Jose, CA · 23d ago · SWE
+- [Backend Software Engineer Graduate - Global E-commerce](https://lifeattiktok.com/search/7668827379083823413) &mdash; Seattle, WA · 23d ago · SWE
+- [Graduate Software Engineer](https://lifeattiktok.com/search/7668566347702569269) &mdash; San Jose, CA · 23d ago · SWE
+- [Machine Learning Engineer Graduate - Commerce Ads - 2027 Start](https://lifeattiktok.com/search/7669711968024430853) &mdash; San Jose, CA · 23d ago · ML
+- [Machine Learning Engineer Graduate - Ads Signal & Measurement](https://lifeattiktok.com/search/7669700358734170373) &mdash; San Jose, CA · 23d ago · ML
+- [Graduate Software Engineer - Global Live](https://lifeattiktok.com/search/7668845522007722245) &mdash; San Jose, CA · 23d ago · SWE
+- [Backend Software Engineer Graduate - Digital Content Center](https://lifeattiktok.com/search/7668843238309824773) &mdash; San Jose, CA · 23d ago · SWE
+- [Machine Learning Engineer New Grad - Performance Monetization](https://lifeattiktok.com/search/7669691374918011141) &mdash; San Jose, CA · 23d ago · ML
+- [Backend Software Engineer Graduate - Global E-commerce](https://lifeattiktok.com/search/7668824169648097541) &mdash; San Jose, CA · 23d ago · SWE
+- [Machine Learning Engineer Graduate - Data Search Recommendation Global E-Commerce](https://lifeattiktok.com/search/7668384123840514309) &mdash; Seattle, WA · 23d ago · ML
+- [Frontend Software Engineer Graduate - Global CRM](https://lifeattiktok.com/search/7668561079544154373) &mdash; San Jose, CA · 23d ago · SWE
+- [Graduate Software Engineer - Transaction Platform](https://lifeattiktok.com/search/7668557209047894325) &mdash; San Jose, CA · 23d ago · SWE
+- [Frontend Software Engineer New Grad - Ads Interface](https://lifeattiktok.com/search/7668569995571726597) &mdash; San Jose, CA · 23d ago · SWE
+- [Machine Learning Engineer Graduate - Brand Ads](https://lifeattiktok.com/search/7668663594419374341) &mdash; San Jose, CA · 23d ago · ML
+- [Machine Learning Engineer Graduate - Tiktok Content Ecology](https://lifeattiktok.com/search/7668838052657678597) &mdash; San Jose, CA · 23d ago · ML
+- [Graduate Software Engineer - Ads Interface](https://lifeattiktok.com/search/7668855346857019701) &mdash; San Jose, CA · 23d ago · SWE
+- [Software Engineer New Grad - Ads Infrastructure](https://lifeattiktok.com/search/7668879883938203957) &mdash; San Jose, CA · 23d ago · SWE
+- [Machine Learning Engineer New Grad - Search Ads](https://lifeattiktok.com/search/7669698543896054069) &mdash; San Jose, CA · 23d ago · ML
+- [Machine Learning Engineer Graduate - App Ads and Gaming](https://lifeattiktok.com/search/7669709290431236357) &mdash; San Jose, CA · 23d ago · ML
+- [Machine Learning Engineer Graduate - Lead Ads](https://lifeattiktok.com/search/7669707604717209861) &mdash; San Jose, CA · 23d ago · ML
+- [Graduate Machine Learning Engineer](https://lifeattiktok.com/search/7669702699627661573) &mdash; San Jose, CA · 23d ago · ML
+- [Machine Learning Engineer New Grad - Recommendation](https://lifeattiktok.com/search/7663389745178757429) &mdash; San Jose, CA · 24d ago · ML
+- [Machine Learning Scientist New Grad - Trust and Safety](https://lifeattiktok.com/search/7665989163791403269) &mdash; San Jose, CA · 24d ago · ML
+- [Machine Learning Scientist New Grad - Recommendation](https://lifeattiktok.com/search/7663389363824773381) &mdash; San Jose, CA · 24d ago · ML
+- [Machine Learning Engineer New Grad - Trust and Safety](https://lifeattiktok.com/search/7665991852209932597) &mdash; San Jose, CA · 24d ago · ML
+- [Machine Learning Engineer Graduate - Trust and Safety](https://lifeattiktok.com/search/7665994926854555909) &mdash; Seattle, WA · 24d ago · ML
+- [Research Engineer Graduate - Monetization Technology - Business Integrity](https://lifeattiktok.com/search/7667769079948347701) &mdash; San Jose, CA · 24d ago · ML
+- [Research Engineer New Grad - Multiple Teams](https://lifeattiktok.com/search/7667767820142643461) &mdash; San Jose, CA · 24d ago · ML
+- [Machine Learning Engineer Graduate - Ads Creative](https://lifeattiktok.com/search/7668681119759616309) &mdash; San Jose, CA · 24d ago · ML
+- [Backend Software Engineer Graduate - Risk & Response](https://lifeattiktok.com/search/7663032057264244997) &mdash; Seattle, WA · 24d ago · SWE
+- [Backend Software Engineer - Machine Moderation Platform](https://lifeattiktok.com/search/7663036950303050037) &mdash; Seattle, WA · 24d ago · SWE
+- [Backend Software Engineer New Grad - Feed Safety](https://lifeattiktok.com/search/7663028952600807733) &mdash; Seattle, WA · 24d ago · SWE
+- [Backend Software Engineer Graduate - Business Governance](https://lifeattiktok.com/search/7663042453461600517) &mdash; San Jose, CA · 24d ago · SWE
+- [Machine Learning Engineer Graduate](https://lifeattiktok.com/search/7665797203155896581) &mdash; San Jose, CA · 24d ago · ML
+- [Backend Software Engineer New Grad - Trust & Safety](https://lifeattiktok.com/search/7665994926887291189) &mdash; San Jose, CA · 24d ago · SWE
+- [Backend Software Engineer New Grad - Emerging Products & AI Safety](https://lifeattiktok.com/search/7663036952090347829) &mdash; San Jose, CA · 24d ago · SWE
+- [Backend Software Engineer New Grad - Trust & Safety](https://lifeattiktok.com/search/7664533229944178949) &mdash; Seattle, WA · 24d ago · SWE
+- [Machine Learning Engineer New Grad - Search Quality](https://lifeattiktok.com/search/7665793152026740997) &mdash; San Jose, CA · 24d ago · ML
+- [Machine Learning Engineer Graduate](https://lifeattiktok.com/search/7667344113001384197) &mdash; San Jose, CA · 24d ago · ML
+- [Machine Learning Engineer New Grad - Data Search Visual Search](https://lifeattiktok.com/search/7667349591747758341) &mdash; San Jose, CA · 24d ago · ML
+- [Machine Learning Engineer Graduate - Data Search Basic Ranking](https://lifeattiktok.com/search/7667344111675246901) &mdash; San Jose, CA · 24d ago · ML
+- [Machine Learning Engineer Graduate](https://lifeattiktok.com/search/7667346543553710389) &mdash; San Jose, CA · 24d ago · ML
+- [Machine Learning Engineer New Grad - Data Search - Visual Search](https://lifeattiktok.com/search/7667346535273007413) &mdash; San Jose, CA · 24d ago · ML
+- [Design Engineering Graduate](https://lifeattiktok.com/search/7667837906192877829) &mdash; San Jose, CA · 24d ago · SWE
+- [Machine Learning Engineer New Grad - Data-Global E-Commerce-Search](https://lifeattiktok.com/search/7668389759463393589) &mdash; Seattle, WA · 24d ago · ML
+- [Machine Learning Engineer New Grad](https://lifeattiktok.com/search/7668376903708281141) &mdash; Seattle, WA · 24d ago · ML
+- [Machine Learning Engineer New Grad - E-Commerce Search](https://lifeattiktok.com/search/7668390999147776309) &mdash; Seattle, WA · 24d ago · ML
+- [Machine Learning Engineer Graduate - Ads Delivery](https://lifeattiktok.com/search/7668660365135808821) &mdash; San Jose, CA · 24d ago · ML
+- [Machine Learning Engineer Graduate - Monetization Technology - Ads Core Global](https://lifeattiktok.com/search/7668592348941273349) &mdash; San Jose, CA · 24d ago · ML
+- [Software Engineer New Grad - Business Integrity](https://lifeattiktok.com/search/7668592494649690421) &mdash; San Jose, CA · 24d ago · SWE
+- [Software Engineer/Mobile Engineer New Grad - Ads Core Demonstration](https://lifeattiktok.com/search/7668701834807101749) &mdash; San Jose, CA · 24d ago · SWE
+- [Software Engineer New Grad - Quality and Efficiency Technology](https://lifeattiktok.com/search/7668680253677504821) &mdash; San Jose, CA · 24d ago · SWE
+- [Machine Learning Engineer Graduate - Monetization Technology - Ads Core Global](https://lifeattiktok.com/search/7668675484492597557) &mdash; San Jose, CA · 24d ago · ML
+- [Machine Learning Engineer Graduate - Brand Ads](https://lifeattiktok.com/search/7668698260232702261) &mdash; San Jose, CA · 24d ago · ML
+- [Machine Learning Engineer Graduate - Ads Targeting](https://lifeattiktok.com/search/7668629846058223877) &mdash; San Jose, CA · 24d ago · ML
+- [Software Engineer Graduate - MLOps](https://lifeattiktok.com/search/7668700671828707589) &mdash; San Jose, CA · 24d ago · SWE
+- [Software Engineer Graduate - Ads Delivery](https://lifeattiktok.com/search/7668662545059023157) &mdash; San Jose, CA · 24d ago · SWE
+- [Machine Learning Engineer Graduate - Ads Creative](https://lifeattiktok.com/search/7668669015051405573) &mdash; San Jose, CA · 24d ago · ML
+- [Software Engineer New Grad - Ads Measurement Signal Technology](https://lifeattiktok.com/search/7668717356843977013) &mdash; San Jose, CA · 24d ago · SWE
+- [Software Engineer New Grad - Ads Signal & Measurement](https://lifeattiktok.com/search/7668724383120804149) &mdash; San Jose, CA · 24d ago · SWE
+- [Data Scientist - Multiple Positions](https://lifeattiktok.com/search/7660649494686976309) &mdash; Culver City, CA · 45d ago · ML
+- [Software Engineer - Data Arch - Data Ecosystem](https://lifeattiktok.com/search/7527441329384147208) &mdash; San Jose, CA · 73d ago · SWE
+- [CV/NLP/Multimodal Large Language Models Machine Learning Engineer Graduate - Tiktok-Trust and Safety](https://lifeattiktok.com/search/7517107684337748242) &mdash; Seattle, WA · 73d ago · ML
+- [Tech Lead Software Engineer - AI & Agent - TikTok Ecosystem & Platform](https://lifeattiktok.com/search/7647672631889873205) &mdash; San Jose, CA · 73d ago · SWE
 
 ### ByteDance (49)
-- [Software Engineer Graduate - AML-Engine-Forge Platform](https://jobs.bytedance.com/en/position/7673306902554102069/detail) &mdash; San Jose, CA · 5d ago · SWE
+- [Software Engineer Graduate - AML-Engine-Forge Platform](https://jobs.bytedance.com/en/position/7673306902554102069/detail) &mdash; San Jose, CA · 6d ago · SWE
 - [Machine Learning Engineer Graduate - E-Commerce Risk Control](https://jobs.bytedance.com/en/position/7675477660855781637/detail) &mdash; San Jose, CA · 8d ago · ML
 - [Machine Learning Engineer Graduate - E-Commerce Risk Control](https://jobs.bytedance.com/en/position/7675472998912051461/detail) &mdash; Seattle, WA · 8d ago · ML
 - [Machine Learning Engineer Graduate - E-Commerce Risk Control](https://jobs.bytedance.com/en/position/7675477254315428149/detail) &mdash; Seattle, WA · 8d ago · ML
 - [Research Engineer Graduate - Seed Infra](https://jobs.bytedance.com/en/position/7673256063231854901/detail) &mdash; Seattle, WA · 14d ago · ML
 - [Research Engineer Graduate - Seed Infra](https://jobs.bytedance.com/en/position/7673254778614253829/detail) &mdash; Seattle, WA · 14d ago · SWE
-- [Machine Learning Engineer Graduate - AML-Engine-Orchestration](https://jobs.bytedance.com/en/position/7672383576726276405/detail) &mdash; Seattle, WA · 15d ago · ML
-- [Agent Evaluation and Evolution Machine Learning Engineer Graduate - Applied Machine Learning Ark](https://jobs.bytedance.com/en/position/7672391016194066693/detail) &mdash; Seattle, WA · 15d ago · ML
-- [Agent Evaluation & Evolution Researcher Graduate - Applied Machine Learning Ark](https://jobs.bytedance.com/en/position/7672391176102676741/detail) &mdash; Seattle, WA · 15d ago · ML
-- [Visual Generation & Multimodal Evaluation Machine Learning Engineer Graduate](https://jobs.bytedance.com/en/position/7672392998189959429/detail) &mdash; Seattle, WA · 15d ago · ML
-- [Research Engineer](https://jobs.bytedance.com/en/position/7672398686110910773/detail) &mdash; Seattle, WA · 15d ago · ML
-- [Data Lake Infrastructure & Data Analytics Research Engineer Graduate - AML-ARK](https://jobs.bytedance.com/en/position/7672395094280063285/detail) &mdash; Seattle, WA · 15d ago · ML
-- [Software Engineer Graduate - AML-Engine-Orchestration](https://jobs.bytedance.com/en/position/7672389697767377205/detail) &mdash; Seattle, WA · 15d ago · SWE
-- [Software Engineer Graduate - AML Engine Orchestration - 2027 Start](https://jobs.bytedance.com/en/position/7671148355447343365/detail) &mdash; San Jose, CA · 16d ago · SWE
-- [Data Lake Infrastructure & Data Analytics Research Engineer Graduate - Applied Machine Learning Ark](https://jobs.bytedance.com/en/position/7671108456554432773/detail) &mdash; San Jose, CA · 16d ago · ML
-- [Visual Generation & Multimodal Evaluation Researcher Graduate - Applied Machine Learning Ark](https://jobs.bytedance.com/en/position/7671103763276663045/detail) &mdash; San Jose, CA · 16d ago · ML
-- [Visual Generation & Multimodal Evaluation Machine Learning Engineer Graduate - Applied Machine Learning Ark](https://jobs.bytedance.com/en/position/7671102043532462389/detail) &mdash; San Jose, CA · 16d ago · ML
-- [Agent Evaluation & Evolution Researcher Graduate - Applied Machine Learning Ark](https://jobs.bytedance.com/en/position/7671095905295075637/detail) &mdash; San Jose, CA · 16d ago · ML
-- [Machine Learning Engineer Graduate - AML-Engine-Orchestration](https://jobs.bytedance.com/en/position/7671141679848933685/detail) &mdash; San Jose, CA · 16d ago · ML
-- [Data Lake Infrastructure & Data Analytics Research Engineer Graduate - Applied Machine Learning Ark](https://jobs.bytedance.com/en/position/7671107540954777861/detail) &mdash; San Jose, CA · 16d ago · ML
-- [Software Development Engineer Graduate - Intent-Based Networking](https://jobs.bytedance.com/en/position/7671145911004842245/detail) &mdash; San Jose, CA · 19d ago · SWE
-- [Large Language Model Training System Engineer Graduate - Applied Machine Learning](https://jobs.bytedance.com/en/position/7667685712993650997/detail) &mdash; San Jose, CA · 19d ago · ML
-- [Large Language Model Inference System Engineer New Grad - Applied Machine Learning](https://jobs.bytedance.com/en/position/7667726338627356933/detail) &mdash; San Jose, CA · 19d ago · ML
-- [LLM Backend Engineer Graduate - Applied Machine Learning](https://jobs.bytedance.com/en/position/7667730992538585349/detail) &mdash; San Jose, CA · 19d ago · ML
-- [Machine Learning Engineer Graduate - Agent Evaluation & Evolution](https://jobs.bytedance.com/en/position/7670932427485186309/detail) &mdash; San Jose, CA · 19d ago · ML
-- [Machine Learning Systems Scheduling Engineer Graduate - Applied Machine Learning](https://jobs.bytedance.com/en/position/7667727006294214965/detail) &mdash; San Jose, CA · 19d ago · ML
+- [Machine Learning Engineer Graduate - AML-Engine-Orchestration](https://jobs.bytedance.com/en/position/7672383576726276405/detail) &mdash; Seattle, WA · 16d ago · ML
+- [Agent Evaluation and Evolution Machine Learning Engineer Graduate - Applied Machine Learning Ark](https://jobs.bytedance.com/en/position/7672391016194066693/detail) &mdash; Seattle, WA · 16d ago · ML
+- [Agent Evaluation & Evolution Researcher Graduate - Applied Machine Learning Ark](https://jobs.bytedance.com/en/position/7672391176102676741/detail) &mdash; Seattle, WA · 16d ago · ML
+- [Visual Generation & Multimodal Evaluation Machine Learning Engineer Graduate](https://jobs.bytedance.com/en/position/7672392998189959429/detail) &mdash; Seattle, WA · 16d ago · ML
+- [Research Engineer](https://jobs.bytedance.com/en/position/7672398686110910773/detail) &mdash; Seattle, WA · 16d ago · ML
+- [Data Lake Infrastructure & Data Analytics Research Engineer Graduate - AML-ARK](https://jobs.bytedance.com/en/position/7672395094280063285/detail) &mdash; Seattle, WA · 16d ago · ML
+- [Software Engineer Graduate - AML-Engine-Orchestration](https://jobs.bytedance.com/en/position/7672389697767377205/detail) &mdash; Seattle, WA · 16d ago · SWE
+- [Software Engineer Graduate - AML Engine Orchestration - 2027 Start](https://jobs.bytedance.com/en/position/7671148355447343365/detail) &mdash; San Jose, CA · 17d ago · SWE
+- [Data Lake Infrastructure & Data Analytics Research Engineer Graduate - Applied Machine Learning Ark](https://jobs.bytedance.com/en/position/7671108456554432773/detail) &mdash; San Jose, CA · 17d ago · ML
+- [Visual Generation & Multimodal Evaluation Researcher Graduate - Applied Machine Learning Ark](https://jobs.bytedance.com/en/position/7671103763276663045/detail) &mdash; San Jose, CA · 17d ago · ML
+- [Visual Generation & Multimodal Evaluation Machine Learning Engineer Graduate - Applied Machine Learning Ark](https://jobs.bytedance.com/en/position/7671102043532462389/detail) &mdash; San Jose, CA · 17d ago · ML
+- [Agent Evaluation & Evolution Researcher Graduate - Applied Machine Learning Ark](https://jobs.bytedance.com/en/position/7671095905295075637/detail) &mdash; San Jose, CA · 17d ago · ML
+- [Machine Learning Engineer Graduate - AML-Engine-Orchestration](https://jobs.bytedance.com/en/position/7671141679848933685/detail) &mdash; San Jose, CA · 17d ago · ML
+- [Data Lake Infrastructure & Data Analytics Research Engineer Graduate - Applied Machine Learning Ark](https://jobs.bytedance.com/en/position/7671107540954777861/detail) &mdash; San Jose, CA · 17d ago · ML
+- [Software Development Engineer Graduate - Intent-Based Networking](https://jobs.bytedance.com/en/position/7671145911004842245/detail) &mdash; San Jose, CA · 20d ago · SWE
+- [Large Language Model Training System Engineer Graduate - Applied Machine Learning](https://jobs.bytedance.com/en/position/7667685712993650997/detail) &mdash; San Jose, CA · 20d ago · ML
+- [Large Language Model Inference System Engineer New Grad - Applied Machine Learning](https://jobs.bytedance.com/en/position/7667726338627356933/detail) &mdash; San Jose, CA · 20d ago · ML
+- [LLM Backend Engineer Graduate - Applied Machine Learning](https://jobs.bytedance.com/en/position/7667730992538585349/detail) &mdash; San Jose, CA · 20d ago · ML
+- [Machine Learning Engineer Graduate - Agent Evaluation & Evolution](https://jobs.bytedance.com/en/position/7670932427485186309/detail) &mdash; San Jose, CA · 20d ago · ML
+- [Machine Learning Systems Scheduling Engineer Graduate - Applied Machine Learning](https://jobs.bytedance.com/en/position/7667727006294214965/detail) &mdash; San Jose, CA · 20d ago · ML
 - [LLM/AI Operations Development Engineer Graduate - Data Center Networking](https://jobs.bytedance.com/en/position/7670773781477394741/detail) &mdash; San Jose, CA · 20d ago · ML
-- [Backend Inference Runtime Engineer New Grad - AML Inference](https://jobs.bytedance.com/en/position/7669789046777940229/detail) &mdash; San Jose, CA · 20d ago · SWE
-- [Machine Learning Backend Engineer Graduate - AML MLDev](https://jobs.bytedance.com/en/position/7669791940490168629/detail) &mdash; San Jose, CA · 20d ago · ML
-- [Applied Machine Learning Production Engineer Graduate - AML Production Engineer](https://jobs.bytedance.com/en/position/7670004502598060341/detail) &mdash; San Jose, CA · 20d ago · ML
-- [Backend Inference Framework Engineer - AML Inference](https://jobs.bytedance.com/en/position/7669670735275526453/detail) &mdash; San Jose, CA · 20d ago · SWE
-- [Graduate Software Engineer - Data-Intelligent Creation-AI Platform-Global Vision Engineering](https://jobs.bytedance.com/en/position/7669859743775000885/detail) &mdash; San Jose, CA · 20d ago · SWE
+- [Backend Inference Runtime Engineer New Grad - AML Inference](https://jobs.bytedance.com/en/position/7669789046777940229/detail) &mdash; San Jose, CA · 21d ago · SWE
+- [Machine Learning Backend Engineer Graduate - AML MLDev](https://jobs.bytedance.com/en/position/7669791940490168629/detail) &mdash; San Jose, CA · 21d ago · ML
+- [Applied Machine Learning Production Engineer Graduate - AML Production Engineer](https://jobs.bytedance.com/en/position/7670004502598060341/detail) &mdash; San Jose, CA · 21d ago · ML
+- [Backend Inference Framework Engineer - AML Inference](https://jobs.bytedance.com/en/position/7669670735275526453/detail) &mdash; San Jose, CA · 21d ago · SWE
+- [Graduate Software Engineer - Data-Intelligent Creation-AI Platform-Global Vision Engineering](https://jobs.bytedance.com/en/position/7669859743775000885/detail) &mdash; San Jose, CA · 21d ago · SWE
 - [Operating System Engineer Graduate - Operating System-System Technologies and Engineering](https://jobs.bytedance.com/en/position/7668461589331642677/detail) &mdash; San Jose, CA · 21d ago · SWE
-- [Graduate AI Model Optimization Engineer - Data Speech Product R&D Engineering](https://jobs.bytedance.com/en/position/7669899962768165173/detail) &mdash; San Jose, CA · 21d ago · SWE
-- [3D Graphics Innovation Engineer - PICO Foundation-Developer Technology](https://jobs.bytedance.com/en/position/7667926830305528117/detail) &mdash; San Jose, CA · 22d ago · SWE
-- [Software Engineer New Grad - AI Infrastructure-Compute Efficiency & Scheduling](https://jobs.bytedance.com/en/position/7668799020705679669/detail) &mdash; Seattle, WA · 23d ago · SWE
-- [Software Engineer New Grad - Traffic Infrastructure](https://jobs.bytedance.com/en/position/7665849950984194309/detail) &mdash; San Jose, CA · 23d ago · SWE
-- [Test Software Engineer Graduate - Research and Development Middle Platform](https://jobs.bytedance.com/en/position/7664894974764828981/detail) &mdash; San Jose, CA · 23d ago · SWE
-- [Security Engineer New Grad - Threat Detection and Response](https://jobs.bytedance.com/en/position/7668614787018393909/detail) &mdash; San Jose, CA · 23d ago · SWE
-- [Backend Software Engineer Graduate - Platform](https://jobs.bytedance.com/en/position/7667269919588321541/detail) &mdash; San Jose, CA · 23d ago · SWE
-- [Software Engineer Graduate - AI Infrastructure Compute](https://jobs.bytedance.com/en/position/7667334059728341253/detail) &mdash; San Jose, CA · 23d ago · SWE
-- [Software Engineer New Grad - AI Infra Compute](https://jobs.bytedance.com/en/position/7667303429264115973/detail) &mdash; Seattle, WA · 23d ago · SWE
-- [Backend Software Engineer Graduate - Platform](https://jobs.bytedance.com/en/position/7667267464923171077/detail) &mdash; NYC · 23d ago · SWE
-- [Research Graduate - AI Infra Compute](https://jobs.bytedance.com/en/position/7667304540048787765/detail) &mdash; Seattle, WA · 23d ago · ML
-- [Software Engineer AI Agent Infrastructure - Security Engineering](https://jobs.bytedance.com/en/position/7667976924430633269/detail) &mdash; San Jose, CA · 23d ago · SWE
-- [Computer Vision Research Engineer Graduate](https://jobs.bytedance.com/en/position/7668433722454935861/detail) &mdash; San Jose, CA · 23d ago · ML
-- [Artificial Intelligence Software Engineer - Development Infrastructure](https://jobs.bytedance.com/en/position/7667901772678302005/detail) &mdash; San Jose, CA · 23d ago · SWE
-- [Backend and Infrastructure Software Engineer New Grad - Dev Infra](https://jobs.bytedance.com/en/position/7667894766036322565/detail) &mdash; San Jose, CA · 23d ago · SWE
-- [Software Engineer Graduate - AI Infrastructure - Compute Efficiency & Scheduling](https://jobs.bytedance.com/en/position/7668799019359357237/detail) &mdash; San Jose, CA · 23d ago · SWE
+- [Graduate AI Model Optimization Engineer - Data Speech Product R&D Engineering](https://jobs.bytedance.com/en/position/7669899962768165173/detail) &mdash; San Jose, CA · 22d ago · SWE
+- [3D Graphics Innovation Engineer - PICO Foundation-Developer Technology](https://jobs.bytedance.com/en/position/7667926830305528117/detail) &mdash; San Jose, CA · 23d ago · SWE
+- [Software Engineer New Grad - AI Infrastructure-Compute Efficiency & Scheduling](https://jobs.bytedance.com/en/position/7668799020705679669/detail) &mdash; Seattle, WA · 24d ago · SWE
+- [Software Engineer New Grad - Traffic Infrastructure](https://jobs.bytedance.com/en/position/7665849950984194309/detail) &mdash; San Jose, CA · 24d ago · SWE
+- [Test Software Engineer Graduate - Research and Development Middle Platform](https://jobs.bytedance.com/en/position/7664894974764828981/detail) &mdash; San Jose, CA · 24d ago · SWE
+- [Security Engineer New Grad - Threat Detection and Response](https://jobs.bytedance.com/en/position/7668614787018393909/detail) &mdash; San Jose, CA · 24d ago · SWE
+- [Backend Software Engineer Graduate - Platform](https://jobs.bytedance.com/en/position/7667269919588321541/detail) &mdash; San Jose, CA · 24d ago · SWE
+- [Software Engineer Graduate - AI Infrastructure Compute](https://jobs.bytedance.com/en/position/7667334059728341253/detail) &mdash; San Jose, CA · 24d ago · SWE
+- [Software Engineer New Grad - AI Infra Compute](https://jobs.bytedance.com/en/position/7667303429264115973/detail) &mdash; Seattle, WA · 24d ago · SWE
+- [Backend Software Engineer Graduate - Platform](https://jobs.bytedance.com/en/position/7667267464923171077/detail) &mdash; NYC · 24d ago · SWE
+- [Research Graduate - AI Infra Compute](https://jobs.bytedance.com/en/position/7667304540048787765/detail) &mdash; Seattle, WA · 24d ago · ML
+- [Software Engineer AI Agent Infrastructure - Security Engineering](https://jobs.bytedance.com/en/position/7667976924430633269/detail) &mdash; San Jose, CA · 24d ago · SWE
+- [Computer Vision Research Engineer Graduate](https://jobs.bytedance.com/en/position/7668433722454935861/detail) &mdash; San Jose, CA · 24d ago · ML
+- [Artificial Intelligence Software Engineer - Development Infrastructure](https://jobs.bytedance.com/en/position/7667901772678302005/detail) &mdash; San Jose, CA · 24d ago · SWE
+- [Backend and Infrastructure Software Engineer New Grad - Dev Infra](https://jobs.bytedance.com/en/position/7667894766036322565/detail) &mdash; San Jose, CA · 24d ago · SWE
+- [Software Engineer Graduate - AI Infrastructure - Compute Efficiency & Scheduling](https://jobs.bytedance.com/en/position/7668799019359357237/detail) &mdash; San Jose, CA · 24d ago · SWE
 
-### Tesla (13)
-- [AI Safety Operator](https://www.tesla.com/careers/search/job/266088) &mdash; Jacksonville, FL · 5d ago · ML
-- [Data Collection Operator - Optimus](https://www.tesla.com/careers/search/job/272817) &mdash; Draper, UT · 12d ago · ML
-- [Data Labeler - Tesla AI](https://www.tesla.com/careers/search/job/279543) &mdash; Tempe, AZ · 19d ago · ML
-- [Data Collection Operator - Optimus](https://www.tesla.com/careers/search/job/279361) &mdash; Doral, FL · 20d ago · ML
-- [Data Collection Operator - Optimus](https://www.tesla.com/careers/search/job/279362) &mdash; Orlando, FL · 20d ago · ML
-- [Data Collection Operator](https://www.tesla.com/careers/search/job/279363) &mdash; Tampa, FL · 20d ago · ML
-- [Data Collection Operator - Optimus](https://www.tesla.com/careers/search/job/270213) &mdash; San Diego, CA · 25d ago · ML
+### Tesla (15)
+- [AI Safety Operator](https://www.tesla.com/careers/search/job/266088) &mdash; Jacksonville, FL · 6d ago · ML
+- [Data Collection Operator - Optimus](https://www.tesla.com/careers/search/job/272817) &mdash; Draper, UT · 13d ago · ML
+- [Data Labeler - Tesla AI](https://www.tesla.com/careers/search/job/279543) &mdash; Tempe, AZ · 20d ago · ML
+- [Data Collection Operator - Optimus](https://www.tesla.com/careers/search/job/279361) &mdash; Doral, FL · 21d ago · ML
+- [Data Collection Operator - Optimus](https://www.tesla.com/careers/search/job/279362) &mdash; Orlando, FL · 21d ago · ML
+- [Data Collection Operator](https://www.tesla.com/careers/search/job/279363) &mdash; Tampa, FL · 21d ago · ML
+- [Data Collection Operator - Optimus](https://www.tesla.com/careers/search/job/270213) &mdash; San Diego, CA · 26d ago · ML
 - [Data Labeler](https://www.tesla.com/careers/search/job/278079) &mdash; Dallas, TX · 32d ago · ML
-- [Data Collection Operator](https://www.tesla.com/careers/search/job/277689) &mdash; Palo Alto, CA · 35d ago · ML
-- [Data Collection Operator - Optimus](https://www.tesla.com/careers/search/job/267142) &mdash; Henderson, NV · 36d ago · ML
+- [Data Collection Operator](https://www.tesla.com/careers/search/job/277689) &mdash; Palo Alto, CA · 36d ago · ML
+- [Data Collection Operator - Optimus](https://www.tesla.com/careers/search/job/267142) &mdash; Henderson, NV · 37d ago · ML
+- [Data Collection Operator - Optimus - Afternoon Shift](https://www.tesla.com/careers/search/job/276807) &mdash; Marina Del Rey, CA · 43d ago · ML
+- [Data Analytics Engineer Scientist - Thermal - Chassis](https://www.tesla.com/careers/search/job/262399) &mdash; Palo Alto, CA · 45d ago · ML
 - [Energy Analyst - Residential Energy](https://www.tesla.com/careers/search/job/276044) &mdash; Henderson, NV · 49d ago · ML
-- [AI Engineer - Whole Body Controls - Optimus](https://www.tesla.com/careers/search/job/275999) &mdash; Palo Alto, CA · 51d ago · ML
-- [Applied Reinforcement Learning Engineer - Whole Body Controls - Optimus](https://www.tesla.com/careers/search/job/276000) &mdash; Palo Alto, CA · 51d ago · ML
+- [AI Engineer - Whole Body Controls - Optimus](https://www.tesla.com/careers/search/job/275999) &mdash; Palo Alto, CA · 52d ago · ML
+- [Applied Reinforcement Learning Engineer - Whole Body Controls - Optimus](https://www.tesla.com/careers/search/job/276000) &mdash; Palo Alto, CA · 52d ago · ML
 
 ### Palantir (12)
-- [Software Engineer New Grad - Production Infrastructure](https://jobs.lever.co/palantir/15844944-fb69-4b57-9531-e988650b20c6/apply) &mdash; Washington, DC · 58d ago · SWE
-- [Software Engineer New Grad - Defense](https://jobs.lever.co/palantir/18d901fc-93bb-4d18-9f04-c72031e20d79/apply) &mdash; Washington, DC · 58d ago · SWE
-- [Software Engineer New Grad - Defense](https://jobs.lever.co/palantir/0a838e66-1ab0-4fc4-b4d3-4671c0352278/apply) &mdash; NYC · 58d ago · SWE
-- [Software Engineer New Grad - Defense](https://jobs.lever.co/palantir/f362d7aa-360d-4059-ab38-f482742693b3/apply) &mdash; Palo Alto, CA · 58d ago · SWE
-- [Forward Deployed Software Engineer New Grad - Commercial](https://jobs.lever.co/palantir/e500bcf3-19d8-4d3c-b340-4d76e4a55b40/apply) &mdash; Chicago, IL · 58d ago · SWE
-- [Forward Deployed Software Engineer New Grad - Commercial](https://jobs.lever.co/palantir/2e6b0ac8-83e9-4be5-a3aa-cf319f751728/apply) &mdash; NYC · 58d ago · SWE
-- [Software Engineer New Grad](https://jobs.lever.co/palantir/c34b424e-caf2-455a-b104-ae1096ccca29/apply) &mdash; Denver, CO · 58d ago · SWE
-- [Privacy & Civil Liberties Engineer New Grad](https://jobs.lever.co/palantir/95e0d2b0-437a-4096-a5c6-0f247f426c90/apply) &mdash; NYC · 61d ago · SWE
-- [Forward Deployed Software Engineer New Grad](https://jobs.lever.co/palantir/cbe90327-3e6e-451c-a54c-1d3cbcef5aeb/apply) &mdash; Washington, DC · 71d ago · SWE
-- [Forward Deployed Software Engineer New Grad](https://jobs.lever.co/palantir/d1ac83d0-e923-42a5-8e6d-58dd0cab25ca/apply) &mdash; NYC · 71d ago · SWE
-- [Forward Deployed Software Engineer New Grad](https://jobs.lever.co/palantir/fbca0358-083a-4222-bdbb-3bd729b48382/apply) &mdash; Washington, DC · 71d ago · SWE
-- [Deployment Strategist New Grad - Intel - US Government](https://jobs.lever.co/palantir/5d8286d6-992a-404b-94af-99c173d40299/apply) &mdash; Washington, DC · 71d ago · ML
+- [Software Engineer New Grad - Production Infrastructure](https://jobs.lever.co/palantir/15844944-fb69-4b57-9531-e988650b20c6/apply) &mdash; Washington, DC · 59d ago · SWE
+- [Software Engineer New Grad - Defense](https://jobs.lever.co/palantir/18d901fc-93bb-4d18-9f04-c72031e20d79/apply) &mdash; Washington, DC · 59d ago · SWE
+- [Software Engineer New Grad - Defense](https://jobs.lever.co/palantir/0a838e66-1ab0-4fc4-b4d3-4671c0352278/apply) &mdash; NYC · 59d ago · SWE
+- [Software Engineer New Grad - Defense](https://jobs.lever.co/palantir/f362d7aa-360d-4059-ab38-f482742693b3/apply) &mdash; Palo Alto, CA · 59d ago · SWE
+- [Forward Deployed Software Engineer New Grad - Commercial](https://jobs.lever.co/palantir/e500bcf3-19d8-4d3c-b340-4d76e4a55b40/apply) &mdash; Chicago, IL · 59d ago · SWE
+- [Forward Deployed Software Engineer New Grad - Commercial](https://jobs.lever.co/palantir/2e6b0ac8-83e9-4be5-a3aa-cf319f751728/apply) &mdash; NYC · 59d ago · SWE
+- [Software Engineer New Grad](https://jobs.lever.co/palantir/c34b424e-caf2-455a-b104-ae1096ccca29/apply) &mdash; Denver, CO · 59d ago · SWE
+- [Privacy & Civil Liberties Engineer New Grad](https://jobs.lever.co/palantir/95e0d2b0-437a-4096-a5c6-0f247f426c90/apply) &mdash; NYC · 62d ago · SWE
+- [Forward Deployed Software Engineer New Grad](https://jobs.lever.co/palantir/cbe90327-3e6e-451c-a54c-1d3cbcef5aeb/apply) &mdash; Washington, DC · 72d ago · SWE
+- [Forward Deployed Software Engineer New Grad](https://jobs.lever.co/palantir/d1ac83d0-e923-42a5-8e6d-58dd0cab25ca/apply) &mdash; NYC · 72d ago · SWE
+- [Forward Deployed Software Engineer New Grad](https://jobs.lever.co/palantir/fbca0358-083a-4222-bdbb-3bd729b48382/apply) &mdash; Washington, DC · 72d ago · SWE
+- [Deployment Strategist New Grad - Intel - US Government](https://jobs.lever.co/palantir/5d8286d6-992a-404b-94af-99c173d40299/apply) &mdash; Washington, DC · 72d ago · ML
 
 ### Susquehanna International Group (SIG) (8)
-- [Quantitative Systematic Trader](https://careers-sig.icims.com/jobs/11019/job?mobile=true&needsRedirect=false) &mdash; Ardmore, PA · 58d ago · Quant
-- [Quantitative Researcher](https://careers-sig.icims.com/jobs/11016/job?mobile=true&needsRedirect=false) &mdash; Ardmore, PA · 58d ago · Quant
-- [Quantitative Systematic Trader](https://careers-sig.icims.com/jobs/11020/job?mobile=true&needsRedirect=false) &mdash; Ardmore, PA · 58d ago · Quant
-- [Quantitative Researcher](https://careers-sig.icims.com/jobs/11017/job?mobile=true&needsRedirect=false) &mdash; Philadelphia, PA, NYC · 58d ago · Quant
-- [Quantitative Systematic Trader](https://careers-sig.icims.com/jobs/11021/job?mobile=true&needsRedirect=false) &mdash; Philadelphia, PA, NYC · 58d ago · Quant
-- [Quantitative Systematic Trader](https://careers-sig.icims.com/jobs/11022/job?mobile=true&needsRedirect=false) &mdash; Philadelphia, PA, NYC · 58d ago · Quant
-- [Quantitative Researcher](https://careers-sig.icims.com/jobs/11015/job?mobile=true&needsRedirect=false) &mdash; Ardmore, PA · 58d ago · Quant
-- [Quantitative Researcher](https://careers-sig.icims.com/jobs/11018/job?mobile=true&needsRedirect=false) &mdash; Philadelphia, PA, NYC · 58d ago · Quant
+- [Quantitative Systematic Trader](https://careers-sig.icims.com/jobs/11019/job?mobile=true&needsRedirect=false) &mdash; Ardmore, PA · 59d ago · Quant
+- [Quantitative Researcher](https://careers-sig.icims.com/jobs/11016/job?mobile=true&needsRedirect=false) &mdash; Ardmore, PA · 59d ago · Quant
+- [Quantitative Systematic Trader](https://careers-sig.icims.com/jobs/11020/job?mobile=true&needsRedirect=false) &mdash; Ardmore, PA · 59d ago · Quant
+- [Quantitative Researcher](https://careers-sig.icims.com/jobs/11017/job?mobile=true&needsRedirect=false) &mdash; Philadelphia, PA, NYC · 59d ago · Quant
+- [Quantitative Systematic Trader](https://careers-sig.icims.com/jobs/11021/job?mobile=true&needsRedirect=false) &mdash; Philadelphia, PA, NYC · 59d ago · Quant
+- [Quantitative Systematic Trader](https://careers-sig.icims.com/jobs/11022/job?mobile=true&needsRedirect=false) &mdash; Philadelphia, PA, NYC · 59d ago · Quant
+- [Quantitative Researcher](https://careers-sig.icims.com/jobs/11015/job?mobile=true&needsRedirect=false) &mdash; Ardmore, PA · 59d ago · Quant
+- [Quantitative Researcher](https://careers-sig.icims.com/jobs/11018/job?mobile=true&needsRedirect=false) &mdash; Philadelphia, PA, NYC · 59d ago · Quant
 
 ### Amazon (5)
 - [Software Development Engineer - Amazon Leo](https://amazon.jobs/en/jobs/10513110/software-development-engineer-amazon-leo-early-career-2026) &mdash; Redmond, WA, Northridge, LA · 2d ago · SWE
-- [Software Development Engineer - Amazon Leo](https://amazon.jobs/en/jobs/3144341/software-development-engineer-amazon-leo-us) &mdash; Redmond, WA, Northridge, LA, Sunnyvale, CA · 34d ago · SWE
-- [EFA Network Software Engineer 1 - Annapurna Labs](https://amazon.jobs/en/jobs/10481932/efa-network-software-engineer-i-annapurna-labs) &mdash; Seattle, WA · 35d ago · SWE
-- [Programmer Analyst 1](https://amazon.jobs/en/jobs/10480255/programmer-analyst-i-ftc) &mdash; Indianapolis, IN, Hyderabad, Telangana, India · 35d ago · SWE
-- [Software Development Engineer - Military Veterans](https://amazon.jobs/en/jobs/3179205/software-development-engineer-military-veterans) &mdash; Seattle, WA, Redmond, WA, Arlington, VA · 43d ago · SWE
+- [Software Development Engineer - Amazon Leo](https://amazon.jobs/en/jobs/3144341/software-development-engineer-amazon-leo-us) &mdash; Redmond, WA, Northridge, LA, Sunnyvale, CA · 35d ago · SWE
+- [EFA Network Software Engineer 1 - Annapurna Labs](https://amazon.jobs/en/jobs/10481932/efa-network-software-engineer-i-annapurna-labs) &mdash; Seattle, WA · 36d ago · SWE
+- [Programmer Analyst 1](https://amazon.jobs/en/jobs/10480255/programmer-analyst-i-ftc) &mdash; Indianapolis, IN, Hyderabad, Telangana, India · 36d ago · SWE
+- [Software Development Engineer - Military Veterans](https://amazon.jobs/en/jobs/3179205/software-development-engineer-military-veterans) &mdash; Seattle, WA, Redmond, WA, Arlington, VA · 44d ago · SWE
 
 ### Citadel (5)
-- [Sector Data Scientist - Central Team](https://www.citadel.com/careers/details/sector-data-scientist-central-team/) &mdash; NYC · 30d ago · ML
-- [Quantitative Trader: Equity Quantitative Research – University Graduate](https://www.citadel.com/careers/details/quantitative-trader-equity-quantitative-research-university-graduate-us/) &mdash; NYC · 50d ago · Quant
-- [Quantitative Research Analyst University Graduate](https://www.citadel.com/careers/details/quantitative-research-analyst-university-graduate-us/) &mdash; Greenwich, CT, Miami, FL, NYC · 51d ago · Quant
-- [Software Engineer – University Graduate](https://www.citadel.com/careers/details/software-engineer-university-graduate-us/) &mdash; Greenwich, CT, Houston, TX, Miami, FL · 51d ago · SWE
-- [Quantitative Researcher](https://www.citadel.com/careers/details/quantitative-researcher-phd-graduate-us/) &mdash; Greenwich, CT, Houston, TX, Miami, FL · 56d ago · Quant
+- [Sector Data Scientist - Central Team](https://www.citadel.com/careers/details/sector-data-scientist-central-team/) &mdash; NYC · 31d ago · ML
+- [Quantitative Trader: Equity Quantitative Research – University Graduate](https://www.citadel.com/careers/details/quantitative-trader-equity-quantitative-research-university-graduate-us/) &mdash; NYC · 51d ago · Quant
+- [Quantitative Research Analyst University Graduate](https://www.citadel.com/careers/details/quantitative-research-analyst-university-graduate-us/) &mdash; Greenwich, CT, Miami, FL, NYC · 52d ago · Quant
+- [Software Engineer – University Graduate](https://www.citadel.com/careers/details/software-engineer-university-graduate-us/) &mdash; Greenwich, CT, Houston, TX, Miami, FL · 52d ago · SWE
+- [Quantitative Researcher](https://www.citadel.com/careers/details/quantitative-researcher-phd-graduate-us/) &mdash; Greenwich, CT, Houston, TX, Miami, FL · 57d ago · Quant
+
+### IMC Trading (5)
+- [Performance Engineer](https://job-boards.eu.greenhouse.io/imc/jobs/4823836101) &mdash; Chicago, IL · today · SWE
+- [Graduate Software Engineer](https://job-boards.eu.greenhouse.io/imc/jobs/4818790101) &mdash; Chicago, IL · 57d ago · SWE
+- [Graduate Quantitative Researcher](https://job-boards.eu.greenhouse.io/imc/jobs/4907368101) &mdash; Chicago, IL · 57d ago · Quant
+- [Graduate Quantitative Trader](https://job-boards.eu.greenhouse.io/imc/jobs/4751729101) &mdash; Chicago, IL · 57d ago · Quant
+- [Graduate Machine Learning Researcher](https://job-boards.eu.greenhouse.io/imc/jobs/4907416101) &mdash; Chicago, IL · 57d ago · ML
 
 ### Apple (4)
-- [Systems Engineer - UI Compositing](https://jobs.apple.com/en-us/details/200680183) &mdash; Cupertino, CA · today · SWE
-- [Darwin Runtime Engineer - Core OS](https://jobs.apple.com/en-us/details/200662330) &mdash; Cupertino, CA · 6d ago · SWE
-- [Software Engineer - Applied Machine Learning - IS&T](https://jobs.apple.com/en-us/details/200677645) &mdash; Austin, TX · 14d ago · SWE
-- [Frontend Engineer](https://jobs.apple.com/en-us/details/200676168) &mdash; Austin, TX · 16d ago · SWE
+- [Systems Engineer - UI Compositing](https://jobs.apple.com/en-us/details/200680183) &mdash; Cupertino, CA · 1d ago · SWE
+- [Darwin Runtime Engineer - Core OS](https://jobs.apple.com/en-us/details/200662330) &mdash; Cupertino, CA · 7d ago · SWE
+- [Software Engineer - Applied Machine Learning - IS&T](https://jobs.apple.com/en-us/details/200677645) &mdash; Austin, TX · 15d ago · SWE
+- [Frontend Engineer](https://jobs.apple.com/en-us/details/200676168) &mdash; Austin, TX · 17d ago · SWE
 
 ### Cerebras (4)
-- [Kernel Engineer New Grad](https://jobs.ashbyhq.com/cerebras/9c7da4b8-446b-4bf2-8d07-23241590bf2e/application?embed=true) &mdash; Canada, United States · 34d ago · SWE
-- [Simulation Engineer New Grad](https://jobs.ashbyhq.com/cerebras/bf6f81b2-f079-483a-9238-295a184b3f0f/application) &mdash; Toronto, ON, Canada, Sunnyvale, CA · 43d ago · SWE
-- [Software Engineer New Grad](https://jobs.ashbyhq.com/cerebras/99c289fa-8fc6-49f7-b7e8-78ac4e9d99ac/application) &mdash; Toronto, ON, Canada, Sunnyvale, CA · 50d ago · SWE
-- [Software Integration Engineer - AI Inference Core](https://jobs.ashbyhq.com/cerebras/90879967-1071-4d05-9180-6e18023ed887/application?embed=true) &mdash; Toronto, ON, Canada, Sunnyvale, CA · 50d ago · SWE
+- [Kernel Engineer New Grad](https://jobs.ashbyhq.com/cerebras/9c7da4b8-446b-4bf2-8d07-23241590bf2e/application?embed=true) &mdash; Canada, United States · 35d ago · SWE
+- [Simulation Engineer New Grad](https://jobs.ashbyhq.com/cerebras/bf6f81b2-f079-483a-9238-295a184b3f0f/application) &mdash; Toronto, ON, Canada, Sunnyvale, CA · 44d ago · SWE
+- [Software Engineer New Grad](https://jobs.ashbyhq.com/cerebras/99c289fa-8fc6-49f7-b7e8-78ac4e9d99ac/application) &mdash; Toronto, ON, Canada, Sunnyvale, CA · 51d ago · SWE
+- [Software Integration Engineer - AI Inference Core](https://jobs.ashbyhq.com/cerebras/90879967-1071-4d05-9180-6e18023ed887/application?embed=true) &mdash; Toronto, ON, Canada, Sunnyvale, CA · 51d ago · SWE
 
 ### Chicago Trading Company (4)
-- [Associate Engineer](https://job-boards.greenhouse.io/chicagotradingcampus/jobs/4716937005) &mdash; Chicago, IL, NYC · 23d ago · SWE
-- [Quant Trading Associate](https://job-boards.greenhouse.io/chicagotradingcampus/jobs/4716507005) &mdash; Chicago, IL · 23d ago · Quant
-- [Associate Engineer](https://job-boards.greenhouse.io/ctccampusboard/jobs/4709991005) &mdash; Chicago, IL, NYC · 26d ago · SWE
-- [Quantitative Trading Associate](https://job-boards.greenhouse.io/ctccampusboard/jobs/4708724005) &mdash; Chicago, IL · 26d ago · Quant
-
-### IMC Trading (4)
-- [Graduate Software Engineer](https://job-boards.eu.greenhouse.io/imc/jobs/4818790101) &mdash; Chicago, IL · 56d ago · SWE
-- [Graduate Quantitative Researcher](https://job-boards.eu.greenhouse.io/imc/jobs/4907368101) &mdash; Chicago, IL · 56d ago · Quant
-- [Graduate Quantitative Trader](https://job-boards.eu.greenhouse.io/imc/jobs/4751729101) &mdash; Chicago, IL · 56d ago · Quant
-- [Graduate Machine Learning Researcher](https://job-boards.eu.greenhouse.io/imc/jobs/4907416101) &mdash; Chicago, IL · 56d ago · ML
+- [Associate Engineer](https://job-boards.greenhouse.io/chicagotradingcampus/jobs/4716937005) &mdash; Chicago, IL, NYC · 24d ago · SWE
+- [Quant Trading Associate](https://job-boards.greenhouse.io/chicagotradingcampus/jobs/4716507005) &mdash; Chicago, IL · 24d ago · Quant
+- [Associate Engineer](https://job-boards.greenhouse.io/ctccampusboard/jobs/4709991005) &mdash; Chicago, IL, NYC · 27d ago · SWE
+- [Quantitative Trading Associate](https://job-boards.greenhouse.io/ctccampusboard/jobs/4708724005) &mdash; Chicago, IL · 27d ago · Quant
 
 ### Jump Trading (4)
-- [Campus Software Engineer](https://boards.greenhouse.io/embed/job_app?token=8000835) &mdash; Chicago, IL · 49d ago · SWE
-- [Campus Quantitative Trader](https://boards.greenhouse.io/embed/job_app?token=7982619) &mdash; Chicago, IL, NYC · 49d ago · Quant
-- [Quantitative Researcher](https://boards.greenhouse.io/embed/job_app?token=7728630) &mdash; Chicago, IL, NYC · 49d ago · Quant
-- [AI Research Engineer](https://boards.greenhouse.io/embed/job_app?token=8052313) &mdash; Chicago, IL, NYC · 49d ago · ML
+- [Campus Software Engineer](https://boards.greenhouse.io/embed/job_app?token=8000835) &mdash; Chicago, IL · 50d ago · SWE
+- [Campus Quantitative Trader](https://boards.greenhouse.io/embed/job_app?token=7982619) &mdash; Chicago, IL, NYC · 50d ago · Quant
+- [Quantitative Researcher](https://boards.greenhouse.io/embed/job_app?token=7728630) &mdash; Chicago, IL, NYC · 50d ago · Quant
+- [AI Research Engineer](https://boards.greenhouse.io/embed/job_app?token=8052313) &mdash; Chicago, IL, NYC · 50d ago · ML
 
 ### Microsoft (4)
-- [Software Development Consultant - Technology Consulting](https://apply.careers.microsoft.com/careers/job/1970393556857973) &mdash; Springfield, VA · 21d ago · SWE
-- [Software Engineer 2 / Senior Software Engineer - Commerce Platforms](https://apply.careers.microsoft.com/careers/job/1970393556928670) &mdash; Redmond, WA · 41d ago · SWE
-- [Software Engineer 2](https://apply.careers.microsoft.com/careers/job/1970393556917742) &mdash; Redmond, WA, Reston, VA · 58d ago · SWE
-- [Software Engineer - Ctj - Poly](https://apply.careers.microsoft.com/careers/job/1970393556860973) &mdash; Annapolis Junction, MD, Reston, VA · 69d ago · SWE
+- [Software Development Consultant - Technology Consulting](https://apply.careers.microsoft.com/careers/job/1970393556857973) &mdash; Springfield, VA · 22d ago · SWE
+- [Software Engineer 2 / Senior Software Engineer - Commerce Platforms](https://apply.careers.microsoft.com/careers/job/1970393556928670) &mdash; Redmond, WA · 42d ago · SWE
+- [Software Engineer 2](https://apply.careers.microsoft.com/careers/job/1970393556917742) &mdash; Redmond, WA, Reston, VA · 59d ago · SWE
+- [Software Engineer - Ctj - Poly](https://apply.careers.microsoft.com/careers/job/1970393556860973) &mdash; Annapolis Junction, MD, Reston, VA · 70d ago · SWE
 
 ### Old Mission (4)
-- [Software Engineer – Graduate Program - August Start](https://www.oldmissioncapital.com/careers/?gh_jid=7796048003) &mdash; Chicago, IL · 44d ago · SWE
-- [Quantitative Trader – Graduate Program - August Start](https://www.oldmissioncapital.com/careers/?gh_jid=7796058003) &mdash; London, UK, Chicago, IL, NYC · 44d ago · Quant
-- [Quantitative Trader Graduate Program](https://www.oldmissioncapital.com/careers/?gh_jid=7796044003) &mdash; Chicago, IL, NYC · 44d ago · Quant
-- [Quantitative Trader](https://www.oldmissioncapital.com/careers/?gh_jid=7796031003) &mdash; Chicago, IL, NYC · 44d ago · Quant
+- [Software Engineer – Graduate Program - August Start](https://www.oldmissioncapital.com/careers/?gh_jid=7796048003) &mdash; Chicago, IL · 45d ago · SWE
+- [Quantitative Trader – Graduate Program - August Start](https://www.oldmissioncapital.com/careers/?gh_jid=7796058003) &mdash; London, UK, Chicago, IL, NYC · 45d ago · Quant
+- [Quantitative Trader Graduate Program](https://www.oldmissioncapital.com/careers/?gh_jid=7796044003) &mdash; Chicago, IL, NYC · 45d ago · Quant
+- [Quantitative Trader](https://www.oldmissioncapital.com/careers/?gh_jid=7796031003) &mdash; Chicago, IL, NYC · 45d ago · Quant
 
 ### Optiver (4)
-- [Graduate Quantitative Researcher](https://www.optiver.com/join-us/jobs/8451763002/?gh_jid=8451763002) &mdash; Austin, TX, Chicago, IL · 56d ago · Quant
-- [Graduate Software Engineer](https://www.optiver.com/join-us/jobs/8604899002/?gh_jid=8604899002) &mdash; Austin, TX · 56d ago · SWE
-- [Graduate Software Engineer](https://www.optiver.com/join-us/jobs/8401042002/?gh_jid=8401042002) &mdash; Chicago, IL · 56d ago · SWE
-- [Graduate Quantitative Researcher](https://www.optiver.com/join-us/jobs/8451762002/?gh_jid=8451762002) &mdash; Austin, TX, Chicago, IL · 56d ago · Quant
+- [Graduate Quantitative Researcher](https://www.optiver.com/join-us/jobs/8451763002/?gh_jid=8451763002) &mdash; Austin, TX, Chicago, IL · 57d ago · Quant
+- [Graduate Software Engineer](https://www.optiver.com/join-us/jobs/8604899002/?gh_jid=8604899002) &mdash; Austin, TX · 57d ago · SWE
+- [Graduate Software Engineer](https://www.optiver.com/join-us/jobs/8401042002/?gh_jid=8401042002) &mdash; Chicago, IL · 57d ago · SWE
+- [Graduate Quantitative Researcher](https://www.optiver.com/join-us/jobs/8451762002/?gh_jid=8451762002) &mdash; Austin, TX, Chicago, IL · 57d ago · Quant
 
 ### Roblox (4)
-- [Software Engineer - Foundation AI](https://careers.roblox.com/jobs/8123004?gh_jid=8123004) &mdash; San Mateo, CA · 9d ago · SWE
-- [Software Engineer - Early Career](https://careers.roblox.com/jobs/8072244?gh_jid=8072244) &mdash; San Mateo, CA · 21d ago · SWE
-- [Senior Machine Learning Engineer - Systems - Embodied AI/Npcs](https://careers.roblox.com/jobs/8027588?gh_jid=8027588) &mdash; San Mateo, CA · 57d ago · ML
-- [Senior Machine Learning Engineer - Systems - Embodied AI/Npcs](https://careers.roblox.com/jobs/8027587?gh_jid=8027587) &mdash; San Mateo, CA · 57d ago · ML
+- [Software Engineer - Foundation AI](https://careers.roblox.com/jobs/8123004?gh_jid=8123004) &mdash; San Mateo, CA · 10d ago · SWE
+- [Software Engineer - Early Career](https://careers.roblox.com/jobs/8072244?gh_jid=8072244) &mdash; San Mateo, CA · 22d ago · SWE
+- [Senior Machine Learning Engineer - Systems - Embodied AI/Npcs](https://careers.roblox.com/jobs/8027588?gh_jid=8027588) &mdash; San Mateo, CA · 58d ago · ML
+- [Senior Machine Learning Engineer - Systems - Embodied AI/Npcs](https://careers.roblox.com/jobs/8027587?gh_jid=8027587) &mdash; San Mateo, CA · 58d ago · ML
 
 ### Salesforce (4)
-- [AI Builder - Emerging Talent](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/AI-Builder--Emerging-Talent_JR357678-1) &mdash; SF, McLean, VA, Chicago, IL · 1d ago · SWE
-- [AI Builder - Emerging Talent](https://salesforce.wd12.myworkdayjobs.com/Futureforce_NewGradRoles/job/California---San-Francisco/AI-Builder--Emerging-Talent_JR357678) &mdash; SF, McLean, VA, Chicago, IL · 1d ago · SWE
-- [Software Engineer College Grad](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Software-Engineering-AMTS--College-Grad-_JR355250-1) &mdash; Palo Alto, CA, Seattle, WA, Indianapolis, IN · 21d ago · SWE
-- [Software Engineer College Grad](https://salesforce.wd12.myworkdayjobs.com/Futureforce_NewGradRoles/job/California---San-Francisco/Software-Engineering-AMTS--College-Grad-_JR355250) &mdash; Palo Alto, CA, Seattle, WA, Indianapolis, IN · 21d ago · SWE
-
-### Anduril (3)
-- [Agentic AI Engineer - Automation](https://boards.greenhouse.io/andurilindustries/jobs/5219383007) &mdash; Costa Mesa, CA · today · SWE
-- [Software Engineer - Tracking](https://boards.greenhouse.io/andurilindustries/jobs/5215629007) &mdash; Fort Collins, CO, Broomfield, CO · 8d ago · SWE
-- [Software Engineer - Battlespace Awareness](https://boards.greenhouse.io/andurilindustries/jobs/5215627007) &mdash; Fort Collins, CO, Broomfield, CO · 8d ago · SWE
+- [AI Builder - Emerging Talent](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/AI-Builder--Emerging-Talent_JR357678-1) &mdash; SF, McLean, VA, Chicago, IL · 2d ago · SWE
+- [AI Builder - Emerging Talent](https://salesforce.wd12.myworkdayjobs.com/Futureforce_NewGradRoles/job/California---San-Francisco/AI-Builder--Emerging-Talent_JR357678) &mdash; SF, McLean, VA, Chicago, IL · 2d ago · SWE
+- [Software Engineer College Grad](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Software-Engineering-AMTS--College-Grad-_JR355250-1) &mdash; Palo Alto, CA, Seattle, WA, Indianapolis, IN · 22d ago · SWE
+- [Software Engineer College Grad](https://salesforce.wd12.myworkdayjobs.com/Futureforce_NewGradRoles/job/California---San-Francisco/Software-Engineering-AMTS--College-Grad-_JR355250) &mdash; Palo Alto, CA, Seattle, WA, Indianapolis, IN · 22d ago · SWE
 
 ### Citadel Securities (3)
-- [Quantitative AI Technical Staff](https://www.citadelsecurities.com/careers/details/quantitative-ai-technical-staff/) &mdash; Miami, FL · 35d ago · ML
-- [Graduate Software Engineer](https://www.citadelsecurities.com/careers/details/software-engineer-university-graduate-us/) &mdash; Miami, FL, NYC · 51d ago · SWE
-- [Quantitative Research Engineer](https://www.citadelsecurities.com/careers/details/quantitative-research-engineer-phd-graduate-us/) &mdash; Miami, FL, NYC · 56d ago · Quant
+- [Quantitative AI Technical Staff](https://www.citadelsecurities.com/careers/details/quantitative-ai-technical-staff/) &mdash; Miami, FL · 36d ago · ML
+- [Graduate Software Engineer](https://www.citadelsecurities.com/careers/details/software-engineer-university-graduate-us/) &mdash; Miami, FL, NYC · 52d ago · SWE
+- [Quantitative Research Engineer](https://www.citadelsecurities.com/careers/details/quantitative-research-engineer-phd-graduate-us/) &mdash; Miami, FL, NYC · 57d ago · Quant
 
 ### Hudson River Trading (3)
-- [Software Engineer - C++ or Python](https://www.hudsonrivertrading.com/careers/job/?gh_jid=8052122) &mdash; Austin, TX, Chicago, IL, NYC · 44d ago · SWE
-- [Algorithm Developer New Grad - Quant Researcher](https://www.hudsonrivertrading.com/careers/job/?gh_jid=8052050) &mdash; NYC · 44d ago · Quant
-- [Algorithm Developer - Quant Researcher](https://www.hudsonrivertrading.com/careers/job/?gh_jid=8059845) &mdash; NYC · 44d ago · Quant
+- [Software Engineer - C++ or Python](https://www.hudsonrivertrading.com/careers/job/?gh_jid=8052122) &mdash; Austin, TX, Chicago, IL, NYC · 45d ago · SWE
+- [Algorithm Developer New Grad - Quant Researcher](https://www.hudsonrivertrading.com/careers/job/?gh_jid=8052050) &mdash; NYC · 45d ago · Quant
+- [Algorithm Developer - Quant Researcher](https://www.hudsonrivertrading.com/careers/job/?gh_jid=8059845) &mdash; NYC · 45d ago · Quant
 
 ### NVIDIA (3)
-- [Research Engineer New Grad - Interactive World Models](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Engineer--Interactive-World-Models---New-College-Grad-2026_JR2023950) &mdash; Santa Clara, CA · 6d ago · ML
-- [Architecture Energy Modeling Engineer - Power Modeling, Methodology and Analysis](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Architecture-Energy-Modeling-Engineer---New-College-Grad-2026_JR2023398) &mdash; Santa Clara, CA · 6d ago · ML
-- [Backend Compiler Engineer New Grad](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Backend-Compiler-Engineer---New-College-Grad-2026_JR2021242) &mdash; Canada, Santa Clara, CA · 45d ago · SWE
+- [Research Engineer New Grad - Interactive World Models](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Engineer--Interactive-World-Models---New-College-Grad-2026_JR2023950) &mdash; Santa Clara, CA · 7d ago · ML
+- [Architecture Energy Modeling Engineer - Power Modeling, Methodology and Analysis](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Architecture-Energy-Modeling-Engineer---New-College-Grad-2026_JR2023398) &mdash; Santa Clara, CA · 7d ago · ML
+- [Backend Compiler Engineer New Grad](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Backend-Compiler-Engineer---New-College-Grad-2026_JR2021242) &mdash; Canada, Santa Clara, CA · 46d ago · SWE
+
+### Anduril (2)
+- [Software Engineer - Tracking](https://boards.greenhouse.io/andurilindustries/jobs/5215629007) &mdash; Fort Collins, CO, Broomfield, CO · 8d ago · SWE
+- [Software Engineer - Battlespace Awareness](https://boards.greenhouse.io/andurilindustries/jobs/5215627007) &mdash; Fort Collins, CO, Broomfield, CO · 8d ago · SWE
 
 ### Applied Intuition (2)
 - [Software Engineer New Grad - December 2026](https://jobs.ashbyhq.com/applied/a837cbd6-9fe4-4d74-a2dc-84f602c40694/application?embed=true) &mdash; Ann Arbor, MI, Sunnyvale, CA · 12d ago · SWE
 - [Research Engineer New Grad](https://jobs.ashbyhq.com/applied/45fc41cd-8280-4010-ba1f-def6114b3e39/application?embed=true) &mdash; Sunnyvale, CA · 12d ago · ML
 
 ### Belvedere Trading (2)
-- [Quantitative Trader](https://jobs.lever.co/belvederetrading/34369a5c-55c0-4e9f-9d2e-4f21b9418bee/apply) &mdash; Chicago, IL · 19d ago · Quant
-- [Software Engineer](https://jobs.lever.co/belvederetrading/2f6480e5-7bf1-4c41-b3b5-3c7404d95b5f/apply) &mdash; Chicago, IL · 19d ago · SWE
+- [Quantitative Trader](https://jobs.lever.co/belvederetrading/34369a5c-55c0-4e9f-9d2e-4f21b9418bee/apply) &mdash; Chicago, IL · 20d ago · Quant
+- [Software Engineer](https://jobs.lever.co/belvederetrading/2f6480e5-7bf1-4c41-b3b5-3c7404d95b5f/apply) &mdash; Chicago, IL · 20d ago · SWE
 
 ### Bridgewater Associates (2)
-- [Trading Associate](https://job-boards.greenhouse.io/bridgewater89/jobs/8750718002) &mdash; Westport, CT · today · Quant
-- [Trading Associate](https://job-boards.greenhouse.io/bwaltpostings/jobs/8750719002) &mdash; Westport, CT · today · Quant
+- [Trading Associate](https://job-boards.greenhouse.io/bridgewater89/jobs/8750718002) &mdash; Westport, CT · 1d ago · Quant
+- [Trading Associate](https://job-boards.greenhouse.io/bwaltpostings/jobs/8750719002) &mdash; Westport, CT · 1d ago · Quant
 
 ### DRW (2)
-- [Software Developer](https://job-boards.greenhouse.io/drweng/jobs/7980165) &mdash; Chicago, IL · 44d ago · SWE
-- [Quantitative Researcher](https://job-boards.greenhouse.io/drweng/jobs/8030406) &mdash; Chicago, IL, NYC · 44d ago · Quant
+- [Software Developer](https://job-boards.greenhouse.io/drweng/jobs/7980165) &mdash; Chicago, IL · 45d ago · SWE
+- [Quantitative Researcher](https://job-boards.greenhouse.io/drweng/jobs/8030406) &mdash; Chicago, IL, NYC · 45d ago · Quant
 
 ### Five Rings Capital (2)
-- [Campus Full Time - Software Developer](https://job-boards.greenhouse.io/fiveringsllc/jobs/5349839008) &mdash; NYC · 43d ago · SWE
-- [Quantitative Trader - Quantitative Trader](https://job-boards.greenhouse.io/fiveringsllc/jobs/5255334008) &mdash; NYC · 43d ago · Quant
+- [Campus Full Time - Software Developer](https://job-boards.greenhouse.io/fiveringsllc/jobs/5349839008) &mdash; NYC · 44d ago · SWE
+- [Quantitative Trader - Quantitative Trader](https://job-boards.greenhouse.io/fiveringsllc/jobs/5255334008) &mdash; NYC · 44d ago · Quant
 
 ### Google (2)
-- [Software Engineer Early Career - Multiple Teams](https://www.google.com/about/careers/applications/jobs/results/84680705375642310) &mdash; Madison, WI, Seattle, WA, Austin, TX · 2d ago · SWE
-- [Software Engineer - Campus](https://www.google.com/about/careers/applications/jobs/results/78703249065943750) &mdash; Cambridge, MA, Seattle, WA, LA · 19d ago · SWE
+- [Software Engineer Early Career - Multiple Teams](https://www.google.com/about/careers/applications/jobs/results/84680705375642310) &mdash; Madison, WI, Seattle, WA, Austin, TX · 3d ago · SWE
+- [Software Engineer - Campus](https://www.google.com/about/careers/applications/jobs/results/78703249065943750) &mdash; Cambridge, MA, Seattle, WA, LA · 20d ago · SWE
+
+### Instacart (2)
+- [Senior Machine Learning Engineer - Economist](https://instacart.careers/job/?gh_jid=8157736) &mdash; Remote in USA · today · ML
+- [Senior Machine Learning Engineer - Economics](https://instacart.careers/job/?gh_jid=8157738) &mdash; Remote in Canada · today · ML
 
 ### Susquehanna International Group (2)
-- [Trading System Engineer New Grad](https://careers-sig.icims.com/jobs/11349/job?mobile=true&needsRedirect=false) &mdash; Bala Cynwyd, PA · 5d ago · Quant
-- [Quantitative Strategy Developer New Grad](https://careers-sig.icims.com/jobs/11321/job?mobile=true&needsRedirect=false) &mdash; Bala Cynwyd, PA · 7d ago · Quant
+- [Trading System Engineer New Grad](https://careers-sig.icims.com/jobs/11349/job?mobile=true&needsRedirect=false) &mdash; Bala Cynwyd, PA · 6d ago · Quant
+- [Quantitative Strategy Developer New Grad](https://careers-sig.icims.com/jobs/11321/job?mobile=true&needsRedirect=false) &mdash; Bala Cynwyd, PA · 8d ago · Quant
 
 ### Wolverine Trading (2)
 - [Entry Level C++ Software Engineer](https://wolve.pinpointhq.com/en/postings/1f33c89b-2592-498d-b45a-1b2092cf944e?ats=pinpointhq) &mdash; Chicago, IL · 12d ago · SWE
 - [Entry Level C++ Software Engineer](https://wolve.pinpointhq.com/en/postings/e03d9864-a128-40ff-91b5-dfc9fd1b59d6?ats=pinpointhq) &mdash; Chicago, IL · 12d ago · SWE
 
 ### Zoox (2)
-- [Data Analyst](https://jobs.lever.co/zoox/11d7b37e-4420-4619-a465-d387ffc6ee16/apply) &mdash; Foster City, CA · 6d ago · ML
-- [Analyst Student Worker](https://jobs.lever.co/zoox/737259b5-4258-4557-b7e0-0627b3d870a5/apply) &mdash; Foster City, CA · 22d ago · ML
+- [Data Analyst](https://jobs.lever.co/zoox/11d7b37e-4420-4619-a465-d387ffc6ee16/apply) &mdash; Foster City, CA · 7d ago · ML
+- [Analyst Student Worker](https://jobs.lever.co/zoox/737259b5-4258-4557-b7e0-0627b3d870a5/apply) &mdash; Foster City, CA · 23d ago · ML
 
 ### Adobe (1)
-- [Photoshop Developer - GPU/Imaging](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Francisco/Photoshop-Developer--GPU-Imaging_R171014) &mdash; Seattle, WA, SF, San Jose, CA · 16d ago · SWE
+- [Photoshop Developer - GPU/Imaging](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Francisco/Photoshop-Developer--GPU-Imaging_R171014) &mdash; Seattle, WA, SF, San Jose, CA · 17d ago · SWE
 
 ### AQR Capital Management (1)
-- [Trading Analyst](https://careers.aqr.com/jobs?gh_jid=8156709&gh_jid=8156709) &mdash; Greenwich, CT · 1d ago · Quant
+- [Trading Analyst](https://careers.aqr.com/jobs?gh_jid=8156709&gh_jid=8156709) &mdash; Greenwich, CT · 2d ago · Quant
 
 ### Figure (1)
-- [Data Creator](https://job-boards.greenhouse.io/figureai/jobs/4585080006) &mdash; San Jose, CA · 41d ago · ML
+- [Data Creator](https://job-boards.greenhouse.io/figureai/jobs/4585080006) &mdash; San Jose, CA · 42d ago · ML
 
 ### Flow Traders (1)
-- [Graduate Quantitative Trader](https://job-boards.greenhouse.io/flowtraders/jobs/8094581) &mdash; NYC · 28d ago · Quant
+- [Graduate Quantitative Trader](https://job-boards.greenhouse.io/flowtraders/jobs/8094581) &mdash; NYC · 29d ago · Quant
 
 ### Headlands Tech Holdings (1)
-- [Research Developer New Grad](https://job-boards.greenhouse.io/headlandstechnologiesllc/jobs/4227566009) &mdash; London, UK, Chicago, IL, NYC · 52d ago · ML
+- [Research Developer New Grad](https://job-boards.greenhouse.io/headlandstechnologiesllc/jobs/4227566009) &mdash; London, UK, Chicago, IL, NYC · 53d ago · ML
 
 ### Man Group (1)
-- [Systematic Quant Graduate Rotational](https://job-boards.eu.greenhouse.io/mangroup/jobs/4960444101) &mdash; Boston, MA · 1d ago · Quant
+- [Systematic Quant Graduate Rotational](https://job-boards.eu.greenhouse.io/mangroup/jobs/4960444101) &mdash; Boston, MA · 2d ago · Quant
 
 ### Marshall Wace (1)
-- [Quant Research - Quantitative Associate Programme](https://job-boards.greenhouse.io/mw-tech-grad/jobs/8636830002) &mdash; London, UK, NYC · today · Quant
+- [Quant Research - Quantitative Associate Programme](https://job-boards.greenhouse.io/mw-tech-grad/jobs/8636830002) &mdash; London, UK, NYC · 1d ago · Quant
 
 ### Point72 (1)
-- [Software Developer - Developers](https://boards.greenhouse.io/point72/jobs/7598678002) &mdash; NYC · 7d ago · Quant
+- [Software Developer - Developers](https://boards.greenhouse.io/point72/jobs/7598678002) &mdash; NYC · 8d ago · Quant
 
 ### ServiceNow (1)
 - [Associate Applications Development Engineer](https://jobs.smartrecruiters.com/ServiceNow/744000144653619) &mdash; Santa Clara, CA · 6d ago · SWE
 
 ### The Voleon Group (1)
-- [Software Engineer - University Hire 2027](https://jobs.ashbyhq.com/voleon/d732fd5a-ac98-4985-9e60-d1d59f02a66c/application?embed=true) &mdash; Berkeley, CA, NYC · 1d ago · SWE
+- [Software Engineer - University Hire 2027](https://jobs.ashbyhq.com/voleon/d732fd5a-ac98-4985-9e60-d1d59f02a66c/application?embed=true) &mdash; Berkeley, CA, NYC · 2d ago · SWE
 
 ### Tower Research Capital (1)
-- [Quantitative Trader](https://www.tower-research.com/open-positions/?gh_jid=8024142) &mdash; Chicago, IL, NYC · 52d ago · Quant
+- [Quantitative Trader](https://www.tower-research.com/open-positions/?gh_jid=8024142) &mdash; Chicago, IL, NYC · 53d ago · Quant
 
 ### Two Sigma (1)
 - [Quantitative Researcher - Full-Time Campus Hire](https://twosigma.avature.net/careers/JobDetail/13946) &mdash; NYC · 25d ago · Quant
 
 ### Walleye Capital (1)
-- [Quantitative Researcher - Single Stock Volatility](https://job-boards.greenhouse.io/walleyecapital-external-fulltime/jobs/4690167006) &mdash; Miami, FL · 20d ago · Quant
-
-### Wintermute (1)
-- [Trading Analyst](https://jobs.lever.co/wintermute-trading/81f14b93-9b5b-42c1-96d9-56c0cfa9e44e/apply) &mdash; NYC · 6d ago · Quant
+- [Quantitative Researcher - Single Stock Volatility](https://job-boards.greenhouse.io/walleyecapital-external-fulltime/jobs/4690167006) &mdash; Miami, FL · 21d ago · Quant
 
 ### WorldQuant (1)
-- [Quantitative Developer - Portfolio Management Solutions](https://job-boards.greenhouse.io/worldquant/jobs/4700347006) &mdash; Connecticut, NYC · 13d ago · Quant
+- [Quantitative Developer - Portfolio Management Solutions](https://job-boards.greenhouse.io/worldquant/jobs/4700347006) &mdash; Connecticut, NYC · 14d ago · Quant
 
 ### xAI (1)
-- [Software Engineer - Evals](https://job-boards.greenhouse.io/xai/jobs/5188230007) &mdash; Palo Alto, CA · 35d ago · SWE
+- [Software Engineer - Evals](https://job-boards.greenhouse.io/xai/jobs/5188230007) &mdash; Palo Alto, CA · 36d ago · SWE
 <!-- JOBS:END -->
 
 ---
