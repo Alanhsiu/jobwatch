@@ -1,0 +1,13 @@
+{
+  "name": "jobwatch-e2e",
+  "version": "2.0.0",
+  "private": true,
+  "description": "Playwright specs for the jobwatch tracker (§12.3). Run from the repo root: node --test 'e2e/*.spec.mjs'",
+  "scripts": {
+    "test": "node --test *.spec.mjs"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "playwright": "1.62.1"
+  }
+}
