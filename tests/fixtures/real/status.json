@@ -1,0 +1,514 @@
+{
+ "simplify:036f95f0-b954-4120-bd02-980666b57a4d": {
+  "s": "applied"
+ },
+ "simplify:b3876b2d-c196-46fb-96c4-bbb3e767c0b0": {
+  "s": "applied"
+ },
+ "simplify:5de30536-7ed9-4121-977c-734010710c22": {
+  "s": "applied"
+ },
+ "simplify:75726ef3-f9b8-48b0-a583-16fb91a0f78a": {
+  "s": "dropped"
+ },
+ "simplify:2c2aafd9-d2b4-4c8e-a730-7169cb5ae715": {
+  "s": "dropped"
+ },
+ "simplify:4390c758-6e51-424d-a81b-424561f1847e": {
+  "s": "dropped"
+ },
+ "simplify:e3155c50-29ce-48b3-a6f0-47903713b81b": {
+  "s": "dropped"
+ },
+ "simplify:504f0b08-afb2-4964-b3cd-5dee1937b1ad": {
+  "s": "dropped"
+ },
+ "simplify:ba5a942e-be3c-493b-9ef4-bf0dbc07a0ce": {
+  "s": "oa"
+ },
+ "simplify:5ea8412e-6f15-4f24-b9a2-a32f48b02a27": {
+  "s": "dropped"
+ },
+ "simplify:a92f1e72-634c-4222-886a-0b93307f9477": {
+  "s": "dropped"
+ },
+ "simplify:0ddd865a-c11f-4160-8014-9d9cb6889252": {
+  "s": "dropped"
+ },
+ "simplify:73cbd0da-d5af-4887-a89e-c404bc218ef3": {
+  "s": "dropped"
+ },
+ "simplify:5be19b71-5be3-40a9-ac72-91fc3223c702": {
+  "s": "dropped"
+ },
+ "simplify:0489a50d-5cd6-4f17-8222-4ac7f89961cf": {
+  "s": "dropped"
+ },
+ "simplify:bd0b2123-9f3b-49ff-9a03-199d556d06fb": {
+  "s": "dropped"
+ },
+ "simplify:e03e4fce-69ff-4c7c-9d31-8e33a590167d": {
+  "s": "applied"
+ },
+ "simplify:f65657ff-9f42-4256-ac69-c3a4b36628ea": {
+  "s": "dropped"
+ },
+ "simplify:27a0f900-c5b2-4b8f-85c2-8614ea5badf0": {
+  "s": "dropped"
+ },
+ "simplify:4c9197d3-4b8c-421b-916c-604704af2f25": {
+  "s": "dropped"
+ },
+ "simplify:de413639-c1d4-4d67-91c6-800f92bfe49b": {
+  "s": "dropped"
+ },
+ "simplify:6d55f27f-9786-4c75-ab7c-c79dd9c729e0": {
+  "s": "applied"
+ },
+ "simplify:0ad7f4c0-4ab8-4bed-8204-15a557a79c1e": {
+  "s": "dropped"
+ },
+ "simplify:ae2ced0f-f2e0-45de-9937-89deb69a3565": {
+  "s": "applied"
+ },
+ "simplify:707771fb-25df-4144-b1f3-3c16c3211429": {
+  "s": "applied"
+ },
+ "simplify:9b3d2be7-1291-4e46-8d88-5212363141cd": {
+  "s": "applied"
+ },
+ "simplify:74127152-f238-47ca-b3b4-df49a5135001": {
+  "s": "applied"
+ },
+ "simplify:0e014b55-7295-4b7b-817a-ee4f8de89e5f": {
+  "s": "applied"
+ },
+ "simplify:c0479012-54e4-478d-922f-1948cd356ac4": {
+  "s": "dropped"
+ },
+ "simplify:cb54a03c-1819-40d6-85dd-7c94b79b337e": {
+  "s": "applied"
+ },
+ "simplify:91e63edf-634a-438a-8645-8b316d48cfcf": {
+  "s": "dropped"
+ },
+ "simplify:c0ac6ad4-9461-42b9-9740-6caf78973162": {
+  "s": "applied"
+ },
+ "simplify:293f49e2-46ed-4681-8434-d125238c93fa": {
+  "s": "applied"
+ },
+ "simplify:41d187c2-7c7d-4c78-bfeb-532bbe7ca543": {
+  "s": "dropped"
+ },
+ "simplify:aafa1895-fe91-4e4b-af42-cf3c9ef2d784": {
+  "s": "rejected"
+ },
+ "simplify:460b6640-45d1-4a42-94ac-6d460f1287b6": {
+  "s": "rejected"
+ },
+ "simplify:d0a9a917-c584-4609-9cdb-f603bc663215": {
+  "s": "dropped"
+ },
+ "simplify:dcd3cb09-4002-414a-be27-7ef51ee4ded9": {
+  "s": "dropped"
+ },
+ "simplify:516cd8de-9e5d-41e9-ba3a-8390dc0a1d84": {
+  "s": "dropped"
+ },
+ "simplify:5825825a-af07-4016-acd3-ebb1c85f9d91": {
+  "s": "applied"
+ },
+ "simplify:1fa3e9a7-321d-47ac-ac1b-3223f34a6cbf": {
+  "s": "dropped"
+ },
+ "simplify:5a3af054-4413-4265-a625-02bc1cc34542": {
+  "s": "dropped"
+ },
+ "simplify:a49e7579-210f-49f7-8f18-b3e7c9767e76": {
+  "s": "dropped"
+ },
+ "simplify:5b67def9-a0ed-4081-8704-cad041d68197": {
+  "s": "dropped"
+ },
+ "simplify:beae5fed-5dcf-4894-bb75-645072927b79": {
+  "s": "dropped"
+ },
+ "simplify:cd77dcd5-5398-4e0e-933c-9a0d9ec1ddc0": {
+  "s": "dropped"
+ },
+ "simplify:b09d7306-4475-4ca5-be47-5b9888b848ec": {
+  "s": "dropped"
+ },
+ "simplify:1941cf58-d377-4f13-8d66-ee6d978d4f5a": {
+  "s": "dropped"
+ },
+ "simplify:f23af277-4d3f-4466-bf58-2551a4eff09a": {
+  "s": "applied"
+ },
+ "simplify:bdc4dc00-1451-4635-9061-5f99a7bb9c42": {
+  "s": "interview"
+ },
+ "simplify:5735479a-0db8-4cb4-b4d1-faf8deb278c3": {
+  "s": "dropped"
+ },
+ "simplify:e86b89ae-77b5-4654-8e2f-f42f32a10866": {
+  "s": "applied"
+ },
+ "simplify:33d712fe-87e1-49e6-ba71-1dd17d118d63": {
+  "s": "dropped"
+ },
+ "simplify:dcd794ed-4bea-4e26-81ff-e15bcf21d74a": {
+  "s": "applied"
+ },
+ "simplify:cab69aff-72b9-4758-b1e7-b89d00f92f99": {
+  "s": "oa"
+ },
+ "simplify:c672badc-9657-46ee-bfdf-c31ec6e4308c": {
+  "s": "dropped"
+ },
+ "simplify:1c8d5fb4-7d30-4fff-adcc-7926baadf184": {
+  "s": "applied"
+ },
+ "simplify:1f372754-6b14-48cf-8c8f-f0cf5c56ae82": {
+  "s": "dropped"
+ },
+ "simplify:2da60465-c35e-418c-ba70-4bdf052f70b7": {
+  "s": "dropped"
+ },
+ "simplify:057e0386-1d1a-425c-b6a6-d6e3374a3d52": {
+  "s": "dropped"
+ },
+ "simplify:645100d8-0e6e-414b-aa7c-96ecb3ea36e4": {
+  "s": "dropped"
+ },
+ "simplify:345a57b5-fae1-45c1-8deb-5bbec4479e03": {
+  "s": "dropped"
+ },
+ "simplify:267d5473-4baf-4bba-ba9c-ccd65a1c0e30": {
+  "s": "dropped"
+ },
+ "simplify:fef271f0-0395-41e1-bc64-b0f2f454e58f": {
+  "s": "dropped"
+ },
+ "simplify:7e134007-3fa8-4732-84ca-e7119c8f4116": {
+  "s": "dropped"
+ },
+ "simplify:6f509f3e-5e63-482f-8eb9-7847a0c9d9b6": {
+  "s": "dropped"
+ },
+ "simplify:f6f83b45-cf4c-4a3e-8f32-4c64672610a1": {
+  "s": "dropped"
+ },
+ "simplify:1f6bee99-9cca-467c-a0b3-899d61139a03": {
+  "s": "dropped"
+ },
+ "simplify:50390a34-333d-471c-9a4b-c2b34ecb25ad": {
+  "s": "dropped"
+ },
+ "simplify:2f5cd43f-64f8-4bb0-b465-626e62376256": {
+  "s": "dropped"
+ },
+ "simplify:b2121226-8983-4430-91a7-95bf8bc84e96": {
+  "s": "dropped"
+ },
+ "simplify:2306c8cb-5299-4e79-9eb0-b728d55ed1ca": {
+  "s": "dropped"
+ },
+ "simplify:809e3bd7-037b-470d-9d66-42bb3152d971": {
+  "s": "dropped"
+ },
+ "simplify:b3ed9e95-62a3-4499-b1b0-38840f1f4711": {
+  "s": "dropped"
+ },
+ "simplify:a7f7b2b9-28f5-4516-aece-535cd1c0c1b1": {
+  "s": "dropped"
+ },
+ "simplify:373ffa0d-6efb-4fdc-9e34-45018a822f3d": {
+  "s": "rejected"
+ },
+ "simplify:f1025b20-1cf5-4f9d-8505-a81fea68f463": {
+  "s": "applied"
+ },
+ "simplify:d50dd4f1-ca8c-4636-9452-4d9f4073bd45": {
+  "s": "dropped"
+ },
+ "simplify:1b9c1f91-ca52-4298-9890-c44895c6b362": {
+  "s": "dropped"
+ },
+ "simplify:328f9f48-1b9a-42bd-8438-ab12c2bde5bf": {
+  "s": "dropped"
+ },
+ "simplify:3ace8680-5997-4467-ad7e-82ecc656e241": {
+  "s": "applied"
+ },
+ "simplify:1da6cc61-1253-4949-8dcd-75e3f4e196c4": {
+  "s": "dropped"
+ },
+ "simplify:053e56c0-3d9e-4d1c-83c7-b891671a652c": {
+  "s": "applied"
+ },
+ "simplify:90b92c02-68ac-4402-b8f2-91494bc89e19": {
+  "s": "oa"
+ },
+ "simplify:7b0d6688-299a-480f-9354-5e5e92b47e2c": {
+  "s": "rejected"
+ },
+ "manual:mrx6adqyn8q7": {
+  "s": "applied"
+ },
+ "simplify:5b94931b-c8c1-4030-94fd-b855ea4581c5": {
+  "s": "dropped"
+ },
+ "simplify:d7cdec21-1d63-46c8-8dee-3c6968019ca3": {
+  "s": "dropped"
+ },
+ "simplify:d6ad51e0-366b-4b13-b829-8c5dacf13565": {
+  "s": "dropped"
+ },
+ "simplify:a98768c3-1d79-4f8a-89a9-d3357004a2de": {
+  "s": "dropped"
+ },
+ "simplify:acbc4b8d-0115-4cb4-aac8-da1952d07302": {
+  "s": "dropped"
+ },
+ "simplify:fb8993b6-84c3-4607-801f-ed29b702f2f8": {
+  "s": "applied",
+  "star": true
+ },
+ "simplify:04717815-82d1-4302-86fb-a6af53c3ba93": {
+  "s": "dropped"
+ },
+ "simplify:bb7aa421-4cfb-4baa-9fc0-bea49fa9b593": {
+  "s": "dropped"
+ },
+ "simplify:b303c78e-833c-439d-ae95-e3911da5ceb8": {
+  "s": "dropped"
+ },
+ "simplify:d99e79b4-f18b-4a9e-b735-a92318ea73e9": {
+  "s": "dropped"
+ },
+ "simplify:ac3e9cad-2324-4beb-a175-1d9b537b0de9": {
+  "s": "dropped"
+ },
+ "simplify:926f6a3a-e7a1-426f-b008-2345912b0b2e": {
+  "s": "oa"
+ },
+ "simplify:04b469a0-dcfe-4ba4-b011-d0cbc2f2f6bf": {
+  "s": "dropped"
+ },
+ "simplify:b2ffbf79-12f6-4a0d-a44f-81db7e09aaaf": {
+  "s": "oa"
+ },
+ "simplify:d1bd4c62-1898-4f9d-be41-c433dacb61f5": {
+  "s": "applied"
+ },
+ "simplify:57c0a0af-24f9-4227-b1af-ab0d9214f1a2": {
+  "s": "dropped"
+ },
+ "simplify:48008e25-fd18-4181-a61e-792a9c962548": {
+  "s": "dropped"
+ },
+ "simplify:6470fc04-154d-4d53-9a4c-9f69aaba3aaf": {
+  "s": "applied"
+ },
+ "simplify:00c2f102-60e5-4ef5-84c6-4515f2459a86": {
+  "s": "dropped"
+ },
+ "simplify:6a5a374d-834e-4bb6-992d-4cc74f3f8e8e": {
+  "s": "dropped"
+ },
+ "simplify:9806b0c4-6f96-463b-b16f-410fc0a1ae51": {
+  "s": "applied"
+ },
+ "simplify:1e2b7529-adf7-49ab-8d4a-8979fab4e3e9": {
+  "s": "oa"
+ },
+ "simplify:03c41462-567b-45cd-bd7a-c296b9b2d016": {
+  "s": "dropped"
+ },
+ "simplify:b79b2e09-dc0f-40e5-8a4d-961fa83bc2fc": {
+  "s": "dropped"
+ },
+ "simplify:dc8cd8dc-3c3b-409c-9320-6db0956ea02c": {
+  "s": "dropped"
+ },
+ "simplify:410b28b6-b357-4b72-9480-bad83701b4cb": {
+  "s": "applied"
+ },
+ "simplify:d724f264-a5fb-4740-bde3-38ab45368cba": {
+  "s": "rejected"
+ },
+ "simplify:495929ef-4f6f-4cdb-9c26-6156e4966b6b": {
+  "s": "applied"
+ },
+ "simplify:c4af7370-f86a-400a-b34e-5235aa8c49d8": {
+  "s": "dropped"
+ },
+ "simplify:75793f35-9526-4aea-ab29-82d83486b9b9": {
+  "s": "applied"
+ },
+ "simplify:30612f5b-226b-4ab8-9610-ae2ae82ca2a0": {
+  "s": "dropped"
+ },
+ "simplify:66cb9e6f-2e5e-4fab-be1b-bf612ad91a02": {
+  "s": "rejected"
+ },
+ "simplify:acf78218-ae13-4623-950b-916366d02693": {
+  "s": "dropped"
+ },
+ "simplify:372f6713-b484-4724-ac51-015c5d0810f2": {
+  "s": "applied"
+ },
+ "simplify:86eec77e-62fa-43bc-a011-1e73aac2d372": {
+  "s": "applied"
+ },
+ "simplify:b3b5bb79-eed9-4cae-a682-cc7068f5d3eb": {
+  "s": "applied"
+ },
+ "simplify:3a402286-5e69-475d-bc36-48cf8a3e43fe": {
+  "s": "applied"
+ },
+ "simplify:f2abc99e-93ba-424e-8d7c-0e3382978e05": {
+  "s": "applied"
+ },
+ "simplify:990f303a-7466-45ea-b93d-7870da5c7f7a": {
+  "s": "rejected"
+ },
+ "simplify:202582b8-f2ba-49d1-a082-3974fba7627a": {
+  "s": "applied"
+ },
+ "simplify:a7801247-e97d-4b93-a90e-e5706b8a7c25": {
+  "s": "applied"
+ },
+ "simplify:701b131c-8006-40ac-a07c-5d5d37bd080e": {
+  "s": "dropped"
+ },
+ "simplify:8bd54ea8-c98b-4916-9d37-4b810ed28535": {
+  "s": "applied"
+ },
+ "simplify:b62dcf53-f9ca-48c0-aeea-39de27c89b8f": {
+  "s": "applied"
+ },
+ "simplify:089391ad-ee52-4c4f-993a-e79f42219682": {
+  "s": "applied",
+  "star": true
+ },
+ "simplify:c57ba1d3-0591-408a-a691-b05626be84f0": {
+  "s": "dropped"
+ },
+ "simplify:9b0f8950-0501-4d6a-b6c6-0079f375db8f": {
+  "s": "applied"
+ },
+ "simplify:f4b05847-d015-43a2-b07f-482144c9580f": {
+  "s": "applied"
+ },
+ "simplify:44338cb8-5c1c-42f3-a069-f9cf9ff68436": {
+  "s": "applied"
+ },
+ "simplify:1ea84bed-f524-4362-a619-d1e3b98d2e7c": {
+  "s": "applied"
+ },
+ "simplify:57f4a033-f0ed-4ca1-a46f-e084010c71f3": {
+  "s": "applied"
+ },
+ "simplify:13e63ccc-9879-4a3a-a29a-f10688ec7ba6": {
+  "s": "dropped"
+ },
+ "simplify:24b848e7-18bc-4eab-b684-9d352141cbdd": {
+  "s": "dropped"
+ },
+ "simplify:711f25ba-3340-4e16-9ab1-15b070d99954": {
+  "s": "applied"
+ },
+ "simplify:203b29e3-691b-4bd0-b6b9-67ee0cd10daf": {
+  "s": "applied"
+ },
+ "simplify:370706b8-ca68-4bd2-8a81-dc851f0ba733": {
+  "s": "dropped"
+ },
+ "simplify:5bba1eb0-8e8f-4a1d-891d-12fc7a1f1f65": {
+  "s": "dropped"
+ },
+ "simplify:cfe4e5c9-9477-44a4-80c5-eaeebe0656f1": {
+  "s": "dropped"
+ },
+ "simplify:a449ff56-af7b-46d9-9c1b-73ccb36515e8": {
+  "s": "dropped"
+ },
+ "simplify:34e8252a-5780-4198-ae6b-5c5a32bab687": {
+  "s": "dropped"
+ },
+ "simplify:5a8a7ba1-2464-4dc8-995e-4cd08627650e": {
+  "s": "dropped"
+ },
+ "simplify:39f8a5fb-c056-4d0f-8325-830b6ca2205d": {
+  "s": "dropped"
+ },
+ "simplify:6ecd2227-64fc-4d77-99bb-158081023302": {
+  "s": "dropped"
+ },
+ "simplify:bed7436e-6c48-4818-a11a-c314cfbf6574": {
+  "s": "dropped"
+ },
+ "simplify:90326487-43c7-4181-ac71-44e331484bf4": {
+  "s": "applied"
+ },
+ "simplify:c92fc7de-e326-4327-8f9c-5195b90591e9": {
+  "s": "applied"
+ },
+ "simplify:9ed7b461-c9c3-4d18-9e17-4bbc1ad3e3c9": {
+  "s": "dropped"
+ },
+ "simplify:96fb8f30-f721-4712-816d-5a381a92d51f": {
+  "s": "dropped"
+ },
+ "simplify:fabf124a-32b2-45ba-bffe-d3084937296a": {
+  "s": "applied"
+ },
+ "simplify:5e2b041d-3b5b-414f-8491-242be06bf425": {
+  "s": "applied"
+ },
+ "simplify:e5f41de9-f6f5-454c-b80a-c5df9b9e417a": {
+  "s": "applied"
+ },
+ "simplify:ee50e885-5709-43c5-adf1-bd280a6e8786": {
+  "s": "applied"
+ },
+ "simplify:01e96f8b-3039-4c34-807c-eb95ca76fd52": {
+  "s": "applied"
+ },
+ "simplify:4f4c4349-199a-4321-b0ab-2645e3c64667": {
+  "s": "dropped"
+ },
+ "simplify:ce9b5601-f631-40d5-93f2-c131bea80fdd": {
+  "s": "dropped"
+ },
+ "simplify:b462559b-c917-4db0-a92b-9bd0c90f0f33": {
+  "s": "dropped"
+ },
+ "simplify:2fa15c29-968d-4596-a04f-18ae7cf76c55": {
+  "s": "applied"
+ },
+ "simplify:8b350164-ca46-4403-82b0-1df7b1971cdc": {
+  "s": "dropped"
+ },
+ "simplify:eb3814c7-6fd3-4e58-852c-6cc00005cf9a": {
+  "s": "applied"
+ },
+ "simplify:03168c7d-a3ff-4da7-9e0a-378b83a7de04": {
+  "s": "applied"
+ },
+ "simplify:22286d2e-ab8f-421b-9e32-02038a5bffa4": {
+  "s": "applied"
+ },
+ "simplify:e6405d5c-7d2f-4e65-9602-4685ada5b31b": {
+  "s": "dropped"
+ },
+ "simplify:9ecb4578-6a8a-4f73-ac53-0651cbbd7167": {
+  "s": "applied"
+ },
+ "simplify:5fde436c-570a-464b-9d9c-3a3e457151d0": {
+  "s": "applied"
+ }
+}
