@@ -1,0 +1,47 @@
+name: ci
+
+# Tests for every PR and for pushes to main that touch code. Bot commits are excluded twice over: they carry
+# "[skip ci]" and only change the files listed in paths-ignore.
+on:
+  pull_request:
+  push:
+    branches: [main]
+    paths-ignore: [roles.json, seen.json, status.json, companies.json, manual.json, meta.json, config.json, README.md]
+
+permissions: {contents: read}
+
+concurrency:
+  group: ci-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  test:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1   # v7.0.1
+      # PEP 668: 24.04's system Python is externally managed. python3 -m ruff avoids depending on ~/.local/bin being on PATH.
+      - run: python3 -m pip install --quiet --user --break-system-packages pytest==9.1.1 ruff==0.16.6
+      - run: python3 -m ruff check jobwatch.py tools tests
+      - run: python3 -m py_compile jobwatch.py tools/backfill_marks.py
+      - run: python3 -m pytest -q
+      - uses: actions/setup-node@820762786026740c76f36085b0efc47a31fe5020   # v7.0.0
+        with: {node-version: "22"}
+      - run: node --check assets/lib.js && node --check assets/sync.js && node --check assets/app.js
+      # node --test takes files or glob patterns, never directories (a bare "tests/js/" is MODULE_NOT_FOUND); quoted so node expands it.
+      - run: node --test 'tests/js/*.test.mjs'
+      - run: python3 tests/check_html.py            # CSP meta present; no inline style/script; data-app + every ?v= equal APP_VERSION; manifest link
+
+  e2e:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 12
+    needs: test
+    continue-on-error: true                      # non-blocking by design: real-browser specs are advisory
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1   # v7.0.1
+      - uses: actions/setup-node@820762786026740c76f36085b0efc47a31fe5020   # v7.0.0
+        with: {node-version: "22"}
+      - run: npm ci && npx playwright install --with-deps chromium   # needs the committed e2e/package-lock.json (.gitignore un-ignores it)
+        working-directory: e2e
+      # Same rule; node's default test pattern is also *.test.*, not *.spec.*, so the pattern must be explicit.
+      - run: node --test 'e2e/*.spec.mjs'

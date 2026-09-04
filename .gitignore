@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+.venv/
+venv/
+
+# Node (tests only; nothing is bundled). e2e/package-lock.json is committed so `npm ci` works in CI.
+node_modules/
+package-lock.json
+!e2e/package-lock.json
+test-results/
+playwright-report/
+
+# Editors / OS
+.DS_Store
+.idea/
+.vscode/
+*.swp
+
+# Bot run artefacts: the workflow tees the run log; atomic writes go through *.tmp in the same directory
+.jobwatch-run.log
+*.tmp
+
+# Local scratch: dry-run outputs, downloaded feed snapshots. Root only — tests/fixtures/listings_subset.json is committed.
+/tmp/
+/listings*.json
+*.local.json

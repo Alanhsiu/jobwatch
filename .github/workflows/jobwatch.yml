@@ -1,48 +1,108 @@
 name: jobwatch
 
-# Runs on a schedule (twice a day) and can be triggered manually from the
-# Actions tab. Free for public repos; private repos use your free Actions minutes.
+# The bot. Scans every ~2 h, immediately after a push that changes code/config/companies, and on demand from the
+# Actions tab. It stages only the files it owns (roles.json seen.json meta.json README.md, plus companies.json the
+# one time it seeds it); status.json, manual.json and config.json are never touched here. Bot commits carry
+# "[skip ci]", so they never re-trigger this workflow or ci.yml.
 on:
   schedule:
-    # 15:00 and 23:00 UTC  = 08:00 and 16:00 US Pacific (roughly).
-    # Twice a day catches morning + late-day postings. Adjust or remove one line.
-    - cron: "0 15 * * *"
-    - cron: "0 23 * * *"
-  workflow_dispatch: {}   # manual "Run workflow" button
+    - cron: "23 */2 * * *"            # 12x/day, off the :00 rush; GitHub may still delay runs by minutes to hours
+  push:
+    branches: [main]
+    paths: [jobwatch.py, config.json, companies.json]   # code/config/company edits rescan at once
+  workflow_dispatch:
+    inputs:
+      dry_run: {type: boolean, default: false, description: "Fetch + match + print only; write nothing, send nothing"}
+      force:   {type: boolean, default: false, description: "Bypass the archive / zero-match gates once"}
 
-permissions:
-  contents: write         # needed to commit the updated seen.json back
-
-concurrency:
-  group: jobwatch
-  cancel-in-progress: false
+permissions: {contents: write, actions: read}   # actions:read lets the notify step read previous runs' logs
+concurrency: {group: jobwatch, cancel-in-progress: false}
 
 jobs:
   watch:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04              # ships python3 3.12; no setup-python
+    timeout-minutes: 10
     steps:
-      - uses: actions/checkout@v4
-
-      - uses: actions/setup-python@v5
-        with:
-          python-version: "3.12"
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1   # v7.0.1
 
       - name: Run jobwatch
+        id: run
+        shell: bash                    # PIPESTATUS below is bash-only
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
-        run: python jobwatch.py
-
-      - name: Commit state
+          JOBWATCH_FORCE: ${{ inputs.force && '1' || '' }}
+          GITHUB_RUN_URL: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
         run: |
-          git config user.name  "jobwatch-bot"
-          git config user.email "actions@users.noreply.github.com"
-          git add seen.json roles.json companies.json README.md 2>/dev/null || true
-          if ! git diff --cached --quiet; then
-            git commit -m "jobwatch: update roles + state [skip ci]"
-            # the tracker page may have committed status.json meanwhile; rebase to be safe
-            git pull --rebase --autostash origin ${{ github.ref_name }} || true
-            git push || (git pull --rebase --autostash origin ${{ github.ref_name }} && git push)
-          else
-            echo "no changes to commit"
+          set +e
+          python3 jobwatch.py ${{ inputs.dry_run && '--dry-run' || '' }} 2>&1 | tee .jobwatch-run.log
+          code=${PIPESTATUS[0]}
+          echo "code=$code" >> "$GITHUB_OUTPUT"
+          exit "$code"
+
+      # Runs after a failed bot too (exit 3 = files written, Telegram down): nothing is written on exit 1/2/4,
+      # so the step is a no-op there. Skipped only when the job was cancelled or this is a dry run.
+      - name: Commit state
+        if: ${{ !cancelled() && !inputs.dry_run }}
+        run: |
+          git config user.name jobwatch-bot
+          git config user.email actions@users.noreply.github.com
+          for f in roles.json seen.json meta.json README.md; do    # meta.json may not exist yet; git add fails on a missing pathspec
+            if [ -f "$f" ]; then git add -- "$f"; fi
+          done
+          if grep -q '::notice::seeded companies.json' .jobwatch-run.log; then git add -- companies.json; fi
+          if git diff --cached --quiet; then echo "no changes to commit"; exit 0; fi
+          git commit -m "jobwatch: update roles + state [skip ci]"
+          for i in 1 2 3 4 5; do
+            git pull --rebase --autostash origin "$GITHUB_REF_NAME" && git push && exit 0
+            git rebase --abort 2>/dev/null || true               # never push a mid-rebase tree
+            sleep $((i * 3))
+          done
+          echo "::error::could not push after 5 attempts"
+          exit 1
+
+      # Exit 2/3/4 and commit failures alert at once. Exit 1 (feed) alerts once per streak: on the second
+      # consecutive SCHEDULED feed failure, so a single flaky fetch stays quiet and an outage is reported once; when the
+      # run history cannot be read the streak is unknown and it alerts rather than stay silent. This step is the only
+      # Telegram sender for failures inside Actions: jobwatch.py's own exit-2/4 line (spec §7.8) stands down when
+      # GITHUB_ACTIONS is set, so a tripped gate produces one message, not two.
+      - name: Notify on failure
+        if: failure()
+        shell: bash                    # local + here-strings below are bash-only
+        env:
+          GH_TOKEN: ${{ github.token }}
+          T: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          C: ${{ secrets.TELEGRAM_CHAT_ID }}
+          CODE: ${{ steps.run.outputs.code }}
+          EVENT: ${{ github.event_name }}
+          URL: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
+        run: |
+          if [ "$CODE" = "1" ]; then
+            if [ "$EVENT" != "schedule" ]; then echo "feed failure on a $EVENT run; the streak counts scheduled runs only"; exit 0; fi
+            # The two previous scheduled, non-cancelled runs (the current run is still in_progress and is excluded).
+            if ! ids=$(gh run list --workflow jobwatch.yml --event schedule --status completed --limit 8 --json databaseId,conclusion \
+                         --jq '[.[] | select(.conclusion != "cancelled" and .conclusion != "skipped")] | .[0:2] | .[].databaseId'); then
+              echo "could not read run history; alerting"
+            else
+              set -- $ids
+              # feedfail: 0 = that run was a feed failure, 1 = it was not, 2 = its log is unreadable (unknown, so alert).
+              # Only exit 1 prints the "::error::feed:" prefix (exit 2/3/4 runs are red too). Stored logs prefix every
+              # line with "<job>\t<step>\t" and show processed workflow commands as "##[error]"; only the "Run jobwatch"
+              # step's lines count because this step's own echoed script contains the pattern too.
+              tab=$(printf '\t')
+              feedfail() { local log; log=$(gh run view "$1" --log) || return 2
+                           grep -qE "${tab}Run jobwatch${tab}.*(::error::|##\[error\])feed:" <<<"$log"; }
+              if [ -z "${1:-}" ]; then echo "first feed failure; waiting for a second"; exit 0; fi
+              feedfail "$1" && prev=0 || prev=$?
+              if [ "$prev" = 1 ]; then echo "first feed failure; waiting for a second"; exit 0; fi
+              if [ "$prev" = 2 ]; then echo "could not read the log of run $1; alerting"
+              elif [ -n "${2:-}" ] && feedfail "$2"; then echo "streak already alerted"; exit 0; fi
+            fi
           fi
+          tail=$(grep -E '^\[error\]|::error::' .jobwatch-run.log 2>/dev/null | tail -3 | cut -c1-300 || true)
+          [ -n "$CODE" ] || CODE="?"                               # run step cancelled or timed out before reporting
+          [ "$CODE" != "0" ] || CODE="0, commit/push failed"
+          [ -n "$T" ] || exit 0
+          curl -sS -m 20 "https://api.telegram.org/bot$T/sendMessage" --data-urlencode chat_id="$C" \
+            --data-urlencode text="jobwatch run FAILED (exit $CODE): $URL
+          $tail" >/dev/null || true
