@@ -1,543 +1,208 @@
 # jobwatch
 
-Watches new-grad **SWE / AI-ML / Quant** roles at your target companies and, each day,
-pushes only the *new* ones to Telegram. The list below is refreshed automatically on every
-run, and an interactive tracker page lets you manage each application through its pipeline.
+jobwatch watches new-grad **SWE / ML / Quant** roles at the companies *you* choose and tells you only about the new ones.
+A small Python bot runs on GitHub Actions every ~2 hours, pulls Simplify's New-Grad-Positions feed, filters it and sends
+a Telegram digest of the postings you have not seen. A one-page **tracker** on GitHub Pages lists every open role and lets
+you move each one through your pipeline (seen → applied → OA → interview → offer) from a phone or a laptop; your marks
+sync between devices through this repo. No servers, no database, no cost — a public repo, Actions, Pages and a Telegram
+bot token. This repo's tracker: **[alanhsiu.github.io/jobwatch](https://alanhsiu.github.io/jobwatch/)** (a fork gets its own at `https://<owner>.github.io/<repo>/`).
 
-<!-- JOBS:START -->
-_287 open new-grad SWE / ML / Quant roles at 50 target companies. Auto-updated on every run._
-
-**[Open the interactive tracker](https://Alanhsiu.github.io/jobwatch/)** — tick/cross each role and your marks are remembered.
-
-
-### TikTok (125)
-- [Data Engineer Graduate](https://lifeattiktok.com/search/7681779180341709109) &mdash; San Jose, CA · 8d ago · ML
-- [Machine Learning Engineer Graduate - E-Commerce Knowledge Graph](https://lifeattiktok.com/search/7679156878833682693) &mdash; San Jose, CA · 18d ago · ML
-- [Machine Learning Engineer Graduate - E-Commerce Recommendation Video](https://lifeattiktok.com/search/7678145401619237173) &mdash; Seattle, WA · 20d ago · ML
-- [Data Engineer Graduate - Data Platform E-commerce](https://lifeattiktok.com/search/7676253726624024837) &mdash; San Jose, CA · 21d ago · ML
-- [Data Engineer Graduate - Data Platform Global Live](https://lifeattiktok.com/search/7678120538997098805) &mdash; San Jose, CA · 21d ago · ML
-- [Machine Learning Engineer - E-Commerce Knowledge Graph](https://lifeattiktok.com/search/7676647728043280645) &mdash; San Jose, CA · 22d ago · ML
-- [Machine Learning Engineer Graduate - E-Commerce Supply Chain & Logistics](https://lifeattiktok.com/search/7675843332462872885) &mdash; Seattle, WA · 26d ago · ML
-- [Machine Learning Engineer Graduate - E-Commerce Supply Chain & Logistics - LLM/Agent](https://lifeattiktok.com/search/7675842865566222597) &mdash; Seattle, WA · 26d ago · ML
-- [Graduate Software Engineer - TikTok Search Data Infra](https://lifeattiktok.com/search/7675829388634392837) &mdash; San Jose, CA · 26d ago · SWE
-- [Machine Learning Engineer Graduate - E-Commerce Supply Chain & Logistics](https://lifeattiktok.com/search/7675844938504702213) &mdash; San Jose, CA · 26d ago · ML
-- [Machine Learning Engineer Graduate - Multiple Teams](https://lifeattiktok.com/search/7675841339440941317) &mdash; San Jose, CA · 26d ago · ML
-- [Data Engineer Graduate - Data Platform - Global Live](https://lifeattiktok.com/search/7675484418022181173) &mdash; San Jose, CA · 27d ago · ML
-- [Machine Learning Engineer Graduate - E-Commerce Governance](https://lifeattiktok.com/search/7674023327725373701) &mdash; San Jose, CA · 29d ago · ML
-- [Machine Learning Engineer Graduate - E-Commerce Governance](https://lifeattiktok.com/search/7674025781001062709) &mdash; Seattle, WA · 29d ago · ML
-- [Data Scientist Graduate - E-Commerce Governance](https://lifeattiktok.com/search/7674027218993154357) &mdash; Seattle, WA · 29d ago · ML
-- [Data Scientist Graduate - Multimedia](https://lifeattiktok.com/search/7673672141010815237) &mdash; San Jose, CA · 32d ago · ML
-- [Software Engineer Graduate - Foundation Platform](https://lifeattiktok.com/search/7673674252889246005) &mdash; San Jose, CA · 32d ago · SWE
-- [Software Engineer Graduate - Video-on-Demand Algorithm](https://lifeattiktok.com/search/7673674249270839557) &mdash; San Jose, CA · 32d ago · SWE
-- [Software Engineer Graduate - Ads Infra](https://lifeattiktok.com/search/7673409179353139461) &mdash; San Jose, CA · 32d ago · SWE
-- [LLM Post-Training Engineer Graduate - Research & Product](https://lifeattiktok.com/search/7673672141012093189) &mdash; San Jose, CA · 32d ago · ML
-- [Software Engineer Graduate - Media Engine](https://lifeattiktok.com/search/7673667938889009461) &mdash; San Jose, CA · 32d ago · SWE
-- [Backend Software Engineer Graduate - Creation Platform](https://lifeattiktok.com/search/7673669198965278981) &mdash; San Jose, CA · 32d ago · SWE
-- [Data Science Graduate - Advertisement Team](https://lifeattiktok.com/search/7673232905797880069) &mdash; San Jose, CA · 33d ago · ML
-- [Software Engineer Graduate - Recommendation Infrastructure](https://lifeattiktok.com/search/7673284715407886597) &mdash; San Jose, CA · 33d ago · SWE
-- [Data Scientist Graduate - Multimedia](https://lifeattiktok.com/search/7670288355678177589) &mdash; San Jose, CA · 33d ago · ML
-- [Backend Software Engineer New Grad - Creator Strategy](https://lifeattiktok.com/search/7672976491146004741) &mdash; San Jose, CA · 34d ago · SWE
-- [Software Engineer Graduate - Recommendation Architecture - Feeds Infrastructure](https://lifeattiktok.com/search/7672530785573980421) &mdash; Seattle, WA · 34d ago · SWE
-- [Backend Software Engineer Graduate - Creation Platform](https://lifeattiktok.com/search/7670292836050422021) &mdash; San Jose, CA · 34d ago · SWE
-- [Graduate Software Engineer - Media Engine](https://lifeattiktok.com/search/7670367152357673221) &mdash; San Jose, CA · 34d ago · SWE
-- [Software Engineer Graduate - Foundation Platform](https://lifeattiktok.com/search/7670276769459456309) &mdash; San Jose, CA · 34d ago · SWE
-- [Large Language Model Post-training Engineer Graduate - Research & Product](https://lifeattiktok.com/search/7670285949976201477) &mdash; San Jose, CA · 34d ago · ML
-- [Machine Learning Engineer Graduate - E-Commerce Governance](https://lifeattiktok.com/search/7672928557539002629) &mdash; San Jose, CA · 34d ago · ML
-- [Software Engineer Graduate - Video-on-Demand Algorithm](https://lifeattiktok.com/search/7670282906426476853) &mdash; San Jose, CA · 34d ago · SWE
-- [Software Engineer Graduate - Recommendation](https://lifeattiktok.com/search/7672517471946000645) &mdash; San Jose, CA · 34d ago · SWE
-- [Machine Learning Engineer Graduate - E-Commerce Recommendation Mall](https://lifeattiktok.com/search/7672915427278457141) &mdash; San Jose, CA · 34d ago · ML
-- [Machine Learning Engineer Graduate - TikTok Vertical Recommendation](https://lifeattiktok.com/search/7672532275557583157) &mdash; San Jose, CA · 34d ago · ML
-- [Machine Learning Engineer Graduate - E-Commerce Recommendation Mall](https://lifeattiktok.com/search/7672911151560296709) &mdash; Seattle, WA · 34d ago · ML
-- [Big Data Engineer Graduate - TikTok Recommendation Architecture](https://lifeattiktok.com/search/7672518398222387461) &mdash; San Jose, CA · 34d ago · ML
-- [Backend Engineer Graduate - TikTok Vertical Recommendation Architecture - 2027 Start](https://lifeattiktok.com/search/7672532801686571317) &mdash; San Jose, CA · 34d ago · SWE
-- [AI Infrastructure Engineer Graduate - Recommendation & LLM](https://lifeattiktok.com/search/7672656091025066293) &mdash; San Jose, CA · 34d ago · ML
-- [AI Infrastructure Engineer Graduate - Recommendation & LLM](https://lifeattiktok.com/search/7672654026594093317) &mdash; San Jose, CA · 34d ago · ML
-- [Machine Learning Engineer Graduate - E-Commerce Recommendation Foundation](https://lifeattiktok.com/search/7672880386574338309) &mdash; Seattle, WA · 34d ago · ML
-- [Machine Learning Engineer Graduate - E-Commerce Recommendation Foundation](https://lifeattiktok.com/search/7672882500030138629) &mdash; San Jose, CA · 34d ago · ML
-- [Recommendation Architecture AI/ML Infrastructure Engineer Graduate - Data-Arch-Tiktok Live](https://lifeattiktok.com/search/7670876337129425205) &mdash; San Jose, CA · 39d ago · ML
-- [Backend Software Engineer Graduate - Data Lifecycle Management](https://lifeattiktok.com/search/7670391173613160757) &mdash; San Jose, CA · 39d ago · SWE
-- [Backend Software Engineer Graduate - Privacy and Security - Product](https://lifeattiktok.com/search/7670387719826786565) &mdash; San Jose, CA · 39d ago · SWE
-- [Machine Learning Engineer Graduate - E-Commerce Recommendation/Search Alliance](https://lifeattiktok.com/search/7669908897587824949) &mdash; San Jose, CA · 40d ago · ML
-- [Machine Learning Engineer Graduate - E-Commerce Recommendation/Search Alliance](https://lifeattiktok.com/search/7669913085331409205) &mdash; San Jose, CA · 40d ago · ML
-- [Machine Learning Engineer Graduate - E-Commerce Recommendation/Search Alliance](https://lifeattiktok.com/search/7669909088788138245) &mdash; Seattle, WA · 40d ago · ML
-- [Machine Learning Engineer Graduate - E-Commerce Recommendation/Search Alliance](https://lifeattiktok.com/search/7669910326745434421) &mdash; Seattle, WA · 40d ago · ML
-- [Machine Learning Engineer Graduate - E-Commerce Recommendation Live](https://lifeattiktok.com/search/7670283981954746677) &mdash; Seattle, WA · 40d ago · ML
-- [Machine Learning Engineer Graduate - E-Commerce Recommendation Live](https://lifeattiktok.com/search/7670285495593273605) &mdash; San Jose, CA · 40d ago · ML
-- [Machine Learning Engineer Graduate - E-Commerce Recommendation Live](https://lifeattiktok.com/search/7670285949553707317) &mdash; Seattle, WA · 40d ago · ML
-- [Software Engineer Graduate - Multiple Teams](https://lifeattiktok.com/search/7668582086900680965) &mdash; Seattle, WA · 40d ago · SWE
-- [Software Engineer Graduate - Data Arch - E-commerce](https://lifeattiktok.com/search/7668582542044072245) &mdash; Seattle, WA · 40d ago · SWE
-- [Software Engineer Graduate - Global E-commerce-Search - 2027 Start](https://lifeattiktok.com/search/7670558992960358661) &mdash; Seattle, WA · 40d ago · SWE
-- [Graduate Software Engineer - Global CRM](https://lifeattiktok.com/search/7668554579301124357) &mdash; San Jose, CA · 40d ago · SWE
-- [Machine Learning Engineer Graduate - Monetization Technology-Ads Core Global](https://lifeattiktok.com/search/7668809845088504117) &mdash; San Jose, CA · 42d ago · ML
-- [Backend Engineer Graduate](https://lifeattiktok.com/search/7665989305914984709) &mdash; San Jose, CA · 42d ago · SWE
-- [Machine Learning Engineer Graduate - Performance Monetization](https://lifeattiktok.com/search/7669691057987520773) &mdash; San Jose, CA · 42d ago · ML
-- [Machine Learning Scientist Graduate - Trust and Safety](https://lifeattiktok.com/search/7665985896410368261) &mdash; Seattle, WA · 42d ago · ML
-- [AI Engineer Graduate - Client Architecture - 2027 Start](https://lifeattiktok.com/search/7664978367107713333) &mdash; San Jose, CA · 42d ago · ML
-- [Frontend Software Engineer Graduate - Global E-commerce](https://lifeattiktok.com/search/7668828193675036981) &mdash; Seattle, WA · 42d ago · SWE
-- [Data Engineer Graduate - Monetization Data](https://lifeattiktok.com/search/7668550561096665397) &mdash; San Jose, CA · 42d ago · ML
-- [Mobile Software Engineer Graduate - Global E-commerce](https://lifeattiktok.com/search/7668831181590513925) &mdash; San Jose, CA · 42d ago · SWE
-- [Backend Engineer Graduate - User Growth](https://lifeattiktok.com/search/7665986019233958197) &mdash; San Jose, CA · 42d ago · SWE
-- [Backend Software Engineer Graduate - Global E-commerce](https://lifeattiktok.com/search/7668827379083823413) &mdash; Seattle, WA · 42d ago · SWE
-- [Graduate Software Engineer](https://lifeattiktok.com/search/7668566347702569269) &mdash; San Jose, CA · 42d ago · SWE
-- [Machine Learning Engineer Graduate - Commerce Ads - 2027 Start](https://lifeattiktok.com/search/7669711968024430853) &mdash; San Jose, CA · 42d ago · ML
-- [Machine Learning Engineer Graduate - Ads Signal & Measurement](https://lifeattiktok.com/search/7669700358734170373) &mdash; San Jose, CA · 42d ago · ML
-- [Graduate Software Engineer - Global Live](https://lifeattiktok.com/search/7668845522007722245) &mdash; San Jose, CA · 42d ago · SWE
-- [Backend Software Engineer Graduate - Digital Content Center](https://lifeattiktok.com/search/7668843238309824773) &mdash; San Jose, CA · 42d ago · SWE
-- [Machine Learning Engineer New Grad - Performance Monetization](https://lifeattiktok.com/search/7669691374918011141) &mdash; San Jose, CA · 42d ago · ML
-- [Backend Software Engineer Graduate - Global E-commerce](https://lifeattiktok.com/search/7668824169648097541) &mdash; San Jose, CA · 42d ago · SWE
-- [Machine Learning Engineer Graduate - Data Search Recommendation Global E-Commerce](https://lifeattiktok.com/search/7668384123840514309) &mdash; Seattle, WA · 42d ago · ML
-- [Frontend Software Engineer Graduate - Global CRM](https://lifeattiktok.com/search/7668561079544154373) &mdash; San Jose, CA · 42d ago · SWE
-- [Graduate Software Engineer - Transaction Platform](https://lifeattiktok.com/search/7668557209047894325) &mdash; San Jose, CA · 42d ago · SWE
-- [Frontend Software Engineer New Grad - Ads Interface](https://lifeattiktok.com/search/7668569995571726597) &mdash; San Jose, CA · 42d ago · SWE
-- [Machine Learning Engineer Graduate - Brand Ads](https://lifeattiktok.com/search/7668663594419374341) &mdash; San Jose, CA · 42d ago · ML
-- [Machine Learning Engineer Graduate - Tiktok Content Ecology](https://lifeattiktok.com/search/7668838052657678597) &mdash; San Jose, CA · 42d ago · ML
-- [Graduate Software Engineer - Ads Interface](https://lifeattiktok.com/search/7668855346857019701) &mdash; San Jose, CA · 42d ago · SWE
-- [Software Engineer New Grad - Ads Infrastructure](https://lifeattiktok.com/search/7668879883938203957) &mdash; San Jose, CA · 42d ago · SWE
-- [Machine Learning Engineer New Grad - Search Ads](https://lifeattiktok.com/search/7669698543896054069) &mdash; San Jose, CA · 42d ago · ML
-- [Machine Learning Engineer Graduate - App Ads and Gaming](https://lifeattiktok.com/search/7669709290431236357) &mdash; San Jose, CA · 42d ago · ML
-- [Machine Learning Engineer Graduate - Lead Ads](https://lifeattiktok.com/search/7669707604717209861) &mdash; San Jose, CA · 42d ago · ML
-- [Graduate Machine Learning Engineer](https://lifeattiktok.com/search/7669702699627661573) &mdash; San Jose, CA · 42d ago · ML
-- [Machine Learning Engineer New Grad - Recommendation](https://lifeattiktok.com/search/7663389745178757429) &mdash; San Jose, CA · 43d ago · ML
-- [Machine Learning Scientist New Grad - Trust and Safety](https://lifeattiktok.com/search/7665989163791403269) &mdash; San Jose, CA · 43d ago · ML
-- [Machine Learning Scientist New Grad - Recommendation](https://lifeattiktok.com/search/7663389363824773381) &mdash; San Jose, CA · 43d ago · ML
-- [Machine Learning Engineer New Grad - Trust and Safety](https://lifeattiktok.com/search/7665991852209932597) &mdash; San Jose, CA · 43d ago · ML
-- [Machine Learning Engineer Graduate - Trust and Safety](https://lifeattiktok.com/search/7665994926854555909) &mdash; Seattle, WA · 43d ago · ML
-- [Research Engineer Graduate - Monetization Technology - Business Integrity](https://lifeattiktok.com/search/7667769079948347701) &mdash; San Jose, CA · 43d ago · ML
-- [Research Engineer New Grad - Multiple Teams](https://lifeattiktok.com/search/7667767820142643461) &mdash; San Jose, CA · 43d ago · ML
-- [Machine Learning Engineer Graduate - Ads Creative](https://lifeattiktok.com/search/7668681119759616309) &mdash; San Jose, CA · 43d ago · ML
-- [Backend Software Engineer Graduate - Risk & Response](https://lifeattiktok.com/search/7663032057264244997) &mdash; Seattle, WA · 43d ago · SWE
-- [Backend Software Engineer - Machine Moderation Platform](https://lifeattiktok.com/search/7663036950303050037) &mdash; Seattle, WA · 43d ago · SWE
-- [Backend Software Engineer New Grad - Feed Safety](https://lifeattiktok.com/search/7663028952600807733) &mdash; Seattle, WA · 43d ago · SWE
-- [Backend Software Engineer Graduate - Business Governance](https://lifeattiktok.com/search/7663042453461600517) &mdash; San Jose, CA · 43d ago · SWE
-- [Machine Learning Engineer Graduate](https://lifeattiktok.com/search/7665797203155896581) &mdash; San Jose, CA · 43d ago · ML
-- [Backend Software Engineer New Grad - Trust & Safety](https://lifeattiktok.com/search/7665994926887291189) &mdash; San Jose, CA · 43d ago · SWE
-- [Backend Software Engineer New Grad - Emerging Products & AI Safety](https://lifeattiktok.com/search/7663036952090347829) &mdash; San Jose, CA · 43d ago · SWE
-- [Backend Software Engineer New Grad - Trust & Safety](https://lifeattiktok.com/search/7664533229944178949) &mdash; Seattle, WA · 43d ago · SWE
-- [Machine Learning Engineer New Grad - Search Quality](https://lifeattiktok.com/search/7665793152026740997) &mdash; San Jose, CA · 43d ago · ML
-- [Machine Learning Engineer Graduate](https://lifeattiktok.com/search/7667344113001384197) &mdash; San Jose, CA · 43d ago · ML
-- [Machine Learning Engineer New Grad - Data Search Visual Search](https://lifeattiktok.com/search/7667349591747758341) &mdash; San Jose, CA · 43d ago · ML
-- [Machine Learning Engineer Graduate - Data Search Basic Ranking](https://lifeattiktok.com/search/7667344111675246901) &mdash; San Jose, CA · 43d ago · ML
-- [Machine Learning Engineer Graduate](https://lifeattiktok.com/search/7667346543553710389) &mdash; San Jose, CA · 43d ago · ML
-- [Machine Learning Engineer New Grad - Data Search - Visual Search](https://lifeattiktok.com/search/7667346535273007413) &mdash; San Jose, CA · 43d ago · ML
-- [Machine Learning Engineer New Grad - Data-Global E-Commerce-Search](https://lifeattiktok.com/search/7668389759463393589) &mdash; Seattle, WA · 43d ago · ML
-- [Machine Learning Engineer New Grad](https://lifeattiktok.com/search/7668376903708281141) &mdash; Seattle, WA · 43d ago · ML
-- [Machine Learning Engineer New Grad - E-Commerce Search](https://lifeattiktok.com/search/7668390999147776309) &mdash; Seattle, WA · 43d ago · ML
-- [Machine Learning Engineer Graduate - Ads Delivery](https://lifeattiktok.com/search/7668660365135808821) &mdash; San Jose, CA · 43d ago · ML
-- [Machine Learning Engineer Graduate - Monetization Technology - Ads Core Global](https://lifeattiktok.com/search/7668592348941273349) &mdash; San Jose, CA · 43d ago · ML
-- [Software Engineer New Grad - Business Integrity](https://lifeattiktok.com/search/7668592494649690421) &mdash; San Jose, CA · 43d ago · SWE
-- [Software Engineer/Mobile Engineer New Grad - Ads Core Demonstration](https://lifeattiktok.com/search/7668701834807101749) &mdash; San Jose, CA · 43d ago · SWE
-- [Machine Learning Engineer Graduate - Monetization Technology - Ads Core Global](https://lifeattiktok.com/search/7668675484492597557) &mdash; San Jose, CA · 43d ago · ML
-- [Machine Learning Engineer Graduate - Brand Ads](https://lifeattiktok.com/search/7668698260232702261) &mdash; San Jose, CA · 43d ago · ML
-- [Machine Learning Engineer Graduate - Ads Targeting](https://lifeattiktok.com/search/7668629846058223877) &mdash; San Jose, CA · 43d ago · ML
-- [Software Engineer Graduate - MLOps](https://lifeattiktok.com/search/7668700671828707589) &mdash; San Jose, CA · 43d ago · SWE
-- [Software Engineer Graduate - Ads Delivery](https://lifeattiktok.com/search/7668662545059023157) &mdash; San Jose, CA · 43d ago · SWE
-- [Machine Learning Engineer Graduate - Ads Creative](https://lifeattiktok.com/search/7668669015051405573) &mdash; San Jose, CA · 43d ago · ML
-- [Machine Learning Infrastructure Engineer New Grad - Ads Infra](https://lifeattiktok.com/search/7668693662561634613) &mdash; San Jose, CA · 43d ago · ML
-- [Software Engineer New Grad - Ads Measurement Signal Technology](https://lifeattiktok.com/search/7668717356843977013) &mdash; San Jose, CA · 43d ago · SWE
-- [Software Engineer New Grad - Ads Signal & Measurement](https://lifeattiktok.com/search/7668724383120804149) &mdash; San Jose, CA · 43d ago · SWE
-- [Data Scientist - Multiple Positions](https://lifeattiktok.com/search/7660649494686976309) &mdash; Culver City, CA · 64d ago · ML
-
-### ByteDance (45)
-- [Machine Learning Engineer Graduate - E-Commerce Risk Control](https://jobs.bytedance.com/en/position/7675477660855781637/detail) &mdash; San Jose, CA · 27d ago · ML
-- [Machine Learning Engineer Graduate - E-Commerce Risk Control](https://jobs.bytedance.com/en/position/7675472998912051461/detail) &mdash; Seattle, WA · 27d ago · ML
-- [Machine Learning Engineer Graduate - E-Commerce Risk Control](https://jobs.bytedance.com/en/position/7675477254315428149/detail) &mdash; Seattle, WA · 27d ago · ML
-- [Multi-Cloud CDN Data Platform Engineer Graduate - CDN Platform](https://jobs.bytedance.com/en/position/7673632479987992837/detail) &mdash; San Jose, CA · 27d ago · ML
-- [Multi-Cloud CDN Data Platform Engineer Graduate - CDN Platform](https://jobs.bytedance.com/en/position/7673630747427719429/detail) &mdash; Seattle, WA · 32d ago · ML
-- [Multi-Cloud CDN Scheduling Platform Engineer Graduate - CDN Platform](https://jobs.bytedance.com/en/position/7673626856724023557/detail) &mdash; Seattle, WA · 32d ago · SWE
-- [Multi-Cloud CDN Platform Engineer Graduate - CDN Platform](https://jobs.bytedance.com/en/position/7670355132899526965/detail) &mdash; Seattle, WA · 32d ago · SWE
-- [Research Engineer Graduate - Seed Infra](https://jobs.bytedance.com/en/position/7673256063231854901/detail) &mdash; Seattle, WA · 33d ago · ML
-- [Research Engineer Graduate - Seed Infra](https://jobs.bytedance.com/en/position/7673254778614253829/detail) &mdash; Seattle, WA · 33d ago · SWE
-- [Multi-Cloud CDN Data Platform Engineer Graduate - CDN Platform](https://jobs.bytedance.com/en/position/7670355647603984693/detail) &mdash; Seattle, WA · 34d ago · ML
-- [Agent Evaluation and Evolution Machine Learning Engineer Graduate - Applied Machine Learning Ark](https://jobs.bytedance.com/en/position/7672391016194066693/detail) &mdash; Seattle, WA · 35d ago · ML
-- [Agent Evaluation & Evolution Researcher Graduate - Applied Machine Learning Ark](https://jobs.bytedance.com/en/position/7672391176102676741/detail) &mdash; Seattle, WA · 35d ago · ML
-- [Visual Generation & Multimodal Evaluation Machine Learning Engineer Graduate](https://jobs.bytedance.com/en/position/7672392998189959429/detail) &mdash; Seattle, WA · 35d ago · ML
-- [Research Engineer](https://jobs.bytedance.com/en/position/7672398686110910773/detail) &mdash; Seattle, WA · 35d ago · ML
-- [Data Lake Infrastructure & Data Analytics Research Engineer Graduate - AML-ARK](https://jobs.bytedance.com/en/position/7672395094280063285/detail) &mdash; Seattle, WA · 35d ago · ML
-- [Data Lake Infrastructure & Data Analytics Research Engineer Graduate - Applied Machine Learning Ark](https://jobs.bytedance.com/en/position/7671108456554432773/detail) &mdash; San Jose, CA · 36d ago · ML
-- [Visual Generation & Multimodal Evaluation Researcher Graduate - Applied Machine Learning Ark](https://jobs.bytedance.com/en/position/7671103763276663045/detail) &mdash; San Jose, CA · 36d ago · ML
-- [Visual Generation & Multimodal Evaluation Machine Learning Engineer Graduate - Applied Machine Learning Ark](https://jobs.bytedance.com/en/position/7671102043532462389/detail) &mdash; San Jose, CA · 36d ago · ML
-- [Agent Evaluation & Evolution Researcher Graduate - Applied Machine Learning Ark](https://jobs.bytedance.com/en/position/7671095905295075637/detail) &mdash; San Jose, CA · 36d ago · ML
-- [Data Lake Infrastructure & Data Analytics Research Engineer Graduate - Applied Machine Learning Ark](https://jobs.bytedance.com/en/position/7671107540954777861/detail) &mdash; San Jose, CA · 36d ago · ML
-- [Software Development Engineer Graduate - Intent-Based Networking](https://jobs.bytedance.com/en/position/7671145911004842245/detail) &mdash; San Jose, CA · 39d ago · SWE
-- [Large Language Model Inference System Engineer New Grad - Applied Machine Learning](https://jobs.bytedance.com/en/position/7667726338627356933/detail) &mdash; San Jose, CA · 39d ago · ML
-- [LLM Backend Engineer Graduate - Applied Machine Learning](https://jobs.bytedance.com/en/position/7667730992538585349/detail) &mdash; San Jose, CA · 39d ago · ML
-- [Machine Learning Engineer Graduate - Agent Evaluation & Evolution](https://jobs.bytedance.com/en/position/7670932427485186309/detail) &mdash; San Jose, CA · 39d ago · ML
-- [AI Molecular Dynamics Algorithm Researcher Graduate - Seed AI for Science - Atomistic AI](https://jobs.bytedance.com/en/position/7670550401380878645/detail) &mdash; Seattle, WA · 39d ago · ML
-- [LLM/AI Operations Development Engineer Graduate - Data Center Networking](https://jobs.bytedance.com/en/position/7670773781477394741/detail) &mdash; San Jose, CA · 39d ago · ML
-- [Backend Inference Runtime Engineer New Grad - AML Inference](https://jobs.bytedance.com/en/position/7669789046777940229/detail) &mdash; San Jose, CA · 40d ago · SWE
-- [Machine Learning Backend Engineer Graduate - AML MLDev](https://jobs.bytedance.com/en/position/7669791940490168629/detail) &mdash; San Jose, CA · 40d ago · ML
-- [Backend Inference Framework Engineer - AML Inference](https://jobs.bytedance.com/en/position/7669670735275526453/detail) &mdash; San Jose, CA · 40d ago · SWE
-- [Graduate Software Engineer - Data-Intelligent Creation-AI Platform-Global Vision Engineering](https://jobs.bytedance.com/en/position/7669859743775000885/detail) &mdash; San Jose, CA · 40d ago · SWE
-- [Operating System Engineer Graduate - Operating System-System Technologies and Engineering](https://jobs.bytedance.com/en/position/7668461589331642677/detail) &mdash; San Jose, CA · 40d ago · SWE
-- [Backend Development Engineer Graduate - Infrastructure Platform Delivery](https://jobs.bytedance.com/en/position/7668484998475663621/detail) &mdash; San Jose, CA · 40d ago · SWE
-- [Graduate AI Model Optimization Engineer - Data Speech Product R&D Engineering](https://jobs.bytedance.com/en/position/7669899962768165173/detail) &mdash; San Jose, CA · 41d ago · SWE
-- [3D Graphics Innovation Engineer - PICO Foundation-Developer Technology](https://jobs.bytedance.com/en/position/7667926830305528117/detail) &mdash; San Jose, CA · 42d ago · SWE
-- [Software Engineer New Grad - AI Infrastructure-Compute Efficiency & Scheduling](https://jobs.bytedance.com/en/position/7668799020705679669/detail) &mdash; Seattle, WA · 43d ago · SWE
-- [Test Software Engineer Graduate - Research and Development Middle Platform](https://jobs.bytedance.com/en/position/7664894974764828981/detail) &mdash; San Jose, CA · 43d ago · SWE
-- [Backend Software Engineer Graduate - Platform](https://jobs.bytedance.com/en/position/7667269919588321541/detail) &mdash; San Jose, CA · 43d ago · SWE
-- [Software Engineer Graduate - AI Infrastructure Compute](https://jobs.bytedance.com/en/position/7667334059728341253/detail) &mdash; San Jose, CA · 43d ago · SWE
-- [Software Engineer New Grad - AI Infra Compute](https://jobs.bytedance.com/en/position/7667303429264115973/detail) &mdash; Seattle, WA · 43d ago · SWE
-- [Backend Software Engineer Graduate - Platform](https://jobs.bytedance.com/en/position/7667267464923171077/detail) &mdash; NYC · 43d ago · SWE
-- [Research Graduate - AI Infra Compute](https://jobs.bytedance.com/en/position/7667304540048787765/detail) &mdash; Seattle, WA · 43d ago · ML
-- [Software Engineer AI Agent Infrastructure - Security Engineering](https://jobs.bytedance.com/en/position/7667976924430633269/detail) &mdash; San Jose, CA · 43d ago · SWE
-- [Computer Vision Research Engineer Graduate](https://jobs.bytedance.com/en/position/7668433722454935861/detail) &mdash; San Jose, CA · 43d ago · ML
-- [Artificial Intelligence Software Engineer - Development Infrastructure](https://jobs.bytedance.com/en/position/7667901772678302005/detail) &mdash; San Jose, CA · 43d ago · SWE
-- [Backend and Infrastructure Software Engineer New Grad - Dev Infra](https://jobs.bytedance.com/en/position/7667894766036322565/detail) &mdash; San Jose, CA · 43d ago · SWE
-
-### Tesla (15)
-- [Senior Data Engineer - Datawarehouse - Service & Tools](https://www.tesla.com/careers/search/job/282948) &mdash; Fremont, CA · 5d ago · ML
-- [Data Statistician](https://www.tesla.com/careers/search/job/282286) &mdash; Fremont, CA · 6d ago · ML
-- [Data Collection Operator - Optimus](https://www.tesla.com/careers/search/job/282317) &mdash; Austin, TX · 12d ago · ML
-- [Data Collection Operator - Optimus](https://www.tesla.com/careers/search/job/272817) &mdash; Draper, UT · 32d ago · ML
-- [Data Labeler - Tesla AI](https://www.tesla.com/careers/search/job/279543) &mdash; Tempe, AZ · 39d ago · ML
-- [Data Collection Operator - Optimus](https://www.tesla.com/careers/search/job/279361) &mdash; Doral, FL · 40d ago · ML
-- [Data Collection Operator - Optimus](https://www.tesla.com/careers/search/job/279362) &mdash; Orlando, FL · 40d ago · ML
-- [Data Collection Operator](https://www.tesla.com/careers/search/job/279363) &mdash; Tampa, FL · 40d ago · ML
-- [Data Collection Operator - Optimus](https://www.tesla.com/careers/search/job/270213) &mdash; San Diego, CA · 45d ago · ML
-- [Data Collection Operator](https://www.tesla.com/careers/search/job/277689) &mdash; Palo Alto, CA · 55d ago · ML
-- [Data Collection Operator - Optimus](https://www.tesla.com/careers/search/job/267142) &mdash; Henderson, NV · 56d ago · ML
-- [Data Collection Operator - Optimus - Afternoon Shift](https://www.tesla.com/careers/search/job/276807) &mdash; Marina Del Rey, CA · 62d ago · ML
-- [Data Analytics Engineer Scientist - Thermal - Chassis](https://www.tesla.com/careers/search/job/262399) &mdash; Palo Alto, CA · 64d ago · ML
-- [AI Engineer - Whole Body Controls - Optimus](https://www.tesla.com/careers/search/job/275999) &mdash; Palo Alto, CA · 71d ago · ML
-- [Applied Reinforcement Learning Engineer - Whole Body Controls - Optimus](https://www.tesla.com/careers/search/job/276000) &mdash; Palo Alto, CA · 71d ago · ML
-
-### Amazon (6)
-- [Software Privacy Engineer - Multiple Teams](https://amazon.jobs/en/jobs/10538147/software-privacy-engineer-trust-platform-automation-devices-services-trust-privacy-and-accessibility-tpa) &mdash; Bellevue, WA · 3d ago · SWE
-- [Applied Scientist - Global Risk Intelligence and Prevention - Seller Abuse Prevention](https://amazon.jobs/en/jobs/10528088/applied-scientist-global-risk-intelligence-and-prevention-seller-abuse-prevention) &mdash; Seattle, WA · 12d ago · ML
-- [Robotics System Development Engineer](https://amazon.jobs/en/jobs/10523031/robotics-system-development-engineer) &mdash; Austin, TX · 15d ago · SWE
-- [Software Development Engineer - Amazon Leo](https://amazon.jobs/en/jobs/10513110/software-development-engineer-amazon-leo-early-career-2026) &mdash; Redmond, WA, Northridge, LA · 22d ago · SWE
-- [EFA Network Software Engineer 1 - Annapurna Labs](https://amazon.jobs/en/jobs/10481932/efa-network-software-engineer-i-annapurna-labs) &mdash; Seattle, WA · 55d ago · SWE
-- [Software Development Engineer - Military Veterans](https://amazon.jobs/en/jobs/3179205/software-development-engineer-military-veterans) &mdash; Seattle, WA, Redmond, WA, Arlington, VA · 63d ago · SWE
-
-### Apple (6)
-- [Systems Software Engineer](https://jobs.apple.com/en-us/details/200683808) &mdash; San Diego, CA · today · SWE
-- [Software Engineer - Apple Ads](https://jobs.apple.com/en-us/details/200682706) &mdash; Austin, TX · 6d ago · SWE
-- [CAD Automation and Mixed-Signal Simulation Engineer](https://jobs.apple.com/en-us/details/200680375) &mdash; Sunnyvale, CA · 19d ago · SWE
-- [Systems Engineer - UI Compositing](https://jobs.apple.com/en-us/details/200680183) &mdash; Cupertino, CA · 20d ago · SWE
-- [Darwin Runtime Engineer - Core OS](https://jobs.apple.com/en-us/details/200662330) &mdash; Cupertino, CA · 26d ago · SWE
-- [Frontend Engineer](https://jobs.apple.com/en-us/details/200676168) &mdash; Austin, TX · 36d ago · SWE
-
-### Akuna Capital University (5)
-- [Entry Level Software Engineer - C++](https://www.akunacapital.com/careers/job/8013085/?gh_jid=8013085) &mdash; Chicago, IL · 64d ago · SWE
-- [Junior Trader](https://www.akunacapital.com/careers/job/7773141/?gh_jid=7773141) &mdash; Chicago, IL · 64d ago · Quant
-- [Junior Quantitative Researcher](https://www.akunacapital.com/careers/job/8036541/?gh_jid=8036541) &mdash; Chicago, IL · 64d ago · Quant
-- [Junior Quantitative Developer & Strategist](https://www.akunacapital.com/careers/job/8016687/?gh_jid=8016687) &mdash; Chicago, IL · 64d ago · Quant
-- [Software Engineer - Python](https://www.akunacapital.com/careers/job/8013230/?gh_jid=8013230) &mdash; Chicago, IL · 64d ago · SWE
-
-### Cerebras (4)
-- [Software Engineer - Kernel Reliability](https://jobs.ashbyhq.com/cerebras/8cb78937-ac30-4ab2-98d0-680228ea5e6f/application?embed=true) &mdash; Canada, United States · today · SWE
-- [Kernel Engineer New Grad](https://jobs.ashbyhq.com/cerebras/9c7da4b8-446b-4bf2-8d07-23241590bf2e/application?embed=true) &mdash; Canada, United States · 54d ago · SWE
-- [Software Engineer New Grad](https://jobs.ashbyhq.com/cerebras/99c289fa-8fc6-49f7-b7e8-78ac4e9d99ac/application) &mdash; Toronto, ON, Canada, Sunnyvale, CA · 70d ago · SWE
-- [Software Integration Engineer - AI Inference Core](https://jobs.ashbyhq.com/cerebras/90879967-1071-4d05-9180-6e18023ed887/application?embed=true) &mdash; Toronto, ON, Canada, Sunnyvale, CA · 70d ago · SWE
-
-### Chicago Trading Company (4)
-- [Associate Engineer](https://job-boards.greenhouse.io/chicagotradingcampus/jobs/4716937005) &mdash; Chicago, IL, NYC · 43d ago · SWE
-- [Quant Trading Associate](https://job-boards.greenhouse.io/chicagotradingcampus/jobs/4716507005) &mdash; Chicago, IL · 43d ago · Quant
-- [Associate Engineer](https://job-boards.greenhouse.io/ctccampusboard/jobs/4709991005) &mdash; Chicago, IL, NYC · 46d ago · SWE
-- [Quantitative Trading Associate](https://job-boards.greenhouse.io/ctccampusboard/jobs/4708724005) &mdash; Chicago, IL · 46d ago · Quant
-
-### Citadel (4)
-- [Sector Data Scientist - Central Team](https://www.citadel.com/careers/details/sector-data-scientist-central-team/) &mdash; NYC · 50d ago · ML
-- [Quantitative Trader: Equity Quantitative Research – University Graduate](https://www.citadel.com/careers/details/quantitative-trader-equity-quantitative-research-university-graduate-us/) &mdash; NYC · 70d ago · Quant
-- [Quantitative Research Analyst University Graduate](https://www.citadel.com/careers/details/quantitative-research-analyst-university-graduate-us/) &mdash; Greenwich, CT, Miami, FL, NYC · 71d ago · Quant
-- [Software Engineer – University Graduate](https://www.citadel.com/careers/details/software-engineer-university-graduate-us/) &mdash; Greenwich, CT, Houston, TX, Miami, FL · 71d ago · SWE
-
-### Citadel Securities (4)
-- [Quantitative AI Technical Staff](https://www.citadelsecurities.com/careers/details/quantitative-ai-technical-staff/) &mdash; Miami, FL · 55d ago · ML
-- [Graduate Software Engineer](https://www.citadelsecurities.com/careers/details/software-engineer-university-graduate-us/) &mdash; Miami, FL, NYC · 71d ago · SWE
-- [Quantitative Trader – University Graduate](https://www.citadelsecurities.com/careers/details/quantitative-trader-university-graduate-us-miami/) &mdash; Miami, FL · 71d ago · Quant
-- [Quantitative Trader – University Graduate](https://www.citadelsecurities.com/careers/details/quantitative-trader-university-graduate-us-new-york/) &mdash; NYC · 71d ago · Quant
-
-### Old Mission (4)
-- [Software Engineer – Graduate Program - August Start](https://www.oldmissioncapital.com/careers/?gh_jid=7796048003) &mdash; Chicago, IL · 64d ago · SWE
-- [Quantitative Trader – Graduate Program - August Start](https://www.oldmissioncapital.com/careers/?gh_jid=7796058003) &mdash; London, UK, Chicago, IL, NYC · 64d ago · Quant
-- [Quantitative Trader Graduate Program](https://www.oldmissioncapital.com/careers/?gh_jid=7796044003) &mdash; Chicago, IL, NYC · 64d ago · Quant
-- [Quantitative Trader](https://www.oldmissioncapital.com/careers/?gh_jid=7796031003) &mdash; Chicago, IL, NYC · 64d ago · Quant
-
-### Salesforce (4)
-- [AI Builder - Emerging Talent](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/AI-Builder--Emerging-Talent_JR357678-1) &mdash; SF, McLean, VA, Chicago, IL · 21d ago · SWE
-- [AI Builder - Emerging Talent](https://salesforce.wd12.myworkdayjobs.com/Futureforce_NewGradRoles/job/California---San-Francisco/AI-Builder--Emerging-Talent_JR357678) &mdash; SF, McLean, VA, Chicago, IL · 21d ago · SWE
-- [Software Engineer College Grad](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Software-Engineering-AMTS--College-Grad-_JR355250-1) &mdash; Palo Alto, CA, Seattle, WA, Indianapolis, IN · 41d ago · SWE
-- [Software Engineer College Grad](https://salesforce.wd12.myworkdayjobs.com/Futureforce_NewGradRoles/job/California---San-Francisco/Software-Engineering-AMTS--College-Grad-_JR355250) &mdash; Palo Alto, CA, Seattle, WA, Indianapolis, IN · 41d ago · SWE
-
-### Anduril (3)
-- [Agentic AI Engineer - Automation](https://boards.greenhouse.io/andurilindustries/jobs/5219383007) &mdash; Costa Mesa, CA · 20d ago · SWE
-- [Software Engineer - Tracking](https://boards.greenhouse.io/andurilindustries/jobs/5215629007) &mdash; Fort Collins, CO, Broomfield, CO · 27d ago · SWE
-- [Software Engineer - Battlespace Awareness](https://boards.greenhouse.io/andurilindustries/jobs/5215627007) &mdash; Fort Collins, CO, Broomfield, CO · 27d ago · SWE
-
-### Applied Intuition (3)
-- [Scenario Engineer New Grad](https://jobs.ashbyhq.com/applied/f382de9d-d5e4-4dc8-85a0-0bae7125f8cf/application?embed=true) &mdash; Sunnyvale, CA · 31d ago · ML
-- [Software Engineer New Grad - December 2026](https://jobs.ashbyhq.com/applied/a837cbd6-9fe4-4d74-a2dc-84f602c40694/application?embed=true) &mdash; Ann Arbor, MI, Sunnyvale, CA · 32d ago · SWE
-- [Research Engineer New Grad](https://jobs.ashbyhq.com/applied/45fc41cd-8280-4010-ba1f-def6114b3e39/application?embed=true) &mdash; Sunnyvale, CA · 32d ago · ML
-
-### Hudson River Trading (3)
-- [Software Engineer - C++ or Python](https://www.hudsonrivertrading.com/careers/job/?gh_jid=8052122) &mdash; Austin, TX, Chicago, IL, NYC · 64d ago · SWE
-- [Algorithm Developer New Grad - Quant Researcher](https://www.hudsonrivertrading.com/careers/job/?gh_jid=8052050) &mdash; NYC · 64d ago · Quant
-- [Algorithm Developer - Quant Researcher](https://www.hudsonrivertrading.com/careers/job/?gh_jid=8059845) &mdash; NYC · 64d ago · Quant
-
-### Microsoft (3)
-- [Software Engineer - CoreAI](https://apply.careers.microsoft.com/careers/job/1970393556989020) &mdash; Redmond, WA · 4d ago · SWE
-- [Software Development Consultant - Technology Consulting](https://apply.careers.microsoft.com/careers/job/1970393556857973) &mdash; Springfield, VA · 41d ago · SWE
-- [Software Engineer 2 / Senior Software Engineer - Commerce Platforms](https://apply.careers.microsoft.com/careers/job/1970393556928670) &mdash; Redmond, WA · 61d ago · SWE
-
-### Two Sigma (3)
-- [Software Engineer](https://twosigma.avature.net/careers/JobDetail/14018) &mdash; Houston, TX · 7d ago · SWE
-- [Software Engineer](https://twosigma.avature.net/careers/JobDetail/14014) &mdash; NYC · 7d ago · SWE
-- [Quantitative Researcher - Full-Time Campus Hire](https://twosigma.avature.net/careers/JobDetail/13946) &mdash; NYC · 44d ago · Quant
-
-### AQR Capital Management (2)
-- [Portfolio Implementation Analyst](https://careers.aqr.com/jobs?gh_jid=8143913&gh_jid=8143913) &mdash; Greenwich, CT · 21d ago · Quant
-- [Trading Analyst](https://careers.aqr.com/jobs?gh_jid=8156709&gh_jid=8156709) &mdash; Greenwich, CT · 21d ago · Quant
-
-### Belvedere Trading (2)
-- [Quantitative Trader](https://jobs.lever.co/belvederetrading/34369a5c-55c0-4e9f-9d2e-4f21b9418bee/apply) &mdash; Chicago, IL · 39d ago · Quant
-- [Software Engineer](https://jobs.lever.co/belvederetrading/2f6480e5-7bf1-4c41-b3b5-3c7404d95b5f/apply) &mdash; Chicago, IL · 39d ago · SWE
-
-### DRW (2)
-- [Software Developer](https://job-boards.greenhouse.io/drweng/jobs/7980165) &mdash; Chicago, IL · 64d ago · SWE
-- [Quantitative Researcher](https://job-boards.greenhouse.io/drweng/jobs/8030406) &mdash; Chicago, IL, NYC · 64d ago · Quant
-
-### Five Rings Capital (2)
-- [Campus Full Time - Software Developer](https://job-boards.greenhouse.io/fiveringsllc/jobs/5349839008) &mdash; NYC · 63d ago · SWE
-- [Quantitative Trader - Quantitative Trader](https://job-boards.greenhouse.io/fiveringsllc/jobs/5255334008) &mdash; NYC · 63d ago · Quant
-
-### Google (2)
-- [Software Engineer Early Career - Multiple Teams](https://www.google.com/about/careers/applications/jobs/results/84680705375642310) &mdash; Madison, WI, Seattle, WA, Austin, TX · 22d ago · SWE
-- [Software Engineer - Campus](https://www.google.com/about/careers/applications/jobs/results/78703249065943750) &mdash; Cambridge, MA, Seattle, WA, LA · 39d ago · SWE
-
-### Instacart (2)
-- [Senior Machine Learning Engineer - Economist](https://instacart.careers/job/?gh_jid=8157736) &mdash; Remote in USA · 19d ago · ML
-- [Senior Machine Learning Engineer - Economics](https://instacart.careers/job/?gh_jid=8157738) &mdash; Remote in Canada · 19d ago · ML
-
-### Marshall Wace (2)
-- [Quant Research - Quantitative Associate Programme](https://job-boards.greenhouse.io/mw-tech-grad/jobs/8636830002) &mdash; London, UK, NYC · 20d ago · Quant
-- [Software/Infrastructure Graduate](https://job-boards.greenhouse.io/mw-tech-grad/jobs/8646937002) &mdash; NYC · 46d ago · SWE
-
-### NVIDIA (2)
-- [Architecture Energy Modeling Engineer - Power Modeling, Methodology and Analysis](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Architecture-Energy-Modeling-Engineer---New-College-Grad-2026_JR2023398) &mdash; Santa Clara, CA · 26d ago · ML
-- [Backend Compiler Engineer New Grad](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Backend-Compiler-Engineer---New-College-Grad-2026_JR2021242) &mdash; Canada, Santa Clara, CA · 65d ago · SWE
-
-### ServiceNow (2)
-- [Software Engineer](https://jobs.smartrecruiters.com/ServiceNow/744000149338366) &mdash; West Palm Beach, FL · 1d ago · SWE
-- [Associate Applications Development Engineer](https://jobs.smartrecruiters.com/ServiceNow/744000144653619) &mdash; Santa Clara, CA · 26d ago · SWE
-
-### Susquehanna International Group (2)
-- [Trading System Engineer New Grad](https://careers-sig.icims.com/jobs/11349/job?mobile=true&needsRedirect=false) &mdash; Bala Cynwyd, PA · 25d ago · Quant
-- [Quantitative Strategy Developer New Grad](https://careers-sig.icims.com/jobs/11321/job?mobile=true&needsRedirect=false) &mdash; Bala Cynwyd, PA · 27d ago · Quant
-
-### Wintermute (2)
-- [Algorithmic Trader](https://jobs.lever.co/wintermute-trading/28c7e15f-b3a0-48c6-8322-2e9f25371fd0/apply) &mdash; London, UK, NYC · 12d ago · Quant
-- [Graduate Algorithmic Trader](https://jobs.lever.co/wintermute-trading/d962dc39-8839-4e13-a37a-baba49e52b44/apply) &mdash; NYC · 14d ago · Quant
-
-### Wolverine Trading (2)
-- [Entry Level C++ Software Engineer](https://wolve.pinpointhq.com/en/postings/1f33c89b-2592-498d-b45a-1b2092cf944e?ats=pinpointhq) &mdash; Chicago, IL · 32d ago · SWE
-- [Entry Level C++ Software Engineer](https://wolve.pinpointhq.com/en/postings/e03d9864-a128-40ff-91b5-dfc9fd1b59d6?ats=pinpointhq) &mdash; Chicago, IL · 32d ago · SWE
-
-### Zoox (2)
-- [Data Analyst - Hrs/wk](https://jobs.lever.co/zoox/ae2785ae-dfee-484b-8add-3cf32ca2d10e/apply) &mdash; Seattle, WA · 6d ago · ML
-- [Analyst Student Worker](https://jobs.lever.co/zoox/737259b5-4258-4557-b7e0-0627b3d870a5/apply) &mdash; Foster City, CA · 42d ago · ML
-
-### Adobe (1)
-- [Photoshop Developer - GPU/Imaging](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Francisco/Photoshop-Developer--GPU-Imaging_R171014) &mdash; Seattle, WA, SF, San Jose, CA · 36d ago · SWE
-
-### Anysphere (1)
-- [Software Engineer New Grad - 2027](https://jobs.ashbyhq.com/cursor/d0e5b41d-84ab-4887-bd3a-55589b11dd7b/application?embed=true) &mdash; SF, NYC · 5d ago · SWE
-
-### Atlassian (1)
-- [Software Engineer](https://campus-americas.icims.com/jobs/25813/software-engineer%2c-2027-graduate-u.s./job) &mdash; Seattle, WA · 1d ago · SWE
-
-### DoorDash (1)
-- [Software Engineer 1 - Entry-Level](https://job-boards.greenhouse.io/doordashusa/jobs/8163709) &mdash; Seattle, WA, SF, LA · 11d ago · SWE
-
-### Figure (1)
-- [Data Creator](https://job-boards.greenhouse.io/figureai/jobs/4585080006) &mdash; San Jose, CA · 61d ago · ML
-
-### Flow Traders (1)
-- [Graduate Quantitative Trader](https://job-boards.greenhouse.io/flowtraders/jobs/8094581) &mdash; NYC · 48d ago · Quant
-
-### Headlands Tech Holdings (1)
-- [Research Developer New Grad](https://job-boards.greenhouse.io/headlandstechnologiesllc/jobs/4227566009) &mdash; London, UK, Chicago, IL, NYC · 72d ago · ML
-
-### IMC Trading (1)
-- [Performance Engineer](https://job-boards.eu.greenhouse.io/imc/jobs/4823836101) &mdash; Chicago, IL · 19d ago · SWE
-
-### Jump Trading (1)
-- [AI Research Engineer](https://boards.greenhouse.io/embed/job_app?token=8052313) &mdash; Chicago, IL, NYC · 69d ago · ML
-
-### Man Group (1)
-- [Risk & Performance Analyst](https://job-boards.eu.greenhouse.io/mangroup/jobs/4958874101) &mdash; Boston, MA · 19d ago · ML
-
-### Motional (1)
-- [Motion Planning Engineer - Trajectory Generation](https://motional.com/open-positions/?gh_jid=7980363003#/7980363003) &mdash; Boston, MA, Las Vegas, NV, Remote in USA · 1d ago · ML
-
-### Optiver (1)
-- [Equity Analyst New Grad](https://www.optiver.com/join-us/jobs/8616003002/?gh_jid=8616003002) &mdash; Chicago, IL · 56d ago · Quant
-
-### Point72 (1)
-- [Software Developer - Developers](https://boards.greenhouse.io/point72/jobs/7598678002) &mdash; NYC · 27d ago · Quant
-
-### Roblox (1)
-- [Software Engineer - Early Career](https://careers.roblox.com/jobs/8072244?gh_jid=8072244) &mdash; San Mateo, CA · 41d ago · SWE
-
-### Stripe (1)
-- [Software Engineer New Grad](https://stripe.com/jobs/search?gh_jid=8128744) &mdash; Seattle, WA, SF, NYC · 14d ago · SWE
-
-### The Voleon Group (1)
-- [Software Engineer - University Hire 2027](https://jobs.ashbyhq.com/voleon/d732fd5a-ac98-4985-9e60-d1d59f02a66c/application?embed=true) &mdash; Berkeley, CA, NYC · 21d ago · SWE
-
-### Tower Research Capital (1)
-- [Quantitative Trader](https://www.tower-research.com/open-positions/?gh_jid=8024142) &mdash; Chicago, IL, NYC · 72d ago · Quant
-
-### Walleye Capital (1)
-- [Quantitative Researcher - Single Stock Volatility](https://job-boards.greenhouse.io/walleyecapital-external-fulltime/jobs/4690167006) &mdash; Miami, FL · 40d ago · Quant
-
-### WorldQuant (1)
-- [Quantitative Developer - Portfolio Management Solutions](https://job-boards.greenhouse.io/worldquant/jobs/4700347006) &mdash; Connecticut, NYC · 33d ago · Quant
-
-### xAI (1)
-- [Software Engineer - Evals](https://job-boards.greenhouse.io/xai/jobs/5188230007) &mdash; Palo Alto, CA · 55d ago · SWE
-<!-- JOBS:END -->
-
----
+<!-- JOBS:HEAD:START -->
+_Generated by the bot on its next run._
+<!-- JOBS:HEAD:END -->
 
 ## How it works
 
-- **Runs on GitHub Actions** (free) — your computer never needs to be on.
-- Pulls [Simplify's New-Grad-Positions](https://github.com/SimplifyJobs/New-Grad-Positions)
-  feed and keeps only roles that are: at a company on your list, SWE / AI-ML / Quant,
-  in the **US or Taiwan**, and **not** PhD / Research-Scientist roles.
-- The **company list is your comp filter** — every firm on it clears your bar, so anything
-  that surfaces is worth a look. Tune it with the
-  [Levels.fyi entry-level leaderboard](https://www.levels.fyi/leaderboard/Software-Engineer/Entry-Level-Engineer/country/United-States/).
+**Feed.** [Simplify's New-Grad-Positions](https://github.com/SimplifyJobs/New-Grad-Positions) `listings.json` (~20k
+records, ~3k live, refreshed about every 30 min). The bot scans every ~2 h (`23 */2 * * *` UTC) and right after you push
+`jobwatch.py`, `config.json` or `companies.json` to `main`; GitHub may delay scheduled runs by minutes to hours.
 
-Three surfaces:
-- **This README** — the full current list (read-only), refreshed each run.
-- **The tracker page** (`index.html` on GitHub Pages) — a full application tracker:
-  - A per-role **stage dropdown**: To review → Seen → Applied → OA → Interviewing → Offer →
-    Rejected → Dismissed. Rows are colour-coded by stage.
-  - An editable **note** on any role (recruiter, deadline, referral, OA link, questions…).
-  - A **★ save** toggle for favorites (independent of stage).
-  - A **filter dropdown** (any stage / ★ Saved / All) + search, with a live count per stage.
-  - A **Companies** panel to add/remove tracked companies, plus **Rescan now**.
-  - A **+ role** button to add a posting Simplify doesn't have (e.g. a Taiwan Google/Nvidia
-    listing) by hand; it's tracked like any other role and synced (kept in `manual.json`).
-  - **Save & sync** actually tests the token (read + write) and tells you plainly whether it
-    worked, so you know sync is really on.
-  - A **sort** control (by company / newest / oldest) and clickable header counts.
-  - Roles you've touched stay after a posting closes (shown "closed"), so your history persists.
-  - Everything (stages, notes, stars, company list) syncs across devices via your repo.
-- **Telegram** — a one-time summary, then only *new* postings (each with its link).
+**Filter**, in this order, for every live record:
+1. **Company** — the name must contain one of your `companies.json` keywords as whole words on a normalised name
+   (`d-matrix` matches `d-Matrix`; `snap` matches `Snap Inc.` but not `Snapchat`). A **deny list** removes look-alikes
+   (`Snap-on`, `Millennium Physician Group`).
+2. **Category** — Simplify's Software, AI/ML/Data or Quant. A **Hardware** role is rescued when its title looks like
+   software (`software`, `cuda`, `compiler`, `kernel`, `firmware`, `embedded`, …) and not like silicon work (`rtl`,
+   `asic`, `verification`, `physical design`, …).
+3. **Degrees** — PhD-only roles are dropped using the feed's `degrees` field (PhD listed without a Bachelor's/Master's).
+   `PhD` / `postdoc` / `doctoral` in the title always drops; "Research Scientist" drops only when the feed lists no degrees.
+4. **Title** — senior / staff / principal / manager / director / "Software Engineer II" are dropped unless the title also
+   says new grad, graduate, campus or early career; operator, labeler, annotator, technician, intern, co-op, trainee, pilot
+   and similar are dropped regardless.
+5. **Region** — US or Taiwan. `Remote`, `Remote in USA` / `Remote in US` count as US; `Remote in Canada` (or any other
+   country) does not. Foreign cities and countries are recognised (`London, UK` and `Toronto, ON, Canada` are out;
+   `Vancouver, WA` and `Dublin, OH` are in). No location at all passes.
+6. **Sponsorship** — `Does Not Offer Sponsorship` / `U.S. Citizenship is Required` are dropped.
+7. **Age** — a role must be ≤ 75 days old the first time it is seen; after that it is *sticky* and stays active exactly
+   as long as the feed lists it.
 
-### Managing tracked companies
-Open the tracker → **Companies** (top right) → add a keyword or remove a chip. This edits
-`companies.json`, which the bot reads on its next scan. Hit **Rescan now** to apply
-immediately (needs the token to also have **Actions: Read and write** — see step 5),
-otherwise it applies on the next scheduled run.
+Postings with the same company and title (parentheticals ignored) fold into one **group** row (`×2 · San Jose, CA;
+Seattle, WA`); marks are always per posting. A role that leaves the feed becomes **closed**; one that is still listed but
+no longer passes your filters becomes **not tracked**, with the reason (PhD-only, title, region, category, sponsorship,
+company removed). Both stay visible under All / Closed / Untracked, and anything you marked is kept.
 
----
+**Telegram.** One digest per scan that found something new: a header (`3 new roles · TikTok 2 · Cerebras 1`) linking to
+the tracker's New view, then one block per company and one bullet per group — `[ML] Title — San Jose, CA · Seattle, WA
+(2 postings) · BS/MS` — with every location linking to its own posting. A company folds after 8 lines into `+N more at
+TikTok` (a link to that list); a run sends at most 4 messages and the rest follow ~2 h later. A role is announced once,
+and only after Telegram accepted the message. The very first run sends a summary instead of a digest.
 
-## Setup (~15 min, once)
+**Tracker.** Views (Inbox, New, Pipeline, Saved, All, …), one-tap Seen / Applied / Dismiss, notes, stars, undo, keyboard
+shortcuts, the company list and settings editor, a Rescan button, CSV/JSON export. Marks live in `status.json` in this
+repo and merge between devices last-writer-wins; without a token the page is a read-only mirror.
 
-### 1. Make a Telegram bot
-1. Message **@BotFather** → `/newbot` → follow prompts → copy the **token**.
-2. Send your new bot any message so it's allowed to message you.
-3. Message **@userinfobot** to get your numeric **chat id**.
+## Setup (~15 min)
 
-### 2. Create a **public** repo with these files
+1. **Telegram bot.** Message **@BotFather** → `/newbot` → copy the token. Send your bot any message (otherwise it cannot
+   write to you). Message **@userinfobot** for your numeric chat id.
+2. **Repo** — public (Pages is free only on public repos; nothing secret is stored here). **Fork** this repo, or start
+   **fresh** from a complete copy of it (clone → push to a new repo, or GitHub's *Use this template* when it is enabled).
+   Copy everything, not a hand-picked subset: `ci.yml` runs `tests/`, `tools/`, `e2e/` and `ruff.toml` on every push
+   and stays red without them (drop `.github/workflows/ci.yml` and `.github/dependabot.yml` if you want the bot alone).
+   Either way, before opening the tracker: Actions tab → enable workflows; add the secrets (step 3); commit
+   `status.json` = `{}` and `manual.json` = `[]`; delete `seen.json` (so your first run sends *your* summary, not this
+   repo's memory); optionally `roles.json` = `[]`; edit `companies.json` to your list.
+3. **Secrets.** Repo → Settings → Secrets and variables → Actions: `TELEGRAM_BOT_TOKEN`, `TELEGRAM_CHAT_ID`.
+4. **Pages.** Settings → Pages → Deploy from a branch → `main`, `/ (root)`. The tracker is at `https://<owner>.github.io/<repo>/`.
+5. **First run.** Pushing `jobwatch.py`, `config.json` or `companies.json` to `main` runs the bot at once; otherwise
+   Actions → **jobwatch** → Run workflow (tick `dry_run` to rehearse without writing or sending). It writes `roles.json`,
+   `meta.json`, `seen.json`, fills the two generated sections of this README and sends the Telegram summary.
+6. **Sync token (optional).** The page reads your public files without a token — a token is only needed to write.
+   GitHub → Settings → Developer settings → Fine-grained tokens: *Only select repositories* → this repo; permissions
+   **Contents: Read and write** and **Actions: Read and write** (for Rescan). Tracker → **Sync** → `owner/repo` + token →
+   **Save & verify**. Repeat per device; the token never leaves that browser.
+7. **iPhone.** Share → **Add to Home Screen**. Safari deletes a site's storage after 7 days without a visit; the Home
+   Screen app has its own storage — paste the token there once.
+8. **Quiet hours (optional).** The bot scans every ~2 h around the clock. Settings → Quiet hours (e.g. 23–8
+   `America/Los_Angeles`) holds digests until the first scan after the window.
+
+## Using the tracker
+
+- **Views.** Inbox (active, unmarked), New (Inbox ∩ since your last visit or the last 36 h), Pipeline (applied → offer,
+  grouped by stage with dates and a "no update 3w" nudge), Saved (★), All (with a hide-closed toggle) and, under More,
+  each stage plus Closed and Untracked. Chips SWE / ML / Quant / HW, search and sort intersect any view; the URL hash
+  holds the view, so a link reproduces it.
+- **Marks.** Quick actions Seen / Applied / Dismiss, a stage select, ★ and a note per role. Changes sync within ~2 s;
+  **Undo** in the toast (or `u`) restores exactly what was there, history included.
+- **Groups.** One row per company + title with `×N` and a chip per posting (own link, own stage). Seen / Dismiss / ★
+  apply to members still "to review"; Applied and later stages go to the single open member — with two or more the row
+  expands and asks *Which posting?*
+- **Company actions.** `Seen all` / `Dismiss all` in the company header; one Undo covers all of them.
+- **Keyboard.** `?` lists the shortcuts; `j` / `k` move, `u` (or Ctrl+Z) undoes. Ignored while you type.
+- **NEW badge** on roles that appeared since your last visit; the New tab counts the same set.
+- **Pills.** The scan pill says when the bot last ran — "scanned 2h ago" with a token (from the Actions API) or "bot
+  alive 14h ago" without one (from `meta.json`; the bot commits only when something changed, at least once a day). The
+  sync pill reads Synced / Syncing… / N unsaved / Sync failing / Read-only / Local only; the footer repeats it in words.
+- **Banners** are specific: new roles since your visit, sync off on this device, a sync error with its reason, offline
+  with the pending count, `roles.json` failed to load, bot silent for > 26 h, settings changed since the last scan,
+  marks on this device that are not in your repo (once, after upgrading — Discard unless you recognise them), a newer
+  page version exists.
+- **Companies dialog.** Every keyword with its active count (`0 ever` = never matched a name in the feed), the names it
+  matched and `denied N`; add (previews how it will match, e.g. `d matrix`), remove (confirms when it hides roles),
+  **Block this name** (adds to `config.deny`), **Rescan now** (dispatches the workflow and reports the outcome
+  truthfully: "+3 new roles", "no new matches", "Scan failed"). Saving also triggers a scan within a minute.
+- **Settings.** Theme; toggles for Hardware rescue, the Research-Scientist rule, regions US / TW and quiet hours; the
+  `config.json` editor with Validate / Save / Reset to defaults; Export CSV / JSON; "Clear local marks on this device".
+
+## Configuration
+
+`config.json` is optional — without it the defaults in `jobwatch.py` apply. Create it from Settings → Save (writes the
+effective config) or by hand. A key in the file **replaces** the default for that key (lists are not merged; a nested object such as `feed` or
+`telegram` may omit sub-keys — they are filled from the defaults with a warning in `meta.json`); an unknown
+key warns; a wrong type stops the run (exit 2) naming the key; a regex fragment that does not compile falls back to its
+default with a warning in `meta.json`. Every change needs a scan — saving from Settings triggers one.
+
+| Key | Default | Effect |
+|---|---|---|
+| `feed_url` | Simplify `listings.json` | Feed URL (`https://`). |
+| `regions` | `["US", "TW"]` | Regions kept; `[]` = no region filter. |
+| `categories` | `["Software", "Software Engineering", "AI/ML/Data", "Data Science, AI & Machine Learning", "Quant"]` | Simplify categories kept. |
+| `hardware_rescue` | `{"enabled": true, "include": [...], "exclude": [...]}` | Admit `Hardware` roles whose title matches an include fragment and no exclude fragment. |
+| `title_exclude` | regex fragments | Titles dropped (`senior`, `staff … engineer`, `operator`, `intern`, `trainee`, …). |
+| `title_seniority` | subset of `title_exclude` | The fragments a `title_keep` hit waives. |
+| `title_keep` | `["new grad", "graduate", "campus", "early careers?", "entry level", …]` | New-grad signals. |
+| `phd_title` | `["ph\\.?\\s?d", "postdoc", "post-doc", "post doc", "doctoral"]` | Always dropped, whatever `degrees` says. |
+| `research_title` | `["research scientist"]` | Dropped only when the feed lists no degrees. |
+| `bs_ms_degrees` | `["Bachelor's", "Master's", "Associate's", "MBA"]` | A role is PhD-only iff `PhD` is listed and none of these. |
+| `deny` | list of names | Company names (normalised, whole words) never matched. |
+| `bad_sponsorship` | `["U.S. Citizenship is Required", "Does Not Offer Sponsorship"]` | Sponsorship values dropped. |
+| `max_age_days` · `archive_days` | `75` · `180` | Age limit for *new* ids · how long closed / untracked rows without a keep-mark stay in `roles.json`. |
+| `keep_marks` | `["applied", "oa", "interview", "offer", "rejected"]` | Stages (plus any ★ or note) that exempt a row from pruning. |
+| `feed` | `{"min_records": 1000, "min_active": 200, "min_active_ratio": 0.7, "required_keys": [...]}` | Feed sanity gates (exit 1, nothing written). |
+| `archive_gate` | `{"max_closed_fraction": 0.5, "min_prev_active": 20}` | Refuse to close more than half of the active roles in one run (exit 4; `force` overrides). |
+| `telegram` | `{"html": true, "max_lines_per_company": 8, "max_messages_per_run": 4, "pace_seconds": 1.1, "chunk_chars": 3500, "deep_link": true, "deadline_seconds": 180, "quiet_hours": null}` | Digest shape; `quiet_hours` = `{"start": 23, "end": 8, "tz": "America/Los_Angeles"}` holds digests in the window. |
+| `readme.collapse_over` | `20` | Companies with more roles than this render collapsed in the list below. |
+| `pages_url` | `null` | Overrides the derived tracker URL (custom domains, local runs). |
+
+Regex fragments are wrapped as `(?<![a-z0-9])(?:FRAG)(?![a-z0-9])`, case-insensitive, identically in Python and in the
+page's validator — use only the shared subset (`\b \s \w ? + * | () [] \.`). `companies.json` is a JSON array of
+lowercase keywords, edited from the Companies dialog or by hand.
+
+## State files, backup, restore, reset
+
+| File | Written by | Shape | Safe to delete? |
+|---|---|---|---|
+| `roles.json` | bot | array of roles, active and archived | Yes — rebuilt on the next run; archived history is lost. |
+| `meta.json` | bot | run metadata, per-keyword counts, warnings | Yes — recreated; the scan pill reads "unknown" until then. |
+| `seen.json` | bot | sorted ids already announced | Yes — the next run sends the summary and re-seeds (no per-role re-pings). |
+| `status.json` | tracker (and `tools/backfill_marks.py`, run by you) | `{id: {s, star, note, t, h}}` or `{id: {d}}` | **No** — your marks. Reset = commit `{}` after hard-reloading every device. |
+| `companies.json` | tracker; the bot only seeds it when absent | array of keywords | Yes — re-seeded with the defaults. |
+| `manual.json` | tracker | roles you added by hand | Yes, if you have none. |
+| `config.json` | tracker Settings, or you | object | Yes — the defaults apply. |
+| `README.md` | bot, only between the two marker pairs | — | — |
+
+- **Backup:** `git clone --depth=1 https://github.com/<owner>/<repo> jw-backup && tar czf jw-backup.tgz jw-backup`.
+- **Restore marks:** `git checkout <sha> -- status.json && git commit -m "restore marks" && git push`, then Settings →
+  Clear local marks on each device (or just wait: last-writer-wins adopts the repo copy for anything older).
+- **Reset the bot's memory:** delete or empty `seen.json` → the next run sends the summary only and re-seeds.
+- **`tools/backfill_marks.py`** (once, locally): reads the git history of `status.json` and gives every legacy mark its
+  real change time and stage history, so Pipeline shows dates. `python3 tools/backfill_marks.py` prints the diff;
+  `--write` applies it; review, commit, push. Idempotent — existing times are never overwritten.
+
+## Running and testing locally
+
 ```
-your-repo/
-├── jobwatch.py
-├── index.html
-├── roles.json          (scanned job data; refreshed by the bot, keeps closed roles you marked)
-├── companies.json      (the tracked-company list; editable from the tracker page)
-├── manual.json         ([] — roles you add by hand on the tracker page)
-├── status.json         ({} — your stages, notes, and stars)
-├── README.md
-└── .github/workflows/jobwatch.yml
+python3 jobwatch.py --dry-run --verbose --feed listings.json --state-dir /tmp/jw     # always --dry-run first
+python3 jobwatch.py --explain "NVIDIA" "GPU Architecture Engineer New Grad" --degrees "Master's" --locations "Santa Clara, CA"
 ```
-Make it **Public**. Nothing sensitive lives here (job listings + your progress); your
-Telegram token goes in Secrets, never in the repo. Public is also what lets the tracker
-page work for free (GitHub Pages on private repos needs a paid plan).
+`--dry-run` runs the whole pipeline, gates included, prints counts, the would-be Telegram text and the files that would
+change, and writes nothing. `--feed` takes a local snapshot (`curl -o listings.json <feed_url>`); `--state-dir` points at
+a *copy* of the state files — never run inside your clone without it. A run without `--dry-run` and without Telegram
+credentials writes files and prints a loud line saying the new roles were **not** marked seen (`--no-notify` marks them
+seen without alerts). Never hand-commit `roles.json`, `seen.json`, `meta.json` or the generated README sections.
 
-### 3. Add two repo secrets
-Repo → **Settings → Secrets and variables → Actions → New repository secret**:
-- `TELEGRAM_BOT_TOKEN` = the BotFather token
-- `TELEGRAM_CHAT_ID` = your chat id
+Page: `cp -r . /tmp/jw-page && cd /tmp/jw-page && python3 -m http.server 8000`, open `http://localhost:8000/`, and in
+Sync save `owner/repo` **without** a token for read-only testing. Never paste a token into a `file://` page (the page
+refuses). Tests: `python3 -m pytest -q`, `ruff check jobwatch.py tools tests`, `node --test 'tests/js/*.test.mjs'`,
+`python3 tests/check_html.py`; Playwright: `cd e2e && npm ci`, then from the repo root `PW_CHANNEL=chrome node --test
+'e2e/*.spec.mjs'` (system Chrome; CI installs chromium). Details in [DEVELOPING.md](DEVELOPING.md).
 
-### 4. Turn on the tracker page (GitHub Pages)
-Repo → **Settings → Pages** → *Build and deployment* → Source: **Deploy from a branch**
-→ Branch: **main**, folder: **/ (root)** → **Save**.
-Your tracker will be at `https://<your-username>.github.io/<repo>/` (the bot drops this
-link into the README and your Telegram summary automatically).
+## Troubleshooting
 
-### 5. (Optional) Turn on cross-device sync
-By default the tracker keeps your stages/notes/stars in the browser you're using. To share
-them across phone and laptop — and to edit the company list — the page reads/writes
-`status.json` and `companies.json` in your repo via the GitHub API. Give it a token:
-1. Create a **fine-grained token**: GitHub → Settings → Developer settings →
-   Fine-grained tokens → *Generate new token*. Repository access = **Only select
-   repositories → your jobwatch repo**. Permissions = **Contents: Read and write**
-   (add **Actions: Read and write** for the Rescan button). Nothing else.
-2. Open the tracker → **Sync** (top right) → paste `owner/repo` and the token → Save.
-3. Repeat on each device you use. The token lives only in that device's browser; revoke it
-   anytime in GitHub settings.
-
-### 6. Run it once
-Repo → **Actions** → **jobwatch** → **Run workflow**.
-- Fills the job list into this README, writes `roles.json`, and Telegrams you a summary.
-- After that it only pings you about **new** postings, twice a day.
-
-Done — ignore it until it messages you.
-
----
-
-## Tuning (top of `jobwatch.py`)
-
-| Setting | What it does |
+| Symptom | Cause → fix |
 |---|---|
-| `COMPANIES` | Default target list. On first run it seeds `companies.json`, which then becomes the live list you edit from the tracker's Companies panel. Multi-word = substring; single word = exact word match. |
-| `EXCLUDE_TITLE_KEYWORDS` | Titles to drop (currently PhD / Research Scientist / postdoc). |
-| `ROLE_CATS` | Role families. Add `"Hardware"` to include EE/embedded. |
-| `ALLOWED_REGIONS` | `{"US","TW"}` by default (plus Remote/blank). Drop `"TW"` for US-only. |
-| `MAX_AGE_DAYS` | Ignore postings older than this. |
-| `ARCHIVE_DAYS` | How long closed roles stay in `roles.json` (so marked ones persist). |
-| `SOURCES` | Feeds. Add only feeds that use Simplify's JSON schema. |
+| Nothing on Telegram | The run log's annotations say why: `400 chat not found` → message the bot first; `403` → you blocked the bot; `401` → wrong token. Digests are held during quiet hours; a role is announced once — check the New view. |
+| Red run, exit 1 | Feed unreachable or degenerate (too few records, schema drift, live count < 70 % of the last run) — nothing written. One Telegram after the second consecutive scheduled failure. Set `feed_url` if Simplify moved the file. |
+| Red run, exit 2 | A state or config file is corrupt or the wrong shape — the message names it; fix or delete it. Also any unexpected internal error (traceback in the run log). Nothing written. |
+| Red run, exit 3 | Files were written and committed, but every Telegram message failed; the roles are re-announced next run. |
+| Red run, exit 4 | Gate: `refused to close N roles in one run` (feed hiccup?) or 0 matches with a non-empty company list. Re-run with the `force` input if it is real. |
+| "Sync failing" banner | The reason is in the banner: token invalid or expired → new token; can't write → give it Contents: Read and write; repo or file not found → check `owner/repo`; `status.json` not valid JSON → fix it on GitHub. Marks stay safe on the device until Retry succeeds. |
+| Read-only / rate limit | Without a token the page never calls the GitHub API (so the anonymous 60/h limit cannot bite) and cannot write; it mirrors the Pages copy, up to 10 min behind. Add a token to write. |
+| Page shows old data | Pages caches for up to 10 min; the page tolerates old data in both directions. Hard-reload once after a release. |
+| Scheduled runs late or gone | GitHub delays cron under load and disables schedules after 60 days without commits; the bot's heartbeat commit (at most one a day) prevents that, and any push re-enables. |
 
-Reset the bot's "already notified" memory: delete `seen.json` and run again.
+## What is public
 
----
+In a public repo anyone can read the role list (`roles.json`, this README), your **stages per company** in `status.json`
+(and its git history), your notes, `companies.json`, `manual.json` and `config.json`. Not public: the Telegram token and
+chat id (Actions secrets) and your GitHub token (stored only in your browser, only after it verified, never on a
+`file://` page). Shipped mitigations: `noindex`, `no-referrer`, `rel="noopener noreferrer"` on every link, no personal
+names in code or comments. Keep notes free of anything you would not put in a public commit. **Private-repo recipe:**
+GitHub Pro or the Student Pack allows Pages on a private repo — move `index.html`, `assets/`, `manifest.webmanifest`
+and `.nojekyll` into `docs/`, set Pages to `/docs`, and give every device a token: the page's same-origin fetch of
+`roles.json` 404s and it falls back to the Contents API.
 
-## Prefer email instead of Telegram?
-Swap `send_telegram()` for SMTP (Gmail with an
-[App Password](https://myaccount.google.com/apppasswords)):
-```python
-import smtplib
-from email.mime.text import MIMEText
-def send_telegram(text):            # keep the name; it's the delivery hook
-    user, pw = os.environ.get("EMAIL_USER"), os.environ.get("EMAIL_PASS")
-    if not (user and pw): return False
-    msg = MIMEText(text); msg["Subject"] = "jobwatch"; msg["From"] = user; msg["To"] = user
-    with smtplib.SMTP_SSL("smtp.gmail.com", 465) as s:
-        s.login(user, pw); s.send_message(msg)
-    return True
-```
-Then set `EMAIL_USER` / `EMAIL_PASS` as secrets instead of the Telegram ones.
-
----
-
-## Notes & limits
-- **Coverage** comes from Simplify. If a target company posts a new-grad role, Simplify
-  almost always catches it within a day. If the feed ever fails to fetch, the bot keeps the
-  last good `roles.json`/README instead of blanking them.
-- **Applied/pipeline history**: `roles.json` keeps roles that dropped out of the feed for
-  `ARCHIVE_DAYS` (180) so anything you marked stays visible in the tracker, labelled "closed".
-  Unmarked closed roles just disappear.
-- **Sync** is optional. With a token your stages/notes/stars (`status.json`) and company list
-  (`companies.json`) match on every device; without one it's per-browser and the company list
-  is read-only.
-- **Taiwan** roles are allowed, but Simplify is a US-focused feed, so TW coverage is thin.
-  Add a Taiwan source (e.g. Yourator / CakeResume) as another `SOURCES` entry for real TW.
-- **Timing**: many roles you see in summer are 2026-start; the 2027 new-grad wave opens
-  around fall — the bot will ping you as those appear.
-- Scheduled Actions can pause after ~60 days of no repo activity; since this commits on
-  every run, it keeps itself alive.
+## Current roles
+<!-- JOBS:START -->
+_Generated by the bot on its next run._
+<!-- JOBS:END -->
