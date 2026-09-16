@@ -1,0 +1,337 @@
+{
+  "_doc": [
+    "Shared config.json verdicts: jobwatch.load_config (tests/test_config.py) and lib.js validateConfig",
+    "(tests/js/lib.test.mjs) both run every row, so neither validator can drift alone. Edit by hand.",
+    "ok=false: the bot exits 2 and the page refuses to save; both name `error_key` in their message.",
+    "ok=true: `filled` = nested objects whose omitted sub-keys the loader fills from the defaults, in",
+    "DEFAULT_CONFIG order (both sides warn with that key list); `unknown` = top-level keys both ignore with a warning; no other warning is allowed.",
+    "Deliberately absent (the page refuses what the bot repairs with a meta.warnings entry, §5.3): regex fragments",
+    "that do not compile or are empty, and a quiet_hours.tz zoneinfo does not know. Each suite pins those on its own.",
+    "Python-only: re.compile also refuses an oversized repetition count (OverflowError) and nesting past the recursion",
+    "limit (RecursionError), which V8 accepts; the page saves such a fragment and the bot falls back to the default",
+    "with the same warning (test_config.py pins it)."
+  ],
+  "cases": [
+    {
+      "label": "empty file = defaults",
+      "in": {},
+      "ok": true
+    },
+    {
+      "label": "top-level scalar replaces the default, nothing else changes",
+      "in": {
+        "max_age_days": 30
+      },
+      "ok": true
+    },
+    {
+      "label": "partial feed object is filled from the defaults with a warning",
+      "in": {
+        "feed": {
+          "min_records": 500
+        }
+      },
+      "ok": true,
+      "filled": {
+        "feed": [
+          "min_active",
+          "min_active_ratio",
+          "required_keys"
+        ]
+      }
+    },
+    {
+      "label": "partial hardware_rescue keeps the default include/exclude",
+      "in": {
+        "hardware_rescue": {
+          "enabled": false
+        }
+      },
+      "ok": true,
+      "filled": {
+        "hardware_rescue": [
+          "include",
+          "exclude"
+        ]
+      }
+    },
+    {
+      "label": "lone quiet_hours keeps every other telegram key",
+      "in": {
+        "telegram": {
+          "quiet_hours": null
+        }
+      },
+      "ok": true,
+      "filled": {
+        "telegram": [
+          "html",
+          "max_lines_per_company",
+          "max_messages_per_run",
+          "pace_seconds",
+          "chunk_chars",
+          "deep_link",
+          "deadline_seconds"
+        ]
+      }
+    },
+    {
+      "label": "empty nested object is filled entirely",
+      "in": {
+        "readme": {}
+      },
+      "ok": true,
+      "filled": {
+        "readme": [
+          "collapse_over"
+        ]
+      }
+    },
+    {
+      "label": "two partial objects warn once each",
+      "in": {
+        "feed": {
+          "min_active": 0
+        },
+        "readme": {}
+      },
+      "ok": true,
+      "filled": {
+        "feed": [
+          "min_records",
+          "min_active_ratio",
+          "required_keys"
+        ],
+        "readme": [
+          "collapse_over"
+        ]
+      }
+    },
+    {
+      "label": "complete nested object warns about nothing",
+      "in": {
+        "feed": {
+          "min_records": 500,
+          "min_active": 200,
+          "min_active_ratio": 0.7,
+          "required_keys": [
+            "id",
+            "company_name",
+            "title",
+            "active",
+            "category",
+            "date_posted",
+            "locations"
+          ]
+        }
+      },
+      "ok": true
+    },
+    {
+      "label": "unknown top-level key is ignored with a warning",
+      "in": {
+        "bogus": 1
+      },
+      "ok": true,
+      "unknown": [
+        "bogus"
+      ]
+    },
+    {
+      "label": "[] regions means no region filter",
+      "in": {
+        "regions": []
+      },
+      "ok": true
+    },
+    {
+      "label": "quiet hours with a known zone",
+      "in": {
+        "telegram": {
+          "html": true,
+          "max_lines_per_company": 8,
+          "max_messages_per_run": 4,
+          "pace_seconds": 1.1,
+          "chunk_chars": 3500,
+          "deep_link": true,
+          "deadline_seconds": 180,
+          "quiet_hours": {
+            "start": 23,
+            "end": 8,
+            "tz": "America/Los_Angeles"
+          }
+        }
+      },
+      "ok": true
+    },
+    {
+      "label": "fractional deadline is a number > 0",
+      "in": {
+        "telegram": {
+          "html": true,
+          "max_lines_per_company": 8,
+          "max_messages_per_run": 4,
+          "pace_seconds": 1.1,
+          "chunk_chars": 3500,
+          "deep_link": true,
+          "deadline_seconds": 1.5,
+          "quiet_hours": null
+        }
+      },
+      "ok": true
+    },
+    {
+      "label": "regions must be a list",
+      "in": {
+        "regions": "US"
+      },
+      "ok": false,
+      "error_key": "regions"
+    },
+    {
+      "label": "regions drawn from US/TW only",
+      "in": {
+        "regions": [
+          "EU"
+        ]
+      },
+      "ok": false,
+      "error_key": "regions"
+    },
+    {
+      "label": "max_age_days must be > 0",
+      "in": {
+        "max_age_days": 0
+      },
+      "ok": false,
+      "error_key": "max_age_days"
+    },
+    {
+      "label": "a bool is not an int",
+      "in": {
+        "max_age_days": true
+      },
+      "ok": false,
+      "error_key": "max_age_days"
+    },
+    {
+      "label": "version must be an int",
+      "in": {
+        "version": 1.5
+      },
+      "ok": false,
+      "error_key": "version"
+    },
+    {
+      "label": "wrong type inside a partial object is still refused",
+      "in": {
+        "feed": {
+          "min_records": -1
+        }
+      },
+      "ok": false,
+      "error_key": "feed.min_records"
+    },
+    {
+      "label": "min_active_ratio outside [0, 1]",
+      "in": {
+        "feed": {
+          "min_active_ratio": 2
+        }
+      },
+      "ok": false,
+      "error_key": "feed.min_active_ratio"
+    },
+    {
+      "label": "max_closed_fraction must be in (0, 1]",
+      "in": {
+        "archive_gate": {
+          "max_closed_fraction": 0
+        }
+      },
+      "ok": false,
+      "error_key": "archive_gate.max_closed_fraction"
+    },
+    {
+      "label": "hardware_rescue.enabled must be a bool",
+      "in": {
+        "hardware_rescue": {
+          "enabled": "yes"
+        }
+      },
+      "ok": false,
+      "error_key": "hardware_rescue.enabled"
+    },
+    {
+      "label": "a nested key must hold an object",
+      "in": {
+        "telegram": "loud"
+      },
+      "ok": false,
+      "error_key": "telegram"
+    },
+    {
+      "label": "deadline_seconds must be > 0",
+      "in": {
+        "telegram": {
+          "deadline_seconds": 0
+        }
+      },
+      "ok": false,
+      "error_key": "telegram.deadline_seconds"
+    },
+    {
+      "label": "quiet hours start outside 0-23",
+      "in": {
+        "telegram": {
+          "quiet_hours": {
+            "start": 25,
+            "end": 8,
+            "tz": "UTC"
+          }
+        }
+      },
+      "ok": false,
+      "error_key": "telegram.quiet_hours"
+    },
+    {
+      "label": "quiet hours without tz",
+      "in": {
+        "telegram": {
+          "quiet_hours": {
+            "start": 23,
+            "end": 8
+          }
+        }
+      },
+      "ok": false,
+      "error_key": "telegram.quiet_hours"
+    },
+    {
+      "label": "feed_url must be https",
+      "in": {
+        "feed_url": "http://insecure"
+      },
+      "ok": false,
+      "error_key": "feed_url"
+    },
+    {
+      "label": "title_seniority must be a subset of title_exclude",
+      "in": {
+        "title_seniority": [
+          "zzz"
+        ]
+      },
+      "ok": false,
+      "error_key": "title_seniority"
+    },
+    {
+      "label": "pages_url is a string or null",
+      "in": {
+        "pages_url": 5
+      },
+      "ok": false,
+      "error_key": "pages_url"
+    }
+  ]
+}

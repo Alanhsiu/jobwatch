@@ -1,0 +1,90 @@
+{
+ "simplify:dc6daafb-5abf-4b74-97ca-4d7e2db2a9f6": {
+  "s": "applied",
+  "t": 1788240800,
+  "h": [
+   {
+    "s": "applied",
+    "t": 1788240800
+   }
+  ]
+ },
+ "simplify:04b469a0-dcfe-4ba4-b011-d0cbc2f2f6bf": {
+  "s": "dropped",
+  "t": 1786772000,
+  "h": [
+   {
+    "s": "seen",
+    "t": 1786340000
+   },
+   {
+    "s": "dropped",
+    "t": 1786772000
+   }
+  ]
+ },
+ "simplify:d1bd4c62-1898-4f9d-be41-c433dacb61f5": {
+  "s": "applied",
+  "t": 1786340000,
+  "h": [
+   {
+    "s": "seen",
+    "t": 1786253600
+   },
+   {
+    "s": "applied",
+    "t": 1786340000
+   }
+  ]
+ },
+ "simplify:48008e25-fd18-4181-a61e-792a9c962548": {
+  "s": "dropped",
+  "t": 1786772000,
+  "h": [
+   {
+    "s": "dropped",
+    "t": 1786772000
+   }
+  ]
+ },
+ "simplify:6470fc04-154d-4d53-9a4c-9f69aaba3aaf": {
+  "s": "oa",
+  "star": true,
+  "note": "OA link in email; due Friday",
+  "t": 1788327200,
+  "h": [
+   {
+    "s": "applied",
+    "t": 1786340000
+   },
+   {
+    "s": "oa",
+    "t": 1788327200
+   }
+  ]
+ },
+ "simplify:2c1a920f-ed76-4384-9a74-6cf0d01a9123": {
+  "s": "applied"
+ },
+ "simplify:bbfd547f-84e0-4194-8f94-d9fd13af41da": {
+  "s": "rejected",
+  "t": 1785908000,
+  "h": [
+   {
+    "s": "applied",
+    "t": null
+   },
+   {
+    "s": "rejected",
+    "t": 1785908000
+   }
+  ]
+ },
+ "simplify:9ff8def7-4cc8-4f59-aadb-ddec79771bfa": {
+  "star": true,
+  "t": 1788413600
+ },
+ "simplify:00000000-0000-0000-0000-000000000000": {
+  "d": 1788413600
+ }
+}

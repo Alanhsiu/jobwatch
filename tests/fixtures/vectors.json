@@ -1,0 +1,695 @@
+{
+ "norm": [
+  {
+   "in": "d-Matrix",
+   "out": "d matrix"
+  },
+  {
+   "in": "Susquehanna International Group (SIG)",
+   "out": "susquehanna international group sig"
+  },
+  {
+   "in": "D. E. Shaw & Co",
+   "out": "d e shaw co"
+  },
+  {
+   "in": "Snap Inc.",
+   "out": "snap inc"
+  },
+  {
+   "in": "Snap-on",
+   "out": "snap on"
+  },
+  {
+   "in": "Millennium Physician Group",
+   "out": "millennium physician group"
+  },
+  {
+   "in": "Millennium Management",
+   "out": "millennium management"
+  },
+  {
+   "in": "Upscale AI",
+   "out": "upscale ai"
+  },
+  {
+   "in": "Scale AI",
+   "out": "scale ai"
+  },
+  {
+   "in": "Cruise Planners",
+   "out": "cruise planners"
+  },
+  {
+   "in": "Hudson River Trading (HRT)",
+   "out": "hudson river trading hrt"
+  },
+  {
+   "in": "Character.AI",
+   "out": "character ai"
+  },
+  {
+   "in": "X Development LLC",
+   "out": "x development llc"
+  },
+  {
+   "in": "Akuna Capital University",
+   "out": "akuna capital university"
+  },
+  {
+   "in": "Bloomberg Industry Group",
+   "out": "bloomberg industry group"
+  },
+  {
+   "in": "Optiver US LLC",
+   "out": "optiver us llc"
+  },
+  {
+   "in": "  Multiple   Spaces  ",
+   "out": "multiple spaces"
+  },
+  {
+   "in": "",
+   "out": ""
+  },
+  {
+   "in": "TikTok",
+   "out": "tiktok"
+  },
+  {
+   "in": "ByteDance",
+   "out": "bytedance"
+  },
+  {
+   "in": "Point72",
+   "out": "point72"
+  },
+  {
+   "in": "Jane Street",
+   "out": "jane street"
+  },
+  {
+   "in": "Two Sigma",
+   "out": "two sigma"
+  },
+  {
+   "in": "Ünïcode Café",
+   "out": "n code caf"
+  },
+  {
+   "in": "Software Engineer (2026)",
+   "out": "software engineer 2026"
+  },
+  {
+   "in": "Machine Learning Engineer – New Grad",
+   "out": "machine learning engineer new grad"
+  },
+  {
+   "in": "Quantitative Researcher - Ph.D",
+   "out": "quantitative researcher ph d"
+  },
+  {
+   "in": "C++/CUDA Kernel Engineer",
+   "out": "c cuda kernel engineer"
+  },
+  {
+   "in": "Data Scientist, Core Data",
+   "out": "data scientist core data"
+  },
+  {
+   "in": "Software Engineer New Grad - Hardware Tools & Methodology",
+   "out": "software engineer new grad hardware tools methodology"
+  }
+ ],
+ "group_key": [
+  {
+   "company": "TikTok",
+   "title": "Machine Learning Engineer Graduate - E-Commerce Governance",
+   "out": "tiktok|machine learning engineer graduate e commerce governance"
+  },
+  {
+   "company": "TikTok",
+   "title": "Software Engineer New Grad (2026)",
+   "out": "tiktok|software engineer new grad"
+  },
+  {
+   "company": "TikTok",
+   "title": "Software Engineer New Grad",
+   "out": "tiktok|software engineer new grad"
+  },
+  {
+   "company": "ByteDance",
+   "title": "Backend Development Engineer Graduate (Backend)",
+   "out": "bytedance|backend development engineer graduate"
+  },
+  {
+   "company": "ByteDance",
+   "title": "Backend Development Engineer Graduate (Frontend)",
+   "out": "bytedance|backend development engineer graduate"
+  },
+  {
+   "company": "NVIDIA",
+   "title": "Applied Machine Learning Engineer – New College Grad 2026 - Circuit Design",
+   "out": "nvidia|applied machine learning engineer new college grad 2026 circuit design"
+  },
+  {
+   "company": "NVIDIA",
+   "title": "Software Engineer New Grad - Hardware Tools and Methodology",
+   "out": "nvidia|software engineer new grad hardware tools and methodology"
+  },
+  {
+   "company": "xAI",
+   "title": "Member of Technical Staff",
+   "out": "xai|member of technical staff"
+  },
+  {
+   "company": "Susquehanna International Group (SIG)",
+   "title": "Quantitative Systematic Trader (QST)",
+   "out": "susquehanna international group sig|quantitative systematic trader"
+  },
+  {
+   "company": "D. E. Shaw & Co",
+   "title": "Software Developer (Entry Level)",
+   "out": "d e shaw co|software developer"
+  },
+  {
+   "company": "Citadel Securities",
+   "title": "Quantitative Researcher – PhD Graduate - Europe",
+   "out": "citadel securities|quantitative researcher phd graduate europe"
+  },
+  {
+   "company": "Apple",
+   "title": "Cellular Layer-1 Control Software Development Engineer - Wireless Technologies & Ecosystems",
+   "out": "apple|cellular layer 1 control software development engineer wireless technologies ecosystems"
+  },
+  {
+   "company": "Figma",
+   "title": "Data Scientist, Core Data",
+   "out": "figma|data scientist core data"
+  },
+  {
+   "company": "d-Matrix",
+   "title": "Kernel Engineer (New Grad) (2026)",
+   "out": "d matrix|kernel engineer"
+  },
+  {
+   "company": "Tesla",
+   "title": "Data Collection Operator - Optimus",
+   "out": "tesla|data collection operator optimus"
+  },
+  {
+   "company": "Cerebras",
+   "title": "Software Engineer New Grad",
+   "out": "cerebras|software engineer new grad"
+  },
+  {
+   "company": "Two Sigma",
+   "title": "AI Research Scientist - Campus Full-Time",
+   "out": "two sigma|ai research scientist campus full time"
+  },
+  {
+   "company": "Anthropic",
+   "title": "Research Scientist - Takeoff Intel",
+   "out": "anthropic|research scientist takeoff intel"
+  },
+  {
+   "company": "Virtu Financial",
+   "title": "Software Engineer - Desktop Frontend Developer - C#/Winforms",
+   "out": "virtu financial|software engineer desktop frontend developer c winforms"
+  },
+  {
+   "company": "",
+   "title": "",
+   "out": "|"
+  }
+ ],
+ "region": [
+  {
+   "in": "SF",
+   "out": "US",
+   "synthetic": false
+  },
+  {
+   "in": "South SF",
+   "out": "US",
+   "synthetic": false
+  },
+  {
+   "in": "California",
+   "out": "US",
+   "synthetic": false
+  },
+  {
+   "in": "Washington",
+   "out": "US",
+   "synthetic": false
+  },
+  {
+   "in": "Washington, D.C.",
+   "out": "US",
+   "synthetic": true
+  },
+  {
+   "in": "Washington DC",
+   "out": "US",
+   "synthetic": true
+  },
+  {
+   "in": "Remote",
+   "out": "US",
+   "synthetic": false
+  },
+  {
+   "in": "Remote in USA",
+   "out": "US",
+   "synthetic": false
+  },
+  {
+   "in": "Remote in US",
+   "out": "US",
+   "synthetic": false
+  },
+  {
+   "in": "Remote in USA (FL)",
+   "out": "US",
+   "synthetic": false
+  },
+  {
+   "in": "Remote in the US",
+   "out": "US",
+   "synthetic": true
+  },
+  {
+   "in": "NYC",
+   "out": "US",
+   "synthetic": false
+  },
+  {
+   "in": "LA",
+   "out": "US",
+   "synthetic": false
+  },
+  {
+   "in": "United States",
+   "out": "US",
+   "synthetic": false
+  },
+  {
+   "in": "Georgia",
+   "out": "US",
+   "synthetic": false
+  },
+  {
+   "in": "Indianapolis, IN",
+   "out": "US",
+   "synthetic": false
+  },
+  {
+   "in": "Austin, TX",
+   "out": "US",
+   "synthetic": false
+  },
+  {
+   "in": "Ontario, CA",
+   "out": "US",
+   "synthetic": false
+  },
+  {
+   "in": "Canada, United States",
+   "out": "US",
+   "synthetic": true
+  },
+  {
+   "in": "Philadelphia, PA",
+   "out": "US",
+   "synthetic": false
+  },
+  {
+   "in": "New York, NY",
+   "out": "US",
+   "synthetic": false
+  },
+  {
+   "in": "Cambridge, MA",
+   "out": "US",
+   "synthetic": false
+  },
+  {
+   "in": "Londonderry, NH",
+   "out": "US",
+   "synthetic": false
+  },
+  {
+   "in": "Vancouver, WA",
+   "out": "US",
+   "synthetic": false
+  },
+  {
+   "in": "Dublin, OH",
+   "out": "US",
+   "synthetic": false
+  },
+  {
+   "in": "Dublin, CA",
+   "out": "US",
+   "synthetic": false
+  },
+  {
+   "in": "Melbourne, FL",
+   "out": "US",
+   "synthetic": false
+  },
+  {
+   "in": "Paris, TX",
+   "out": "US",
+   "synthetic": true
+  },
+  {
+   "in": "London, KY",
+   "out": "US",
+   "synthetic": true
+  },
+  {
+   "in": "Remote in Canada",
+   "out": "other",
+   "synthetic": false
+  },
+  {
+   "in": "Remote in UK",
+   "out": "other",
+   "synthetic": false
+  },
+  {
+   "in": "Remote in Germany",
+   "out": "other",
+   "synthetic": false
+  },
+  {
+   "in": "La Ronge, SK, Canada",
+   "out": "other",
+   "synthetic": false
+  },
+  {
+   "in": "Toronto, ON, Canada",
+   "out": "other",
+   "synthetic": false
+  },
+  {
+   "in": "London, UK",
+   "out": "other",
+   "synthetic": false
+  },
+  {
+   "in": "London",
+   "out": "other",
+   "synthetic": false
+  },
+  {
+   "in": "Farringdon, London, UK",
+   "out": "other",
+   "synthetic": false
+  },
+  {
+   "in": "Beaconsfield, UK",
+   "out": "other",
+   "synthetic": false
+  },
+  {
+   "in": "Cambridge, UK",
+   "out": "other",
+   "synthetic": false
+  },
+  {
+   "in": "Vancouver, BC, Canada",
+   "out": "other",
+   "synthetic": false
+  },
+  {
+   "in": "Dublin, Ireland",
+   "out": "other",
+   "synthetic": false
+  },
+  {
+   "in": "Paris, France",
+   "out": "other",
+   "synthetic": false
+  },
+  {
+   "in": "Hyderabad, Telangana, India",
+   "out": "other",
+   "synthetic": false
+  },
+  {
+   "in": "Canada",
+   "out": "other",
+   "synthetic": false
+  },
+  {
+   "in": "Munich, Germany",
+   "out": "other",
+   "synthetic": false
+  },
+  {
+   "in": "Milan, Metropolitan City of Milan, Italy",
+   "out": "other",
+   "synthetic": false
+  },
+  {
+   "in": "Europe",
+   "out": "other",
+   "synthetic": false
+  },
+  {
+   "in": "Bangalore, IN",
+   "out": "other",
+   "synthetic": true
+  },
+  {
+   "in": "Berlin, DE",
+   "out": "other",
+   "synthetic": true
+  },
+  {
+   "in": "",
+   "out": "other",
+   "synthetic": true
+  },
+  {
+   "in": "Taipei, Taiwan",
+   "out": "TW",
+   "synthetic": true
+  },
+  {
+   "in": "Hsinchu",
+   "out": "TW",
+   "synthetic": true
+  },
+  {
+   "in": "New Taipei City, Taiwan",
+   "out": "TW",
+   "synthetic": true
+  }
+ ],
+ "iso_date": [
+  {
+   "in": 0,
+   "out": ""
+  },
+  {
+   "in": 1,
+   "out": "1970-01-01"
+  },
+  {
+   "in": 86399,
+   "out": "1970-01-01"
+  },
+  {
+   "in": 86400,
+   "out": "1970-01-02"
+  },
+  {
+   "in": 951782400,
+   "out": "2000-02-29"
+  },
+  {
+   "in": 1704067200,
+   "out": "2024-01-01"
+  },
+  {
+   "in": 1783549489,
+   "out": "2026-07-08"
+  },
+  {
+   "in": 1788453040,
+   "out": "2026-09-03"
+  },
+  {
+   "in": 1788586400,
+   "out": "2026-09-05"
+  },
+  {
+   "in": 4102444800,
+   "out": "2100-01-01"
+  }
+ ],
+ "parse_marks": [
+  {
+   "label": "legacy string stage",
+   "id": "simplify:case-00",
+   "in": "applied",
+   "out": {
+    "s": "applied"
+   }
+  },
+  {
+   "label": "legacy string 'todo' is never stored",
+   "id": "simplify:case-01",
+   "in": "todo",
+   "out": null
+  },
+  {
+   "label": "plain mark",
+   "id": "simplify:case-02",
+   "in": {
+    "s": "applied"
+   },
+   "out": {
+    "s": "applied"
+   }
+  },
+  {
+   "label": "mark with star",
+   "id": "simplify:case-03",
+   "in": {
+    "s": "applied",
+    "star": true
+   },
+   "out": {
+    "s": "applied",
+    "star": true
+   }
+  },
+  {
+   "label": "unknown stage dropped, star kept",
+   "id": "simplify:case-04",
+   "in": {
+    "s": "wat",
+    "star": true
+   },
+   "out": {
+    "star": true
+   }
+  },
+  {
+   "label": "junk keys ignored",
+   "id": "simplify:case-05",
+   "in": {
+    "s": "oa",
+    "t": 1788000000,
+    "foo": "bar",
+    "_v": 3
+   },
+   "out": {
+    "s": "oa",
+    "t": 1788000000
+   }
+  },
+  {
+   "label": "tombstone",
+   "id": "simplify:case-06",
+   "in": {
+    "d": 1788000000
+   },
+   "out": {
+    "d": 1788000000
+   }
+  },
+  {
+   "label": "history with null t",
+   "id": "simplify:case-07",
+   "in": {
+    "s": "interview",
+    "t": 1787112464,
+    "h": [
+     {
+      "s": "applied",
+      "t": null
+     },
+     {
+      "s": "interview",
+      "t": 1787112464
+     }
+    ]
+   },
+   "out": {
+    "s": "interview",
+    "t": 1787112464,
+    "h": [
+     {
+      "s": "applied",
+      "t": null
+     },
+     {
+      "s": "interview",
+      "t": 1787112464
+     }
+    ]
+   }
+  },
+  {
+   "label": "none of s/star/note/d",
+   "id": "simplify:case-08",
+   "in": {
+    "foo": 1,
+    "star": false
+   },
+   "out": null
+  },
+  {
+   "label": "note trimmed",
+   "id": "simplify:case-09",
+   "in": {
+    "note": "  call back Monday  "
+   },
+   "out": {
+    "note": "call back Monday"
+   }
+  },
+  {
+   "label": "empty note and false star dropped",
+   "id": "simplify:case-10",
+   "in": {
+    "star": false,
+    "note": "   "
+   },
+   "out": null
+  },
+  {
+   "label": "invalid history items dropped",
+   "id": "simplify:case-11",
+   "in": {
+    "s": "applied",
+    "h": [
+     {
+      "s": "bogus",
+      "t": 1
+     },
+     {
+      "s": "seen",
+      "t": 2
+     },
+     "x"
+    ]
+   },
+   "out": {
+    "s": "applied",
+    "h": [
+     {
+      "s": "seen",
+      "t": 2
+     }
+    ]
+   }
+  }
+ ]
+}

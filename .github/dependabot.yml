@@ -1,0 +1,7 @@
+# SHA-pinned actions do not rot; monthly keeps the PR noise to about one a month for a solo repo.
+version: 2
+updates:
+  - package-ecosystem: github-actions
+    directory: /
+    schedule:
+      interval: monthly
