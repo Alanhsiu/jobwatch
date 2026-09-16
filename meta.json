@@ -1,0 +1,1013 @@
+{
+ "version": 2,
+ "bot_version": "2.0.0",
+ "repo": "Alanhsiu/jobwatch",
+ "branch": "main",
+ "pages_url": "https://alanhsiu.github.io/jobwatch/",
+ "last_run": 1789570473,
+ "last_change": 1789570473,
+ "last_result": "ok",
+ "feed": {
+  "records": 20164,
+  "active": 3063,
+  "fetched_at": 1789570473,
+  "attempts": 1
+ },
+ "counts": {
+  "active": 280,
+  "closed": 165,
+  "untracked": 72,
+  "groups": 246,
+  "companies": 55,
+  "new_this_run": 15,
+  "silent_known_this_run": 5,
+  "closed_this_run": 0,
+  "untracked_this_run": 52
+ },
+ "rejects": {
+  "category": 113,
+  "phd": 173,
+  "title": 22,
+  "region": 44,
+  "sponsorship": 0,
+  "age": 21
+ },
+ "keywords": {
+  "adobe": {
+   "active": 1,
+   "all_time": 6,
+   "names": [
+    "Adobe"
+   ],
+   "denied": 0
+  },
+  "airbnb": {
+   "active": 0,
+   "all_time": 1,
+   "names": [],
+   "denied": 0
+  },
+  "akuna": {
+   "active": 5,
+   "all_time": 5,
+   "names": [
+    "Akuna Capital University"
+   ],
+   "denied": 0
+  },
+  "amazon": {
+   "active": 8,
+   "all_time": 17,
+   "names": [
+    "Amazon"
+   ],
+   "denied": 0
+  },
+  "anduril": {
+   "active": 5,
+   "all_time": 7,
+   "names": [
+    "Anduril"
+   ],
+   "denied": 0
+  },
+  "anthropic": {
+   "active": 0,
+   "all_time": 0,
+   "names": [],
+   "denied": 0
+  },
+  "anysphere": {
+   "active": 1,
+   "all_time": 1,
+   "names": [
+    "Anysphere"
+   ],
+   "denied": 0
+  },
+  "apple": {
+   "active": 9,
+   "all_time": 25,
+   "names": [
+    "Apple"
+   ],
+   "denied": 0
+  },
+  "applied intuition": {
+   "active": 5,
+   "all_time": 6,
+   "names": [
+    "Applied Intuition"
+   ],
+   "denied": 0
+  },
+  "aqr": {
+   "active": 2,
+   "all_time": 3,
+   "names": [
+    "AQR Capital Management"
+   ],
+   "denied": 0
+  },
+  "atlassian": {
+   "active": 1,
+   "all_time": 1,
+   "names": [
+    "Atlassian"
+   ],
+   "denied": 0
+  },
+  "aurora": {
+   "active": 0,
+   "all_time": 0,
+   "names": [],
+   "denied": 0
+  },
+  "balyasny": {
+   "active": 0,
+   "all_time": 0,
+   "names": [],
+   "denied": 0
+  },
+  "baseten": {
+   "active": 0,
+   "all_time": 0,
+   "names": [],
+   "denied": 0
+  },
+  "belvedere": {
+   "active": 2,
+   "all_time": 2,
+   "names": [
+    "Belvedere Trading"
+   ],
+   "denied": 0
+  },
+  "bloomberg": {
+   "active": 0,
+   "all_time": 0,
+   "names": [],
+   "denied": 0
+  },
+  "boston dynamics": {
+   "active": 0,
+   "all_time": 0,
+   "names": [],
+   "denied": 0
+  },
+  "brex": {
+   "active": 0,
+   "all_time": 0,
+   "names": [],
+   "denied": 0
+  },
+  "bridgewater": {
+   "active": 0,
+   "all_time": 2,
+   "names": [],
+   "denied": 0
+  },
+  "bytedance": {
+   "active": 36,
+   "all_time": 74,
+   "names": [
+    "ByteDance"
+   ],
+   "denied": 0
+  },
+  "carta": {
+   "active": 0,
+   "all_time": 0,
+   "names": [],
+   "denied": 0
+  },
+  "cerebras": {
+   "active": 5,
+   "all_time": 9,
+   "names": [
+    "Cerebras"
+   ],
+   "denied": 0
+  },
+  "character ai": {
+   "active": 0,
+   "all_time": 0,
+   "names": [],
+   "denied": 0
+  },
+  "chicago trading": {
+   "active": 4,
+   "all_time": 7,
+   "names": [
+    "Chicago Trading Company"
+   ],
+   "denied": 0
+  },
+  "citadel": {
+   "active": 8,
+   "all_time": 10,
+   "names": [
+    "Citadel",
+    "Citadel Securities"
+   ],
+   "denied": 0
+  },
+  "cloudflare": {
+   "active": 0,
+   "all_time": 0,
+   "names": [],
+   "denied": 0
+  },
+  "cohere": {
+   "active": 0,
+   "all_time": 0,
+   "names": [],
+   "denied": 0
+  },
+  "coinbase": {
+   "active": 0,
+   "all_time": 0,
+   "names": [],
+   "denied": 0
+  },
+  "confluent": {
+   "active": 0,
+   "all_time": 0,
+   "names": [],
+   "denied": 0
+  },
+  "cruise": {
+   "active": 0,
+   "all_time": 1,
+   "names": [],
+   "denied": 0
+  },
+  "cubist": {
+   "active": 0,
+   "all_time": 0,
+   "names": [],
+   "denied": 0
+  },
+  "cursor": {
+   "active": 0,
+   "all_time": 0,
+   "names": [],
+   "denied": 0
+  },
+  "d e shaw": {
+   "active": 0,
+   "all_time": 0,
+   "names": [],
+   "denied": 0
+  },
+  "d matrix": {
+   "active": 0,
+   "all_time": 0,
+   "names": [],
+   "denied": 0
+  },
+  "databricks": {
+   "active": 0,
+   "all_time": 0,
+   "names": [],
+   "denied": 0
+  },
+  "datadog": {
+   "active": 0,
+   "all_time": 0,
+   "names": [],
+   "denied": 0
+  },
+  "deepmind": {
+   "active": 0,
+   "all_time": 0,
+   "names": [],
+   "denied": 0
+  },
+  "discord": {
+   "active": 0,
+   "all_time": 0,
+   "names": [],
+   "denied": 0
+  },
+  "doordash": {
+   "active": 1,
+   "all_time": 2,
+   "names": [
+    "DoorDash"
+   ],
+   "denied": 0
+  },
+  "dropbox": {
+   "active": 0,
+   "all_time": 0,
+   "names": [],
+   "denied": 0
+  },
+  "drw": {
+   "active": 2,
+   "all_time": 2,
+   "names": [
+    "DRW"
+   ],
+   "denied": 0
+  },
+  "elevenlabs": {
+   "active": 0,
+   "all_time": 1,
+   "names": [],
+   "denied": 0
+  },
+  "etched": {
+   "active": 0,
+   "all_time": 0,
+   "names": [],
+   "denied": 0
+  },
+  "exoduspoint": {
+   "active": 0,
+   "all_time": 0,
+   "names": [],
+   "denied": 0
+  },
+  "facebook": {
+   "active": 0,
+   "all_time": 0,
+   "names": [],
+   "denied": 0
+  },
+  "figma": {
+   "active": 1,
+   "all_time": 1,
+   "names": [
+    "Figma"
+   ],
+   "denied": 0
+  },
+  "figure": {
+   "active": 0,
+   "all_time": 2,
+   "names": [],
+   "denied": 0
+  },
+  "fireworks": {
+   "active": 0,
+   "all_time": 0,
+   "names": [],
+   "denied": 0
+  },
+  "five rings": {
+   "active": 2,
+   "all_time": 3,
+   "names": [
+    "Five Rings Capital"
+   ],
+   "denied": 0
+  },
+  "flow traders": {
+   "active": 1,
+   "all_time": 1,
+   "names": [
+    "Flow Traders"
+   ],
+   "denied": 0
+  },
+  "gatik": {
+   "active": 0,
+   "all_time": 0,
+   "names": [],
+   "denied": 0
+  },
+  "geneva trading": {
+   "active": 0,
+   "all_time": 0,
+   "names": [],
+   "denied": 0
+  },
+  "github": {
+   "active": 0,
+   "all_time": 0,
+   "names": [],
+   "denied": 0
+  },
+  "gitlab": {
+   "active": 0,
+   "all_time": 0,
+   "names": [],
+   "denied": 0
+  },
+  "glean": {
+   "active": 0,
+   "all_time": 2,
+   "names": [],
+   "denied": 0
+  },
+  "google": {
+   "active": 1,
+   "all_time": 4,
+   "names": [
+    "Google"
+   ],
+   "denied": 0
+  },
+  "groq": {
+   "active": 0,
+   "all_time": 0,
+   "names": [],
+   "denied": 0
+  },
+  "group one": {
+   "active": 0,
+   "all_time": 0,
+   "names": [],
+   "denied": 0
+  },
+  "harvey": {
+   "active": 0,
+   "all_time": 0,
+   "names": [],
+   "denied": 0
+  },
+  "headlands": {
+   "active": 1,
+   "all_time": 1,
+   "names": [
+    "Headlands Tech Holdings"
+   ],
+   "denied": 0
+  },
+  "hrt": {
+   "active": 0,
+   "all_time": 0,
+   "names": [],
+   "denied": 0
+  },
+  "hudson river": {
+   "active": 2,
+   "all_time": 3,
+   "names": [
+    "Hudson River Trading"
+   ],
+   "denied": 0
+  },
+  "hugging face": {
+   "active": 0,
+   "all_time": 0,
+   "names": [],
+   "denied": 0
+  },
+  "imc": {
+   "active": 4,
+   "all_time": 5,
+   "names": [
+    "IMC Trading"
+   ],
+   "denied": 0
+  },
+  "instacart": {
+   "active": 0,
+   "all_time": 2,
+   "names": [],
+   "denied": 0
+  },
+  "jane street": {
+   "active": 0,
+   "all_time": 1,
+   "names": [],
+   "denied": 0
+  },
+  "jump trading": {
+   "active": 1,
+   "all_time": 5,
+   "names": [
+    "Jump Trading"
+   ],
+   "denied": 0
+  },
+  "kodiak": {
+   "active": 0,
+   "all_time": 0,
+   "names": [],
+   "denied": 0
+  },
+  "kraken": {
+   "active": 0,
+   "all_time": 0,
+   "names": [],
+   "denied": 0
+  },
+  "lightmatter": {
+   "active": 0,
+   "all_time": 0,
+   "names": [],
+   "denied": 0
+  },
+  "linkedin": {
+   "active": 0,
+   "all_time": 1,
+   "names": [],
+   "denied": 0
+  },
+  "luma": {
+   "active": 0,
+   "all_time": 0,
+   "names": [],
+   "denied": 0
+  },
+  "lyft": {
+   "active": 0,
+   "all_time": 0,
+   "names": [],
+   "denied": 0
+  },
+  "man group": {
+   "active": 1,
+   "all_time": 2,
+   "names": [
+    "Man Group"
+   ],
+   "denied": 0
+  },
+  "marshall wace": {
+   "active": 2,
+   "all_time": 2,
+   "names": [
+    "Marshall Wace"
+   ],
+   "denied": 0
+  },
+  "meta": {
+   "active": 0,
+   "all_time": 1,
+   "names": [],
+   "denied": 0
+  },
+  "microsoft": {
+   "active": 3,
+   "all_time": 10,
+   "names": [
+    "Microsoft"
+   ],
+   "denied": 0
+  },
+  "millennium": {
+   "active": 0,
+   "all_time": 1,
+   "names": [],
+   "denied": 0
+  },
+  "mistral": {
+   "active": 0,
+   "all_time": 0,
+   "names": [],
+   "denied": 0
+  },
+  "mongodb": {
+   "active": 0,
+   "all_time": 0,
+   "names": [],
+   "denied": 0
+  },
+  "motional": {
+   "active": 1,
+   "all_time": 1,
+   "names": [
+    "Motional"
+   ],
+   "denied": 0
+  },
+  "netflix": {
+   "active": 0,
+   "all_time": 0,
+   "names": [],
+   "denied": 0
+  },
+  "nvidia": {
+   "active": 4,
+   "all_time": 18,
+   "names": [
+    "NVIDIA"
+   ],
+   "denied": 0
+  },
+  "okta": {
+   "active": 0,
+   "all_time": 0,
+   "names": [],
+   "denied": 0
+  },
+  "old mission": {
+   "active": 6,
+   "all_time": 6,
+   "names": [
+    "Old Mission"
+   ],
+   "denied": 0
+  },
+  "openai": {
+   "active": 1,
+   "all_time": 1,
+   "names": [
+    "OpenAI"
+   ],
+   "denied": 0
+  },
+  "optiver": {
+   "active": 3,
+   "all_time": 5,
+   "names": [
+    "Optiver"
+   ],
+   "denied": 0
+  },
+  "palantir": {
+   "active": 10,
+   "all_time": 12,
+   "names": [
+    "Palantir"
+   ],
+   "denied": 0
+  },
+  "pdt": {
+   "active": 0,
+   "all_time": 0,
+   "names": [],
+   "denied": 0
+  },
+  "peak6": {
+   "active": 0,
+   "all_time": 0,
+   "names": [],
+   "denied": 0
+  },
+  "perplexity": {
+   "active": 0,
+   "all_time": 0,
+   "names": [],
+   "denied": 0
+  },
+  "physical intelligence": {
+   "active": 0,
+   "all_time": 0,
+   "names": [],
+   "denied": 0
+  },
+  "pinterest": {
+   "active": 0,
+   "all_time": 0,
+   "names": [],
+   "denied": 0
+  },
+  "plaid": {
+   "active": 0,
+   "all_time": 0,
+   "names": [],
+   "denied": 0
+  },
+  "point72": {
+   "active": 1,
+   "all_time": 1,
+   "names": [
+    "Point72"
+   ],
+   "denied": 0
+  },
+  "quantlab": {
+   "active": 0,
+   "all_time": 0,
+   "names": [],
+   "denied": 0
+  },
+  "qube": {
+   "active": 0,
+   "all_time": 0,
+   "names": [],
+   "denied": 0
+  },
+  "radix": {
+   "active": 0,
+   "all_time": 0,
+   "names": [],
+   "denied": 0
+  },
+  "ramp": {
+   "active": 0,
+   "all_time": 0,
+   "names": [],
+   "denied": 0
+  },
+  "reddit": {
+   "active": 0,
+   "all_time": 0,
+   "names": [],
+   "denied": 0
+  },
+  "rippling": {
+   "active": 0,
+   "all_time": 1,
+   "names": [],
+   "denied": 0
+  },
+  "rivos": {
+   "active": 0,
+   "all_time": 0,
+   "names": [],
+   "denied": 0
+  },
+  "robinhood": {
+   "active": 0,
+   "all_time": 0,
+   "names": [],
+   "denied": 0
+  },
+  "roblox": {
+   "active": 1,
+   "all_time": 4,
+   "names": [
+    "Roblox"
+   ],
+   "denied": 0
+  },
+  "safe superintelligence": {
+   "active": 0,
+   "all_time": 0,
+   "names": [],
+   "denied": 0
+  },
+  "salesforce": {
+   "active": 4,
+   "all_time": 6,
+   "names": [
+    "Salesforce"
+   ],
+   "denied": 0
+  },
+  "sambanova": {
+   "active": 0,
+   "all_time": 1,
+   "names": [],
+   "denied": 0
+  },
+  "scale ai": {
+   "active": 1,
+   "all_time": 1,
+   "names": [
+    "Scale AI"
+   ],
+   "denied": 0
+  },
+  "schonfeld": {
+   "active": 1,
+   "all_time": 1,
+   "names": [
+    "Schonfeld"
+   ],
+   "denied": 0
+  },
+  "servicenow": {
+   "active": 2,
+   "all_time": 10,
+   "names": [
+    "ServiceNow"
+   ],
+   "denied": 0
+  },
+  "shield ai": {
+   "active": 0,
+   "all_time": 0,
+   "names": [],
+   "denied": 0
+  },
+  "sig": {
+   "active": 4,
+   "all_time": 10,
+   "names": [
+    "Susquehanna International Group (SIG)"
+   ],
+   "denied": 0
+  },
+  "skild": {
+   "active": 0,
+   "all_time": 0,
+   "names": [],
+   "denied": 0
+  },
+  "snap": {
+   "active": 0,
+   "all_time": 1,
+   "names": [],
+   "denied": 0
+  },
+  "snowflake": {
+   "active": 0,
+   "all_time": 0,
+   "names": [],
+   "denied": 0
+  },
+  "squarepoint": {
+   "active": 0,
+   "all_time": 1,
+   "names": [],
+   "denied": 0
+  },
+  "stripe": {
+   "active": 1,
+   "all_time": 1,
+   "names": [
+    "Stripe"
+   ],
+   "denied": 0
+  },
+  "susquehanna": {
+   "active": 2,
+   "all_time": 2,
+   "names": [
+    "Susquehanna International Group"
+   ],
+   "denied": 0
+  },
+  "tenstorrent": {
+   "active": 0,
+   "all_time": 0,
+   "names": [],
+   "denied": 0
+  },
+  "tesla": {
+   "active": 4,
+   "all_time": 28,
+   "names": [
+    "Tesla"
+   ],
+   "denied": 0
+  },
+  "thinking machines": {
+   "active": 0,
+   "all_time": 0,
+   "names": [],
+   "denied": 0
+  },
+  "tiktok": {
+   "active": 104,
+   "all_time": 150,
+   "names": [
+    "TikTok"
+   ],
+   "denied": 0
+  },
+  "together ai": {
+   "active": 0,
+   "all_time": 0,
+   "names": [],
+   "denied": 0
+  },
+  "tower research": {
+   "active": 1,
+   "all_time": 1,
+   "names": [
+    "Tower Research Capital"
+   ],
+   "denied": 0
+  },
+  "twilio": {
+   "active": 0,
+   "all_time": 0,
+   "names": [],
+   "denied": 0
+  },
+  "two sigma": {
+   "active": 4,
+   "all_time": 4,
+   "names": [
+    "Two Sigma"
+   ],
+   "denied": 0
+  },
+  "uber": {
+   "active": 0,
+   "all_time": 0,
+   "names": [],
+   "denied": 0
+  },
+  "vatic": {
+   "active": 0,
+   "all_time": 0,
+   "names": [],
+   "denied": 0
+  },
+  "vercel": {
+   "active": 0,
+   "all_time": 0,
+   "names": [],
+   "denied": 0
+  },
+  "verition": {
+   "active": 0,
+   "all_time": 0,
+   "names": [],
+   "denied": 0
+  },
+  "virtu": {
+   "active": 1,
+   "all_time": 3,
+   "names": [
+    "Virtu Financial"
+   ],
+   "denied": 0
+  },
+  "voleon": {
+   "active": 1,
+   "all_time": 2,
+   "names": [
+    "The Voleon Group"
+   ],
+   "denied": 0
+  },
+  "waabi": {
+   "active": 0,
+   "all_time": 1,
+   "names": [],
+   "denied": 0
+  },
+  "walleye": {
+   "active": 1,
+   "all_time": 2,
+   "names": [
+    "Walleye Capital"
+   ],
+   "denied": 0
+  },
+  "waymo": {
+   "active": 0,
+   "all_time": 0,
+   "names": [],
+   "denied": 0
+  },
+  "wayve": {
+   "active": 0,
+   "all_time": 0,
+   "names": [],
+   "denied": 0
+  },
+  "wintermute": {
+   "active": 2,
+   "all_time": 3,
+   "names": [
+    "Wintermute"
+   ],
+   "denied": 0
+  },
+  "wolverine": {
+   "active": 2,
+   "all_time": 3,
+   "names": [
+    "Wolverine Trading"
+   ],
+   "denied": 0
+  },
+  "world labs": {
+   "active": 0,
+   "all_time": 0,
+   "names": [],
+   "denied": 0
+  },
+  "worldquant": {
+   "active": 1,
+   "all_time": 1,
+   "names": [
+    "WorldQuant"
+   ],
+   "denied": 0
+  },
+  "xai": {
+   "active": 2,
+   "all_time": 3,
+   "names": [
+    "xAI"
+   ],
+   "denied": 0
+  },
+  "xtx": {
+   "active": 0,
+   "all_time": 0,
+   "names": [],
+   "denied": 0
+  },
+  "zoox": {
+   "active": 1,
+   "all_time": 4,
+   "names": [
+    "Zoox"
+   ],
+   "denied": 0
+  }
+ },
+ "telegram": {
+  "mode": "sent",
+  "delivered": 15,
+  "failed_chunks": 0,
+  "creds": true
+ },
+ "config_source": "defaults",
+ "config_sha": null,
+ "warnings": []
+}
