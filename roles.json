@@ -1,5 +1,53 @@
 [
  {
+  "id": "simplify:bbf97353-45cc-4b6c-b3a6-50e3aafa73fd",
+  "first_seen": 1789599741,
+  "company": "Anduril",
+  "title": "Software Engineer - Battlespace Awareness",
+  "location": "Fort Collins, CO, Broomfield, CO",
+  "url": "https://boards.greenhouse.io/andurilindustries/jobs/5240165007",
+  "category": "SWE",
+  "posted": "2026-09-16",
+  "date_posted": 1789596349,
+  "active": true,
+  "locations": [
+   "Fort Collins, CO",
+   "Broomfield, CO"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's"
+  ],
+  "sponsorship": "Other",
+  "group": "anduril|software engineer battlespace awareness",
+  "in_feed": true,
+  "reason": null
+ },
+ {
+  "id": "simplify:ca630382-1fea-4112-9b6a-01ce87b4f3ce",
+  "first_seen": 1789599741,
+  "company": "Anduril",
+  "title": "Firmware Engineer - Space - Emerging Talent",
+  "location": "Costa Mesa, CA",
+  "url": "https://boards.greenhouse.io/andurilindustries/jobs/5239596007",
+  "category": "HW",
+  "posted": "2026-09-16",
+  "date_posted": 1789596294,
+  "active": true,
+  "locations": [
+   "Costa Mesa, CA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "anduril|firmware engineer space emerging talent",
+  "in_feed": true,
+  "reason": null
+ },
+ {
   "id": "simplify:bd1775ab-0963-4e31-aa28-605ecd334bd8",
   "first_seen": 1789570473,
   "company": "Old Mission",
