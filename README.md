@@ -8,7 +8,7 @@ sync between devices through this repo. No servers, no database, no cost — a p
 bot token. This repo's tracker: **[alanhsiu.github.io/jobwatch](https://alanhsiu.github.io/jobwatch/)** (a fork gets its own at `https://<owner>.github.io/<repo>/`).
 
 <!-- JOBS:HEAD:START -->
-_282 open new-grad roles at 55 companies · list last changed 2026-09-16 · scans every ~2 h_ · **[Open the tracker](https://alanhsiu.github.io/jobwatch/)** · [Full list ↓](#current-roles) · TikTok 104 · ByteDance 36 · Palantir 10 · Apple 9 · Amazon 8 · Anduril 7 · Old Mission 6 · Akuna Capital University 5 · …
+_287 open new-grad roles at 56 companies · list last changed 2026-09-17 · scans every ~2 h_ · **[Open the tracker](https://alanhsiu.github.io/jobwatch/)** · [Full list ↓](#current-roles) · TikTok 104 · ByteDance 36 · Palantir 10 · Apple 9 · Amazon 8 · Anduril 7 · Old Mission 6 · Akuna Capital University 5 · …
 <!-- JOBS:HEAD:END -->
 
 ## How it works
@@ -424,6 +424,16 @@ and `.nojekyll` into `docs/`, set Pages to `/docs`, and give every device a toke
 
 </details>
 <details open>
+<summary>NVIDIA (5)</summary>
+
+- [Software Engineer - Coding Agent Harness Engineering](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--Coding-Agent-Harness-Engineering----New-College-Grad-2026_JR2023749) — Remote in USA, Santa Clara, CA · posted 2026-09-15 · SWE · BS/MS
+- [Architecture Energy Modeling Engineer - Power Modeling, Methodology and Analysis](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Architecture-Energy-Modeling-Engineer---New-College-Grad-2026_JR2023398) — Santa Clara, CA · posted 2026-08-21 · ML · MS/PhD
+- [GPU Architecture Engineer New Grad](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/GPU-Architecture-Engineer---New-College-Grad-2026_JR2021615) — Austin, TX, Santa Clara, CA, Durham, NC · posted 2026-07-21 · HW · MS/PhD
+- [Backend Compiler Engineer New Grad](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Backend-Compiler-Engineer---New-College-Grad-2026_JR2021242) — Canada, Santa Clara, CA · posted 2026-07-13 · SWE · BS/MS/PhD
+- [Software Engineer New Grad - Hardware Tools and Methodology](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--Hardware-Tools-and-Methodology---New-College-Grad-2026_JR2018659) — Santa Clara, CA · posted 2026-06-03 · SWE · MS/PhD
+
+</details>
+<details open>
 <summary>Chicago Trading Company (4)</summary>
 
 - [Associate Engineer](https://job-boards.greenhouse.io/chicagotradingcampus/jobs/4716937005) · [2](https://job-boards.greenhouse.io/ctccampusboard/jobs/4709991005) — Chicago, IL, NYC · posted 2026-08-03 · SWE · BS/MS
@@ -458,15 +468,6 @@ and `.nojekyll` into `docs/`, set Pages to `/docs`, and give every device a toke
 
 </details>
 <details open>
-<summary>NVIDIA (4)</summary>
-
-- [Software Engineer - Coding Agent Harness Engineering](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--Coding-Agent-Harness-Engineering----New-College-Grad-2026_JR2023749) — Remote in USA, Santa Clara, CA · posted 2026-09-15 · SWE · BS/MS
-- [Architecture Energy Modeling Engineer - Power Modeling, Methodology and Analysis](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Architecture-Energy-Modeling-Engineer---New-College-Grad-2026_JR2023398) — Santa Clara, CA · posted 2026-08-21 · ML · MS/PhD
-- [Backend Compiler Engineer New Grad](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Backend-Compiler-Engineer---New-College-Grad-2026_JR2021242) — Canada, Santa Clara, CA · posted 2026-07-13 · SWE · BS/MS/PhD
-- [Software Engineer New Grad - Hardware Tools and Methodology](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--Hardware-Tools-and-Methodology---New-College-Grad-2026_JR2018659) — Santa Clara, CA · posted 2026-06-03 · SWE · MS/PhD
-
-</details>
-<details open>
 <summary>Salesforce (4)</summary>
 
 - [AI Builder - Emerging Talent](https://salesforce.wd12.myworkdayjobs.com/Futureforce_NewGradRoles/job/California---San-Francisco/AI-Builder--Emerging-Talent_JR357678) · [2](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/AI-Builder--Emerging-Talent_JR357678-1) — SF, McLean, VA, Chicago, IL · posted 2026-08-26 · SWE
@@ -495,6 +496,14 @@ and `.nojekyll` into `docs/`, set Pages to `/docs`, and give every device a toke
 - [Software Engineer](https://twosigma.avature.net/careers/JobDetail/14018) · [2](https://twosigma.avature.net/careers/JobDetail/14014) — Houston, TX; NYC · posted 2026-09-08 · SWE · BS/MS/PhD
 - [Quantitative Researcher - Full-Time Campus Hire](https://twosigma.avature.net/careers/JobDetail/13946) — NYC · posted 2026-08-02 · Quant · BS/MS/PhD
 - [AI Research Scientist - Campus Full-Time](https://twosigma.avature.net/careers/JobDetail/13671) — NYC · posted 2026-08-02 · ML · MS/PhD
+
+</details>
+<details open>
+<summary>DRW (3)</summary>
+
+- [Floor Trader](https://job-boards.greenhouse.io/drweng/jobs/8207750) — Chicago, IL · posted 2026-09-16 · Quant · BS
+- [Software Developer](https://job-boards.greenhouse.io/drweng/jobs/7980165) — Chicago, IL · posted 2026-07-13 · SWE · BS/MS/PhD
+- [Quantitative Researcher](https://job-boards.greenhouse.io/drweng/jobs/8030406) — Chicago, IL, NYC · posted 2026-07-13 · Quant · BS/MS/PhD
 
 </details>
 <details open>
@@ -527,17 +536,17 @@ and `.nojekyll` into `docs/`, set Pages to `/docs`, and give every device a toke
 
 </details>
 <details open>
-<summary>DRW (2)</summary>
-
-- [Software Developer](https://job-boards.greenhouse.io/drweng/jobs/7980165) — Chicago, IL · posted 2026-07-13 · SWE · BS/MS/PhD
-- [Quantitative Researcher](https://job-boards.greenhouse.io/drweng/jobs/8030406) — Chicago, IL, NYC · posted 2026-07-13 · Quant · BS/MS/PhD
-
-</details>
-<details open>
 <summary>Five Rings Capital (2)</summary>
 
 - [Campus Full Time - Software Developer](https://job-boards.greenhouse.io/fiveringsllc/jobs/5349839008) — NYC · posted 2026-07-14 · SWE
 - [Quantitative Trader - Quantitative Trader](https://job-boards.greenhouse.io/fiveringsllc/jobs/5255334008) — NYC · posted 2026-07-14 · Quant
+
+</details>
+<details open>
+<summary>Headlands Tech Holdings (2)</summary>
+
+- [C++ Software Developer New Grad](https://job-boards.greenhouse.io/headlandstechnologiesllc/jobs/4336806009) — Chicago, IL · posted 2026-09-16 · SWE · BS
+- [Research Developer New Grad](https://job-boards.greenhouse.io/headlandstechnologiesllc/jobs/4227566009) — London, UK, Chicago, IL, NYC · posted 2026-07-05 · ML · BS
 
 </details>
 <details open>
@@ -569,6 +578,13 @@ and `.nojekyll` into `docs/`, set Pages to `/docs`, and give every device a toke
 
 </details>
 <details open>
+<summary>Tower Research Capital (2)</summary>
+
+- [Data Analyst - Data](https://www.tower-research.com/open-positions/?gh_jid=8167234) — NYC · posted 2026-09-16 · ML · MS/PhD
+- [Quantitative Trader](https://www.tower-research.com/open-positions/?gh_jid=8024142) — Chicago, IL, NYC · posted 2026-07-05 · Quant · BS/MS/PhD
+
+</details>
+<details open>
 <summary>Wintermute (2)</summary>
 
 - [Algorithmic Trader](https://jobs.lever.co/wintermute-trading/28c7e15f-b3a0-48c6-8322-2e9f25371fd0/apply) — London, UK, NYC · posted 2026-09-03 · Quant
@@ -592,6 +608,12 @@ and `.nojekyll` into `docs/`, set Pages to `/docs`, and give every device a toke
 <summary>Adobe (1)</summary>
 
 - [Photoshop Developer - GPU/Imaging](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Francisco/Photoshop-Developer--GPU-Imaging_R171014) — Seattle, WA, SF, San Jose, CA · posted 2026-08-11 · SWE · BS/MS
+
+</details>
+<details open>
+<summary>Airbnb (1)</summary>
+
+- [Machine Learning Engineer - Relevance and Personalization](https://careers.airbnb.com/positions/7708224?gh_jid=7708224) — Remote in USA · posted 2026-07-02 · ML · BS/MS/PhD
 
 </details>
 <details open>
@@ -628,12 +650,6 @@ and `.nojekyll` into `docs/`, set Pages to `/docs`, and give every device a toke
 <summary>Google (1)</summary>
 
 - [Software Engineer - Campus](https://www.google.com/about/careers/applications/jobs/results/78703249065943750) — Cambridge, MA, Seattle, WA, LA · posted 2026-08-07 · SWE · BS/MS
-
-</details>
-<details open>
-<summary>Headlands Tech Holdings (1)</summary>
-
-- [Research Developer New Grad](https://job-boards.greenhouse.io/headlandstechnologiesllc/jobs/4227566009) — London, UK, Chicago, IL, NYC · posted 2026-07-05 · ML · BS
 
 </details>
 <details open>
@@ -694,12 +710,6 @@ and `.nojekyll` into `docs/`, set Pages to `/docs`, and give every device a toke
 <summary>The Voleon Group (1)</summary>
 
 - [Software Engineer - University Hire 2027](https://jobs.ashbyhq.com/voleon/d732fd5a-ac98-4985-9e60-d1d59f02a66c/application?embed=true) — Berkeley, CA, NYC · posted 2026-08-25 · SWE · BS
-
-</details>
-<details open>
-<summary>Tower Research Capital (1)</summary>
-
-- [Quantitative Trader](https://www.tower-research.com/open-positions/?gh_jid=8024142) — Chicago, IL, NYC · posted 2026-07-05 · Quant · BS/MS/PhD
 
 </details>
 <details open>

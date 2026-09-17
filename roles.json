@@ -1,5 +1,75 @@
 [
  {
+  "id": "simplify:a47dfc85-2d9a-4cad-9a29-0c244dc1a46e",
+  "first_seen": 1789621243,
+  "company": "Tower Research Capital",
+  "title": "Data Analyst - Data",
+  "location": "NYC",
+  "url": "https://www.tower-research.com/open-positions/?gh_jid=8167234",
+  "category": "ML",
+  "posted": "2026-09-16",
+  "date_posted": 1789598875,
+  "active": true,
+  "locations": [
+   "NYC"
+  ],
+  "region": "US",
+  "degrees": [
+   "Master's",
+   "PhD"
+  ],
+  "sponsorship": "Other",
+  "group": "tower research capital|data analyst data",
+  "in_feed": true,
+  "reason": null
+ },
+ {
+  "id": "simplify:3b44169c-ba6c-47f8-8693-6dee8ef6bb65",
+  "first_seen": 1789621243,
+  "company": "DRW",
+  "title": "Floor Trader",
+  "location": "Chicago, IL",
+  "url": "https://job-boards.greenhouse.io/drweng/jobs/8207750",
+  "category": "Quant",
+  "posted": "2026-09-16",
+  "date_posted": 1789598824,
+  "active": true,
+  "locations": [
+   "Chicago, IL"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's"
+  ],
+  "sponsorship": "Other",
+  "group": "drw|floor trader",
+  "in_feed": true,
+  "reason": null
+ },
+ {
+  "id": "simplify:c26d8252-d97c-43cd-a297-d22043b04581",
+  "first_seen": 1789621243,
+  "company": "Headlands Tech Holdings",
+  "title": "C++ Software Developer New Grad",
+  "location": "Chicago, IL",
+  "url": "https://job-boards.greenhouse.io/headlandstechnologiesllc/jobs/4336806009",
+  "category": "SWE",
+  "posted": "2026-09-16",
+  "date_posted": 1789597534,
+  "active": true,
+  "locations": [
+   "Chicago, IL"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's"
+  ],
+  "sponsorship": "Other",
+  "group": "headlands tech holdings|c software developer new grad",
+  "in_feed": true,
+  "reason": null
+ },
+ {
   "id": "simplify:bbf97353-45cc-4b6c-b3a6-50e3aafa73fd",
   "first_seen": 1789599741,
   "company": "Anduril",
@@ -5405,6 +5475,32 @@
   "reason": null
  },
  {
+  "id": "simplify:935d5e2a-2962-45cf-b6cc-08183fc2b835",
+  "first_seen": 1789621243,
+  "company": "NVIDIA",
+  "title": "GPU Architecture Engineer New Grad",
+  "location": "Austin, TX, Santa Clara, CA, Durham, NC",
+  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/GPU-Architecture-Engineer---New-College-Grad-2026_JR2021615",
+  "category": "HW",
+  "posted": "2026-07-21",
+  "date_posted": 1784592000,
+  "active": true,
+  "locations": [
+   "Austin, TX",
+   "Santa Clara, CA",
+   "Durham, NC"
+  ],
+  "region": "US",
+  "degrees": [
+   "Master's",
+   "PhD"
+  ],
+  "sponsorship": "Other",
+  "group": "nvidia|gpu architecture engineer new grad",
+  "in_feed": true,
+  "reason": null
+ },
+ {
   "id": "simplify:3ace8680-5997-4467-ad7e-82ecc656e241",
   "company": "Five Rings Capital",
   "title": "Campus Full Time - Software Developer",
@@ -6236,6 +6332,32 @@
   "group": "headlands tech holdings|research developer new grad",
   "in_feed": true,
   "reason": null
+ },
+ {
+  "id": "simplify:1b9c1f91-ca52-4298-9890-c44895c6b362",
+  "company": "Airbnb",
+  "title": "Machine Learning Engineer - Relevance and Personalization",
+  "location": "Remote in USA",
+  "url": "https://careers.airbnb.com/positions/7708224?gh_jid=7708224",
+  "category": "ML",
+  "posted": "2026-07-02",
+  "date_posted": 1782955028,
+  "active": true,
+  "first_seen": 1784650787.3893838,
+  "last_seen": 1788286002.979027,
+  "in_feed": true,
+  "reason": null,
+  "group": "airbnb|machine learning engineer relevance and personalization",
+  "locations": [
+   "Remote in USA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's",
+   "PhD"
+  ],
+  "sponsorship": "Other"
  },
  {
   "id": "simplify:1c8d5fb4-7d30-4fff-adcc-7926baadf184",
@@ -10187,23 +10309,6 @@
   "closed_at": 1784765156,
   "reason": "closed",
   "group": "salesforce|software engineering mts salesforce engineer"
- },
- {
-  "id": "simplify:1b9c1f91-ca52-4298-9890-c44895c6b362",
-  "company": "Airbnb",
-  "title": "Machine Learning Engineer - Relevance and Personalization",
-  "location": "Remote in USA",
-  "url": "https://careers.airbnb.com/positions/7708224?gh_jid=7708224",
-  "category": "ML",
-  "posted": "2026-07-02",
-  "date_posted": 1782955028,
-  "active": false,
-  "first_seen": 1784650787.3893838,
-  "last_seen": 1788286002.979027,
-  "in_feed": false,
-  "closed_at": 1788286002,
-  "reason": "closed",
-  "group": "airbnb|machine learning engineer relevance and personalization"
  },
  {
   "id": "simplify:c672badc-9657-46ee-bfdf-c31ec6e4308c",
