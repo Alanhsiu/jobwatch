@@ -4,31 +4,31 @@
  "repo": "Alanhsiu/jobwatch",
  "branch": "main",
  "pages_url": "https://alanhsiu.github.io/jobwatch/",
- "last_run": 1789645945,
- "last_change": 1789645945,
+ "last_run": 1789664894,
+ "last_change": 1789664894,
  "last_result": "ok",
  "feed": {
-  "records": 20186,
-  "active": 3090,
-  "fetched_at": 1789645945,
+  "records": 20187,
+  "active": 3094,
+  "fetched_at": 1789664894,
   "attempts": 1
  },
  "counts": {
-  "active": 286,
-  "closed": 165,
+  "active": 285,
+  "closed": 166,
   "untracked": 72,
-  "groups": 252,
+  "groups": 251,
   "companies": 56,
   "new_this_run": 0,
   "silent_known_this_run": 0,
-  "closed_this_run": 2,
+  "closed_this_run": 1,
   "untracked_this_run": 0
  },
  "rejects": {
   "category": 115,
   "phd": 170,
   "title": 22,
-  "region": 44,
+  "region": 43,
   "sponsorship": 0,
   "age": 22
  },
@@ -104,7 +104,7 @@
    "denied": 0
   },
   "aqr": {
-   "active": 2,
+   "active": 1,
    "all_time": 3,
    "names": [
     "AQR Capital Management"

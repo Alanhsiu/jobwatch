@@ -8,7 +8,7 @@ sync between devices through this repo. No servers, no database, no cost — a p
 bot token. This repo's tracker: **[alanhsiu.github.io/jobwatch](https://alanhsiu.github.io/jobwatch/)** (a fork gets its own at `https://<owner>.github.io/<repo>/`).
 
 <!-- JOBS:HEAD:START -->
-_286 open new-grad roles at 56 companies · list last changed 2026-09-17 · scans every ~2 h_ · **[Open the tracker](https://alanhsiu.github.io/jobwatch/)** · [Full list ↓](#current-roles) · TikTok 104 · ByteDance 36 · Palantir 10 · Apple 9 · Amazon 8 · Anduril 6 · Old Mission 6 · Akuna Capital University 5 · …
+_285 open new-grad roles at 56 companies · list last changed 2026-09-17 · scans every ~2 h_ · **[Open the tracker](https://alanhsiu.github.io/jobwatch/)** · [Full list ↓](#current-roles) · TikTok 104 · ByteDance 36 · Palantir 10 · Apple 9 · Amazon 8 · Anduril 6 · Old Mission 6 · Akuna Capital University 5 · …
 <!-- JOBS:HEAD:END -->
 
 ## How it works
@@ -522,13 +522,6 @@ and `.nojekyll` into `docs/`, set Pages to `/docs`, and give every device a toke
 
 </details>
 <details open>
-<summary>AQR Capital Management (2)</summary>
-
-- [Portfolio Implementation Analyst](https://careers.aqr.com/jobs?gh_jid=8143913&gh_jid=8143913) — Greenwich, CT · posted 2026-08-26 · Quant · BS/MS
-- [Trading Analyst](https://careers.aqr.com/jobs?gh_jid=8156709&gh_jid=8156709) — Greenwich, CT · posted 2026-08-25 · Quant · BS/MS
-
-</details>
-<details open>
 <summary>Belvedere Trading (2)</summary>
 
 - [Quantitative Trader](https://jobs.lever.co/belvederetrading/34369a5c-55c0-4e9f-9d2e-4f21b9418bee/apply) — Chicago, IL · posted 2026-08-07 · Quant
@@ -620,6 +613,12 @@ and `.nojekyll` into `docs/`, set Pages to `/docs`, and give every device a toke
 <summary>Anysphere (1)</summary>
 
 - [Software Engineer New Grad - 2027](https://jobs.ashbyhq.com/cursor/d0e5b41d-84ab-4887-bd3a-55589b11dd7b/application?embed=true) — SF, NYC · posted 2026-09-10 · SWE · BS
+
+</details>
+<details open>
+<summary>AQR Capital Management (1)</summary>
+
+- [Trading Analyst](https://careers.aqr.com/jobs?gh_jid=8156709&gh_jid=8156709) — Greenwich, CT · posted 2026-08-25 · Quant · BS/MS
 
 </details>
 <details open>
