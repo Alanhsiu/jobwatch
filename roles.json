@@ -637,6 +637,31 @@
   "reason": null
  },
  {
+  "id": "simplify:988e5175-a56f-4c3a-b1d9-3a643a63a503",
+  "company": "Applied Intuition",
+  "title": "Forward Deployed Engineer New Grad",
+  "location": "Sunnyvale, CA",
+  "url": "https://jobs.ashbyhq.com/applied/31140958-d768-452c-8498-0b1c7f403943/application?embed=true",
+  "category": "SWE",
+  "posted": "2026-09-03",
+  "date_posted": 1788407677,
+  "active": true,
+  "first_seen": 1788459477.1502452,
+  "last_seen": 1788483176.4737847,
+  "in_feed": true,
+  "reason": null,
+  "group": "applied intuition|forward deployed engineer new grad",
+  "locations": [
+   "Sunnyvale, CA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "sponsorship": "Other"
+ },
+ {
   "id": "simplify:551ab6e9-715d-4111-9de9-e888a5dd2718",
   "first_seen": 1789570473,
   "company": "Anduril",
@@ -1474,31 +1499,6 @@
   "reason": null
  },
  {
-  "id": "simplify:b59fa048-6dd0-4a50-af24-e4c0fdd2693c",
-  "company": "Anduril",
-  "title": "Software Engineer - Battlespace Awareness",
-  "location": "Fort Collins, CO, Broomfield, CO",
-  "url": "https://boards.greenhouse.io/andurilindustries/jobs/5215627007",
-  "category": "SWE",
-  "posted": "2026-08-19",
-  "date_posted": 1787103085,
-  "active": true,
-  "first_seen": 1787153152.4355888,
-  "last_seen": 1789521191.4314806,
-  "locations": [
-   "Fort Collins, CO",
-   "Broomfield, CO"
-  ],
-  "region": "US",
-  "degrees": [
-   "Bachelor's"
-  ],
-  "sponsorship": "Other",
-  "group": "anduril|software engineer battlespace awareness",
-  "in_feed": true,
-  "reason": null
- },
- {
   "id": "simplify:20a58aca-229f-4e97-b6ae-6ffb0759e594",
   "company": "TikTok",
   "title": "Data Engineer Graduate - Data Platform - Global Live",
@@ -1594,30 +1594,6 @@
   ],
   "sponsorship": "Other",
   "group": "tiktok|data scientist graduate e commerce governance",
-  "in_feed": true,
-  "reason": null
- },
- {
-  "id": "simplify:5e2b041d-3b5b-414f-8491-242be06bf425",
-  "company": "Applied Intuition",
-  "title": "Scenario Engineer New Grad",
-  "location": "Sunnyvale, CA",
-  "url": "https://jobs.ashbyhq.com/applied/f382de9d-d5e4-4dc8-85a0-0bae7125f8cf/application?embed=true",
-  "category": "ML",
-  "posted": "2026-08-15",
-  "date_posted": 1786768160,
-  "active": true,
-  "first_seen": 1786806887.9321232,
-  "last_seen": 1789521191.4314806,
-  "locations": [
-   "Sunnyvale, CA"
-  ],
-  "region": "US",
-  "degrees": [
-   "Bachelor's"
-  ],
-  "sponsorship": "Other",
-  "group": "applied intuition|scenario engineer new grad",
   "in_feed": true,
   "reason": null
  },
@@ -7164,23 +7140,6 @@
   "group": "tesla|data collection operator optimus"
  },
  {
-  "id": "simplify:988e5175-a56f-4c3a-b1d9-3a643a63a503",
-  "company": "Applied Intuition",
-  "title": "Forward Deployed Engineer New Grad",
-  "location": "Sunnyvale, CA",
-  "url": "https://jobs.ashbyhq.com/applied/31140958-d768-452c-8498-0b1c7f403943/application?embed=true",
-  "category": "SWE",
-  "posted": "2026-09-03",
-  "date_posted": 1788407677,
-  "active": false,
-  "first_seen": 1788459477.1502452,
-  "last_seen": 1788483176.4737847,
-  "in_feed": false,
-  "closed_at": 1788483176,
-  "reason": "closed",
-  "group": "applied intuition|forward deployed engineer new grad"
- },
- {
   "id": "simplify:7c00bd35-b4d2-47d6-aa55-d4f4d70f9b5e",
   "company": "Millennium Physician Group",
   "title": "Medical Economics Analyst",
@@ -7580,6 +7539,32 @@
   "group": "bytedance|machine learning engineer graduate e commerce risk control"
  },
  {
+  "id": "simplify:b59fa048-6dd0-4a50-af24-e4c0fdd2693c",
+  "company": "Anduril",
+  "title": "Software Engineer - Battlespace Awareness",
+  "location": "Fort Collins, CO, Broomfield, CO",
+  "url": "https://boards.greenhouse.io/andurilindustries/jobs/5215627007",
+  "category": "SWE",
+  "posted": "2026-08-19",
+  "date_posted": 1787103085,
+  "active": false,
+  "first_seen": 1787153152.4355888,
+  "last_seen": 1789645945,
+  "locations": [
+   "Fort Collins, CO",
+   "Broomfield, CO"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's"
+  ],
+  "sponsorship": "Other",
+  "group": "anduril|software engineer battlespace awareness",
+  "in_feed": false,
+  "reason": "closed",
+  "closed_at": 1789645945
+ },
+ {
   "id": "simplify:1b072285-49c1-4f27-a37f-d7fa58045e21",
   "company": "TikTok",
   "title": "Data Analyst Graduate",
@@ -7646,6 +7631,31 @@
   "closed_at": 1788397308,
   "reason": "closed",
   "group": "roblox|software engineer foundation ai"
+ },
+ {
+  "id": "simplify:5e2b041d-3b5b-414f-8491-242be06bf425",
+  "company": "Applied Intuition",
+  "title": "Scenario Engineer New Grad",
+  "location": "Sunnyvale, CA",
+  "url": "https://jobs.ashbyhq.com/applied/f382de9d-d5e4-4dc8-85a0-0bae7125f8cf/application?embed=true",
+  "category": "ML",
+  "posted": "2026-08-15",
+  "date_posted": 1786768160,
+  "active": false,
+  "first_seen": 1786806887.9321232,
+  "last_seen": 1789645945,
+  "locations": [
+   "Sunnyvale, CA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's"
+  ],
+  "sponsorship": "Other",
+  "group": "applied intuition|scenario engineer new grad",
+  "in_feed": false,
+  "reason": "closed",
+  "closed_at": 1789645945
  },
  {
   "id": "simplify:8b82242b-ee49-413d-9ba5-a840c2dc3385",

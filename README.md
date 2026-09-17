@@ -8,7 +8,7 @@ sync between devices through this repo. No servers, no database, no cost — a p
 bot token. This repo's tracker: **[alanhsiu.github.io/jobwatch](https://alanhsiu.github.io/jobwatch/)** (a fork gets its own at `https://<owner>.github.io/<repo>/`).
 
 <!-- JOBS:HEAD:START -->
-_287 open new-grad roles at 56 companies · list last changed 2026-09-17 · scans every ~2 h_ · **[Open the tracker](https://alanhsiu.github.io/jobwatch/)** · [Full list ↓](#current-roles) · TikTok 104 · ByteDance 36 · Palantir 10 · Apple 9 · Amazon 8 · Anduril 7 · Old Mission 6 · Akuna Capital University 5 · …
+_286 open new-grad roles at 56 companies · list last changed 2026-09-17 · scans every ~2 h_ · **[Open the tracker](https://alanhsiu.github.io/jobwatch/)** · [Full list ↓](#current-roles) · TikTok 104 · ByteDance 36 · Palantir 10 · Apple 9 · Amazon 8 · Anduril 6 · Old Mission 6 · Akuna Capital University 5 · …
 <!-- JOBS:HEAD:END -->
 
 ## How it works
@@ -373,9 +373,9 @@ and `.nojekyll` into `docs/`, set Pages to `/docs`, and give every device a toke
 
 </details>
 <details open>
-<summary>Anduril (7)</summary>
+<summary>Anduril (6)</summary>
 
-- [Software Engineer - Battlespace Awareness](https://boards.greenhouse.io/andurilindustries/jobs/5240165007) · [2](https://boards.greenhouse.io/andurilindustries/jobs/5215627007) — Fort Collins, CO, Broomfield, CO · posted 2026-09-16 · SWE · BS
+- [Software Engineer - Battlespace Awareness](https://boards.greenhouse.io/andurilindustries/jobs/5240165007) — Fort Collins, CO, Broomfield, CO · posted 2026-09-16 · SWE · BS
 - [Firmware Engineer - Space - Emerging Talent](https://boards.greenhouse.io/andurilindustries/jobs/5239596007) — Costa Mesa, CA · posted 2026-09-16 · HW · BS/MS
 - [Early Career Flight Software Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5228868007) — Costa Mesa, CA · posted 2026-09-03 · HW · BS/MS
 - [Agentic AI Engineer - Automation](https://boards.greenhouse.io/andurilindustries/jobs/5219383007) — Costa Mesa, CA · posted 2026-08-26 · SWE · MS/PhD
@@ -407,7 +407,7 @@ and `.nojekyll` into `docs/`, set Pages to `/docs`, and give every device a toke
 <details open>
 <summary>Applied Intuition (5)</summary>
 
-- [Scenario Engineer New Grad](https://jobs.ashbyhq.com/applied/f382de9d-d5e4-4dc8-85a0-0bae7125f8cf/application?embed=true) — Sunnyvale, CA · posted 2026-08-15 · ML · BS
+- [Forward Deployed Engineer New Grad](https://jobs.ashbyhq.com/applied/31140958-d768-452c-8498-0b1c7f403943/application?embed=true) — Sunnyvale, CA · posted 2026-09-03 · SWE · BS/MS
 - [Research Engineer New Grad](https://jobs.ashbyhq.com/applied/45fc41cd-8280-4010-ba1f-def6114b3e39/application?embed=true) — Sunnyvale, CA · posted 2026-08-15 · ML · MS/PhD
 - [Software Engineer New Grad - December 2026](https://jobs.ashbyhq.com/applied/a837cbd6-9fe4-4d74-a2dc-84f602c40694/application?embed=true) — Ann Arbor, MI, Sunnyvale, CA · posted 2026-08-15 · SWE · BS/MS
 - [Software Integration Engineer New Grad](https://jobs.ashbyhq.com/applied/250080bd-10a8-4e5f-82b8-506029292d19/application?embed=true) — Sunnyvale, CA · posted 2026-08-15 · HW · BS/MS
