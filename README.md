@@ -8,7 +8,7 @@ sync between devices through this repo. No servers, no database, no cost — a p
 bot token. This repo's tracker: **[alanhsiu.github.io/jobwatch](https://alanhsiu.github.io/jobwatch/)** (a fork gets its own at `https://<owner>.github.io/<repo>/`).
 
 <!-- JOBS:HEAD:START -->
-_286 open new-grad roles at 56 companies · list last changed 2026-09-18 · scans every ~2 h_ · **[Open the tracker](https://alanhsiu.github.io/jobwatch/)** · [Full list ↓](#current-roles) · TikTok 104 · ByteDance 36 · Palantir 10 · Amazon 8 · Apple 8 · Anduril 6 · NVIDIA 6 · Old Mission 6 · …
+_285 open new-grad roles at 56 companies · list last changed 2026-09-18 · scans every ~2 h_ · **[Open the tracker](https://alanhsiu.github.io/jobwatch/)** · [Full list ↓](#current-roles) · TikTok 103 · ByteDance 36 · Palantir 10 · Amazon 8 · Apple 8 · Anduril 6 · NVIDIA 6 · Old Mission 6 · …
 <!-- JOBS:HEAD:END -->
 
 ## How it works
@@ -205,7 +205,7 @@ and `.nojekyll` into `docs/`, set Pages to `/docs`, and give every device a toke
 ## Current roles
 <!-- JOBS:START -->
 <details>
-<summary>TikTok (104)</summary>
+<summary>TikTok (103)</summary>
 
 - [Data Engineer Graduate](https://lifeattiktok.com/search/7681779180341709109) — San Jose, CA · posted 2026-09-07 · ML · BS/MS
 - [Machine Learning Engineer Graduate - E-Commerce Knowledge Graph](https://lifeattiktok.com/search/7679156878833682693) — San Jose, CA · posted 2026-08-29 · ML · BS/MS
@@ -253,7 +253,6 @@ and `.nojekyll` into `docs/`, set Pages to `/docs`, and give every device a toke
 - [Backend Software Engineer Graduate - Global E-commerce](https://lifeattiktok.com/search/7668827379083823413) · [2](https://lifeattiktok.com/search/7668824169648097541) — Seattle, WA; San Jose, CA · posted 2026-08-04 · SWE · BS
 - [Graduate Software Engineer](https://lifeattiktok.com/search/7668566347702569269) — San Jose, CA · posted 2026-08-04 · SWE · BS/MS
 - [Machine Learning Engineer Graduate - Commerce Ads - 2027 Start](https://lifeattiktok.com/search/7669711968024430853) — San Jose, CA · posted 2026-08-04 · ML · BS
-- [Graduate Software Engineer - Global Live](https://lifeattiktok.com/search/7668845522007722245) — San Jose, CA · posted 2026-08-04 · SWE · BS/MS
 - [Machine Learning Engineer Graduate - Ads Signal & Measurement](https://lifeattiktok.com/search/7669700358734170373) — San Jose, CA · posted 2026-08-04 · ML · BS/MS/PhD
 - [Backend Software Engineer Graduate - Digital Content Center](https://lifeattiktok.com/search/7668843238309824773) — San Jose, CA · posted 2026-08-04 · SWE · BS/MS
 - [Machine Learning Engineer New Grad - Performance Monetization](https://lifeattiktok.com/search/7669691374918011141) — San Jose, CA · posted 2026-08-04 · ML · BS

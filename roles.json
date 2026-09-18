@@ -3691,31 +3691,6 @@
   "reason": null
  },
  {
-  "id": "simplify:66b56a57-0b34-4268-9aeb-d1eeb074c004",
-  "company": "TikTok",
-  "title": "Graduate Software Engineer - Global Live",
-  "location": "San Jose, CA",
-  "url": "https://lifeattiktok.com/search/7668845522007722245",
-  "category": "SWE",
-  "posted": "2026-08-04",
-  "date_posted": 1785835210,
-  "active": true,
-  "first_seen": 1785862126.3427815,
-  "last_seen": 1789521191.4314806,
-  "locations": [
-   "San Jose, CA"
-  ],
-  "region": "US",
-  "degrees": [
-   "Bachelor's",
-   "Master's"
-  ],
-  "sponsorship": "Other",
-  "group": "tiktok|graduate software engineer global live",
-  "in_feed": true,
-  "reason": null
- },
- {
   "id": "simplify:51df4d76-6a86-4427-8409-22db86bb6d45",
   "company": "TikTok",
   "title": "Machine Learning Engineer Graduate - Ads Signal & Measurement",
@@ -8717,6 +8692,32 @@
   "closed_at": 1787268658,
   "reason": "closed",
   "group": "tiktok|data scientist graduate tiktok search"
+ },
+ {
+  "id": "simplify:66b56a57-0b34-4268-9aeb-d1eeb074c004",
+  "company": "TikTok",
+  "title": "Graduate Software Engineer - Global Live",
+  "location": "San Jose, CA",
+  "url": "https://lifeattiktok.com/search/7668845522007722245",
+  "category": "SWE",
+  "posted": "2026-08-04",
+  "date_posted": 1785835210,
+  "active": false,
+  "first_seen": 1785862126.3427815,
+  "last_seen": 1789736459,
+  "locations": [
+   "San Jose, CA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "tiktok|graduate software engineer global live",
+  "in_feed": false,
+  "reason": "closed",
+  "closed_at": 1789736459
  },
  {
   "id": "simplify:2d1d84a0-ff46-441d-b4b8-e580fd19fa16",
