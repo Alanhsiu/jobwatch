@@ -4,22 +4,22 @@
  "repo": "Alanhsiu/jobwatch",
  "branch": "main",
  "pages_url": "https://alanhsiu.github.io/jobwatch/",
- "last_run": 1789664894,
- "last_change": 1789664894,
+ "last_run": 1789691306,
+ "last_change": 1789691306,
  "last_result": "ok",
  "feed": {
-  "records": 20187,
-  "active": 3094,
-  "fetched_at": 1789664894,
+  "records": 20221,
+  "active": 3105,
+  "fetched_at": 1789691306,
   "attempts": 1
  },
  "counts": {
-  "active": 285,
-  "closed": 166,
+  "active": 286,
+  "closed": 167,
   "untracked": 72,
-  "groups": 251,
+  "groups": 252,
   "companies": 56,
-  "new_this_run": 0,
+  "new_this_run": 2,
   "silent_known_this_run": 0,
   "closed_this_run": 1,
   "untracked_this_run": 0
@@ -28,14 +28,14 @@
   "category": 115,
   "phd": 170,
   "title": 22,
-  "region": 43,
+  "region": 42,
   "sponsorship": 0,
   "age": 22
  },
  "keywords": {
   "adobe": {
-   "active": 1,
-   "all_time": 6,
+   "active": 2,
+   "all_time": 7,
    "names": [
     "Adobe"
    ],
@@ -585,8 +585,8 @@
    "denied": 0
   },
   "nvidia": {
-   "active": 5,
-   "all_time": 19,
+   "active": 6,
+   "all_time": 20,
    "names": [
     "NVIDIA"
    ],
@@ -863,7 +863,7 @@
    "denied": 0
   },
   "tower research": {
-   "active": 2,
+   "active": 1,
    "all_time": 2,
    "names": [
     "Tower Research Capital"
@@ -1004,8 +1004,8 @@
   }
  },
  "telegram": {
-  "mode": "none",
-  "delivered": 0,
+  "mode": "sent",
+  "delivered": 2,
   "failed_chunks": 0,
   "creds": true
  },
