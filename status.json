@@ -2417,10 +2417,14 @@
    {
     "s": "interview",
     "t": 1789709654
+   },
+   {
+    "s": "rejected",
+    "t": 1789709680
    }
   ],
-  "s": "interview",
-  "t": 1789709654
+  "s": "rejected",
+  "t": 1789709680
  },
  "simplify:b303c78e-833c-439d-ae95-e3911da5ceb8": {
   "h": [
