@@ -4,22 +4,22 @@
  "repo": "Alanhsiu/jobwatch",
  "branch": "main",
  "pages_url": "https://alanhsiu.github.io/jobwatch/",
- "last_run": 1789691306,
- "last_change": 1789691306,
+ "last_run": 1789716522,
+ "last_change": 1789716522,
  "last_result": "ok",
  "feed": {
-  "records": 20221,
-  "active": 3105,
-  "fetched_at": 1789691306,
+  "records": 20176,
+  "active": 3106,
+  "fetched_at": 1789716522,
   "attempts": 1
  },
  "counts": {
   "active": 286,
-  "closed": 167,
+  "closed": 168,
   "untracked": 72,
   "groups": 252,
   "companies": 56,
-  "new_this_run": 2,
+  "new_this_run": 1,
   "silent_known_this_run": 0,
   "closed_this_run": 1,
   "untracked_this_run": 0
@@ -28,9 +28,9 @@
   "category": 115,
   "phd": 170,
   "title": 22,
-  "region": 42,
+  "region": 43,
   "sponsorship": 0,
-  "age": 22
+  "age": 21
  },
  "keywords": {
   "adobe": {
@@ -88,7 +88,7 @@
    "denied": 0
   },
   "apple": {
-   "active": 9,
+   "active": 8,
    "all_time": 25,
    "names": [
     "Apple"
@@ -813,8 +813,8 @@
    "denied": 0
   },
   "stripe": {
-   "active": 1,
-   "all_time": 1,
+   "active": 2,
+   "all_time": 2,
    "names": [
     "Stripe"
    ],
@@ -1005,7 +1005,7 @@
  },
  "telegram": {
   "mode": "sent",
-  "delivered": 2,
+  "delivered": 1,
   "failed_chunks": 0,
   "creds": true
  },

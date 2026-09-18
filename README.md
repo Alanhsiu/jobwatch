@@ -8,7 +8,7 @@ sync between devices through this repo. No servers, no database, no cost — a p
 bot token. This repo's tracker: **[alanhsiu.github.io/jobwatch](https://alanhsiu.github.io/jobwatch/)** (a fork gets its own at `https://<owner>.github.io/<repo>/`).
 
 <!-- JOBS:HEAD:START -->
-_286 open new-grad roles at 56 companies · list last changed 2026-09-18 · scans every ~2 h_ · **[Open the tracker](https://alanhsiu.github.io/jobwatch/)** · [Full list ↓](#current-roles) · TikTok 104 · ByteDance 36 · Palantir 10 · Apple 9 · Amazon 8 · Anduril 6 · NVIDIA 6 · Old Mission 6 · …
+_286 open new-grad roles at 56 companies · list last changed 2026-09-18 · scans every ~2 h_ · **[Open the tracker](https://alanhsiu.github.io/jobwatch/)** · [Full list ↓](#current-roles) · TikTok 104 · ByteDance 36 · Palantir 10 · Amazon 8 · Apple 8 · Anduril 6 · NVIDIA 6 · Old Mission 6 · …
 <!-- JOBS:HEAD:END -->
 
 ## How it works
@@ -346,20 +346,6 @@ and `.nojekyll` into `docs/`, set Pages to `/docs`, and give every device a toke
 
 </details>
 <details open>
-<summary>Apple (9)</summary>
-
-- [Systems Software Engineer](https://jobs.apple.com/en-us/details/200683808) — San Diego, CA · posted 2026-09-15 · SWE · BS
-- [Software Engineer - Apple Ads](https://jobs.apple.com/en-us/details/200682706) — Austin, TX · posted 2026-09-09 · SWE · BS
-- [Cellular Layer-1 Control Software Development Engineer - Wireless Technologies & Ecosystems](https://jobs.apple.com/en-us/details/200681316) — Sunnyvale, CA · posted 2026-09-01 · HW · BS/MS
-- [CAD Automation and Mixed-Signal Simulation Engineer](https://jobs.apple.com/en-us/details/200680375) — Sunnyvale, CA · posted 2026-08-27 · SWE · BS
-- [Systems Engineer - UI Compositing](https://jobs.apple.com/en-us/details/200680183) — Cupertino, CA · posted 2026-08-26 · SWE · BS/MS
-- [Darwin Runtime Engineer - Core OS](https://jobs.apple.com/en-us/details/200662330) — Cupertino, CA · posted 2026-08-20 · SWE · BS/MS
-- [Frontend Engineer](https://jobs.apple.com/en-us/details/200676168) — Austin, TX · posted 2026-08-10 · SWE · BS
-- [Cellular Power Optimization Software Engineer - Wireless Technologies & Ecosystems](https://jobs.apple.com/en-us/details/200657382) — San Diego, CA · posted 2026-07-31 · HW · BS/MS
-- [Software Engineer Silicon Engineering Documentation Tools](https://jobs.apple.com/en-us/details/200661584) — Lafayette, KS · posted 2026-05-06 · SWE
-
-</details>
-<details open>
 <summary>Amazon (8)</summary>
 
 - [Software Privacy Engineer - Multiple Teams](https://amazon.jobs/en/jobs/10538147/software-privacy-engineer-trust-platform-automation-devices-services-trust-privacy-and-accessibility-tpa) — Bellevue, WA · posted 2026-09-12 · SWE · BS
@@ -370,6 +356,19 @@ and `.nojekyll` into `docs/`, set Pages to `/docs`, and give every device a toke
 - [Software Development Engineer - Military Veterans](https://amazon.jobs/en/jobs/3179205/software-development-engineer-military-veterans) — Seattle, WA, Redmond, WA, Arlington, VA · posted 2026-07-14 · SWE · BS
 - [Software Development Engineer - AWS Glue](https://amazon.jobs/en/jobs/10459443/software-development-engineer-aws-glue) — Bellevue, WA · posted 2026-06-26 · SWE · BS
 - [Software Development Engineer](https://amazon.jobs/en/jobs/3177934/software-development-engineer-2026-us) — Seattle, WA · posted 2026-05-04 · SWE · BS
+
+</details>
+<details open>
+<summary>Apple (8)</summary>
+
+- [Systems Software Engineer](https://jobs.apple.com/en-us/details/200683808) — San Diego, CA · posted 2026-09-15 · SWE · BS
+- [Cellular Layer-1 Control Software Development Engineer - Wireless Technologies & Ecosystems](https://jobs.apple.com/en-us/details/200681316) — Sunnyvale, CA · posted 2026-09-01 · HW · BS/MS
+- [CAD Automation and Mixed-Signal Simulation Engineer](https://jobs.apple.com/en-us/details/200680375) — Sunnyvale, CA · posted 2026-08-27 · SWE · BS
+- [Systems Engineer - UI Compositing](https://jobs.apple.com/en-us/details/200680183) — Cupertino, CA · posted 2026-08-26 · SWE · BS/MS
+- [Darwin Runtime Engineer - Core OS](https://jobs.apple.com/en-us/details/200662330) — Cupertino, CA · posted 2026-08-20 · SWE · BS/MS
+- [Frontend Engineer](https://jobs.apple.com/en-us/details/200676168) — Austin, TX · posted 2026-08-10 · SWE · BS
+- [Cellular Power Optimization Software Engineer - Wireless Technologies & Ecosystems](https://jobs.apple.com/en-us/details/200657382) — San Diego, CA · posted 2026-07-31 · HW · BS/MS
+- [Software Engineer Silicon Engineering Documentation Tools](https://jobs.apple.com/en-us/details/200661584) — Lafayette, KS · posted 2026-05-06 · SWE
 
 </details>
 <details open>
@@ -572,6 +571,13 @@ and `.nojekyll` into `docs/`, set Pages to `/docs`, and give every device a toke
 
 </details>
 <details open>
+<summary>Stripe (2)</summary>
+
+- [Software Engineer - Early Career - Immediate Start](https://stripe.com/jobs/search?gh_jid=8212508) — Seattle, WA, SF, NYC · posted 2026-09-18 · SWE · BS/MS
+- [Software Engineer New Grad](https://stripe.com/jobs/search?gh_jid=8128744) — Seattle, WA, SF, NYC · posted 2026-09-01 · SWE · BS/MS
+
+</details>
+<details open>
 <summary>Susquehanna International Group (2)</summary>
 
 - [Trading System Engineer New Grad](https://careers-sig.icims.com/jobs/11349/job?mobile=true&needsRedirect=false) — Bala Cynwyd, PA · posted 2026-08-21 · Quant · BS/MS
@@ -692,12 +698,6 @@ and `.nojekyll` into `docs/`, set Pages to `/docs`, and give every device a toke
 <summary>Schonfeld (1)</summary>
 
 - [Market Data Analyst](https://job-boards.greenhouse.io/schonfeld/jobs/7843959) — NYC · posted 2026-04-30 · ML · BS
-
-</details>
-<details open>
-<summary>Stripe (1)</summary>
-
-- [Software Engineer New Grad](https://stripe.com/jobs/search?gh_jid=8128744) — Seattle, WA, SF, NYC · posted 2026-09-01 · SWE · BS/MS
 
 </details>
 <details open>

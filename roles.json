@@ -1,5 +1,31 @@
 [
  {
+  "id": "simplify:5f473e5a-c08d-4e76-ae09-29c68b392aea",
+  "first_seen": 1789716522,
+  "company": "Stripe",
+  "title": "Software Engineer - Early Career - Immediate Start",
+  "location": "Seattle, WA, SF, NYC",
+  "url": "https://stripe.com/jobs/search?gh_jid=8212508",
+  "category": "SWE",
+  "posted": "2026-09-18",
+  "date_posted": 1789694971,
+  "active": true,
+  "locations": [
+   "Seattle, WA",
+   "SF",
+   "NYC"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "stripe|software engineer early career immediate start",
+  "in_feed": true,
+  "reason": null
+ },
+ {
   "id": "simplify:73283e9c-7252-4ace-89b5-c548e7e25e82",
   "first_seen": 1789691306,
   "company": "NVIDIA",
@@ -435,30 +461,6 @@
   ],
   "sponsorship": "Other",
   "group": "tesla|data statistician",
-  "in_feed": true,
-  "reason": null
- },
- {
-  "id": "simplify:ccea935e-1055-419a-834c-8b52c01b71bc",
-  "company": "Apple",
-  "title": "Software Engineer - Apple Ads",
-  "location": "Austin, TX",
-  "url": "https://jobs.apple.com/en-us/details/200682706",
-  "category": "SWE",
-  "posted": "2026-09-09",
-  "date_posted": 1788991789,
-  "active": true,
-  "first_seen": 1789063213.8064475,
-  "last_seen": 1789521191.4314806,
-  "locations": [
-   "Austin, TX"
-  ],
-  "region": "US",
-  "degrees": [
-   "Bachelor's"
-  ],
-  "sponsorship": "Other",
-  "group": "apple|software engineer apple ads",
   "in_feed": true,
   "reason": null
  },
@@ -7108,6 +7110,31 @@
   "reason": "untracked",
   "why": "title",
   "group": "tesla|senior data engineer datawarehouse service tools"
+ },
+ {
+  "id": "simplify:ccea935e-1055-419a-834c-8b52c01b71bc",
+  "company": "Apple",
+  "title": "Software Engineer - Apple Ads",
+  "location": "Austin, TX",
+  "url": "https://jobs.apple.com/en-us/details/200682706",
+  "category": "SWE",
+  "posted": "2026-09-09",
+  "date_posted": 1788991789,
+  "active": false,
+  "first_seen": 1789063213.8064475,
+  "last_seen": 1789716522,
+  "locations": [
+   "Austin, TX"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's"
+  ],
+  "sponsorship": "Other",
+  "group": "apple|software engineer apple ads",
+  "in_feed": false,
+  "reason": "closed",
+  "closed_at": 1789716522
  },
  {
   "id": "simplify:fad8dfc2-103b-425b-923f-9e4176ee1e3d",
