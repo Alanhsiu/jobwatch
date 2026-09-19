@@ -1,5 +1,75 @@
 [
  {
+  "id": "simplify:a339dae3-c079-4987-a6be-c0b863c83fb6",
+  "first_seen": 1789802660,
+  "company": "TikTok",
+  "title": "Machine Learning Engineer Graduate - E-Commerce Recommendation Video",
+  "location": "San Jose, CA",
+  "url": "https://lifeattiktok.com/search/7686999927260105013",
+  "category": "ML",
+  "posted": "2026-09-18",
+  "date_posted": 1789770552,
+  "active": true,
+  "locations": [
+   "San Jose, CA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's"
+  ],
+  "sponsorship": "Other",
+  "group": "tiktok|machine learning engineer graduate e commerce recommendation video",
+  "in_feed": true,
+  "reason": null
+ },
+ {
+  "id": "simplify:83d0a294-51a6-4b84-867f-e039c06781af",
+  "first_seen": 1789802660,
+  "company": "Wolverine Trading",
+  "title": "Entry Level C++ Software Engineer",
+  "location": "Chicago, IL",
+  "url": "https://wolve.pinpointhq.com/en/postings/2b2e514b-4709-4897-960d-77909fe33ab8?ats=pinpointhq",
+  "category": "SWE",
+  "posted": "2026-09-18",
+  "date_posted": 1789770139,
+  "active": true,
+  "locations": [
+   "Chicago, IL"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "wolverine trading|entry level c software engineer",
+  "in_feed": true,
+  "reason": null
+ },
+ {
+  "id": "simplify:af76c7bd-9c7f-4bb7-8258-217044808327",
+  "first_seen": 1789802660,
+  "company": "Together AI",
+  "title": "Software Engineer New Grad",
+  "location": "SF",
+  "url": "https://job-boards.greenhouse.io/togetherai/jobs/5211582007",
+  "category": "SWE",
+  "posted": "2026-09-18",
+  "date_posted": 1789770003,
+  "active": true,
+  "locations": [
+   "SF"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's"
+  ],
+  "sponsorship": "Other",
+  "group": "together ai|software engineer new grad",
+  "in_feed": true,
+  "reason": null
+ },
+ {
   "id": "simplify:5f473e5a-c08d-4e76-ae09-29c68b392aea",
   "first_seen": 1789716522,
   "company": "Stripe",
@@ -1574,30 +1644,6 @@
   ],
   "sponsorship": "Other",
   "group": "tiktok|machine learning engineer graduate e commerce governance",
-  "in_feed": true,
-  "reason": null
- },
- {
-  "id": "simplify:61daacb8-5db1-4ec7-8473-706c85ee08f5",
-  "company": "TikTok",
-  "title": "Data Scientist Graduate - E-Commerce Governance",
-  "location": "Seattle, WA",
-  "url": "https://lifeattiktok.com/search/7674027218993154357",
-  "category": "ML",
-  "posted": "2026-08-17",
-  "date_posted": 1786972911,
-  "active": true,
-  "first_seen": 1786980001.7232995,
-  "last_seen": 1789521191.4314806,
-  "locations": [
-   "Seattle, WA"
-  ],
-  "region": "US",
-  "degrees": [
-   "Bachelor's"
-  ],
-  "sponsorship": "Other",
-  "group": "tiktok|data scientist graduate e commerce governance",
   "in_feed": true,
   "reason": null
  },
@@ -3420,30 +3466,6 @@
   ],
   "sponsorship": "Other",
   "group": "roblox|software engineer early career",
-  "in_feed": true,
-  "reason": null
- },
- {
-  "id": "simplify:3f94586c-7465-4690-b2fc-6e57482fdcc0",
-  "company": "Microsoft",
-  "title": "Software Development Consultant - Technology Consulting",
-  "location": "Springfield, VA",
-  "url": "https://apply.careers.microsoft.com/careers/job/1970393556857973",
-  "category": "SWE",
-  "posted": "2026-08-05",
-  "date_posted": 1785968012,
-  "active": true,
-  "first_seen": 1785974638.2585025,
-  "last_seen": 1789521191.4314806,
-  "locations": [
-   "Springfield, VA"
-  ],
-  "region": "US",
-  "degrees": [
-   "Bachelor's"
-  ],
-  "sponsorship": "Other",
-  "group": "microsoft|software development consultant technology consulting",
   "in_feed": true,
   "reason": null
  },
@@ -6700,30 +6722,6 @@
   "reason": null
  },
  {
-  "id": "simplify:2cd0f1c9-7c43-41d3-850c-4b74451159f6",
-  "company": "Amazon",
-  "title": "Software Development Engineer - AWS Glue",
-  "location": "Bellevue, WA",
-  "url": "https://amazon.jobs/en/jobs/10459443/software-development-engineer-aws-glue",
-  "category": "SWE",
-  "posted": "2026-06-26",
-  "date_posted": 1782436004,
-  "active": true,
-  "first_seen": 1788483176.4737847,
-  "last_seen": 1788891322.8313782,
-  "locations": [
-   "Bellevue, WA"
-  ],
-  "region": "US",
-  "degrees": [
-   "Bachelor's"
-  ],
-  "sponsorship": "Other",
-  "group": "amazon|software development engineer aws glue",
-  "in_feed": true,
-  "reason": null
- },
- {
   "id": "simplify:a6ab1df3-86d8-42bb-b220-97ec8c92cba2",
   "company": "Microsoft",
   "title": "Software Engineer - Ctj - Poly",
@@ -7689,6 +7687,31 @@
   "group": "roblox|software engineer foundation ai"
  },
  {
+  "id": "simplify:61daacb8-5db1-4ec7-8473-706c85ee08f5",
+  "company": "TikTok",
+  "title": "Data Scientist Graduate - E-Commerce Governance",
+  "location": "Seattle, WA",
+  "url": "https://lifeattiktok.com/search/7674027218993154357",
+  "category": "ML",
+  "posted": "2026-08-17",
+  "date_posted": 1786972911,
+  "active": false,
+  "first_seen": 1786980001.7232995,
+  "last_seen": 1789802660,
+  "locations": [
+   "Seattle, WA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's"
+  ],
+  "sponsorship": "Other",
+  "group": "tiktok|data scientist graduate e commerce governance",
+  "in_feed": false,
+  "reason": "closed",
+  "closed_at": 1789802660
+ },
+ {
   "id": "simplify:5e2b041d-3b5b-414f-8491-242be06bf425",
   "company": "Applied Intuition",
   "title": "Scenario Engineer New Grad",
@@ -8485,6 +8508,31 @@
   "closed_at": 1787760821,
   "reason": "closed",
   "group": "servicenow|software engineer agentic ai harness quality"
+ },
+ {
+  "id": "simplify:3f94586c-7465-4690-b2fc-6e57482fdcc0",
+  "company": "Microsoft",
+  "title": "Software Development Consultant - Technology Consulting",
+  "location": "Springfield, VA",
+  "url": "https://apply.careers.microsoft.com/careers/job/1970393556857973",
+  "category": "SWE",
+  "posted": "2026-08-05",
+  "date_posted": 1785968012,
+  "active": false,
+  "first_seen": 1785974638.2585025,
+  "last_seen": 1789802660,
+  "locations": [
+   "Springfield, VA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's"
+  ],
+  "sponsorship": "Other",
+  "group": "microsoft|software development consultant technology consulting",
+  "in_feed": false,
+  "reason": "closed",
+  "closed_at": 1789802660
  },
  {
   "id": "simplify:96fb8f30-f721-4712-816d-5a381a92d51f",
@@ -10785,6 +10833,31 @@
   "closed_at": 1785428591,
   "reason": "closed",
   "group": "amazon|data engineer data science focus ads science analysis tech asat"
+ },
+ {
+  "id": "simplify:2cd0f1c9-7c43-41d3-850c-4b74451159f6",
+  "company": "Amazon",
+  "title": "Software Development Engineer - AWS Glue",
+  "location": "Bellevue, WA",
+  "url": "https://amazon.jobs/en/jobs/10459443/software-development-engineer-aws-glue",
+  "category": "SWE",
+  "posted": "2026-06-26",
+  "date_posted": 1782436004,
+  "active": false,
+  "first_seen": 1788483176.4737847,
+  "last_seen": 1789802660,
+  "locations": [
+   "Bellevue, WA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's"
+  ],
+  "sponsorship": "Other",
+  "group": "amazon|software development engineer aws glue",
+  "in_feed": false,
+  "reason": "closed",
+  "closed_at": 1789802660
  },
  {
   "id": "simplify:2c2aafd9-d2b4-4c8e-a730-7169cb5ae715",

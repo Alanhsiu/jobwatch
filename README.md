@@ -8,7 +8,7 @@ sync between devices through this repo. No servers, no database, no cost — a p
 bot token. This repo's tracker: **[alanhsiu.github.io/jobwatch](https://alanhsiu.github.io/jobwatch/)** (a fork gets its own at `https://<owner>.github.io/<repo>/`).
 
 <!-- JOBS:HEAD:START -->
-_285 open new-grad roles at 56 companies · list last changed 2026-09-18 · scans every ~2 h_ · **[Open the tracker](https://alanhsiu.github.io/jobwatch/)** · [Full list ↓](#current-roles) · TikTok 103 · ByteDance 36 · Palantir 10 · Amazon 8 · Apple 8 · Anduril 6 · NVIDIA 6 · Old Mission 6 · …
+_285 open new-grad roles at 57 companies · list last changed 2026-09-19 · scans every ~2 h_ · **[Open the tracker](https://alanhsiu.github.io/jobwatch/)** · [Full list ↓](#current-roles) · TikTok 103 · ByteDance 36 · Palantir 10 · Apple 8 · Amazon 7 · Anduril 6 · NVIDIA 6 · Old Mission 6 · …
 <!-- JOBS:HEAD:END -->
 
 ## How it works
@@ -207,15 +207,14 @@ and `.nojekyll` into `docs/`, set Pages to `/docs`, and give every device a toke
 <details>
 <summary>TikTok (103)</summary>
 
+- [Machine Learning Engineer Graduate - E-Commerce Recommendation Video](https://lifeattiktok.com/search/7686999927260105013) · [2](https://lifeattiktok.com/search/7678145401619237173) — San Jose, CA; Seattle, WA · posted 2026-09-18 · ML · BS
 - [Data Engineer Graduate](https://lifeattiktok.com/search/7681779180341709109) — San Jose, CA · posted 2026-09-07 · ML · BS/MS
 - [Machine Learning Engineer Graduate - E-Commerce Knowledge Graph](https://lifeattiktok.com/search/7679156878833682693) — San Jose, CA · posted 2026-08-29 · ML · BS/MS
-- [Machine Learning Engineer Graduate - E-Commerce Recommendation Video](https://lifeattiktok.com/search/7678145401619237173) — Seattle, WA · posted 2026-08-27 · ML · BS
 - [Data Engineer Graduate - Data Platform E-commerce](https://lifeattiktok.com/search/7676253726624024837) — San Jose, CA · posted 2026-08-26 · ML · BS/MS
 - [Data Engineer Graduate - Data Platform Global Live](https://lifeattiktok.com/search/7678120538997098805) · [2](https://lifeattiktok.com/search/7675484418022181173) — San Jose, CA · posted 2026-08-26 · ML · BS/MS
 - [Machine Learning Engineer Graduate - E-Commerce Supply Chain & Logistics](https://lifeattiktok.com/search/7675843332462872885) · [2](https://lifeattiktok.com/search/7675844938504702213) — Seattle, WA; San Jose, CA · posted 2026-08-20 · ML · BS/MS
 - [Graduate Software Engineer - TikTok Search Data Infra](https://lifeattiktok.com/search/7675829388634392837) — San Jose, CA · posted 2026-08-20 · SWE · BS/MS
 - [Machine Learning Engineer Graduate - E-Commerce Governance](https://lifeattiktok.com/search/7674023327725373701) · [2](https://lifeattiktok.com/search/7674025781001062709) — San Jose, CA; Seattle, WA · posted 2026-08-17 · ML · BS/MS
-- [Data Scientist Graduate - E-Commerce Governance](https://lifeattiktok.com/search/7674027218993154357) — Seattle, WA · posted 2026-08-17 · ML · BS
 - [Data Scientist Graduate - Multimedia](https://lifeattiktok.com/search/7673672141010815237) · [2](https://lifeattiktok.com/search/7670288355678177589) — San Jose, CA · posted 2026-08-15 · ML · BS/MS
 - [Software Engineer Graduate - Foundation Platform](https://lifeattiktok.com/search/7673674252889246005) · [2](https://lifeattiktok.com/search/7670276769459456309) — San Jose, CA · posted 2026-08-14 · SWE · BS/MS
 - [Software Engineer Graduate - Ads Infra](https://lifeattiktok.com/search/7673409179353139461) — San Jose, CA · posted 2026-08-14 · SWE · BS
@@ -345,19 +344,6 @@ and `.nojekyll` into `docs/`, set Pages to `/docs`, and give every device a toke
 
 </details>
 <details open>
-<summary>Amazon (8)</summary>
-
-- [Software Privacy Engineer - Multiple Teams](https://amazon.jobs/en/jobs/10538147/software-privacy-engineer-trust-platform-automation-devices-services-trust-privacy-and-accessibility-tpa) — Bellevue, WA · posted 2026-09-12 · SWE · BS
-- [Applied Scientist - Global Risk Intelligence and Prevention - Seller Abuse Prevention](https://amazon.jobs/en/jobs/10528088/applied-scientist-global-risk-intelligence-and-prevention-seller-abuse-prevention) — Seattle, WA · posted 2026-09-03 · ML · MS/PhD
-- [Robotics System Development Engineer](https://amazon.jobs/en/jobs/10523031/robotics-system-development-engineer) — Austin, TX · posted 2026-09-01 · SWE · BS
-- [Software Development Engineer - Amazon Leo](https://amazon.jobs/en/jobs/10513110/software-development-engineer-amazon-leo-early-career-2026) — Redmond, WA, Northridge, LA · posted 2026-08-25 · SWE · BS/MS
-- [EFA Network Software Engineer 1 - Annapurna Labs](https://amazon.jobs/en/jobs/10481932/efa-network-software-engineer-i-annapurna-labs) — Seattle, WA · posted 2026-07-22 · SWE · BS/MS
-- [Software Development Engineer - Military Veterans](https://amazon.jobs/en/jobs/3179205/software-development-engineer-military-veterans) — Seattle, WA, Redmond, WA, Arlington, VA · posted 2026-07-14 · SWE · BS
-- [Software Development Engineer - AWS Glue](https://amazon.jobs/en/jobs/10459443/software-development-engineer-aws-glue) — Bellevue, WA · posted 2026-06-26 · SWE · BS
-- [Software Development Engineer](https://amazon.jobs/en/jobs/3177934/software-development-engineer-2026-us) — Seattle, WA · posted 2026-05-04 · SWE · BS
-
-</details>
-<details open>
 <summary>Apple (8)</summary>
 
 - [Systems Software Engineer](https://jobs.apple.com/en-us/details/200683808) — San Diego, CA · posted 2026-09-15 · SWE · BS
@@ -368,6 +354,18 @@ and `.nojekyll` into `docs/`, set Pages to `/docs`, and give every device a toke
 - [Frontend Engineer](https://jobs.apple.com/en-us/details/200676168) — Austin, TX · posted 2026-08-10 · SWE · BS
 - [Cellular Power Optimization Software Engineer - Wireless Technologies & Ecosystems](https://jobs.apple.com/en-us/details/200657382) — San Diego, CA · posted 2026-07-31 · HW · BS/MS
 - [Software Engineer Silicon Engineering Documentation Tools](https://jobs.apple.com/en-us/details/200661584) — Lafayette, KS · posted 2026-05-06 · SWE
+
+</details>
+<details open>
+<summary>Amazon (7)</summary>
+
+- [Software Privacy Engineer - Multiple Teams](https://amazon.jobs/en/jobs/10538147/software-privacy-engineer-trust-platform-automation-devices-services-trust-privacy-and-accessibility-tpa) — Bellevue, WA · posted 2026-09-12 · SWE · BS
+- [Applied Scientist - Global Risk Intelligence and Prevention - Seller Abuse Prevention](https://amazon.jobs/en/jobs/10528088/applied-scientist-global-risk-intelligence-and-prevention-seller-abuse-prevention) — Seattle, WA · posted 2026-09-03 · ML · MS/PhD
+- [Robotics System Development Engineer](https://amazon.jobs/en/jobs/10523031/robotics-system-development-engineer) — Austin, TX · posted 2026-09-01 · SWE · BS
+- [Software Development Engineer - Amazon Leo](https://amazon.jobs/en/jobs/10513110/software-development-engineer-amazon-leo-early-career-2026) — Redmond, WA, Northridge, LA · posted 2026-08-25 · SWE · BS/MS
+- [EFA Network Software Engineer 1 - Annapurna Labs](https://amazon.jobs/en/jobs/10481932/efa-network-software-engineer-i-annapurna-labs) — Seattle, WA · posted 2026-07-22 · SWE · BS/MS
+- [Software Development Engineer - Military Veterans](https://amazon.jobs/en/jobs/3179205/software-development-engineer-military-veterans) — Seattle, WA, Redmond, WA, Arlington, VA · posted 2026-07-14 · SWE · BS
+- [Software Development Engineer](https://amazon.jobs/en/jobs/3177934/software-development-engineer-2026-us) — Seattle, WA · posted 2026-05-04 · SWE · BS
 
 </details>
 <details open>
@@ -506,18 +504,16 @@ and `.nojekyll` into `docs/`, set Pages to `/docs`, and give every device a toke
 
 </details>
 <details open>
-<summary>Microsoft (3)</summary>
-
-- [Software Engineer - CoreAI](https://apply.careers.microsoft.com/careers/job/1970393556989020) — Redmond, WA · posted 2026-09-11 · SWE · BS/MS
-- [Software Development Consultant - Technology Consulting](https://apply.careers.microsoft.com/careers/job/1970393556857973) — Springfield, VA · posted 2026-08-05 · SWE · BS
-- [Software Engineer - Ctj - Poly](https://apply.careers.microsoft.com/careers/job/1970393556860973) — Annapolis Junction, MD, Reston, VA · posted 2026-06-18 · SWE · BS
-
-</details>
-<details open>
 <summary>Optiver (3)</summary>
 
 - [Equity Analyst New Grad](https://www.optiver.com/join-us/jobs/8616003002/?gh_jid=8616003002) — Chicago, IL · posted 2026-07-21 · Quant · BS/MS
 - [Graduate Software Engineer](https://www.optiver.com/join-us/jobs/8401042002/?gh_jid=8401042002) · [2](https://www.optiver.com/join-us/jobs/8604899002/?gh_jid=8604899002) — Chicago, IL; Austin, TX · posted 2026-07-01 · SWE · BS/MS/PhD
+
+</details>
+<details open>
+<summary>Wolverine Trading (3)</summary>
+
+- [Entry Level C++ Software Engineer](https://wolve.pinpointhq.com/en/postings/2b2e514b-4709-4897-960d-77909fe33ab8?ats=pinpointhq) · [2](https://wolve.pinpointhq.com/en/postings/1f33c89b-2592-498d-b45a-1b2092cf944e?ats=pinpointhq) · [3](https://wolve.pinpointhq.com/en/postings/e03d9864-a128-40ff-91b5-dfc9fd1b59d6?ats=pinpointhq) — Chicago, IL · posted 2026-09-18 · SWE · BS/MS
 
 </details>
 <details open>
@@ -563,6 +559,13 @@ and `.nojekyll` into `docs/`, set Pages to `/docs`, and give every device a toke
 
 </details>
 <details open>
+<summary>Microsoft (2)</summary>
+
+- [Software Engineer - CoreAI](https://apply.careers.microsoft.com/careers/job/1970393556989020) — Redmond, WA · posted 2026-09-11 · SWE · BS/MS
+- [Software Engineer - Ctj - Poly](https://apply.careers.microsoft.com/careers/job/1970393556860973) — Annapolis Junction, MD, Reston, VA · posted 2026-06-18 · SWE · BS
+
+</details>
+<details open>
 <summary>ServiceNow (2)</summary>
 
 - [Software Engineer](https://jobs.smartrecruiters.com/ServiceNow/744000149338366) — West Palm Beach, FL · posted 2026-09-14 · SWE
@@ -588,12 +591,6 @@ and `.nojekyll` into `docs/`, set Pages to `/docs`, and give every device a toke
 
 - [Algorithmic Trader](https://jobs.lever.co/wintermute-trading/28c7e15f-b3a0-48c6-8322-2e9f25371fd0/apply) — London, UK, NYC · posted 2026-09-03 · Quant
 - [Graduate Algorithmic Trader](https://jobs.lever.co/wintermute-trading/d962dc39-8839-4e13-a37a-baba49e52b44/apply) — NYC · posted 2026-09-01 · Quant
-
-</details>
-<details open>
-<summary>Wolverine Trading (2)</summary>
-
-- [Entry Level C++ Software Engineer](https://wolve.pinpointhq.com/en/postings/1f33c89b-2592-498d-b45a-1b2092cf944e?ats=pinpointhq) · [2](https://wolve.pinpointhq.com/en/postings/e03d9864-a128-40ff-91b5-dfc9fd1b59d6?ats=pinpointhq) — Chicago, IL · posted 2026-08-15 · SWE · BS/MS
 
 </details>
 <details open>
@@ -703,6 +700,12 @@ and `.nojekyll` into `docs/`, set Pages to `/docs`, and give every device a toke
 <summary>The Voleon Group (1)</summary>
 
 - [Software Engineer - University Hire 2027](https://jobs.ashbyhq.com/voleon/d732fd5a-ac98-4985-9e60-d1d59f02a66c/application?embed=true) — Berkeley, CA, NYC · posted 2026-08-25 · SWE · BS
+
+</details>
+<details open>
+<summary>Together AI (1)</summary>
+
+- [Software Engineer New Grad](https://job-boards.greenhouse.io/togetherai/jobs/5211582007) — SF · posted 2026-09-18 · SWE · BS
 
 </details>
 <details open>
