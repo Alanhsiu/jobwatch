@@ -9834,10 +9834,9 @@
    "Bachelor's"
   ],
   "sponsorship": "Other",
-  "in_feed": true,
+  "in_feed": false,
   "closed_at": 1789570473,
-  "reason": "untracked",
-  "why": "title",
+  "reason": "closed",
   "group": "microsoft|software engineer 2 senior software engineer commerce platforms"
  },
  {
