@@ -436,31 +436,6 @@
   "reason": null
  },
  {
-  "id": "simplify:a9b5356a-b658-407e-858e-29e74df5f581",
-  "company": "Microsoft",
-  "title": "Software Engineer - CoreAI",
-  "location": "Redmond, WA",
-  "url": "https://apply.careers.microsoft.com/careers/job/1970393556989020",
-  "category": "SWE",
-  "posted": "2026-09-11",
-  "date_posted": 1789109816,
-  "active": true,
-  "first_seen": 1789150052.113976,
-  "last_seen": 1789521191.4314806,
-  "locations": [
-   "Redmond, WA"
-  ],
-  "region": "US",
-  "degrees": [
-   "Bachelor's",
-   "Master's"
-  ],
-  "sponsorship": "Other",
-  "group": "microsoft|software engineer coreai",
-  "in_feed": true,
-  "reason": null
- },
- {
   "id": "simplify:8f1666d8-5267-460a-9e6f-0b622ef9f60d",
   "company": "Anysphere",
   "title": "Software Engineer New Grad - 2027",
@@ -7057,6 +7032,32 @@
   "reason": "closed",
   "closed_at": 1789691306,
   "last_seen": 1789691306
+ },
+ {
+  "id": "simplify:a9b5356a-b658-407e-858e-29e74df5f581",
+  "company": "Microsoft",
+  "title": "Software Engineer - CoreAI",
+  "location": "Redmond, WA",
+  "url": "https://apply.careers.microsoft.com/careers/job/1970393556989020",
+  "category": "SWE",
+  "posted": "2026-09-11",
+  "date_posted": 1789109816,
+  "active": false,
+  "first_seen": 1789150052.113976,
+  "last_seen": 1789995658,
+  "locations": [
+   "Redmond, WA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "microsoft|software engineer coreai",
+  "in_feed": false,
+  "reason": "closed",
+  "closed_at": 1789995658
  },
  {
   "id": "simplify:4e247e53-0b37-4a1a-a541-dbeed089bfe1",

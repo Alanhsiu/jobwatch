@@ -8,7 +8,7 @@ sync between devices through this repo. No servers, no database, no cost — a p
 bot token. This repo's tracker: **[alanhsiu.github.io/jobwatch](https://alanhsiu.github.io/jobwatch/)** (a fork gets its own at `https://<owner>.github.io/<repo>/`).
 
 <!-- JOBS:HEAD:START -->
-_285 open new-grad roles at 57 companies · list last changed 2026-09-19 · scans every ~2 h_ · **[Open the tracker](https://alanhsiu.github.io/jobwatch/)** · [Full list ↓](#current-roles) · TikTok 103 · ByteDance 36 · Palantir 10 · Apple 8 · Amazon 7 · Anduril 6 · NVIDIA 6 · Old Mission 6 · …
+_284 open new-grad roles at 57 companies · list last changed 2026-09-21 · scans every ~2 h_ · **[Open the tracker](https://alanhsiu.github.io/jobwatch/)** · [Full list ↓](#current-roles) · TikTok 103 · ByteDance 36 · Palantir 10 · Apple 8 · Amazon 7 · Anduril 6 · NVIDIA 6 · Old Mission 6 · …
 <!-- JOBS:HEAD:END -->
 
 ## How it works
@@ -559,13 +559,6 @@ and `.nojekyll` into `docs/`, set Pages to `/docs`, and give every device a toke
 
 </details>
 <details open>
-<summary>Microsoft (2)</summary>
-
-- [Software Engineer - CoreAI](https://apply.careers.microsoft.com/careers/job/1970393556989020) — Redmond, WA · posted 2026-09-11 · SWE · BS/MS
-- [Software Engineer - Ctj - Poly](https://apply.careers.microsoft.com/careers/job/1970393556860973) — Annapolis Junction, MD, Reston, VA · posted 2026-06-18 · SWE · BS
-
-</details>
-<details open>
 <summary>ServiceNow (2)</summary>
 
 - [Software Engineer](https://jobs.smartrecruiters.com/ServiceNow/744000149338366) — West Palm Beach, FL · posted 2026-09-14 · SWE
@@ -658,6 +651,12 @@ and `.nojekyll` into `docs/`, set Pages to `/docs`, and give every device a toke
 <summary>Man Group (1)</summary>
 
 - [Risk & Performance Analyst](https://job-boards.eu.greenhouse.io/mangroup/jobs/4958874101) — Boston, MA · posted 2026-08-27 · ML
+
+</details>
+<details open>
+<summary>Microsoft (1)</summary>
+
+- [Software Engineer - Ctj - Poly](https://apply.careers.microsoft.com/careers/job/1970393556860973) — Annapolis Junction, MD, Reston, VA · posted 2026-06-18 · SWE · BS
 
 </details>
 <details open>
