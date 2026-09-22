@@ -1,5 +1,53 @@
 [
  {
+  "id": "simplify:5b6d1005-f538-4163-bdf8-2fc73e2db74e",
+  "first_seen": 1790053753,
+  "company": "Apple",
+  "title": "Firmware Engineer - HID Bluetooth",
+  "location": "Cupertino, CA",
+  "url": "https://jobs.apple.com/en-us/details/200684986",
+  "category": "HW",
+  "posted": "2026-09-22",
+  "date_posted": 1790039268,
+  "active": true,
+  "locations": [
+   "Cupertino, CA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's"
+  ],
+  "sponsorship": "Other",
+  "group": "apple|firmware engineer hid bluetooth",
+  "in_feed": true,
+  "reason": null
+ },
+ {
+  "id": "simplify:b21c6ecc-b04d-4db0-9eff-e6b06b5b1212",
+  "first_seen": 1790053753,
+  "company": "NVIDIA",
+  "title": "Compiler Engineer - Agentic Compilation Systems",
+  "location": "Santa Clara, CA",
+  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Compiler-Engineer--Agentic-Compilation-Systems---New-College-Grad-2027_JR2026218",
+  "category": "SWE",
+  "posted": "2026-09-21",
+  "date_posted": 1789948800,
+  "active": true,
+  "locations": [
+   "Santa Clara, CA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's",
+   "PhD"
+  ],
+  "sponsorship": "Other",
+  "group": "nvidia|compiler engineer agentic compilation systems",
+  "in_feed": true,
+  "reason": null
+ },
+ {
   "id": "simplify:a339dae3-c079-4987-a6be-c0b863c83fb6",
   "first_seen": 1789802660,
   "company": "TikTok",
@@ -92,33 +140,6 @@
   ],
   "sponsorship": "Other",
   "group": "stripe|software engineer early career immediate start",
-  "in_feed": true,
-  "reason": null
- },
- {
-  "id": "simplify:73283e9c-7252-4ace-89b5-c548e7e25e82",
-  "first_seen": 1789691306,
-  "company": "NVIDIA",
-  "title": "AI Compiler Engineer New Grad",
-  "location": "Seattle, WA, Pennsylvania, Santa Clara, CA",
-  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/AI-Compiler-Engineer--New-College-Grad-2027_JR2026011",
-  "category": "SWE",
-  "posted": "2026-09-17",
-  "date_posted": 1789603200,
-  "active": true,
-  "locations": [
-   "Seattle, WA",
-   "Pennsylvania",
-   "Santa Clara, CA"
-  ],
-  "region": "US",
-  "degrees": [
-   "Bachelor's",
-   "Master's",
-   "PhD"
-  ],
-  "sponsorship": "Other",
-  "group": "nvidia|ai compiler engineer new grad",
   "in_feed": true,
   "reason": null
  },
@@ -6286,32 +6307,6 @@
   "reason": null
  },
  {
-  "id": "simplify:1b9c1f91-ca52-4298-9890-c44895c6b362",
-  "company": "Airbnb",
-  "title": "Machine Learning Engineer - Relevance and Personalization",
-  "location": "Remote in USA",
-  "url": "https://careers.airbnb.com/positions/7708224?gh_jid=7708224",
-  "category": "ML",
-  "posted": "2026-07-02",
-  "date_posted": 1782955028,
-  "active": true,
-  "first_seen": 1784650787.3893838,
-  "last_seen": 1788286002.979027,
-  "in_feed": true,
-  "reason": null,
-  "group": "airbnb|machine learning engineer relevance and personalization",
-  "locations": [
-   "Remote in USA"
-  ],
-  "region": "US",
-  "degrees": [
-   "Bachelor's",
-   "Master's",
-   "PhD"
-  ],
-  "sponsorship": "Other"
- },
- {
   "id": "simplify:1c8d5fb4-7d30-4fff-adcc-7926baadf184",
   "company": "IMC Trading",
   "title": "Graduate Software Engineer",
@@ -7006,6 +7001,35 @@
   "group": "schonfeld|market data analyst",
   "in_feed": true,
   "reason": null
+ },
+ {
+  "id": "simplify:73283e9c-7252-4ace-89b5-c548e7e25e82",
+  "first_seen": 1789691306,
+  "company": "NVIDIA",
+  "title": "AI Compiler Engineer New Grad",
+  "location": "Seattle, WA, Pennsylvania, Santa Clara, CA",
+  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/AI-Compiler-Engineer--New-College-Grad-2027_JR2026011",
+  "category": "SWE",
+  "posted": "2026-09-17",
+  "date_posted": 1789603200,
+  "active": false,
+  "locations": [
+   "Seattle, WA",
+   "Pennsylvania",
+   "Santa Clara, CA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's",
+   "PhD"
+  ],
+  "sponsorship": "Other",
+  "group": "nvidia|ai compiler engineer new grad",
+  "in_feed": false,
+  "reason": "closed",
+  "closed_at": 1790053753,
+  "last_seen": 1790053753
  },
  {
   "id": "simplify:a47dfc85-2d9a-4cad-9a29-0c244dc1a46e",
@@ -10449,6 +10473,33 @@
   "closed_at": 1784765156,
   "reason": "closed",
   "group": "salesforce|software engineering mts salesforce engineer"
+ },
+ {
+  "id": "simplify:1b9c1f91-ca52-4298-9890-c44895c6b362",
+  "company": "Airbnb",
+  "title": "Machine Learning Engineer - Relevance and Personalization",
+  "location": "Remote in USA",
+  "url": "https://careers.airbnb.com/positions/7708224?gh_jid=7708224",
+  "category": "ML",
+  "posted": "2026-07-02",
+  "date_posted": 1782955028,
+  "active": false,
+  "first_seen": 1784650787.3893838,
+  "last_seen": 1790053753,
+  "in_feed": false,
+  "reason": "closed",
+  "group": "airbnb|machine learning engineer relevance and personalization",
+  "locations": [
+   "Remote in USA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's",
+   "PhD"
+  ],
+  "sponsorship": "Other",
+  "closed_at": 1790053753
  },
  {
   "id": "simplify:c672badc-9657-46ee-bfdf-c31ec6e4308c",

@@ -4,28 +4,28 @@
  "repo": "Alanhsiu/jobwatch",
  "branch": "main",
  "pages_url": "https://alanhsiu.github.io/jobwatch/",
- "last_run": 1790019271,
- "last_change": 1790019271,
+ "last_run": 1790053753,
+ "last_change": 1790053753,
  "last_result": "ok",
  "feed": {
-  "records": 19948,
-  "active": 3075,
-  "fetched_at": 1790019271,
+  "records": 19982,
+  "active": 3092,
+  "fetched_at": 1790053753,
   "attempts": 1
  },
  "counts": {
   "active": 284,
-  "closed": 174,
+  "closed": 176,
   "untracked": 71,
   "groups": 248,
-  "companies": 57,
-  "new_this_run": 0,
+  "companies": 56,
+  "new_this_run": 2,
   "silent_known_this_run": 0,
-  "closed_this_run": 0,
+  "closed_this_run": 2,
   "untracked_this_run": 0
  },
  "rejects": {
-  "category": 114,
+  "category": 113,
   "phd": 174,
   "title": 21,
   "region": 43,
@@ -42,11 +42,9 @@
    "denied": 0
   },
   "airbnb": {
-   "active": 1,
+   "active": 0,
    "all_time": 1,
-   "names": [
-    "Airbnb"
-   ],
+   "names": [],
    "denied": 0
   },
   "akuna": {
@@ -88,8 +86,8 @@
    "denied": 0
   },
   "apple": {
-   "active": 8,
-   "all_time": 25,
+   "active": 9,
+   "all_time": 26,
    "names": [
     "Apple"
    ],
@@ -586,7 +584,7 @@
   },
   "nvidia": {
    "active": 6,
-   "all_time": 20,
+   "all_time": 21,
    "names": [
     "NVIDIA"
    ],
@@ -1006,8 +1004,8 @@
   }
  },
  "telegram": {
-  "mode": "none",
-  "delivered": 0,
+  "mode": "sent",
+  "delivered": 2,
   "failed_chunks": 0,
   "creds": true
  },
