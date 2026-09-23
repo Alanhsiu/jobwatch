@@ -2614,34 +2614,6 @@
   "reason": null
  },
  {
-  "id": "simplify:b62dcf53-f9ca-48c0-aeea-39de27c89b8f",
-  "company": "Adobe",
-  "title": "Photoshop Developer - GPU/Imaging",
-  "location": "Seattle, WA, SF, San Jose, CA",
-  "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Francisco/Photoshop-Developer--GPU-Imaging_R171014",
-  "category": "SWE",
-  "posted": "2026-08-11",
-  "date_posted": 1786406400,
-  "active": true,
-  "first_seen": 1786550092.4299686,
-  "last_seen": 1789521191.4314806,
-  "locations": [
-   "Seattle, WA",
-   "SF",
-   "San Jose, CA",
-   "NYC"
-  ],
-  "region": "US",
-  "degrees": [
-   "Bachelor's",
-   "Master's"
-  ],
-  "sponsorship": "Other",
-  "group": "adobe|photoshop developer gpu imaging",
-  "in_feed": true,
-  "reason": null
- },
- {
   "id": "simplify:6ecd2227-64fc-4d77-99bb-158081023302",
   "company": "Apple",
   "title": "Frontend Engineer",
@@ -5394,32 +5366,6 @@
   "reason": null
  },
  {
-  "id": "simplify:935d5e2a-2962-45cf-b6cc-08183fc2b835",
-  "first_seen": 1789621243,
-  "company": "NVIDIA",
-  "title": "GPU Architecture Engineer New Grad",
-  "location": "Austin, TX, Santa Clara, CA, Durham, NC",
-  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/GPU-Architecture-Engineer---New-College-Grad-2026_JR2021615",
-  "category": "HW",
-  "posted": "2026-07-21",
-  "date_posted": 1784592000,
-  "active": true,
-  "locations": [
-   "Austin, TX",
-   "Santa Clara, CA",
-   "Durham, NC"
-  ],
-  "region": "US",
-  "degrees": [
-   "Master's",
-   "PhD"
-  ],
-  "sponsorship": "Other",
-  "group": "nvidia|gpu architecture engineer new grad",
-  "in_feed": true,
-  "reason": null
- },
- {
   "id": "simplify:3ace8680-5997-4467-ad7e-82ecc656e241",
   "company": "Five Rings Capital",
   "title": "Campus Full Time - Software Developer",
@@ -8084,6 +8030,35 @@
   "group": "bytedance|software engineer graduate aml engine orchestration"
  },
  {
+  "id": "simplify:b62dcf53-f9ca-48c0-aeea-39de27c89b8f",
+  "company": "Adobe",
+  "title": "Photoshop Developer - GPU/Imaging",
+  "location": "Seattle, WA, SF, San Jose, CA",
+  "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Francisco/Photoshop-Developer--GPU-Imaging_R171014",
+  "category": "SWE",
+  "posted": "2026-08-11",
+  "date_posted": 1786406400,
+  "active": false,
+  "first_seen": 1786550092.4299686,
+  "last_seen": 1790124150,
+  "locations": [
+   "Seattle, WA",
+   "SF",
+   "San Jose, CA",
+   "NYC"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "adobe|photoshop developer gpu imaging",
+  "in_feed": false,
+  "reason": "closed",
+  "closed_at": 1790124150
+ },
+ {
   "id": "simplify:42eb9963-840a-46d6-96fd-975e596c839f",
   "company": "ByteDance",
   "title": "Software Engineer Graduate - AML Engine Orchestration - 2027 Start",
@@ -9730,6 +9705,34 @@
   "reason": "untracked",
   "why": "title",
   "group": "tesla|data collection operator optimus"
+ },
+ {
+  "id": "simplify:935d5e2a-2962-45cf-b6cc-08183fc2b835",
+  "first_seen": 1789621243,
+  "company": "NVIDIA",
+  "title": "GPU Architecture Engineer New Grad",
+  "location": "Austin, TX, Santa Clara, CA, Durham, NC",
+  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/GPU-Architecture-Engineer---New-College-Grad-2026_JR2021615",
+  "category": "HW",
+  "posted": "2026-07-21",
+  "date_posted": 1784592000,
+  "active": false,
+  "locations": [
+   "Austin, TX",
+   "Santa Clara, CA",
+   "Durham, NC"
+  ],
+  "region": "US",
+  "degrees": [
+   "Master's",
+   "PhD"
+  ],
+  "sponsorship": "Other",
+  "group": "nvidia|gpu architecture engineer new grad",
+  "in_feed": false,
+  "reason": "closed",
+  "closed_at": 1790124150,
+  "last_seen": 1790124150
  },
  {
   "id": "simplify:c57ba1d3-0591-408a-a691-b05626be84f0",
