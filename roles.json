@@ -1,5 +1,99 @@
 [
  {
+  "id": "simplify:39e6bebf-6cf0-4612-982e-5fd9d4af764d",
+  "first_seen": 1790149819,
+  "company": "TikTok",
+  "title": "Ecosystem Analyst Graduate - LLM/Enforcement - TikTok Live",
+  "location": "LA",
+  "url": "https://lifeattiktok.com/search/7687813753283332357",
+  "category": "ML",
+  "posted": "2026-09-23",
+  "date_posted": 1790144306,
+  "active": true,
+  "locations": [
+   "LA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's"
+  ],
+  "sponsorship": "Other",
+  "group": "tiktok|ecosystem analyst graduate llm enforcement tiktok live",
+  "in_feed": true,
+  "reason": null
+ },
+ {
+  "id": "simplify:797457af-9c7f-488f-af3b-d623ab5051d0",
+  "first_seen": 1790149819,
+  "company": "TikTok",
+  "title": "Ecosystem Analyst Graduate - TikTok LIVE",
+  "location": "LA",
+  "url": "https://lifeattiktok.com/search/7687814085886527797",
+  "category": "ML",
+  "posted": "2026-09-23",
+  "date_posted": 1790144306,
+  "active": true,
+  "locations": [
+   "LA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's"
+  ],
+  "sponsorship": "Other",
+  "group": "tiktok|ecosystem analyst graduate tiktok live",
+  "in_feed": true,
+  "reason": null
+ },
+ {
+  "id": "simplify:8afcea8a-f2ea-4939-a079-70873c2a97db",
+  "first_seen": 1790149819,
+  "company": "Microsoft",
+  "title": "Software Engineer - Cleared",
+  "location": "Reston, VA",
+  "url": "https://apply.careers.microsoft.com/careers/job/1970393556982911",
+  "category": "SWE",
+  "posted": "2026-09-23",
+  "date_posted": 1790125610,
+  "active": true,
+  "locations": [
+   "Reston, VA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "microsoft|software engineer cleared",
+  "in_feed": true,
+  "reason": null
+ },
+ {
+  "id": "simplify:571da82a-c8c1-4683-bcd8-35ce56fdb8c4",
+  "first_seen": 1790149819,
+  "company": "Anduril",
+  "title": "Early Career Firmware Engineer",
+  "location": "Costa Mesa, CA",
+  "url": "https://boards.greenhouse.io/andurilindustries/jobs/5246141007",
+  "category": "HW",
+  "posted": "2026-09-22",
+  "date_posted": 1790115358,
+  "active": true,
+  "locations": [
+   "Costa Mesa, CA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "anduril|early career firmware engineer",
+  "in_feed": true,
+  "reason": null
+ },
+ {
   "id": "simplify:5b6d1005-f538-4163-bdf8-2fc73e2db74e",
   "first_seen": 1790053753,
   "company": "Apple",
@@ -23,27 +117,27 @@
   "reason": null
  },
  {
-  "id": "simplify:b21c6ecc-b04d-4db0-9eff-e6b06b5b1212",
-  "first_seen": 1790053753,
-  "company": "NVIDIA",
-  "title": "Compiler Engineer - Agentic Compilation Systems",
-  "location": "Santa Clara, CA",
-  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Compiler-Engineer--Agentic-Compilation-Systems---New-College-Grad-2027_JR2026218",
+  "id": "simplify:b2627976-395e-42cd-8612-f81fe8d44b30",
+  "first_seen": 1790149819,
+  "company": "Adobe",
+  "title": "AI Forward Deployed Engineer",
+  "location": "SF, San Jose, CA",
+  "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Francisco/XMLNAME-2027-University-Graduate---AI-Forward-Deployed-Engineer_R172018",
   "category": "SWE",
-  "posted": "2026-09-21",
-  "date_posted": 1789948800,
+  "posted": "2026-09-22",
+  "date_posted": 1790035200,
   "active": true,
   "locations": [
-   "Santa Clara, CA"
+   "SF",
+   "San Jose, CA"
   ],
   "region": "US",
   "degrees": [
    "Bachelor's",
-   "Master's",
-   "PhD"
+   "Master's"
   ],
   "sponsorship": "Other",
-  "group": "nvidia|compiler engineer agentic compilation systems",
+  "group": "adobe|ai forward deployed engineer",
   "in_feed": true,
   "reason": null
  },
@@ -142,6 +236,31 @@
   "group": "stripe|software engineer early career immediate start",
   "in_feed": true,
   "reason": null
+ },
+ {
+  "id": "simplify:a47dfc85-2d9a-4cad-9a29-0c244dc1a46e",
+  "first_seen": 1789621243,
+  "company": "Tower Research Capital",
+  "title": "Data Analyst - Data",
+  "location": "NYC",
+  "url": "https://www.tower-research.com/open-positions/?gh_jid=8167234",
+  "category": "ML",
+  "posted": "2026-09-16",
+  "date_posted": 1789598875,
+  "active": true,
+  "locations": [
+   "NYC"
+  ],
+  "region": "US",
+  "degrees": [
+   "Master's",
+   "PhD"
+  ],
+  "sponsorship": "Other",
+  "group": "tower research capital|data analyst data",
+  "in_feed": true,
+  "reason": null,
+  "last_seen": 1789691306
  },
  {
   "id": "simplify:3b44169c-ba6c-47f8-8693-6dee8ef6bb65",
@@ -353,31 +472,6 @@
   ],
   "sponsorship": "Other",
   "group": "atlassian|software engineer",
-  "in_feed": true,
-  "reason": null
- },
- {
-  "id": "simplify:86cb0b1e-3691-4e3c-a4ec-c65f90643d87",
-  "first_seen": 1789570473,
-  "company": "NVIDIA",
-  "title": "Software Engineer - Coding Agent Harness Engineering",
-  "location": "Remote in USA, Santa Clara, CA",
-  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--Coding-Agent-Harness-Engineering----New-College-Grad-2026_JR2023749",
-  "category": "SWE",
-  "posted": "2026-09-15",
-  "date_posted": 1789430400,
-  "active": true,
-  "locations": [
-   "Remote in USA",
-   "Santa Clara, CA"
-  ],
-  "region": "US",
-  "degrees": [
-   "Bachelor's",
-   "Master's"
-  ],
-  "sponsorship": "Other",
-  "group": "nvidia|software engineer coding agent harness engineering",
   "in_feed": true,
   "reason": null
  },
@@ -6895,6 +6989,33 @@
   "reason": null
  },
  {
+  "id": "simplify:b21c6ecc-b04d-4db0-9eff-e6b06b5b1212",
+  "first_seen": 1790053753,
+  "company": "NVIDIA",
+  "title": "Compiler Engineer - Agentic Compilation Systems",
+  "location": "Santa Clara, CA",
+  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Compiler-Engineer--Agentic-Compilation-Systems---New-College-Grad-2027_JR2026218",
+  "category": "SWE",
+  "posted": "2026-09-21",
+  "date_posted": 1789948800,
+  "active": false,
+  "locations": [
+   "Santa Clara, CA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's",
+   "PhD"
+  ],
+  "sponsorship": "Other",
+  "group": "nvidia|compiler engineer agentic compilation systems",
+  "in_feed": false,
+  "reason": "closed",
+  "closed_at": 1790149819,
+  "last_seen": 1790149819
+ },
+ {
   "id": "simplify:73283e9c-7252-4ace-89b5-c548e7e25e82",
   "first_seen": 1789691306,
   "company": "NVIDIA",
@@ -6924,30 +7045,31 @@
   "last_seen": 1790053753
  },
  {
-  "id": "simplify:a47dfc85-2d9a-4cad-9a29-0c244dc1a46e",
-  "first_seen": 1789621243,
-  "company": "Tower Research Capital",
-  "title": "Data Analyst - Data",
-  "location": "NYC",
-  "url": "https://www.tower-research.com/open-positions/?gh_jid=8167234",
-  "category": "ML",
-  "posted": "2026-09-16",
-  "date_posted": 1789598875,
+  "id": "simplify:86cb0b1e-3691-4e3c-a4ec-c65f90643d87",
+  "first_seen": 1789570473,
+  "company": "NVIDIA",
+  "title": "Software Engineer - Coding Agent Harness Engineering",
+  "location": "Remote in USA, Santa Clara, CA",
+  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--Coding-Agent-Harness-Engineering----New-College-Grad-2026_JR2023749",
+  "category": "SWE",
+  "posted": "2026-09-15",
+  "date_posted": 1789430400,
   "active": false,
   "locations": [
-   "NYC"
+   "Remote in USA",
+   "Santa Clara, CA"
   ],
   "region": "US",
   "degrees": [
-   "Master's",
-   "PhD"
+   "Bachelor's",
+   "Master's"
   ],
   "sponsorship": "Other",
-  "group": "tower research capital|data analyst data",
+  "group": "nvidia|software engineer coding agent harness engineering",
   "in_feed": false,
   "reason": "closed",
-  "closed_at": 1789691306,
-  "last_seen": 1789691306
+  "closed_at": 1790149819,
+  "last_seen": 1790149819
  },
  {
   "id": "simplify:a9b5356a-b658-407e-858e-29e74df5f581",
