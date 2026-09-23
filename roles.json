@@ -5919,33 +5919,6 @@
   "reason": null
  },
  {
-  "id": "simplify:58e0500b-3577-4e69-9d43-b710f8155f10",
-  "company": "NVIDIA",
-  "title": "Backend Compiler Engineer New Grad",
-  "location": "Canada, Santa Clara, CA",
-  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Backend-Compiler-Engineer---New-College-Grad-2026_JR2021242",
-  "category": "SWE",
-  "posted": "2026-07-13",
-  "date_posted": 1783900800,
-  "active": true,
-  "first_seen": 1784014543.6740808,
-  "last_seen": 1789521191.4314806,
-  "locations": [
-   "Canada",
-   "Santa Clara, CA"
-  ],
-  "region": "US",
-  "degrees": [
-   "Bachelor's",
-   "Master's",
-   "PhD"
-  ],
-  "sponsorship": "Other",
-  "group": "nvidia|backend compiler engineer new grad",
-  "in_feed": true,
-  "reason": null
- },
- {
   "id": "simplify:86eec77e-62fa-43bc-a011-1e73aac2d372",
   "company": "Jump Trading",
   "title": "AI Research Engineer",
@@ -10175,6 +10148,34 @@
   "reason": "untracked",
   "why": "phd",
   "group": "hudson river trading|algorithm developer quant researcher"
+ },
+ {
+  "id": "simplify:58e0500b-3577-4e69-9d43-b710f8155f10",
+  "company": "NVIDIA",
+  "title": "Backend Compiler Engineer New Grad",
+  "location": "Canada, Santa Clara, CA",
+  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Backend-Compiler-Engineer---New-College-Grad-2026_JR2021242",
+  "category": "SWE",
+  "posted": "2026-07-13",
+  "date_posted": 1783900800,
+  "active": false,
+  "first_seen": 1784014543.6740808,
+  "last_seen": 1790204407,
+  "locations": [
+   "Canada",
+   "Santa Clara, CA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's",
+   "PhD"
+  ],
+  "sponsorship": "Other",
+  "group": "nvidia|backend compiler engineer new grad",
+  "in_feed": false,
+  "reason": "closed",
+  "closed_at": 1790204407
  },
  {
   "id": "simplify:3280f6de-005d-4216-bc5c-c1052e58d650",
