@@ -1,5 +1,28 @@
 [
  {
+  "id": "simplify:1f43ae17-edcd-41d2-ae22-578b9224a6e9",
+  "first_seen": 1790226183,
+  "company": "Scale AI",
+  "title": "Software Engineer New Grad - Public Sector",
+  "location": "SF",
+  "url": "https://job-boards.greenhouse.io/scaleai/jobs/4736426005",
+  "category": "SWE",
+  "posted": "2026-09-23",
+  "date_posted": 1790202325,
+  "active": true,
+  "locations": [
+   "SF"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's"
+  ],
+  "sponsorship": "Other",
+  "group": "scale ai|software engineer new grad public sector",
+  "in_feed": true,
+  "reason": null
+ },
+ {
   "id": "simplify:39e6bebf-6cf0-4612-982e-5fd9d4af764d",
   "first_seen": 1790149819,
   "company": "TikTok",
@@ -113,31 +136,6 @@
   ],
   "sponsorship": "Other",
   "group": "apple|firmware engineer hid bluetooth",
-  "in_feed": true,
-  "reason": null
- },
- {
-  "id": "simplify:b2627976-395e-42cd-8612-f81fe8d44b30",
-  "first_seen": 1790149819,
-  "company": "Adobe",
-  "title": "AI Forward Deployed Engineer",
-  "location": "SF, San Jose, CA",
-  "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Francisco/XMLNAME-2027-University-Graduate---AI-Forward-Deployed-Engineer_R172018",
-  "category": "SWE",
-  "posted": "2026-09-22",
-  "date_posted": 1790035200,
-  "active": true,
-  "locations": [
-   "SF",
-   "San Jose, CA"
-  ],
-  "region": "US",
-  "degrees": [
-   "Bachelor's",
-   "Master's"
-  ],
-  "sponsorship": "Other",
-  "group": "adobe|ai forward deployed engineer",
   "in_feed": true,
   "reason": null
  },
@@ -6962,6 +6960,33 @@
   "reason": null
  },
  {
+  "id": "simplify:b2627976-395e-42cd-8612-f81fe8d44b30",
+  "first_seen": 1790149819,
+  "company": "Adobe",
+  "title": "AI Forward Deployed Engineer",
+  "location": "SF, San Jose, CA",
+  "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Francisco/XMLNAME-2027-University-Graduate---AI-Forward-Deployed-Engineer_R172018",
+  "category": "SWE",
+  "posted": "2026-09-22",
+  "date_posted": 1790035200,
+  "active": false,
+  "locations": [
+   "SF",
+   "San Jose, CA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "adobe|ai forward deployed engineer",
+  "in_feed": false,
+  "reason": "closed",
+  "closed_at": 1790226183,
+  "last_seen": 1790226183
+ },
+ {
   "id": "simplify:b21c6ecc-b04d-4db0-9eff-e6b06b5b1212",
   "first_seen": 1790053753,
   "company": "NVIDIA",
@@ -10773,10 +10798,9 @@
    "PhD"
   ],
   "sponsorship": "Other",
-  "in_feed": true,
+  "in_feed": false,
   "closed_at": 1789321963,
-  "reason": "untracked",
-  "why": "phd",
+  "reason": "closed",
   "group": "roblox|senior machine learning engineer systems embodied ai npcs"
  },
  {
@@ -10799,10 +10823,9 @@
    "PhD"
   ],
   "sponsorship": "Other",
-  "in_feed": true,
+  "in_feed": false,
   "closed_at": 1789321963,
-  "reason": "untracked",
-  "why": "phd",
+  "reason": "closed",
   "group": "roblox|senior machine learning engineer systems embodied ai npcs"
  },
  {

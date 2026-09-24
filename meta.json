@@ -4,29 +4,29 @@
  "repo": "Alanhsiu/jobwatch",
  "branch": "main",
  "pages_url": "https://alanhsiu.github.io/jobwatch/",
- "last_run": 1790204407,
- "last_change": 1790204407,
+ "last_run": 1790226183,
+ "last_change": 1790226183,
  "last_result": "ok",
  "feed": {
-  "records": 20033,
-  "active": 3078,
-  "fetched_at": 1790204407,
+  "records": 19992,
+  "active": 3102,
+  "fetched_at": 1790226183,
   "attempts": 1
  },
  "counts": {
   "active": 283,
-  "closed": 182,
-  "untracked": 71,
+  "closed": 185,
+  "untracked": 69,
   "groups": 248,
   "companies": 56,
-  "new_this_run": 0,
+  "new_this_run": 1,
   "silent_known_this_run": 0,
   "closed_this_run": 1,
   "untracked_this_run": 0
  },
  "rejects": {
   "category": 114,
-  "phd": 172,
+  "phd": 171,
   "title": 21,
   "region": 44,
   "sponsorship": 0,
@@ -34,7 +34,7 @@
  },
  "keywords": {
   "adobe": {
-   "active": 2,
+   "active": 1,
    "all_time": 8,
    "names": [
     "Adobe"
@@ -749,8 +749,8 @@
    "denied": 0
   },
   "scale ai": {
-   "active": 1,
-   "all_time": 1,
+   "active": 2,
+   "all_time": 2,
    "names": [
     "Scale AI"
    ],
@@ -1004,8 +1004,8 @@
   }
  },
  "telegram": {
-  "mode": "none",
-  "delivered": 0,
+  "mode": "sent",
+  "delivered": 1,
   "failed_chunks": 0,
   "creds": true
  },
