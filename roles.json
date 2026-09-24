@@ -5762,31 +5762,6 @@
   "reason": null
  },
  {
-  "id": "simplify:914a3b9a-ec4f-4ff5-8714-fd060a543f01",
-  "company": "TikTok",
-  "title": "Data Scientist - Multiple Positions",
-  "location": "Culver City, CA",
-  "url": "https://lifeattiktok.com/search/7660649494686976309",
-  "category": "ML",
-  "posted": "2026-07-13",
-  "date_posted": 1783980906,
-  "active": true,
-  "first_seen": 1784014543.6740808,
-  "last_seen": 1789521191.4314806,
-  "locations": [
-   "Culver City, CA"
-  ],
-  "region": "US",
-  "degrees": [
-   "Bachelor's",
-   "Master's"
-  ],
-  "sponsorship": "Other",
-  "group": "tiktok|data scientist multiple positions",
-  "in_feed": true,
-  "reason": null
- },
- {
   "id": "simplify:ba5a942e-be3c-493b-9ef4-bf0dbc07a0ce",
   "company": "Akuna Capital University",
   "title": "Entry Level Software Engineer - C++",
@@ -10173,6 +10148,32 @@
   "reason": "untracked",
   "why": "phd",
   "group": "hudson river trading|algorithm developer quant researcher"
+ },
+ {
+  "id": "simplify:914a3b9a-ec4f-4ff5-8714-fd060a543f01",
+  "company": "TikTok",
+  "title": "Data Scientist - Multiple Positions",
+  "location": "Culver City, CA",
+  "url": "https://lifeattiktok.com/search/7660649494686976309",
+  "category": "ML",
+  "posted": "2026-07-13",
+  "date_posted": 1783980906,
+  "active": false,
+  "first_seen": 1784014543.6740808,
+  "last_seen": 1790285802,
+  "locations": [
+   "Culver City, CA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "tiktok|data scientist multiple positions",
+  "in_feed": false,
+  "reason": "closed",
+  "closed_at": 1790285802
  },
  {
   "id": "simplify:58e0500b-3577-4e69-9d43-b710f8155f10",

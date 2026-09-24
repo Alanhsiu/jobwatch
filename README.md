@@ -8,7 +8,7 @@ sync between devices through this repo. No servers, no database, no cost — a p
 bot token. This repo's tracker: **[alanhsiu.github.io/jobwatch](https://alanhsiu.github.io/jobwatch/)** (a fork gets its own at `https://<owner>.github.io/<repo>/`).
 
 <!-- JOBS:HEAD:START -->
-_283 open new-grad roles at 56 companies · list last changed 2026-09-24 · scans every ~2 h_ · **[Open the tracker](https://alanhsiu.github.io/jobwatch/)** · [Full list ↓](#current-roles) · TikTok 105 · ByteDance 36 · Palantir 10 · Apple 9 · Amazon 7 · Anduril 7 · Old Mission 6 · Akuna Capital University 5 · …
+_282 open new-grad roles at 56 companies · list last changed 2026-09-24 · scans every ~2 h_ · **[Open the tracker](https://alanhsiu.github.io/jobwatch/)** · [Full list ↓](#current-roles) · TikTok 104 · ByteDance 36 · Palantir 10 · Apple 9 · Amazon 7 · Anduril 7 · Old Mission 6 · Akuna Capital University 5 · …
 <!-- JOBS:HEAD:END -->
 
 ## How it works
@@ -205,7 +205,7 @@ and `.nojekyll` into `docs/`, set Pages to `/docs`, and give every device a toke
 ## Current roles
 <!-- JOBS:START -->
 <details>
-<summary>TikTok (105)</summary>
+<summary>TikTok (104)</summary>
 
 - [Ecosystem Analyst Graduate - LLM/Enforcement - TikTok Live](https://lifeattiktok.com/search/7687813753283332357) — LA · posted 2026-09-23 · ML · BS
 - [Ecosystem Analyst Graduate - TikTok LIVE](https://lifeattiktok.com/search/7687814085886527797) — LA · posted 2026-09-23 · ML · BS
@@ -295,7 +295,6 @@ and `.nojekyll` into `docs/`, set Pages to `/docs`, and give every device a toke
 - [Software Engineer/Mobile Engineer New Grad - Ads Core Demonstration](https://lifeattiktok.com/search/7668701834807101749) — San Jose, CA · posted 2026-08-03 · SWE · BS/MS
 - [Software Engineer New Grad - Ads Measurement Signal Technology](https://lifeattiktok.com/search/7668717356843977013) — San Jose, CA · posted 2026-08-03 · SWE · BS/MS
 - [Software Engineer New Grad - Ads Signal & Measurement](https://lifeattiktok.com/search/7668724383120804149) — San Jose, CA · posted 2026-08-03 · SWE · BS/MS
-- [Data Scientist - Multiple Positions](https://lifeattiktok.com/search/7660649494686976309) — Culver City, CA · posted 2026-07-13 · ML · BS/MS
 
 </details>
 <details>
