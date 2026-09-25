@@ -4,28 +4,28 @@
  "repo": "Alanhsiu/jobwatch",
  "branch": "main",
  "pages_url": "https://alanhsiu.github.io/jobwatch/",
- "last_run": 1790285802,
- "last_change": 1790285802,
+ "last_run": 1790296592,
+ "last_change": 1790296592,
  "last_result": "ok",
  "feed": {
-  "records": 19979,
-  "active": 3064,
-  "fetched_at": 1790285802,
+  "records": 19959,
+  "active": 3101,
+  "fetched_at": 1790296592,
   "attempts": 1
  },
  "counts": {
-  "active": 282,
-  "closed": 186,
+  "active": 289,
+  "closed": 184,
   "untracked": 69,
-  "groups": 247,
+  "groups": 253,
   "companies": 56,
-  "new_this_run": 0,
+  "new_this_run": 5,
   "silent_known_this_run": 0,
-  "closed_this_run": 1,
+  "closed_this_run": 0,
   "untracked_this_run": 0
  },
  "rejects": {
-  "category": 114,
+  "category": 115,
   "phd": 172,
   "title": 21,
   "region": 43,
@@ -34,8 +34,8 @@
  },
  "keywords": {
   "adobe": {
-   "active": 1,
-   "all_time": 8,
+   "active": 3,
+   "all_time": 10,
    "names": [
     "Adobe"
    ],
@@ -110,8 +110,8 @@
    "denied": 0
   },
   "atlassian": {
-   "active": 1,
-   "all_time": 1,
+   "active": 3,
+   "all_time": 3,
    "names": [
     "Atlassian"
    ],
@@ -521,8 +521,8 @@
    "denied": 0
   },
   "man group": {
-   "active": 1,
-   "all_time": 2,
+   "active": 2,
+   "all_time": 3,
    "names": [
     "Man Group"
    ],
@@ -735,7 +735,7 @@
    "denied": 0
   },
   "salesforce": {
-   "active": 2,
+   "active": 4,
    "all_time": 6,
    "names": [
     "Salesforce"
@@ -1004,8 +1004,8 @@
   }
  },
  "telegram": {
-  "mode": "none",
-  "delivered": 0,
+  "mode": "sent",
+  "delivered": 5,
   "failed_chunks": 0,
   "creds": true
  },
