@@ -1,5 +1,28 @@
 [
  {
+  "id": "simplify:d3c2d57b-c7ea-4194-ac33-731c72f64420",
+  "first_seen": 1790323085,
+  "company": "Apple",
+  "title": "Software Engineer - Applied AI",
+  "location": "San Diego, CA",
+  "url": "https://jobs.apple.com/en-us/details/200684521",
+  "category": "SWE",
+  "posted": "2026-09-25",
+  "date_posted": 1790298409,
+  "active": true,
+  "locations": [
+   "San Diego, CA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's"
+  ],
+  "sponsorship": "Other",
+  "group": "apple|software engineer applied ai",
+  "in_feed": true,
+  "reason": null
+ },
+ {
   "id": "simplify:74f5d04c-5dd5-4838-8c22-2cef8a0d48c0",
   "first_seen": 1790296592,
   "company": "Man Group",
