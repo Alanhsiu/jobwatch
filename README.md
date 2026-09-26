@@ -8,7 +8,7 @@ sync between devices through this repo. No servers, no database, no cost — a p
 bot token. This repo's tracker: **[alanhsiu.github.io/jobwatch](https://alanhsiu.github.io/jobwatch/)** (a fork gets its own at `https://<owner>.github.io/<repo>/`).
 
 <!-- JOBS:HEAD:START -->
-_288 open new-grad roles at 56 companies · list last changed 2026-09-25 · scans every ~2 h_ · **[Open the tracker](https://alanhsiu.github.io/jobwatch/)** · [Full list ↓](#current-roles) · TikTok 104 · ByteDance 36 · Apple 10 · Palantir 10 · Amazon 7 · Anduril 7 · Old Mission 6 · Akuna Capital University 5 · …
+_289 open new-grad roles at 56 companies · list last changed 2026-09-26 · scans every ~2 h_ · **[Open the tracker](https://alanhsiu.github.io/jobwatch/)** · [Full list ↓](#current-roles) · TikTok 104 · ByteDance 36 · Apple 11 · Palantir 10 · Amazon 7 · Anduril 7 · Old Mission 6 · Akuna Capital University 5 · …
 <!-- JOBS:HEAD:END -->
 
 ## How it works
@@ -335,8 +335,9 @@ and `.nojekyll` into `docs/`, set Pages to `/docs`, and give every device a toke
 
 </details>
 <details open>
-<summary>Apple (10)</summary>
+<summary>Apple (11)</summary>
 
+- [CAD Engineer - Signoff Infrastructure](https://jobs.apple.com/en-us/details/200685871) — Austin, TX, San Jose, CA · posted 2026-09-26 · SWE · BS
 - [Software Engineer - Applied AI](https://jobs.apple.com/en-us/details/200684521) — San Diego, CA · posted 2026-09-25 · SWE · BS
 - [Firmware Engineer - HID Bluetooth](https://jobs.apple.com/en-us/details/200684986) — Cupertino, CA · posted 2026-09-22 · HW · BS
 - [Systems Software Engineer](https://jobs.apple.com/en-us/details/200683808) — San Diego, CA · posted 2026-09-15 · SWE · BS

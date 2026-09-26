@@ -1,5 +1,29 @@
 [
  {
+  "id": "simplify:72f6e435-1060-4700-9b90-48d82c3b1972",
+  "first_seen": 1790399376,
+  "company": "Apple",
+  "title": "CAD Engineer - Signoff Infrastructure",
+  "location": "Austin, TX, San Jose, CA",
+  "url": "https://jobs.apple.com/en-us/details/200685871",
+  "category": "SWE",
+  "posted": "2026-09-26",
+  "date_posted": 1790384785,
+  "active": true,
+  "locations": [
+   "Austin, TX",
+   "San Jose, CA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's"
+  ],
+  "sponsorship": "Other",
+  "group": "apple|cad engineer signoff infrastructure",
+  "in_feed": true,
+  "reason": null
+ },
+ {
   "id": "simplify:d3c2d57b-c7ea-4194-ac33-731c72f64420",
   "first_seen": 1790323085,
   "company": "Apple",
@@ -7247,10 +7271,9 @@
    "Bachelor's"
   ],
   "sponsorship": "Other",
-  "in_feed": true,
+  "in_feed": false,
   "closed_at": 1789570473,
-  "reason": "untracked",
-  "why": "title",
+  "reason": "closed",
   "group": "tesla|senior data engineer datawarehouse service tools"
  },
  {
