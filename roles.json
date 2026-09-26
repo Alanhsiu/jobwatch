@@ -6242,6 +6242,31 @@
   "reason": null
  },
  {
+  "id": "simplify:410b28b6-b357-4b72-9480-bad83701b4cb",
+  "company": "Citadel",
+  "title": "Software Engineer – University Graduate",
+  "location": "Greenwich, CT, Houston, TX, Miami, FL",
+  "url": "https://www.citadel.com/careers/details/software-engineer-university-graduate-us/",
+  "category": "SWE",
+  "posted": "2026-07-06",
+  "date_posted": 1783318138,
+  "active": true,
+  "first_seen": 1784014543.6740808,
+  "last_seen": 1790422466,
+  "locations": [
+   "Greenwich, CT",
+   "Houston, TX",
+   "Miami, FL",
+   "NYC"
+  ],
+  "region": "US",
+  "degrees": [],
+  "sponsorship": "Other",
+  "group": "citadel|software engineer university graduate",
+  "in_feed": true,
+  "reason": null
+ },
+ {
   "id": "simplify:5825825a-af07-4016-acd3-ebb1c85f9d91",
   "company": "Tower Research Capital",
   "title": "Quantitative Trader",
@@ -10585,32 +10610,6 @@
   ],
   "sponsorship": "Other",
   "group": "citadel|quantitative research analyst university graduate",
-  "in_feed": false,
-  "reason": "closed",
-  "closed_at": 1790422466
- },
- {
-  "id": "simplify:410b28b6-b357-4b72-9480-bad83701b4cb",
-  "company": "Citadel",
-  "title": "Software Engineer – University Graduate",
-  "location": "Greenwich, CT, Houston, TX, Miami, FL",
-  "url": "https://www.citadel.com/careers/details/software-engineer-university-graduate-us/",
-  "category": "SWE",
-  "posted": "2026-07-06",
-  "date_posted": 1783318138,
-  "active": false,
-  "first_seen": 1784014543.6740808,
-  "last_seen": 1790422466,
-  "locations": [
-   "Greenwich, CT",
-   "Houston, TX",
-   "Miami, FL",
-   "NYC"
-  ],
-  "region": "US",
-  "degrees": [],
-  "sponsorship": "Other",
-  "group": "citadel|software engineer university graduate",
   "in_feed": false,
   "reason": "closed",
   "closed_at": 1790422466

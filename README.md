@@ -8,7 +8,7 @@ sync between devices through this repo. No servers, no database, no cost — a p
 bot token. This repo's tracker: **[alanhsiu.github.io/jobwatch](https://alanhsiu.github.io/jobwatch/)** (a fork gets its own at `https://<owner>.github.io/<repo>/`).
 
 <!-- JOBS:HEAD:START -->
-_283 open new-grad roles at 55 companies · list last changed 2026-09-26 · scans every ~2 h_ · **[Open the tracker](https://alanhsiu.github.io/jobwatch/)** · [Full list ↓](#current-roles) · TikTok 104 · ByteDance 36 · Apple 11 · Palantir 10 · Amazon 7 · Anduril 7 · Old Mission 6 · Akuna Capital University 5 · …
+_284 open new-grad roles at 56 companies · list last changed 2026-09-26 · scans every ~2 h_ · **[Open the tracker](https://alanhsiu.github.io/jobwatch/)** · [Full list ↓](#current-roles) · TikTok 104 · ByteDance 36 · Apple 11 · Palantir 10 · Amazon 7 · Anduril 7 · Old Mission 6 · Akuna Capital University 5 · …
 <!-- JOBS:HEAD:END -->
 
 ## How it works
@@ -623,6 +623,12 @@ and `.nojekyll` into `docs/`, set Pages to `/docs`, and give every device a toke
 <summary>AQR Capital Management (1)</summary>
 
 - [Trading Analyst](https://careers.aqr.com/jobs?gh_jid=8156709&gh_jid=8156709) — Greenwich, CT · posted 2026-08-25 · Quant · BS/MS
+
+</details>
+<details open>
+<summary>Citadel (1)</summary>
+
+- [Software Engineer – University Graduate](https://www.citadel.com/careers/details/software-engineer-university-graduate-us/) — Greenwich, CT, Houston, TX, Miami, FL · posted 2026-07-06 · SWE
 
 </details>
 <details open>
