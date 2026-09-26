@@ -4,31 +4,31 @@
  "repo": "Alanhsiu/jobwatch",
  "branch": "main",
  "pages_url": "https://alanhsiu.github.io/jobwatch/",
- "last_run": 1790399376,
- "last_change": 1790399376,
+ "last_run": 1790422466,
+ "last_change": 1790422466,
  "last_result": "ok",
  "feed": {
-  "records": 19890,
-  "active": 3104,
-  "fetched_at": 1790399376,
+  "records": 19882,
+  "active": 3085,
+  "fetched_at": 1790422466,
   "attempts": 1
  },
  "counts": {
-  "active": 289,
-  "closed": 187,
+  "active": 283,
+  "closed": 193,
   "untracked": 68,
-  "groups": 254,
-  "companies": 56,
-  "new_this_run": 1,
+  "groups": 248,
+  "companies": 55,
+  "new_this_run": 0,
   "silent_known_this_run": 0,
-  "closed_this_run": 0,
+  "closed_this_run": 6,
   "untracked_this_run": 0
  },
  "rejects": {
   "category": 114,
-  "phd": 172,
+  "phd": 170,
   "title": 21,
-  "region": 43,
+  "region": 41,
   "sponsorship": 0,
   "age": 21
  },
@@ -110,7 +110,7 @@
    "denied": 0
   },
   "atlassian": {
-   "active": 3,
+   "active": 2,
    "all_time": 3,
    "names": [
     "Atlassian"
@@ -204,10 +204,9 @@
    "denied": 0
   },
   "citadel": {
-   "active": 8,
+   "active": 4,
    "all_time": 10,
    "names": [
-    "Citadel",
     "Citadel Securities"
    ],
    "denied": 0
@@ -543,7 +542,7 @@
    "denied": 0
   },
   "microsoft": {
-   "active": 2,
+   "active": 1,
    "all_time": 11,
    "names": [
     "Microsoft"
@@ -1004,8 +1003,8 @@
   }
  },
  "telegram": {
-  "mode": "sent",
-  "delivered": 1,
+  "mode": "none",
+  "delivered": 0,
   "failed_chunks": 0,
   "creds": true
  },

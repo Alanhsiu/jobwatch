@@ -70,30 +70,6 @@
   "reason": null
  },
  {
-  "id": "simplify:f3d76dcb-9751-40d8-ac06-018260f42846",
-  "first_seen": 1790296592,
-  "company": "Atlassian",
-  "title": "Machine Learning Engineer",
-  "location": "Seattle, WA",
-  "url": "https://globalcareers-atlassian.icims.com/jobs/25999/machine-learning-engineer%2c-2027-graduate-u.s./job",
-  "category": "ML",
-  "posted": "2026-09-24",
-  "date_posted": 1790287661,
-  "active": true,
-  "locations": [
-   "Seattle, WA"
-  ],
-  "region": "US",
-  "degrees": [
-   "Bachelor's",
-   "Master's"
-  ],
-  "sponsorship": "Other",
-  "group": "atlassian|machine learning engineer",
-  "in_feed": true,
-  "reason": null
- },
- {
   "id": "simplify:0d1c69d1-e147-4307-a0d9-73744bf4a2cd",
   "first_seen": 1790296592,
   "company": "Atlassian",
@@ -5489,31 +5465,6 @@
   "reason": null
  },
  {
-  "id": "simplify:202582b8-f2ba-49d1-a082-3974fba7627a",
-  "company": "Citadel",
-  "title": "Sector Data Scientist - Central Team",
-  "location": "NYC",
-  "url": "https://www.citadel.com/careers/details/sector-data-scientist-central-team/",
-  "category": "ML",
-  "posted": "2026-07-27",
-  "date_posted": 1785190044,
-  "active": true,
-  "first_seen": 1785197147.0675843,
-  "last_seen": 1789521191.4314806,
-  "locations": [
-   "NYC"
-  ],
-  "region": "US",
-  "degrees": [
-   "Bachelor's",
-   "Master's"
-  ],
-  "sponsorship": "Other",
-  "group": "citadel|sector data scientist central team",
-  "in_feed": true,
-  "reason": null
- },
- {
   "id": "simplify:fabf124a-32b2-45ba-bffe-d3084937296a",
   "company": "Cerebras",
   "title": "Kernel Engineer New Grad",
@@ -6096,30 +6047,6 @@
   "reason": null
  },
  {
-  "id": "simplify:66cb9e6f-2e5e-4fab-be1b-bf612ad91a02",
-  "company": "Citadel",
-  "title": "Quantitative Trader: Equity Quantitative Research – University Graduate",
-  "location": "NYC",
-  "url": "https://www.citadel.com/careers/details/quantitative-trader-equity-quantitative-research-university-graduate-us/",
-  "category": "Quant",
-  "posted": "2026-07-07",
-  "date_posted": 1783433322,
-  "active": true,
-  "first_seen": 1784014543.6740808,
-  "last_seen": 1789521191.4314806,
-  "locations": [
-   "NYC"
-  ],
-  "region": "US",
-  "degrees": [
-   "Bachelor's"
-  ],
-  "sponsorship": "Other",
-  "group": "citadel|quantitative trader equity quantitative research university graduate",
-  "in_feed": true,
-  "reason": null
- },
- {
   "id": "simplify:c0479012-54e4-478d-922f-1948cd356ac4",
   "company": "Cerebras",
   "title": "Software Engineer New Grad",
@@ -6311,58 +6238,6 @@
   ],
   "sponsorship": "Other",
   "group": "citadel securities|quantitative trader university graduate",
-  "in_feed": true,
-  "reason": null
- },
- {
-  "id": "simplify:d724f264-a5fb-4740-bde3-38ab45368cba",
-  "company": "Citadel",
-  "title": "Quantitative Research Analyst University Graduate",
-  "location": "Greenwich, CT, Miami, FL, NYC",
-  "url": "https://www.citadel.com/careers/details/quantitative-research-analyst-university-graduate-us/",
-  "category": "Quant",
-  "posted": "2026-07-06",
-  "date_posted": 1783318148,
-  "active": true,
-  "first_seen": 1784014543.6740808,
-  "last_seen": 1789521191.4314806,
-  "locations": [
-   "Greenwich, CT",
-   "Miami, FL",
-   "NYC"
-  ],
-  "region": "US",
-  "degrees": [
-   "Bachelor's",
-   "Master's"
-  ],
-  "sponsorship": "Other",
-  "group": "citadel|quantitative research analyst university graduate",
-  "in_feed": true,
-  "reason": null
- },
- {
-  "id": "simplify:410b28b6-b357-4b72-9480-bad83701b4cb",
-  "company": "Citadel",
-  "title": "Software Engineer – University Graduate",
-  "location": "Greenwich, CT, Houston, TX, Miami, FL",
-  "url": "https://www.citadel.com/careers/details/software-engineer-university-graduate-us/",
-  "category": "SWE",
-  "posted": "2026-07-06",
-  "date_posted": 1783318138,
-  "active": true,
-  "first_seen": 1784014543.6740808,
-  "last_seen": 1789521191.4314806,
-  "locations": [
-   "Greenwich, CT",
-   "Houston, TX",
-   "Miami, FL",
-   "NYC"
-  ],
-  "region": "US",
-  "degrees": [],
-  "sponsorship": "Other",
-  "group": "citadel|software engineer university graduate",
   "in_feed": true,
   "reason": null
  },
@@ -6805,31 +6680,6 @@
   "reason": null
  },
  {
-  "id": "simplify:a6ab1df3-86d8-42bb-b220-97ec8c92cba2",
-  "company": "Microsoft",
-  "title": "Software Engineer - Ctj - Poly",
-  "location": "Annapolis Junction, MD, Reston, VA",
-  "url": "https://apply.careers.microsoft.com/careers/job/1970393556860973",
-  "category": "SWE",
-  "posted": "2026-06-18",
-  "date_posted": 1781762785,
-  "active": true,
-  "first_seen": 1787182064.903562,
-  "last_seen": 1788227077.285814,
-  "locations": [
-   "Annapolis Junction, MD",
-   "Reston, VA"
-  ],
-  "region": "US",
-  "degrees": [
-   "Bachelor's"
-  ],
-  "sponsorship": "Other",
-  "group": "microsoft|software engineer ctj poly",
-  "in_feed": true,
-  "reason": null
- },
- {
   "id": "simplify:f6f83b45-cf4c-4a3e-8f32-4c64672610a1",
   "company": "Palantir",
   "title": "Forward Deployed Software Engineer New Grad",
@@ -7114,6 +6964,32 @@
   "group": "schonfeld|market data analyst",
   "in_feed": true,
   "reason": null
+ },
+ {
+  "id": "simplify:f3d76dcb-9751-40d8-ac06-018260f42846",
+  "first_seen": 1790296592,
+  "company": "Atlassian",
+  "title": "Machine Learning Engineer",
+  "location": "Seattle, WA",
+  "url": "https://globalcareers-atlassian.icims.com/jobs/25999/machine-learning-engineer%2c-2027-graduate-u.s./job",
+  "category": "ML",
+  "posted": "2026-09-24",
+  "date_posted": 1790287661,
+  "active": false,
+  "locations": [
+   "Seattle, WA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "atlassian|machine learning engineer",
+  "in_feed": false,
+  "reason": "closed",
+  "closed_at": 1790422466,
+  "last_seen": 1790422466
  },
  {
   "id": "simplify:b2627976-395e-42cd-8612-f81fe8d44b30",
@@ -9675,6 +9551,32 @@
   "group": "cruise planners|data ai engineer"
  },
  {
+  "id": "simplify:202582b8-f2ba-49d1-a082-3974fba7627a",
+  "company": "Citadel",
+  "title": "Sector Data Scientist - Central Team",
+  "location": "NYC",
+  "url": "https://www.citadel.com/careers/details/sector-data-scientist-central-team/",
+  "category": "ML",
+  "posted": "2026-07-27",
+  "date_posted": 1785190044,
+  "active": false,
+  "first_seen": 1785197147.0675843,
+  "last_seen": 1790422466,
+  "locations": [
+   "NYC"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "citadel|sector data scientist central team",
+  "in_feed": false,
+  "reason": "closed",
+  "closed_at": 1790422466
+ },
+ {
   "id": "simplify:3c0a86be-29d0-4b44-9bd5-3bf8fcf2a4f2",
   "company": "LinkedIn",
   "title": "Senior Software Engineer - Applications",
@@ -10601,6 +10503,31 @@
   "group": "amazon|software engineer ai security"
  },
  {
+  "id": "simplify:66cb9e6f-2e5e-4fab-be1b-bf612ad91a02",
+  "company": "Citadel",
+  "title": "Quantitative Trader: Equity Quantitative Research – University Graduate",
+  "location": "NYC",
+  "url": "https://www.citadel.com/careers/details/quantitative-trader-equity-quantitative-research-university-graduate-us/",
+  "category": "Quant",
+  "posted": "2026-07-07",
+  "date_posted": 1783433322,
+  "active": false,
+  "first_seen": 1784014543.6740808,
+  "last_seen": 1790422466,
+  "locations": [
+   "NYC"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's"
+  ],
+  "sponsorship": "Other",
+  "group": "citadel|quantitative trader equity quantitative research university graduate",
+  "in_feed": false,
+  "reason": "closed",
+  "closed_at": 1790422466
+ },
+ {
   "id": "simplify:a4db1cdd-98a3-4e59-b6c0-9baff85f5a46",
   "company": "ByteDance",
   "title": "Graduate Software Engineer - Dev Infra",
@@ -10633,6 +10560,60 @@
   "closed_at": 1785862126,
   "reason": "closed",
   "group": "anduril|people data analyst"
+ },
+ {
+  "id": "simplify:d724f264-a5fb-4740-bde3-38ab45368cba",
+  "company": "Citadel",
+  "title": "Quantitative Research Analyst University Graduate",
+  "location": "Greenwich, CT, Miami, FL, NYC",
+  "url": "https://www.citadel.com/careers/details/quantitative-research-analyst-university-graduate-us/",
+  "category": "Quant",
+  "posted": "2026-07-06",
+  "date_posted": 1783318148,
+  "active": false,
+  "first_seen": 1784014543.6740808,
+  "last_seen": 1790422466,
+  "locations": [
+   "Greenwich, CT",
+   "Miami, FL",
+   "NYC"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "citadel|quantitative research analyst university graduate",
+  "in_feed": false,
+  "reason": "closed",
+  "closed_at": 1790422466
+ },
+ {
+  "id": "simplify:410b28b6-b357-4b72-9480-bad83701b4cb",
+  "company": "Citadel",
+  "title": "Software Engineer – University Graduate",
+  "location": "Greenwich, CT, Houston, TX, Miami, FL",
+  "url": "https://www.citadel.com/careers/details/software-engineer-university-graduate-us/",
+  "category": "SWE",
+  "posted": "2026-07-06",
+  "date_posted": 1783318138,
+  "active": false,
+  "first_seen": 1784014543.6740808,
+  "last_seen": 1790422466,
+  "locations": [
+   "Greenwich, CT",
+   "Houston, TX",
+   "Miami, FL",
+   "NYC"
+  ],
+  "region": "US",
+  "degrees": [],
+  "sponsorship": "Other",
+  "group": "citadel|software engineer university graduate",
+  "in_feed": false,
+  "reason": "closed",
+  "closed_at": 1790422466
  },
  {
   "id": "simplify:a321ad73-583a-4203-bee3-a9fe75923346",
@@ -11271,6 +11252,32 @@
   "closed_at": 1785974638,
   "reason": "closed",
   "group": "tesla|frontend software engineer infrastructure"
+ },
+ {
+  "id": "simplify:a6ab1df3-86d8-42bb-b220-97ec8c92cba2",
+  "company": "Microsoft",
+  "title": "Software Engineer - Ctj - Poly",
+  "location": "Annapolis Junction, MD, Reston, VA",
+  "url": "https://apply.careers.microsoft.com/careers/job/1970393556860973",
+  "category": "SWE",
+  "posted": "2026-06-18",
+  "date_posted": 1781762785,
+  "active": false,
+  "first_seen": 1787182064.903562,
+  "last_seen": 1790422466,
+  "locations": [
+   "Annapolis Junction, MD",
+   "Reston, VA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's"
+  ],
+  "sponsorship": "Other",
+  "group": "microsoft|software engineer ctj poly",
+  "in_feed": false,
+  "reason": "closed",
+  "closed_at": 1790422466
  },
  {
   "id": "simplify:4390c758-6e51-424d-a81b-424561f1847e",
