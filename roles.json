@@ -24,29 +24,6 @@
   "reason": null
  },
  {
-  "id": "simplify:d3c2d57b-c7ea-4194-ac33-731c72f64420",
-  "first_seen": 1790323085,
-  "company": "Apple",
-  "title": "Software Engineer - Applied AI",
-  "location": "San Diego, CA",
-  "url": "https://jobs.apple.com/en-us/details/200684521",
-  "category": "SWE",
-  "posted": "2026-09-25",
-  "date_posted": 1790298409,
-  "active": true,
-  "locations": [
-   "San Diego, CA"
-  ],
-  "region": "US",
-  "degrees": [
-   "Bachelor's"
-  ],
-  "sponsorship": "Other",
-  "group": "apple|software engineer applied ai",
-  "in_feed": true,
-  "reason": null
- },
- {
   "id": "simplify:74f5d04c-5dd5-4838-8c22-2cef8a0d48c0",
   "first_seen": 1790296592,
   "company": "Man Group",
@@ -1613,31 +1590,6 @@
   ],
   "sponsorship": "Other",
   "group": "susquehanna international group|quantitative strategy developer new grad",
-  "in_feed": true,
-  "reason": null
- },
- {
-  "id": "simplify:01e96f8b-3039-4c34-807c-eb95ca76fd52",
-  "company": "Point72",
-  "title": "Software Developer - Developers",
-  "location": "NYC",
-  "url": "https://boards.greenhouse.io/point72/jobs/7598678002",
-  "category": "Quant",
-  "posted": "2026-08-19",
-  "date_posted": 1787172199,
-  "active": true,
-  "first_seen": 1787182064.903562,
-  "last_seen": 1789521191.4314806,
-  "locations": [
-   "NYC"
-  ],
-  "region": "US",
-  "degrees": [
-   "Bachelor's",
-   "Master's"
-  ],
-  "sponsorship": "Other",
-  "group": "point72|software developer developers",
   "in_feed": true,
   "reason": null
  },
@@ -6968,6 +6920,31 @@
   "reason": null
  },
  {
+  "id": "simplify:d3c2d57b-c7ea-4194-ac33-731c72f64420",
+  "first_seen": 1790323085,
+  "company": "Apple",
+  "title": "Software Engineer - Applied AI",
+  "location": "San Diego, CA",
+  "url": "https://jobs.apple.com/en-us/details/200684521",
+  "category": "SWE",
+  "posted": "2026-09-25",
+  "date_posted": 1790298409,
+  "active": false,
+  "locations": [
+   "San Diego, CA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's"
+  ],
+  "sponsorship": "Other",
+  "group": "apple|software engineer applied ai",
+  "in_feed": false,
+  "reason": "closed",
+  "closed_at": 1790627786,
+  "last_seen": 1790627786
+ },
+ {
   "id": "simplify:f3d76dcb-9751-40d8-ac06-018260f42846",
   "first_seen": 1790296592,
   "company": "Atlassian",
@@ -7712,6 +7689,32 @@
   "reason": "untracked",
   "why": "phd",
   "group": "tiktok|machine learning engineer graduate multiple teams"
+ },
+ {
+  "id": "simplify:01e96f8b-3039-4c34-807c-eb95ca76fd52",
+  "company": "Point72",
+  "title": "Software Developer - Developers",
+  "location": "NYC",
+  "url": "https://boards.greenhouse.io/point72/jobs/7598678002",
+  "category": "Quant",
+  "posted": "2026-08-19",
+  "date_posted": 1787172199,
+  "active": false,
+  "first_seen": 1787182064.903562,
+  "last_seen": 1790627786,
+  "locations": [
+   "NYC"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "point72|software developer developers",
+  "in_feed": false,
+  "reason": "closed",
+  "closed_at": 1790627786
  },
  {
   "id": "simplify:1857df4e-de24-4423-8bd0-99dd5371717e",
