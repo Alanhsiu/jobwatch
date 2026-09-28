@@ -270,29 +270,6 @@
   "reason": null
  },
  {
-  "id": "simplify:5b6d1005-f538-4163-bdf8-2fc73e2db74e",
-  "first_seen": 1790053753,
-  "company": "Apple",
-  "title": "Firmware Engineer - HID Bluetooth",
-  "location": "Cupertino, CA",
-  "url": "https://jobs.apple.com/en-us/details/200684986",
-  "category": "HW",
-  "posted": "2026-09-22",
-  "date_posted": 1790039268,
-  "active": true,
-  "locations": [
-   "Cupertino, CA"
-  ],
-  "region": "US",
-  "degrees": [
-   "Bachelor's"
-  ],
-  "sponsorship": "Other",
-  "group": "apple|firmware engineer hid bluetooth",
-  "in_feed": true,
-  "reason": null
- },
- {
   "id": "simplify:a339dae3-c079-4987-a6be-c0b863c83fb6",
   "first_seen": 1789802660,
   "company": "TikTok",
@@ -7015,6 +6992,31 @@
   "reason": "closed",
   "closed_at": 1790422466,
   "last_seen": 1790422466
+ },
+ {
+  "id": "simplify:5b6d1005-f538-4163-bdf8-2fc73e2db74e",
+  "first_seen": 1790053753,
+  "company": "Apple",
+  "title": "Firmware Engineer - HID Bluetooth",
+  "location": "Cupertino, CA",
+  "url": "https://jobs.apple.com/en-us/details/200684986",
+  "category": "HW",
+  "posted": "2026-09-22",
+  "date_posted": 1790039268,
+  "active": false,
+  "locations": [
+   "Cupertino, CA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's"
+  ],
+  "sponsorship": "Other",
+  "group": "apple|firmware engineer hid bluetooth",
+  "in_feed": false,
+  "reason": "closed",
+  "closed_at": 1790604675,
+  "last_seen": 1790604675
  },
  {
   "id": "simplify:b2627976-395e-42cd-8612-f81fe8d44b30",

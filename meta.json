@@ -4,28 +4,28 @@
  "repo": "Alanhsiu/jobwatch",
  "branch": "main",
  "pages_url": "https://alanhsiu.github.io/jobwatch/",
- "last_run": 1790518055,
- "last_change": 1790440277,
- "last_result": "ok-no-change",
+ "last_run": 1790604675,
+ "last_change": 1790604675,
+ "last_result": "ok",
  "feed": {
-  "records": 19746,
-  "active": 3063,
-  "fetched_at": 1790518055,
+  "records": 19644,
+  "active": 3044,
+  "fetched_at": 1790604675,
   "attempts": 1
  },
  "counts": {
-  "active": 284,
-  "closed": 192,
+  "active": 283,
+  "closed": 193,
   "untracked": 68,
-  "groups": 249,
+  "groups": 248,
   "companies": 56,
   "new_this_run": 0,
   "silent_known_this_run": 0,
-  "closed_this_run": 0,
+  "closed_this_run": 1,
   "untracked_this_run": 0
  },
  "rejects": {
-  "category": 114,
+  "category": 113,
   "phd": 168,
   "title": 21,
   "region": 41,
@@ -86,7 +86,7 @@
    "denied": 0
   },
   "apple": {
-   "active": 11,
+   "active": 10,
    "all_time": 28,
    "names": [
     "Apple"
