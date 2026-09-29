@@ -1,5 +1,28 @@
 [
  {
+  "id": "simplify:7d9873a2-afea-4254-9ea2-9239888b1e16",
+  "first_seen": 1790671341,
+  "company": "Anduril",
+  "title": "Data Analyst - Quality",
+  "location": "Ashville, OH",
+  "url": "https://boards.greenhouse.io/andurilindustries/jobs/5251234007",
+  "category": "ML",
+  "posted": "2026-09-29",
+  "date_posted": 1790662837,
+  "active": true,
+  "locations": [
+   "Ashville, OH"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's"
+  ],
+  "sponsorship": "Other",
+  "group": "anduril|data analyst quality",
+  "in_feed": true,
+  "reason": null
+ },
+ {
   "id": "simplify:72f6e435-1060-4700-9b90-48d82c3b1972",
   "first_seen": 1790399376,
   "company": "Apple",

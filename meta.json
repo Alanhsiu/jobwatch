@@ -4,28 +4,28 @@
  "repo": "Alanhsiu/jobwatch",
  "branch": "main",
  "pages_url": "https://alanhsiu.github.io/jobwatch/",
- "last_run": 1790647442,
- "last_change": 1790647442,
+ "last_run": 1790671341,
+ "last_change": 1790671341,
  "last_result": "ok",
  "feed": {
-  "records": 19641,
-  "active": 3005,
-  "fetched_at": 1790647442,
+  "records": 19645,
+  "active": 2994,
+  "fetched_at": 1790671341,
   "attempts": 1
  },
  "counts": {
-  "active": 280,
+  "active": 281,
   "closed": 196,
   "untracked": 68,
-  "groups": 245,
+  "groups": 246,
   "companies": 55,
-  "new_this_run": 0,
+  "new_this_run": 1,
   "silent_known_this_run": 0,
-  "closed_this_run": 1,
+  "closed_this_run": 0,
   "untracked_this_run": 0
  },
  "rejects": {
-  "category": 112,
+  "category": 111,
   "phd": 168,
   "title": 21,
   "region": 41,
@@ -64,8 +64,8 @@
    "denied": 0
   },
   "anduril": {
-   "active": 7,
-   "all_time": 10,
+   "active": 8,
+   "all_time": 11,
    "names": [
     "Anduril"
    ],
@@ -1002,8 +1002,8 @@
   }
  },
  "telegram": {
-  "mode": "none",
-  "delivered": 0,
+  "mode": "sent",
+  "delivered": 1,
   "failed_chunks": 0,
   "creds": true
  },
