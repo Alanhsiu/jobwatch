@@ -9869,10 +9869,9 @@
   "region": "US",
   "degrees": [],
   "sponsorship": "Other",
-  "in_feed": true,
+  "in_feed": false,
   "closed_at": 1789570473,
-  "reason": "untracked",
-  "why": "title",
+  "reason": "closed",
   "group": "tesla|data collection operator"
  },
  {
