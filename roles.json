@@ -1,5 +1,28 @@
 [
  {
+  "id": "simplify:d739b0c1-7de2-4820-8075-fc8cf49855fd",
+  "first_seen": 1790812668,
+  "company": "Atlassian",
+  "title": "Data Scientist Graduate",
+  "location": "Seattle, WA",
+  "url": "https://campus-americas.icims.com/jobs/26000/data-scientist%2c-2027-graduate-u.s./job",
+  "category": "ML",
+  "posted": "2026-09-30",
+  "date_posted": 1790806007,
+  "active": true,
+  "locations": [
+   "Seattle, WA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "atlassian|data scientist graduate",
+  "in_feed": true,
+  "reason": null
+ },
+ {
   "id": "simplify:f2c0c0c5-f679-46c2-98dc-36b42fe0532e",
   "first_seen": 1790746990,
   "company": "Anthropic",
@@ -6372,58 +6395,6 @@
   "reason": null
  },
  {
-  "id": "simplify:1e2b7529-adf7-49ab-8d4a-8979fab4e3e9",
-  "company": "Optiver",
-  "title": "Graduate Software Engineer",
-  "location": "Chicago, IL",
-  "url": "https://www.optiver.com/join-us/jobs/8401042002/?gh_jid=8401042002",
-  "category": "SWE",
-  "posted": "2026-07-01",
-  "date_posted": 1782943968,
-  "active": true,
-  "first_seen": 1784014543.6740808,
-  "last_seen": 1789414950.7806032,
-  "locations": [
-   "Chicago, IL"
-  ],
-  "region": "US",
-  "degrees": [
-   "Bachelor's",
-   "Master's",
-   "PhD"
-  ],
-  "sponsorship": "Other",
-  "group": "optiver|graduate software engineer",
-  "in_feed": true,
-  "reason": null
- },
- {
-  "id": "simplify:9806b0c4-6f96-463b-b16f-410fc0a1ae51",
-  "company": "Optiver",
-  "title": "Graduate Software Engineer",
-  "location": "Austin, TX",
-  "url": "https://www.optiver.com/join-us/jobs/8604899002/?gh_jid=8604899002",
-  "category": "SWE",
-  "posted": "2026-07-01",
-  "date_posted": 1782943968,
-  "active": true,
-  "first_seen": 1784014543.6740808,
-  "last_seen": 1789414950.7806032,
-  "locations": [
-   "Austin, TX"
-  ],
-  "region": "US",
-  "degrees": [
-   "Bachelor's",
-   "Master's",
-   "PhD"
-  ],
-  "sponsorship": "Other",
-  "group": "optiver|graduate software engineer",
-  "in_feed": true,
-  "reason": null
- },
- {
   "id": "simplify:b2ffbf79-12f6-4a0d-a44f-81db7e09aaaf",
   "company": "Susquehanna International Group (SIG)",
   "title": "Quantitative Researcher",
@@ -11017,6 +10988,60 @@
   "reason": "untracked",
   "why": "phd",
   "group": "optiver|graduate quantitative researcher"
+ },
+ {
+  "id": "simplify:1e2b7529-adf7-49ab-8d4a-8979fab4e3e9",
+  "company": "Optiver",
+  "title": "Graduate Software Engineer",
+  "location": "Chicago, IL",
+  "url": "https://www.optiver.com/join-us/jobs/8401042002/?gh_jid=8401042002",
+  "category": "SWE",
+  "posted": "2026-07-01",
+  "date_posted": 1782943968,
+  "active": false,
+  "first_seen": 1784014543.6740808,
+  "last_seen": 1790812668,
+  "locations": [
+   "Chicago, IL"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's",
+   "PhD"
+  ],
+  "sponsorship": "Other",
+  "group": "optiver|graduate software engineer",
+  "in_feed": false,
+  "reason": "closed",
+  "closed_at": 1790812668
+ },
+ {
+  "id": "simplify:9806b0c4-6f96-463b-b16f-410fc0a1ae51",
+  "company": "Optiver",
+  "title": "Graduate Software Engineer",
+  "location": "Austin, TX",
+  "url": "https://www.optiver.com/join-us/jobs/8604899002/?gh_jid=8604899002",
+  "category": "SWE",
+  "posted": "2026-07-01",
+  "date_posted": 1782943968,
+  "active": false,
+  "first_seen": 1784014543.6740808,
+  "last_seen": 1790812668,
+  "locations": [
+   "Austin, TX"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's",
+   "PhD"
+  ],
+  "sponsorship": "Other",
+  "group": "optiver|graduate software engineer",
+  "in_feed": false,
+  "reason": "closed",
+  "closed_at": 1790812668
  },
  {
   "id": "simplify:6a5a374d-834e-4bb6-992d-4cc74f3f8e8e",

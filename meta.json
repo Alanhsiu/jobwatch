@@ -4,30 +4,30 @@
  "repo": "Alanhsiu/jobwatch",
  "branch": "main",
  "pages_url": "https://alanhsiu.github.io/jobwatch/",
- "last_run": 1790772428,
- "last_change": 1790772428,
+ "last_run": 1790812668,
+ "last_change": 1790812668,
  "last_result": "ok",
  "feed": {
-  "records": 19719,
-  "active": 3023,
-  "fetched_at": 1790772428,
+  "records": 19702,
+  "active": 3054,
+  "fetched_at": 1790812668,
   "attempts": 1
  },
  "counts": {
-  "active": 284,
-  "closed": 197,
+  "active": 283,
+  "closed": 199,
   "untracked": 67,
   "groups": 249,
   "companies": 56,
-  "new_this_run": 0,
+  "new_this_run": 1,
   "silent_known_this_run": 0,
-  "closed_this_run": 1,
+  "closed_this_run": 2,
   "untracked_this_run": 0
  },
  "rejects": {
-  "category": 113,
+  "category": 116,
   "phd": 168,
-  "title": 18,
+  "title": 17,
   "region": 41,
   "sponsorship": 0,
   "age": 20
@@ -112,8 +112,8 @@
    "denied": 0
   },
   "atlassian": {
-   "active": 2,
-   "all_time": 3,
+   "active": 3,
+   "all_time": 4,
    "names": [
     "Atlassian"
    ],
@@ -615,7 +615,7 @@
    "denied": 0
   },
   "optiver": {
-   "active": 3,
+   "active": 1,
    "all_time": 5,
    "names": [
     "Optiver"
@@ -1004,8 +1004,8 @@
   }
  },
  "telegram": {
-  "mode": "none",
-  "delivered": 0,
+  "mode": "sent",
+  "delivered": 1,
   "failed_chunks": 0,
   "creds": true
  },
