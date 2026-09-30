@@ -8,7 +8,7 @@ sync between devices through this repo. No servers, no database, no cost — a p
 bot token. This repo's tracker: **[alanhsiu.github.io/jobwatch](https://alanhsiu.github.io/jobwatch/)** (a fork gets its own at `https://<owner>.github.io/<repo>/`).
 
 <!-- JOBS:HEAD:START -->
-_285 open new-grad roles at 56 companies · list last changed 2026-09-30 · scans every ~2 h_ · **[Open the tracker](https://alanhsiu.github.io/jobwatch/)** · [Full list ↓](#current-roles) · TikTok 103 · ByteDance 36 · Palantir 10 · Apple 9 · Anduril 8 · Amazon 7 · Old Mission 6 · Akuna Capital University 5 · …
+_284 open new-grad roles at 56 companies · list last changed 2026-09-30 · scans every ~2 h_ · **[Open the tracker](https://alanhsiu.github.io/jobwatch/)** · [Full list ↓](#current-roles) · TikTok 103 · ByteDance 36 · Palantir 10 · Apple 9 · Anduril 8 · Amazon 7 · Old Mission 6 · Akuna Capital University 5 · …
 <!-- JOBS:HEAD:END -->
 
 ## How it works
@@ -552,13 +552,6 @@ and `.nojekyll` into `docs/`, set Pages to `/docs`, and give every device a toke
 
 </details>
 <details open>
-<summary>Marshall Wace (2)</summary>
-
-- [Quant Research - Quantitative Associate Programme](https://job-boards.greenhouse.io/mw-tech-grad/jobs/8636830002) — London, UK, NYC · posted 2026-08-26 · Quant
-- [Software/Infrastructure Graduate](https://job-boards.greenhouse.io/mw-tech-grad/jobs/8646937002) — NYC · posted 2026-07-31 · SWE
-
-</details>
-<details open>
 <summary>Microsoft (2)</summary>
 
 - [Software Engineer - Cleared](https://apply.careers.microsoft.com/careers/job/1970393556982911) — Reston, VA · posted 2026-09-23 · SWE · BS/MS
@@ -672,6 +665,12 @@ and `.nojekyll` into `docs/`, set Pages to `/docs`, and give every device a toke
 <summary>Jump Trading (1)</summary>
 
 - [AI Research Engineer](https://boards.greenhouse.io/embed/job_app?token=8052313) — Chicago, IL, NYC · posted 2026-07-08 · ML
+
+</details>
+<details open>
+<summary>Marshall Wace (1)</summary>
+
+- [Quant Research - Quantitative Associate Programme](https://job-boards.greenhouse.io/mw-tech-grad/jobs/8636830002) — London, UK, NYC · posted 2026-08-26 · Quant
 
 </details>
 <details open>
