@@ -1,5 +1,26 @@
 [
  {
+  "id": "simplify:f2c0c0c5-f679-46c2-98dc-36b42fe0532e",
+  "first_seen": 1790746990,
+  "company": "Anthropic",
+  "title": "Claude Corps",
+  "location": "United States",
+  "url": "https://job-boards.greenhouse.io/claudecorps/jobs/4402649009",
+  "category": "SWE",
+  "posted": "2026-09-29",
+  "date_posted": 1790720889,
+  "active": true,
+  "locations": [
+   "United States"
+  ],
+  "region": "US",
+  "degrees": [],
+  "sponsorship": "Other",
+  "group": "anthropic|claude corps",
+  "in_feed": true,
+  "reason": null
+ },
+ {
   "id": "simplify:7d9873a2-afea-4254-9ea2-9239888b1e16",
   "first_seen": 1790671341,
   "company": "Anduril",
@@ -19,6 +40,58 @@
   ],
   "sponsorship": "Other",
   "group": "anduril|data analyst quality",
+  "in_feed": true,
+  "reason": null
+ },
+ {
+  "id": "simplify:c629b4e6-c4f2-414a-9bfa-e7be4219dd59",
+  "first_seen": 1790746990,
+  "company": "NVIDIA",
+  "title": "Applied Machine Learning Engineer - AI for VLSI Design",
+  "location": "Santa Clara, CA",
+  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Applied-Machine-Learning-Engineer--AI-for-VLSI-Design---New-College-Grad-2026_JR2026576",
+  "category": "ML",
+  "posted": "2026-09-29",
+  "date_posted": 1790640000,
+  "active": true,
+  "locations": [
+   "Santa Clara, CA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Master's",
+   "PhD"
+  ],
+  "sponsorship": "Other",
+  "group": "nvidia|applied machine learning engineer ai for vlsi design",
+  "in_feed": true,
+  "reason": null
+ },
+ {
+  "id": "simplify:e60e9a94-ba50-4649-b502-e7203a9eb65f",
+  "first_seen": 1790746990,
+  "company": "NVIDIA",
+  "title": "Software Engineer New Grad - DGX Cloud AI Infrastructure",
+  "location": "Washington, Oregon, Austin, TX",
+  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--DGX-Cloud-AI-Infrastructure---New-College-Grad-2026_JR2026477",
+  "category": "ML",
+  "posted": "2026-09-29",
+  "date_posted": 1790640000,
+  "active": true,
+  "locations": [
+   "Washington",
+   "Oregon",
+   "Austin, TX",
+   "Redmond, WA",
+   "Santa Clara, CA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "nvidia|software engineer new grad dgx cloud ai infrastructure",
   "in_feed": true,
   "reason": null
  },
@@ -6633,6 +6706,31 @@
   "reason": null
  },
  {
+  "id": "simplify:a6ab1df3-86d8-42bb-b220-97ec8c92cba2",
+  "company": "Microsoft",
+  "title": "Software Engineer - Ctj - Poly",
+  "location": "Annapolis Junction, MD, Reston, VA",
+  "url": "https://apply.careers.microsoft.com/careers/job/1970393556860973",
+  "category": "SWE",
+  "posted": "2026-06-18",
+  "date_posted": 1781762785,
+  "active": true,
+  "first_seen": 1787182064.903562,
+  "last_seen": 1790422466,
+  "locations": [
+   "Annapolis Junction, MD",
+   "Reston, VA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's"
+  ],
+  "sponsorship": "Other",
+  "group": "microsoft|software engineer ctj poly",
+  "in_feed": true,
+  "reason": null
+ },
+ {
   "id": "simplify:f6f83b45-cf4c-4a3e-8f32-4c64672610a1",
   "company": "Palantir",
   "title": "Forward Deployed Software Engineer New Grad",
@@ -11279,32 +11377,6 @@
   "closed_at": 1785974638,
   "reason": "closed",
   "group": "tesla|frontend software engineer infrastructure"
- },
- {
-  "id": "simplify:a6ab1df3-86d8-42bb-b220-97ec8c92cba2",
-  "company": "Microsoft",
-  "title": "Software Engineer - Ctj - Poly",
-  "location": "Annapolis Junction, MD, Reston, VA",
-  "url": "https://apply.careers.microsoft.com/careers/job/1970393556860973",
-  "category": "SWE",
-  "posted": "2026-06-18",
-  "date_posted": 1781762785,
-  "active": false,
-  "first_seen": 1787182064.903562,
-  "last_seen": 1790422466,
-  "locations": [
-   "Annapolis Junction, MD",
-   "Reston, VA"
-  ],
-  "region": "US",
-  "degrees": [
-   "Bachelor's"
-  ],
-  "sponsorship": "Other",
-  "group": "microsoft|software engineer ctj poly",
-  "in_feed": false,
-  "reason": "closed",
-  "closed_at": 1790422466
  },
  {
   "id": "simplify:4390c758-6e51-424d-a81b-424561f1847e",
