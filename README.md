@@ -8,7 +8,7 @@ sync between devices through this repo. No servers, no database, no cost — a p
 bot token. This repo's tracker: **[alanhsiu.github.io/jobwatch](https://alanhsiu.github.io/jobwatch/)** (a fork gets its own at `https://<owner>.github.io/<repo>/`).
 
 <!-- JOBS:HEAD:START -->
-_284 open new-grad roles at 55 companies · list last changed 2026-10-01 · scans every ~2 h_ · **[Open the tracker](https://alanhsiu.github.io/jobwatch/)** · [Full list ↓](#current-roles) · TikTok 103 · ByteDance 37 · Apple 10 · Palantir 10 · Amazon 8 · Anduril 7 · Old Mission 6 · Akuna Capital University 5 · …
+_287 open new-grad roles at 56 companies · list last changed 2026-10-01 · scans every ~2 h_ · **[Open the tracker](https://alanhsiu.github.io/jobwatch/)** · [Full list ↓](#current-roles) · TikTok 103 · ByteDance 37 · Apple 10 · Palantir 10 · Amazon 9 · Anduril 7 · Old Mission 6 · Akuna Capital University 5 · …
 <!-- JOBS:HEAD:END -->
 
 ## How it works
@@ -360,8 +360,9 @@ and `.nojekyll` into `docs/`, set Pages to `/docs`, and give every device a toke
 
 </details>
 <details open>
-<summary>Amazon (8)</summary>
+<summary>Amazon (9)</summary>
 
+- [Software Development Engineer - Robotics](https://amazon.jobs/en/jobs/10567489/software-development-engineer-robotics-early-career-2027) — Seattle, WA, Nashville, TN, Austin, TX · posted 2026-10-01 · SWE · BS
 - [Applied Scientist - International Seller Services](https://amazon.jobs/en/jobs/10566351/applied-scientist-international-seller-services) — Seattle, WA · posted 2026-10-01 · ML · MS
 - [Software Privacy Engineer - Multiple Teams](https://amazon.jobs/en/jobs/10538147/software-privacy-engineer-trust-platform-automation-devices-services-trust-privacy-and-accessibility-tpa) — Bellevue, WA · posted 2026-09-12 · SWE · BS
 - [Applied Scientist - Global Risk Intelligence and Prevention - Seller Abuse Prevention](https://amazon.jobs/en/jobs/10528088/applied-scientist-global-risk-intelligence-and-prevention-seller-abuse-prevention) — Seattle, WA · posted 2026-09-03 · ML · MS/PhD
@@ -552,6 +553,13 @@ and `.nojekyll` into `docs/`, set Pages to `/docs`, and give every device a toke
 
 - [Technology Rotational Program - Associate Engineer](https://job-boards.eu.greenhouse.io/mangroup/jobs/4978937101) — Boston, MA · posted 2026-09-24 · SWE · BS
 - [Risk & Performance Analyst](https://job-boards.eu.greenhouse.io/mangroup/jobs/4958874101) — Boston, MA · posted 2026-08-27 · ML
+
+</details>
+<details open>
+<summary>Pinterest (2)</summary>
+
+- [Master's University Graduate Data Scientist](https://www.pinterestcareers.com/jobs/?gh_jid=8140389) — Palo Alto, CA, Seattle, WA, SF · posted 2026-10-01 · ML · MS
+- [University Grad Software Engineer](https://www.pinterestcareers.com/jobs/?gh_jid=7838591) — SF, Remote in USA · posted 2026-10-01 · SWE · BS/MS
 
 </details>
 <details open>

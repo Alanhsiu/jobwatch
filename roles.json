@@ -1,5 +1,85 @@
 [
  {
+  "id": "simplify:ec6cf12a-dd02-4416-9eb0-6b01646dca5d",
+  "first_seen": 1790899054,
+  "company": "Pinterest",
+  "title": "Master's University Graduate Data Scientist",
+  "location": "Palo Alto, CA, Seattle, WA, SF",
+  "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8140389",
+  "category": "ML",
+  "posted": "2026-10-01",
+  "date_posted": 1790893159,
+  "active": true,
+  "locations": [
+   "Palo Alto, CA",
+   "Seattle, WA",
+   "SF",
+   "NYC"
+  ],
+  "region": "US",
+  "degrees": [
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "pinterest|master s university graduate data scientist",
+  "in_feed": true,
+  "reason": null
+ },
+ {
+  "id": "simplify:c1aff4b4-bedf-4c66-b282-a592990ba632",
+  "first_seen": 1790899054,
+  "company": "Pinterest",
+  "title": "University Grad Software Engineer",
+  "location": "SF, Remote in USA",
+  "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7838591",
+  "category": "SWE",
+  "posted": "2026-10-01",
+  "date_posted": 1790893159,
+  "active": true,
+  "locations": [
+   "SF",
+   "Remote in USA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "pinterest|university grad software engineer",
+  "in_feed": true,
+  "reason": null
+ },
+ {
+  "id": "simplify:e738e999-5fd1-4d8e-a451-bd26b18a0fa0",
+  "first_seen": 1790899054,
+  "company": "Amazon",
+  "title": "Software Development Engineer - Robotics",
+  "location": "Seattle, WA, Nashville, TN, Austin, TX",
+  "url": "https://amazon.jobs/en/jobs/10567489/software-development-engineer-robotics-early-career-2027",
+  "category": "SWE",
+  "posted": "2026-10-01",
+  "date_posted": 1790892578,
+  "active": true,
+  "locations": [
+   "Seattle, WA",
+   "Nashville, TN",
+   "Austin, TX",
+   "North Reading, MA",
+   "Arlington County, Arlington, VA",
+   "Bellevue, WA",
+   "Westborough, MA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's"
+  ],
+  "sponsorship": "Other",
+  "group": "amazon|software development engineer robotics",
+  "in_feed": true,
+  "reason": null
+ },
+ {
   "id": "simplify:5f84715f-9790-4448-90f8-d53398abe7e9",
   "first_seen": 1790861516,
   "company": "Amazon",
