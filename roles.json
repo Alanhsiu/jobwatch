@@ -1,5 +1,28 @@
 [
  {
+  "id": "simplify:5f84715f-9790-4448-90f8-d53398abe7e9",
+  "first_seen": 1790861516,
+  "company": "Amazon",
+  "title": "Applied Scientist - International Seller Services",
+  "location": "Seattle, WA",
+  "url": "https://amazon.jobs/en/jobs/10566351/applied-scientist-international-seller-services",
+  "category": "ML",
+  "posted": "2026-10-01",
+  "date_posted": 1790845667,
+  "active": true,
+  "locations": [
+   "Seattle, WA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "amazon|applied scientist international seller services",
+  "in_feed": true,
+  "reason": null
+ },
+ {
   "id": "simplify:42079b38-2a81-4395-8380-8127f696afaf",
   "first_seen": 1790834940,
   "company": "ByteDance",
@@ -164,6 +187,30 @@
   "group": "apple|cad engineer signoff infrastructure",
   "in_feed": true,
   "reason": null
+ },
+ {
+  "id": "simplify:d3c2d57b-c7ea-4194-ac33-731c72f64420",
+  "first_seen": 1790323085,
+  "company": "Apple",
+  "title": "Software Engineer - Applied AI",
+  "location": "San Diego, CA",
+  "url": "https://jobs.apple.com/en-us/details/200684521",
+  "category": "SWE",
+  "posted": "2026-09-25",
+  "date_posted": 1790298409,
+  "active": true,
+  "locations": [
+   "San Diego, CA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's"
+  ],
+  "sponsorship": "Other",
+  "group": "apple|software engineer applied ai",
+  "in_feed": true,
+  "reason": null,
+  "last_seen": 1790627786
  },
  {
   "id": "simplify:74f5d04c-5dd5-4838-8c22-2cef8a0d48c0",
@@ -770,6 +817,31 @@
   ],
   "sponsorship": "Other",
   "group": "amazon|software privacy engineer multiple teams",
+  "in_feed": true,
+  "reason": null
+ },
+ {
+  "id": "simplify:a9b5356a-b658-407e-858e-29e74df5f581",
+  "company": "Microsoft",
+  "title": "Software Engineer - CoreAI",
+  "location": "Redmond, WA",
+  "url": "https://apply.careers.microsoft.com/careers/job/1970393556989020",
+  "category": "SWE",
+  "posted": "2026-09-11",
+  "date_posted": 1789109816,
+  "active": true,
+  "first_seen": 1789150052.113976,
+  "last_seen": 1789995658,
+  "locations": [
+   "Redmond, WA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "microsoft|software engineer coreai",
   "in_feed": true,
   "reason": null
  },
@@ -6965,31 +7037,6 @@
   "reason": null
  },
  {
-  "id": "simplify:d3c2d57b-c7ea-4194-ac33-731c72f64420",
-  "first_seen": 1790323085,
-  "company": "Apple",
-  "title": "Software Engineer - Applied AI",
-  "location": "San Diego, CA",
-  "url": "https://jobs.apple.com/en-us/details/200684521",
-  "category": "SWE",
-  "posted": "2026-09-25",
-  "date_posted": 1790298409,
-  "active": false,
-  "locations": [
-   "San Diego, CA"
-  ],
-  "region": "US",
-  "degrees": [
-   "Bachelor's"
-  ],
-  "sponsorship": "Other",
-  "group": "apple|software engineer applied ai",
-  "in_feed": false,
-  "reason": "closed",
-  "closed_at": 1790627786,
-  "last_seen": 1790627786
- },
- {
   "id": "simplify:f3d76dcb-9751-40d8-ac06-018260f42846",
   "first_seen": 1790296592,
   "company": "Atlassian",
@@ -7175,32 +7222,6 @@
   "reason": "closed",
   "closed_at": 1790149819,
   "last_seen": 1790149819
- },
- {
-  "id": "simplify:a9b5356a-b658-407e-858e-29e74df5f581",
-  "company": "Microsoft",
-  "title": "Software Engineer - CoreAI",
-  "location": "Redmond, WA",
-  "url": "https://apply.careers.microsoft.com/careers/job/1970393556989020",
-  "category": "SWE",
-  "posted": "2026-09-11",
-  "date_posted": 1789109816,
-  "active": false,
-  "first_seen": 1789150052.113976,
-  "last_seen": 1789995658,
-  "locations": [
-   "Redmond, WA"
-  ],
-  "region": "US",
-  "degrees": [
-   "Bachelor's",
-   "Master's"
-  ],
-  "sponsorship": "Other",
-  "group": "microsoft|software engineer coreai",
-  "in_feed": false,
-  "reason": "closed",
-  "closed_at": 1789995658
  },
  {
   "id": "simplify:4e247e53-0b37-4a1a-a541-dbeed089bfe1",
