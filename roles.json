@@ -3195,40 +3195,6 @@
   "reason": null
  },
  {
-  "id": "simplify:089391ad-ee52-4c4f-993a-e79f42219682",
-  "company": "Google",
-  "title": "Software Engineer - Campus",
-  "location": "Cambridge, MA, Seattle, WA, LA",
-  "url": "https://www.google.com/about/careers/applications/jobs/results/78703249065943750",
-  "category": "SWE",
-  "posted": "2026-08-07",
-  "date_posted": 1786093497,
-  "active": true,
-  "first_seen": 1786117913.6858401,
-  "last_seen": 1789521191.4314806,
-  "locations": [
-   "Cambridge, MA",
-   "Seattle, WA",
-   "LA",
-   "San Jose, CA",
-   "San Bruno, CA",
-   "Pittsburgh, PA",
-   "Kirkland, WA",
-   "NYC",
-   "Sunnyvale, CA",
-   "Mountain View, CA"
-  ],
-  "region": "US",
-  "degrees": [
-   "Bachelor's",
-   "Master's"
-  ],
-  "sponsorship": "Other",
-  "group": "google|software engineer campus",
-  "in_feed": true,
-  "reason": null
- },
- {
   "id": "simplify:f555debe-b0d3-424f-b231-329a6d2df96a",
   "company": "TikTok",
   "title": "Backend Software Engineer Graduate - Data Lifecycle Management",
@@ -6442,30 +6408,6 @@
   "reason": null
  },
  {
-  "id": "simplify:cab69aff-72b9-4758-b1e7-b89d00f92f99",
-  "company": "IMC Trading",
-  "title": "Graduate Quantitative Trader",
-  "location": "Chicago, IL",
-  "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4751729101",
-  "category": "Quant",
-  "posted": "2026-07-01",
-  "date_posted": 1782944920,
-  "active": true,
-  "first_seen": 1784014543.6740808,
-  "last_seen": 1789414950.7806032,
-  "locations": [
-   "Chicago, IL"
-  ],
-  "region": "US",
-  "degrees": [
-   "Bachelor's"
-  ],
-  "sponsorship": "Other",
-  "group": "imc trading|graduate quantitative trader",
-  "in_feed": true,
-  "reason": null
- },
- {
   "id": "simplify:b2ffbf79-12f6-4a0d-a44f-81db7e09aaaf",
   "company": "Susquehanna International Group (SIG)",
   "title": "Quantitative Researcher",
@@ -8567,6 +8509,41 @@
   "closed_at": 1788483176,
   "reason": "closed",
   "group": "bytedance|machine learning systems scheduling engineer graduate applied machine learning"
+ },
+ {
+  "id": "simplify:089391ad-ee52-4c4f-993a-e79f42219682",
+  "company": "Google",
+  "title": "Software Engineer - Campus",
+  "location": "Cambridge, MA, Seattle, WA, LA",
+  "url": "https://www.google.com/about/careers/applications/jobs/results/78703249065943750",
+  "category": "SWE",
+  "posted": "2026-08-07",
+  "date_posted": 1786093497,
+  "active": false,
+  "first_seen": 1786117913.6858401,
+  "last_seen": 1790883454,
+  "locations": [
+   "Cambridge, MA",
+   "Seattle, WA",
+   "LA",
+   "San Jose, CA",
+   "San Bruno, CA",
+   "Pittsburgh, PA",
+   "Kirkland, WA",
+   "NYC",
+   "Sunnyvale, CA",
+   "Mountain View, CA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "google|software engineer campus",
+  "in_feed": false,
+  "reason": "closed",
+  "closed_at": 1790883454
  },
  {
   "id": "simplify:eede34f5-aa2a-4ae6-b182-e6f39969e693",
@@ -10978,6 +10955,31 @@
   "reason": "untracked",
   "why": "phd",
   "group": "imc trading|graduate machine learning researcher"
+ },
+ {
+  "id": "simplify:cab69aff-72b9-4758-b1e7-b89d00f92f99",
+  "company": "IMC Trading",
+  "title": "Graduate Quantitative Trader",
+  "location": "Chicago, IL",
+  "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4751729101",
+  "category": "Quant",
+  "posted": "2026-07-01",
+  "date_posted": 1782944920,
+  "active": false,
+  "first_seen": 1784014543.6740808,
+  "last_seen": 1790883454,
+  "locations": [
+   "Chicago, IL"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's"
+  ],
+  "sponsorship": "Other",
+  "group": "imc trading|graduate quantitative trader",
+  "in_feed": false,
+  "reason": "closed",
+  "closed_at": 1790883454
  },
  {
   "id": "simplify:b79b2e09-dc0f-40e5-8a4d-961fa83bc2fc",
