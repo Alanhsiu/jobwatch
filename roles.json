@@ -1,5 +1,78 @@
 [
  {
+  "id": "simplify:867c063f-636d-4f77-bf08-decee4955762",
+  "first_seen": 1790985089,
+  "company": "Harvey",
+  "title": "Software Engineer New Grad",
+  "location": "SF",
+  "url": "https://jobs.ashbyhq.com/harvey/b0996df6-6b6e-42be-a4f9-0084536068f5/application?embed=true",
+  "category": "SWE",
+  "posted": "2026-10-02",
+  "date_posted": 1790979923,
+  "active": true,
+  "locations": [
+   "SF"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "harvey|software engineer new grad",
+  "in_feed": true,
+  "reason": null
+ },
+ {
+  "id": "simplify:5993eb6e-3414-429f-86b9-dd467b9ddd1d",
+  "first_seen": 1790985089,
+  "company": "Harvey",
+  "title": "Software Engineer New Grad",
+  "location": "SF, NYC",
+  "url": "https://jobs.ashbyhq.com/harvey/4d8dc9ba-eb86-4d88-af7d-65d2fdaf3fdc/application?embed=true",
+  "category": "SWE",
+  "posted": "2026-10-02",
+  "date_posted": 1790979915,
+  "active": true,
+  "locations": [
+   "SF",
+   "NYC"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "harvey|software engineer new grad",
+  "in_feed": true,
+  "reason": null
+ },
+ {
+  "id": "simplify:3f0ab4da-e520-442d-bc93-8ead777699cd",
+  "first_seen": 1790985089,
+  "company": "Microsoft",
+  "title": "Software Engineer",
+  "location": "Redmond, WA",
+  "url": "https://apply.careers.microsoft.com/careers/job/1970393556999325",
+  "category": "SWE",
+  "posted": "2026-10-02",
+  "date_posted": 1790979173,
+  "active": true,
+  "locations": [
+   "Redmond, WA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "microsoft|software engineer",
+  "in_feed": true,
+  "reason": null
+ },
+ {
   "id": "simplify:169846aa-cf8c-463a-9721-b9826b79a129",
   "first_seen": 1790945452,
   "company": "Amazon",
@@ -294,30 +367,6 @@
   "group": "apple|cad engineer signoff infrastructure",
   "in_feed": true,
   "reason": null
- },
- {
-  "id": "simplify:d3c2d57b-c7ea-4194-ac33-731c72f64420",
-  "first_seen": 1790323085,
-  "company": "Apple",
-  "title": "Software Engineer - Applied AI",
-  "location": "San Diego, CA",
-  "url": "https://jobs.apple.com/en-us/details/200684521",
-  "category": "SWE",
-  "posted": "2026-09-25",
-  "date_posted": 1790298409,
-  "active": true,
-  "locations": [
-   "San Diego, CA"
-  ],
-  "region": "US",
-  "degrees": [
-   "Bachelor's"
-  ],
-  "sponsorship": "Other",
-  "group": "apple|software engineer applied ai",
-  "in_feed": true,
-  "reason": null,
-  "last_seen": 1790627786
  },
  {
   "id": "simplify:74f5d04c-5dd5-4838-8c22-2cef8a0d48c0",
@@ -7109,6 +7158,31 @@
   "reason": null
  },
  {
+  "id": "simplify:d3c2d57b-c7ea-4194-ac33-731c72f64420",
+  "first_seen": 1790323085,
+  "company": "Apple",
+  "title": "Software Engineer - Applied AI",
+  "location": "San Diego, CA",
+  "url": "https://jobs.apple.com/en-us/details/200684521",
+  "category": "SWE",
+  "posted": "2026-09-25",
+  "date_posted": 1790298409,
+  "active": false,
+  "locations": [
+   "San Diego, CA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's"
+  ],
+  "sponsorship": "Other",
+  "group": "apple|software engineer applied ai",
+  "in_feed": false,
+  "reason": "closed",
+  "last_seen": 1790985089,
+  "closed_at": 1790985089
+ },
+ {
   "id": "simplify:f3d76dcb-9751-40d8-ac06-018260f42846",
   "first_seen": 1790296592,
   "company": "Atlassian",
@@ -9880,10 +9954,17 @@
   "active": false,
   "first_seen": 1785081481.2181506,
   "last_seen": 1788139056.5271337,
-  "in_feed": false,
+  "in_feed": true,
   "closed_at": 1788139056,
-  "reason": "closed",
-  "group": "tesla|data labeler"
+  "reason": "untracked",
+  "group": "tesla|data labeler",
+  "locations": [
+   "Dallas, TX"
+  ],
+  "region": "US",
+  "degrees": [],
+  "sponsorship": "Other",
+  "why": "title"
  },
  {
   "id": "simplify:d18bc1a4-16e1-4dad-9fb3-8dcae83337fe",
