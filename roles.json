@@ -1,5 +1,32 @@
 [
  {
+  "id": "simplify:169846aa-cf8c-463a-9721-b9826b79a129",
+  "first_seen": 1790945452,
+  "company": "Amazon",
+  "title": "Software Development Engineer – Early Career - Amazon Dedicated Cloud - ADC",
+  "location": "Seattle, WA, Jessup, MD, Arlington County, Arlington, VA",
+  "url": "https://amazon.jobs/en/jobs/10529546/software-development-engineer-amazon-dedicated-cloud-early-career-2026-amazon-dedicated-cloud-adc",
+  "category": "SWE",
+  "posted": "2026-10-02",
+  "date_posted": 1790921279,
+  "active": true,
+  "locations": [
+   "Seattle, WA",
+   "Jessup, MD",
+   "Arlington County, Arlington, VA",
+   "Denver, CO",
+   "Herndon, VA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's"
+  ],
+  "sponsorship": "Other",
+  "group": "amazon|software development engineer early career amazon dedicated cloud adc",
+  "in_feed": true,
+  "reason": null
+ },
+ {
   "id": "simplify:ec6cf12a-dd02-4416-9eb0-6b01646dca5d",
   "first_seen": 1790899054,
   "company": "Pinterest",
@@ -3819,6 +3846,29 @@
   ],
   "sponsorship": "Other",
   "group": "bytedance|graduate ai model optimization engineer data speech product r d engineering",
+  "in_feed": true,
+  "reason": null
+ },
+ {
+  "id": "simplify:af356dc5-6ece-45f4-9cbf-7e378944c633",
+  "first_seen": 1790945452,
+  "company": "Amazon",
+  "title": "Applied Scientist - Operations",
+  "location": "Bellevue, WA",
+  "url": "https://amazon.jobs/en/jobs/10492292/applied-scientist-na-operations",
+  "category": "ML",
+  "posted": "2026-08-04",
+  "date_posted": 1785881630,
+  "active": true,
+  "locations": [
+   "Bellevue, WA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "amazon|applied scientist operations",
   "in_feed": true,
   "reason": null
  },
