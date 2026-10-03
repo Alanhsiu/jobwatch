@@ -8,7 +8,7 @@ sync between devices through this repo. No servers, no database, no cost — a p
 bot token. This repo's tracker: **[alanhsiu.github.io/jobwatch](https://alanhsiu.github.io/jobwatch/)** (a fork gets its own at `https://<owner>.github.io/<repo>/`).
 
 <!-- JOBS:HEAD:START -->
-_291 open new-grad roles at 57 companies · list last changed 2026-10-02 · scans every ~2 h_ · **[Open the tracker](https://alanhsiu.github.io/jobwatch/)** · [Full list ↓](#current-roles) · TikTok 103 · ByteDance 37 · Amazon 11 · Palantir 10 · Apple 9 · Anduril 7 · Old Mission 6 · Akuna Capital University 5 · …
+_289 open new-grad roles at 56 companies · list last changed 2026-10-03 · scans every ~2 h_ · **[Open the tracker](https://alanhsiu.github.io/jobwatch/)** · [Full list ↓](#current-roles) · TikTok 103 · ByteDance 37 · Amazon 11 · Palantir 10 · Apple 9 · Anduril 7 · Old Mission 6 · Akuna Capital University 5 · …
 <!-- JOBS:HEAD:END -->
 
 ## How it works
@@ -557,13 +557,6 @@ and `.nojekyll` into `docs/`, set Pages to `/docs`, and give every device a toke
 
 </details>
 <details open>
-<summary>Man Group (2)</summary>
-
-- [Technology Rotational Program - Associate Engineer](https://job-boards.eu.greenhouse.io/mangroup/jobs/4978937101) — Boston, MA · posted 2026-09-24 · SWE · BS
-- [Risk & Performance Analyst](https://job-boards.eu.greenhouse.io/mangroup/jobs/4958874101) — Boston, MA · posted 2026-08-27 · ML
-
-</details>
-<details open>
 <summary>Pinterest (2)</summary>
 
 - [Master's University Graduate Data Scientist](https://www.pinterestcareers.com/jobs/?gh_jid=8140389) — Palo Alto, CA, Seattle, WA, SF · posted 2026-10-01 · ML · MS
@@ -674,6 +667,12 @@ and `.nojekyll` into `docs/`, set Pages to `/docs`, and give every device a toke
 
 </details>
 <details open>
+<summary>Man Group (1)</summary>
+
+- [Risk & Performance Analyst](https://job-boards.eu.greenhouse.io/mangroup/jobs/4958874101) — Boston, MA · posted 2026-08-27 · ML
+
+</details>
+<details open>
 <summary>Marshall Wace (1)</summary>
 
 - [Quant Research - Quantitative Associate Programme](https://job-boards.greenhouse.io/mw-tech-grad/jobs/8636830002) — London, UK, NYC · posted 2026-08-26 · Quant
@@ -725,12 +724,6 @@ and `.nojekyll` into `docs/`, set Pages to `/docs`, and give every device a toke
 <summary>Virtu Financial (1)</summary>
 
 - [Software Engineer - Desktop Frontend Developer - C#/Winforms](https://job-boards.greenhouse.io/virtu/jobs/8516902002) — NYC · posted 2026-05-04 · SWE · BS
-
-</details>
-<details open>
-<summary>Walleye Capital (1)</summary>
-
-- [Quantitative Researcher - Single Stock Volatility](https://job-boards.greenhouse.io/walleyecapital-external-fulltime/jobs/4690167006) — Miami, FL · posted 2026-08-06 · Quant · BS/MS
 
 </details>
 <details open>

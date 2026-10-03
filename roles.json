@@ -369,29 +369,6 @@
   "reason": null
  },
  {
-  "id": "simplify:74f5d04c-5dd5-4838-8c22-2cef8a0d48c0",
-  "first_seen": 1790296592,
-  "company": "Man Group",
-  "title": "Technology Rotational Program - Associate Engineer",
-  "location": "Boston, MA",
-  "url": "https://job-boards.eu.greenhouse.io/mangroup/jobs/4978937101",
-  "category": "SWE",
-  "posted": "2026-09-24",
-  "date_posted": 1790289330,
-  "active": true,
-  "locations": [
-   "Boston, MA"
-  ],
-  "region": "US",
-  "degrees": [
-   "Bachelor's"
-  ],
-  "sponsorship": "Other",
-  "group": "man group|technology rotational program associate engineer",
-  "in_feed": true,
-  "reason": null
- },
- {
   "id": "simplify:0d1c69d1-e147-4307-a0d9-73744bf4a2cd",
   "first_seen": 1790296592,
   "company": "Atlassian",
@@ -3422,31 +3399,6 @@
   ],
   "sponsorship": "Other",
   "group": "bytedance|llm ai operations development engineer graduate data center networking",
-  "in_feed": true,
-  "reason": null
- },
- {
-  "id": "simplify:711f25ba-3340-4e16-9ab1-15b070d99954",
-  "company": "Walleye Capital",
-  "title": "Quantitative Researcher - Single Stock Volatility",
-  "location": "Miami, FL",
-  "url": "https://job-boards.greenhouse.io/walleyecapital-external-fulltime/jobs/4690167006",
-  "category": "Quant",
-  "posted": "2026-08-06",
-  "date_posted": 1786056343,
-  "active": true,
-  "first_seen": 1786066953.0025477,
-  "last_seen": 1789521191.4314806,
-  "locations": [
-   "Miami, FL"
-  ],
-  "region": "US",
-  "degrees": [
-   "Bachelor's",
-   "Master's"
-  ],
-  "sponsorship": "Other",
-  "group": "walleye capital|quantitative researcher single stock volatility",
   "in_feed": true,
   "reason": null
  },
@@ -7183,6 +7135,31 @@
   "closed_at": 1790985089
  },
  {
+  "id": "simplify:74f5d04c-5dd5-4838-8c22-2cef8a0d48c0",
+  "first_seen": 1790296592,
+  "company": "Man Group",
+  "title": "Technology Rotational Program - Associate Engineer",
+  "location": "Boston, MA",
+  "url": "https://job-boards.eu.greenhouse.io/mangroup/jobs/4978937101",
+  "category": "SWE",
+  "posted": "2026-09-24",
+  "date_posted": 1790289330,
+  "active": false,
+  "locations": [
+   "Boston, MA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's"
+  ],
+  "sponsorship": "Other",
+  "group": "man group|technology rotational program associate engineer",
+  "in_feed": false,
+  "reason": "closed",
+  "closed_at": 1791005262,
+  "last_seen": 1791005262
+ },
+ {
   "id": "simplify:f3d76dcb-9751-40d8-ac06-018260f42846",
   "first_seen": 1790296592,
   "company": "Atlassian",
@@ -8774,6 +8751,32 @@
   "reason": "untracked",
   "why": "phd",
   "group": "bytedance|ai molecular dynamics algorithm researcher graduate seed ai for science atomistic ai"
+ },
+ {
+  "id": "simplify:711f25ba-3340-4e16-9ab1-15b070d99954",
+  "company": "Walleye Capital",
+  "title": "Quantitative Researcher - Single Stock Volatility",
+  "location": "Miami, FL",
+  "url": "https://job-boards.greenhouse.io/walleyecapital-external-fulltime/jobs/4690167006",
+  "category": "Quant",
+  "posted": "2026-08-06",
+  "date_posted": 1786056343,
+  "active": false,
+  "first_seen": 1786066953.0025477,
+  "last_seen": 1791005262,
+  "locations": [
+   "Miami, FL"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "walleye capital|quantitative researcher single stock volatility",
+  "in_feed": false,
+  "reason": "closed",
+  "closed_at": 1791005262
  },
  {
   "id": "simplify:5a8a7ba1-2464-4dc8-995e-4cd08627650e",
@@ -11993,10 +11996,9 @@
   "region": "US",
   "degrees": [],
   "sponsorship": "Other",
-  "in_feed": true,
+  "in_feed": false,
   "closed_at": 1787268658,
-  "reason": "untracked",
-  "why": "title",
+  "reason": "closed",
   "group": "tesla|data labeler"
  },
  {
