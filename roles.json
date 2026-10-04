@@ -1153,6 +1153,27 @@
   "reason": null
  },
  {
+  "id": "simplify:81c985f6-1a98-41d6-81bc-4765dee97c77",
+  "first_seen": 1791074788,
+  "company": "Anduril",
+  "title": "Mission Software Engineer",
+  "location": "Costa Mesa, CA",
+  "url": "https://boards.greenhouse.io/andurilindustries/jobs/5208852007",
+  "category": "SWE",
+  "posted": "2026-09-04",
+  "date_posted": 1788533725,
+  "active": true,
+  "locations": [
+   "Costa Mesa, CA"
+  ],
+  "region": "US",
+  "degrees": [],
+  "sponsorship": "Other",
+  "group": "anduril|mission software engineer",
+  "in_feed": true,
+  "reason": null
+ },
+ {
   "id": "simplify:513e6d2f-18b8-4296-b39d-cd4c8b148b9b",
   "company": "DoorDash",
   "title": "Software Engineer 1 - Entry-Level",
@@ -1372,6 +1393,48 @@
   ],
   "sponsorship": "Other",
   "group": "stripe|software engineer new grad",
+  "in_feed": true,
+  "reason": null
+ },
+ {
+  "id": "simplify:bcf0ebb5-fa28-4ab5-94e0-888b2793c7e6",
+  "first_seen": 1791074788,
+  "company": "Anduril",
+  "title": "Mission Software Engineer - Undersea Reconnaissance & Strike",
+  "location": "Washington, DC",
+  "url": "https://boards.greenhouse.io/andurilindustries/jobs/5226473007",
+  "category": "SWE",
+  "posted": "2026-09-01",
+  "date_posted": 1788238641,
+  "active": true,
+  "locations": [
+   "Washington, DC"
+  ],
+  "region": "US",
+  "degrees": [],
+  "sponsorship": "Other",
+  "group": "anduril|mission software engineer undersea reconnaissance strike",
+  "in_feed": true,
+  "reason": null
+ },
+ {
+  "id": "simplify:fde7a562-b1ef-4e1a-b87e-4ec14e137f58",
+  "first_seen": 1791074788,
+  "company": "Anduril",
+  "title": "Mission Software Engineer - Undersea Reconnaissance & Strike",
+  "location": "Boston, MA",
+  "url": "https://boards.greenhouse.io/andurilindustries/jobs/5226471007",
+  "category": "SWE",
+  "posted": "2026-09-01",
+  "date_posted": 1788238641,
+  "active": true,
+  "locations": [
+   "Boston, MA"
+  ],
+  "region": "US",
+  "degrees": [],
+  "sponsorship": "Other",
+  "group": "anduril|mission software engineer undersea reconnaissance strike",
   "in_feed": true,
   "reason": null
  },
@@ -1688,6 +1751,27 @@
   ],
   "sponsorship": "Other",
   "group": "aqr capital management|trading analyst",
+  "in_feed": true,
+  "reason": null
+ },
+ {
+  "id": "simplify:157b6bc2-6368-407f-9ba7-8af25443d0be",
+  "first_seen": 1791074788,
+  "company": "Anduril",
+  "title": "Mission Software Engineer - Undersea Reconnaissance & Strike",
+  "location": "Quincy, MA",
+  "url": "https://boards.greenhouse.io/andurilindustries/jobs/5221253007",
+  "category": "SWE",
+  "posted": "2026-08-25",
+  "date_posted": 1787682237,
+  "active": true,
+  "locations": [
+   "Quincy, MA"
+  ],
+  "region": "US",
+  "degrees": [],
+  "sponsorship": "Other",
+  "group": "anduril|mission software engineer undersea reconnaissance strike",
   "in_feed": true,
   "reason": null
  },
@@ -12054,10 +12138,19 @@
   "active": false,
   "first_seen": 1784014543.6740808,
   "last_seen": 1785516098.0477452,
-  "in_feed": false,
+  "in_feed": true,
   "closed_at": 1785516098,
-  "reason": "closed",
-  "group": "virtu financial|quantitative strategist"
+  "reason": "untracked",
+  "group": "virtu financial|quantitative strategist",
+  "locations": [
+   "Austin, TX"
+  ],
+  "region": "US",
+  "degrees": [
+   "PhD"
+  ],
+  "sponsorship": "Other",
+  "why": "phd"
  },
  {
   "id": "simplify:a98768c3-1d79-4f8a-89a9-d3357004a2de",
