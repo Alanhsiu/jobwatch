@@ -49,6 +49,30 @@
   "reason": null
  },
  {
+  "id": "simplify:0523ccf9-780c-4410-bcbb-60c3ebfa059b",
+  "first_seen": 1791127536,
+  "company": "Microsoft",
+  "title": "Software Engineer - Intune",
+  "location": "Redmond, WA",
+  "url": "https://apply.careers.microsoft.com/careers/job/1970393556982925",
+  "category": "SWE",
+  "posted": "2026-10-02",
+  "date_posted": 1790979174,
+  "active": true,
+  "locations": [
+   "Redmond, WA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "microsoft|software engineer intune",
+  "in_feed": true,
+  "reason": null
+ },
+ {
   "id": "simplify:3f0ab4da-e520-442d-bc93-8ead777699cd",
   "first_seen": 1790985089,
   "company": "Microsoft",
@@ -66,6 +90,29 @@
   "degrees": [
    "Bachelor's",
    "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "microsoft|software engineer",
+  "in_feed": true,
+  "reason": null
+ },
+ {
+  "id": "simplify:f7a49f5e-9e77-4384-862f-b5575135ec64",
+  "first_seen": 1791127536,
+  "company": "Microsoft",
+  "title": "Software Engineer",
+  "location": "Redmond, WA",
+  "url": "https://apply.careers.microsoft.com/careers/job/1970393557016400",
+  "category": "SWE",
+  "posted": "2026-10-02",
+  "date_posted": 1790979171,
+  "active": true,
+  "locations": [
+   "Redmond, WA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's"
   ],
   "sponsorship": "Other",
   "group": "microsoft|software engineer",
@@ -96,6 +143,30 @@
   ],
   "sponsorship": "Other",
   "group": "amazon|software development engineer early career amazon dedicated cloud adc",
+  "in_feed": true,
+  "reason": null
+ },
+ {
+  "id": "simplify:f88093bb-d2d0-4394-a197-5b0f1159eec8",
+  "first_seen": 1791127536,
+  "company": "Microsoft",
+  "title": "Software Engineer",
+  "location": "Redmond, WA",
+  "url": "https://apply.careers.microsoft.com/careers/job/1970393557022395",
+  "category": "SWE",
+  "posted": "2026-10-02",
+  "date_posted": 1790903398,
+  "active": true,
+  "locations": [
+   "Redmond, WA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "microsoft|software engineer",
   "in_feed": true,
   "reason": null
  },
@@ -147,6 +218,30 @@
   ],
   "sponsorship": "Other",
   "group": "pinterest|university grad software engineer",
+  "in_feed": true,
+  "reason": null
+ },
+ {
+  "id": "simplify:fe14fd5d-c834-4c22-bc27-c3807e210b18",
+  "first_seen": 1791127536,
+  "company": "Microsoft",
+  "title": "Software Engineer - Forward Deployed Engineer",
+  "location": "Redmond, WA",
+  "url": "https://apply.careers.microsoft.com/careers/job/1970393557004814",
+  "category": "SWE",
+  "posted": "2026-10-01",
+  "date_posted": 1790892628,
+  "active": true,
+  "locations": [
+   "Redmond, WA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "microsoft|software engineer forward deployed engineer",
   "in_feed": true,
   "reason": null
  },
@@ -475,48 +570,26 @@
   "reason": null
  },
  {
-  "id": "simplify:39e6bebf-6cf0-4612-982e-5fd9d4af764d",
-  "first_seen": 1790149819,
-  "company": "TikTok",
-  "title": "Ecosystem Analyst Graduate - LLM/Enforcement - TikTok Live",
-  "location": "LA",
-  "url": "https://lifeattiktok.com/search/7687813753283332357",
-  "category": "ML",
+  "id": "simplify:6753e83e-b85a-4ab7-9211-95f03794a58c",
+  "first_seen": 1791127536,
+  "company": "Microsoft",
+  "title": "Software Engineer",
+  "location": "Redmond, WA",
+  "url": "https://apply.careers.microsoft.com/careers/job/1970393556982903",
+  "category": "SWE",
   "posted": "2026-09-23",
-  "date_posted": 1790144306,
+  "date_posted": 1790125610,
   "active": true,
   "locations": [
-   "LA"
+   "Redmond, WA"
   ],
   "region": "US",
   "degrees": [
-   "Bachelor's"
+   "Bachelor's",
+   "Master's"
   ],
   "sponsorship": "Other",
-  "group": "tiktok|ecosystem analyst graduate llm enforcement tiktok live",
-  "in_feed": true,
-  "reason": null
- },
- {
-  "id": "simplify:797457af-9c7f-488f-af3b-d623ab5051d0",
-  "first_seen": 1790149819,
-  "company": "TikTok",
-  "title": "Ecosystem Analyst Graduate - TikTok LIVE",
-  "location": "LA",
-  "url": "https://lifeattiktok.com/search/7687814085886527797",
-  "category": "ML",
-  "posted": "2026-09-23",
-  "date_posted": 1790144306,
-  "active": true,
-  "locations": [
-   "LA"
-  ],
-  "region": "US",
-  "degrees": [
-   "Bachelor's"
-  ],
-  "sponsorship": "Other",
-  "group": "tiktok|ecosystem analyst graduate tiktok live",
+  "group": "microsoft|software engineer",
   "in_feed": true,
   "reason": null
  },
@@ -665,6 +738,30 @@
   "reason": null
  },
  {
+  "id": "simplify:b6708f55-ced2-419a-9010-bf33b8b94595",
+  "first_seen": 1791127536,
+  "company": "Microsoft",
+  "title": "Software Engineer",
+  "location": "Remote in USA",
+  "url": "https://apply.careers.microsoft.com/careers/job/1970393556928331",
+  "category": "SWE",
+  "posted": "2026-09-17",
+  "date_posted": 1789682725,
+  "active": true,
+  "locations": [
+   "Remote in USA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "microsoft|software engineer",
+  "in_feed": true,
+  "reason": null
+ },
+ {
   "id": "simplify:a47dfc85-2d9a-4cad-9a29-0c244dc1a46e",
   "first_seen": 1789621243,
   "company": "Tower Research Capital",
@@ -756,29 +853,6 @@
   ],
   "sponsorship": "Other",
   "group": "anduril|software engineer battlespace awareness",
-  "in_feed": true,
-  "reason": null
- },
- {
-  "id": "simplify:bd1775ab-0963-4e31-aa28-605ecd334bd8",
-  "first_seen": 1789570473,
-  "company": "Old Mission",
-  "title": "Floor Trader New Grad",
-  "location": "Chicago, IL",
-  "url": "https://www.oldmissioncapital.com/careers/?gh_jid=7993756003",
-  "category": "Quant",
-  "posted": "2026-09-16",
-  "date_posted": 1789523349,
-  "active": true,
-  "locations": [
-   "Chicago, IL"
-  ],
-  "region": "US",
-  "degrees": [
-   "Bachelor's"
-  ],
-  "sponsorship": "Other",
-  "group": "old mission|floor trader new grad",
   "in_feed": true,
   "reason": null
  },
@@ -875,6 +949,30 @@
   ],
   "sponsorship": "Other",
   "group": "atlassian|software engineer",
+  "in_feed": true,
+  "reason": null
+ },
+ {
+  "id": "simplify:b4e7a187-9537-4e72-8b27-c8d54faf0118",
+  "first_seen": 1791127536,
+  "company": "Microsoft",
+  "title": "Software Engineering - Commercial Engineering & AI - Ceai",
+  "location": "Redmond, WA",
+  "url": "https://apply.careers.microsoft.com/careers/job/1970393556914839",
+  "category": "SWE",
+  "posted": "2026-09-14",
+  "date_posted": 1789425238,
+  "active": true,
+  "locations": [
+   "Redmond, WA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "microsoft|software engineering commercial engineering ai ceai",
   "in_feed": true,
   "reason": null
  },
@@ -1149,6 +1247,31 @@
   ],
   "sponsorship": "Other",
   "group": "scale ai|software engineer new grad",
+  "in_feed": true,
+  "reason": null
+ },
+ {
+  "id": "simplify:03bcc190-297d-4f25-b85d-749b57da6016",
+  "first_seen": 1791127536,
+  "company": "Microsoft",
+  "title": "Software Engineer",
+  "location": "Annapolis Junction, MD, Redmond, WA, Reston, VA",
+  "url": "https://apply.careers.microsoft.com/careers/job/1970393556858723",
+  "category": "SWE",
+  "posted": "2026-09-04",
+  "date_posted": 1788560182,
+  "active": true,
+  "locations": [
+   "Annapolis Junction, MD",
+   "Redmond, WA",
+   "Reston, VA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's"
+  ],
+  "sponsorship": "Other",
+  "group": "microsoft|software engineer",
   "in_feed": true,
   "reason": null
  },
@@ -1532,28 +1655,6 @@
   ],
   "sponsorship": "Other",
   "group": "apple|cad automation and mixed signal simulation engineer",
-  "in_feed": true,
-  "reason": null
- },
- {
-  "id": "simplify:c80bafb0-ca83-48b7-a301-af52c1a6678e",
-  "company": "Man Group",
-  "title": "Risk & Performance Analyst",
-  "location": "Boston, MA",
-  "url": "https://job-boards.eu.greenhouse.io/mangroup/jobs/4958874101",
-  "category": "ML",
-  "posted": "2026-08-27",
-  "date_posted": 1787848912,
-  "active": true,
-  "first_seen": 1788459477.1502452,
-  "last_seen": 1789521191.4314806,
-  "locations": [
-   "Boston, MA"
-  ],
-  "region": "US",
-  "degrees": [],
-  "sponsorship": "Other",
-  "group": "man group|risk performance analyst",
   "in_feed": true,
   "reason": null
  },
@@ -3958,30 +4059,6 @@
   "reason": null
  },
  {
-  "id": "simplify:76749e6c-ae46-458c-958e-1980f2fc2dc6",
-  "company": "TikTok",
-  "title": "Backend Engineer Graduate",
-  "location": "San Jose, CA",
-  "url": "https://lifeattiktok.com/search/7665989305914984709",
-  "category": "SWE",
-  "posted": "2026-08-04",
-  "date_posted": 1785835217,
-  "active": true,
-  "first_seen": 1785862126.3427815,
-  "last_seen": 1789521191.4314806,
-  "locations": [
-   "San Jose, CA"
-  ],
-  "region": "US",
-  "degrees": [
-   "Bachelor's"
-  ],
-  "sponsorship": "Other",
-  "group": "tiktok|backend engineer graduate",
-  "in_feed": true,
-  "reason": null
- },
- {
   "id": "simplify:83ab4fcc-d246-4d39-999f-5bb6fbee8953",
   "company": "TikTok",
   "title": "AI Engineer Graduate - Client Architecture - 2027 Start",
@@ -5819,31 +5896,6 @@
   "reason": null
  },
  {
-  "id": "simplify:69fd4a54-565f-45d1-8c93-47adb5ce5f6f",
-  "company": "Optiver",
-  "title": "Equity Analyst New Grad",
-  "location": "Chicago, IL",
-  "url": "https://www.optiver.com/join-us/jobs/8616003002/?gh_jid=8616003002",
-  "category": "Quant",
-  "posted": "2026-07-21",
-  "date_posted": 1784596774,
-  "active": true,
-  "first_seen": 1788483176.4737847,
-  "last_seen": 1789521191.4314806,
-  "locations": [
-   "Chicago, IL"
-  ],
-  "region": "US",
-  "degrees": [
-   "Bachelor's",
-   "Master's"
-  ],
-  "sponsorship": "Other",
-  "group": "optiver|equity analyst new grad",
-  "in_feed": true,
-  "reason": null
- },
- {
   "id": "simplify:3ace8680-5997-4467-ad7e-82ecc656e241",
   "company": "Five Rings Capital",
   "title": "Campus Full Time - Software Developer",
@@ -7270,6 +7322,56 @@
   "last_seen": 1790422466
  },
  {
+  "id": "simplify:39e6bebf-6cf0-4612-982e-5fd9d4af764d",
+  "first_seen": 1790149819,
+  "company": "TikTok",
+  "title": "Ecosystem Analyst Graduate - LLM/Enforcement - TikTok Live",
+  "location": "LA",
+  "url": "https://lifeattiktok.com/search/7687813753283332357",
+  "category": "ML",
+  "posted": "2026-09-23",
+  "date_posted": 1790144306,
+  "active": false,
+  "locations": [
+   "LA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's"
+  ],
+  "sponsorship": "Other",
+  "group": "tiktok|ecosystem analyst graduate llm enforcement tiktok live",
+  "in_feed": false,
+  "reason": "closed",
+  "closed_at": 1791127536,
+  "last_seen": 1791127536
+ },
+ {
+  "id": "simplify:797457af-9c7f-488f-af3b-d623ab5051d0",
+  "first_seen": 1790149819,
+  "company": "TikTok",
+  "title": "Ecosystem Analyst Graduate - TikTok LIVE",
+  "location": "LA",
+  "url": "https://lifeattiktok.com/search/7687814085886527797",
+  "category": "ML",
+  "posted": "2026-09-23",
+  "date_posted": 1790144306,
+  "active": false,
+  "locations": [
+   "LA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's"
+  ],
+  "sponsorship": "Other",
+  "group": "tiktok|ecosystem analyst graduate tiktok live",
+  "in_feed": false,
+  "reason": "closed",
+  "closed_at": 1791127536,
+  "last_seen": 1791127536
+ },
+ {
   "id": "simplify:5b6d1005-f538-4163-bdf8-2fc73e2db74e",
   "first_seen": 1790053753,
   "company": "Apple",
@@ -7402,6 +7504,31 @@
   "reason": "closed",
   "closed_at": 1790834940,
   "last_seen": 1790834940
+ },
+ {
+  "id": "simplify:bd1775ab-0963-4e31-aa28-605ecd334bd8",
+  "first_seen": 1789570473,
+  "company": "Old Mission",
+  "title": "Floor Trader New Grad",
+  "location": "Chicago, IL",
+  "url": "https://www.oldmissioncapital.com/careers/?gh_jid=7993756003",
+  "category": "Quant",
+  "posted": "2026-09-16",
+  "date_posted": 1789523349,
+  "active": false,
+  "locations": [
+   "Chicago, IL"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's"
+  ],
+  "sponsorship": "Other",
+  "group": "old mission|floor trader new grad",
+  "in_feed": false,
+  "reason": "closed",
+  "closed_at": 1791127536,
+  "last_seen": 1791127536
  },
  {
   "id": "simplify:86cb0b1e-3691-4e3c-a4ec-c65f90643d87",
@@ -7642,6 +7769,29 @@
   "reason": "untracked",
   "why": "title",
   "group": "instacart|senior machine learning engineer economics"
+ },
+ {
+  "id": "simplify:c80bafb0-ca83-48b7-a301-af52c1a6678e",
+  "company": "Man Group",
+  "title": "Risk & Performance Analyst",
+  "location": "Boston, MA",
+  "url": "https://job-boards.eu.greenhouse.io/mangroup/jobs/4958874101",
+  "category": "ML",
+  "posted": "2026-08-27",
+  "date_posted": 1787848912,
+  "active": false,
+  "first_seen": 1788459477.1502452,
+  "last_seen": 1791127536,
+  "locations": [
+   "Boston, MA"
+  ],
+  "region": "US",
+  "degrees": [],
+  "sponsorship": "Other",
+  "group": "man group|risk performance analyst",
+  "in_feed": false,
+  "reason": "closed",
+  "closed_at": 1791127536
  },
  {
   "id": "simplify:2c1a920f-ed76-4384-9a74-6cf0d01a9123",
@@ -9159,6 +9309,31 @@
   "group": "tiktok|machine learning engineer graduate monetization technology ads core global"
  },
  {
+  "id": "simplify:76749e6c-ae46-458c-958e-1980f2fc2dc6",
+  "company": "TikTok",
+  "title": "Backend Engineer Graduate",
+  "location": "San Jose, CA",
+  "url": "https://lifeattiktok.com/search/7665989305914984709",
+  "category": "SWE",
+  "posted": "2026-08-04",
+  "date_posted": 1785835217,
+  "active": false,
+  "first_seen": 1785862126.3427815,
+  "last_seen": 1791127536,
+  "locations": [
+   "San Jose, CA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's"
+  ],
+  "sponsorship": "Other",
+  "group": "tiktok|backend engineer graduate",
+  "in_feed": false,
+  "reason": "closed",
+  "closed_at": 1791127536
+ },
+ {
   "id": "simplify:4c57862c-cfb9-4903-a7af-a7e813ff154a",
   "company": "TikTok",
   "title": "Data Scientist Graduate - TikTok Platform Safety",
@@ -10320,6 +10495,32 @@
   "reason": "untracked",
   "why": "title",
   "group": "tesla|data collection operator optimus"
+ },
+ {
+  "id": "simplify:69fd4a54-565f-45d1-8c93-47adb5ce5f6f",
+  "company": "Optiver",
+  "title": "Equity Analyst New Grad",
+  "location": "Chicago, IL",
+  "url": "https://www.optiver.com/join-us/jobs/8616003002/?gh_jid=8616003002",
+  "category": "Quant",
+  "posted": "2026-07-21",
+  "date_posted": 1784596774,
+  "active": false,
+  "first_seen": 1788483176.4737847,
+  "last_seen": 1791127536,
+  "locations": [
+   "Chicago, IL"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "optiver|equity analyst new grad",
+  "in_feed": false,
+  "reason": "closed",
+  "closed_at": 1791127536
  },
  {
   "id": "simplify:935d5e2a-2962-45cf-b6cc-08183fc2b835",

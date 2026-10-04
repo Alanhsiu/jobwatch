@@ -4,33 +4,33 @@
  "repo": "Alanhsiu/jobwatch",
  "branch": "main",
  "pages_url": "https://alanhsiu.github.io/jobwatch/",
- "last_run": 1791074788,
- "last_change": 1791074788,
+ "last_run": 1791127536,
+ "last_change": 1791127536,
  "last_result": "ok",
  "feed": {
-  "records": 19488,
-  "active": 3043,
-  "fetched_at": 1791074788,
+  "records": 19613,
+  "active": 3032,
+  "fetched_at": 1791127536,
   "attempts": 1
  },
  "counts": {
-  "active": 293,
-  "closed": 204,
+  "active": 295,
+  "closed": 210,
   "untracked": 66,
-  "groups": 256,
-  "companies": 56,
-  "new_this_run": 4,
+  "groups": 253,
+  "companies": 54,
+  "new_this_run": 8,
   "silent_known_this_run": 0,
-  "closed_this_run": 0,
+  "closed_this_run": 6,
   "untracked_this_run": 0
  },
  "rejects": {
-  "category": 120,
-  "phd": 167,
+  "category": 121,
+  "phd": 168,
   "title": 21,
   "region": 41,
   "sponsorship": 0,
-  "age": 20
+  "age": 21
  },
  "keywords": {
   "adobe": {
@@ -523,11 +523,9 @@
    "denied": 0
   },
   "man group": {
-   "active": 1,
+   "active": 0,
    "all_time": 3,
-   "names": [
-    "Man Group"
-   ],
+   "names": [],
    "denied": 0
   },
   "marshall wace": {
@@ -545,8 +543,8 @@
    "denied": 0
   },
   "microsoft": {
-   "active": 4,
-   "all_time": 12,
+   "active": 12,
+   "all_time": 20,
    "names": [
     "Microsoft"
    ],
@@ -599,7 +597,7 @@
    "denied": 0
   },
   "old mission": {
-   "active": 6,
+   "active": 5,
    "all_time": 6,
    "names": [
     "Old Mission"
@@ -615,11 +613,9 @@
    "denied": 0
   },
   "optiver": {
-   "active": 1,
+   "active": 0,
    "all_time": 5,
-   "names": [
-    "Optiver"
-   ],
+   "names": [],
    "denied": 0
   },
   "palantir": {
@@ -849,7 +845,7 @@
    "denied": 0
   },
   "tiktok": {
-   "active": 103,
+   "active": 100,
    "all_time": 153,
    "names": [
     "TikTok"
@@ -1005,7 +1001,7 @@
  },
  "telegram": {
   "mode": "sent",
-  "delivered": 4,
+  "delivered": 8,
   "failed_chunks": 0,
   "creds": true
  },

@@ -8,7 +8,7 @@ sync between devices through this repo. No servers, no database, no cost — a p
 bot token. This repo's tracker: **[alanhsiu.github.io/jobwatch](https://alanhsiu.github.io/jobwatch/)** (a fork gets its own at `https://<owner>.github.io/<repo>/`).
 
 <!-- JOBS:HEAD:START -->
-_293 open new-grad roles at 56 companies · list last changed 2026-10-04 · scans every ~2 h_ · **[Open the tracker](https://alanhsiu.github.io/jobwatch/)** · [Full list ↓](#current-roles) · TikTok 103 · ByteDance 37 · Amazon 11 · Anduril 11 · Palantir 10 · Apple 9 · Old Mission 6 · Akuna Capital University 5 · …
+_295 open new-grad roles at 54 companies · list last changed 2026-10-04 · scans every ~2 h_ · **[Open the tracker](https://alanhsiu.github.io/jobwatch/)** · [Full list ↓](#current-roles) · TikTok 100 · ByteDance 37 · Microsoft 12 · Amazon 11 · Anduril 11 · Palantir 10 · Apple 9 · Akuna Capital University 5 · …
 <!-- JOBS:HEAD:END -->
 
 ## How it works
@@ -205,10 +205,8 @@ and `.nojekyll` into `docs/`, set Pages to `/docs`, and give every device a toke
 ## Current roles
 <!-- JOBS:START -->
 <details>
-<summary>TikTok (103)</summary>
+<summary>TikTok (100)</summary>
 
-- [Ecosystem Analyst Graduate - LLM/Enforcement - TikTok Live](https://lifeattiktok.com/search/7687813753283332357) — LA · posted 2026-09-23 · ML · BS
-- [Ecosystem Analyst Graduate - TikTok LIVE](https://lifeattiktok.com/search/7687814085886527797) — LA · posted 2026-09-23 · ML · BS
 - [Machine Learning Engineer Graduate - E-Commerce Recommendation Video](https://lifeattiktok.com/search/7686999927260105013) · [2](https://lifeattiktok.com/search/7678145401619237173) — San Jose, CA; Seattle, WA · posted 2026-09-18 · ML · BS
 - [Data Engineer Graduate](https://lifeattiktok.com/search/7681779180341709109) — San Jose, CA · posted 2026-09-07 · ML · BS/MS
 - [Machine Learning Engineer Graduate - E-Commerce Knowledge Graph](https://lifeattiktok.com/search/7679156878833682693) — San Jose, CA · posted 2026-08-29 · ML · BS/MS
@@ -245,7 +243,6 @@ and `.nojekyll` into `docs/`, set Pages to `/docs`, and give every device a toke
 - [Software Engineer Graduate - Multiple Teams](https://lifeattiktok.com/search/7668582086900680965) — Seattle, WA · posted 2026-08-06 · SWE · BS/MS
 - [Software Engineer Graduate - Global E-commerce-Search - 2027 Start](https://lifeattiktok.com/search/7670558992960358661) — Seattle, WA · posted 2026-08-06 · SWE · BS/MS
 - [Graduate Software Engineer - Global CRM](https://lifeattiktok.com/search/7668554579301124357) — San Jose, CA · posted 2026-08-06 · SWE · BS/MS
-- [Backend Engineer Graduate](https://lifeattiktok.com/search/7665989305914984709) — San Jose, CA · posted 2026-08-04 · SWE · BS
 - [AI Engineer Graduate - Client Architecture - 2027 Start](https://lifeattiktok.com/search/7664978367107713333) — San Jose, CA · posted 2026-08-04 · ML · BS
 - [Frontend Software Engineer Graduate - Global E-commerce](https://lifeattiktok.com/search/7668828193675036981) — Seattle, WA · posted 2026-08-04 · SWE · BS
 - [Data Engineer Graduate - Monetization Data](https://lifeattiktok.com/search/7668550561096665397) — San Jose, CA · posted 2026-08-04 · ML · BS/MS
@@ -335,6 +332,18 @@ and `.nojekyll` into `docs/`, set Pages to `/docs`, and give every device a toke
 
 </details>
 <details open>
+<summary>Microsoft (12)</summary>
+
+- [Software Engineer - Intune](https://apply.careers.microsoft.com/careers/job/1970393556982925) — Redmond, WA · posted 2026-10-02 · SWE · BS/MS
+- [Software Engineer](https://apply.careers.microsoft.com/careers/job/1970393556999325) · [2](https://apply.careers.microsoft.com/careers/job/1970393557016400) · [3](https://apply.careers.microsoft.com/careers/job/1970393557022395) · [4](https://apply.careers.microsoft.com/careers/job/1970393556982903) · [5](https://apply.careers.microsoft.com/careers/job/1970393556928331) · [6](https://apply.careers.microsoft.com/careers/job/1970393556858723) — Redmond, WA; Remote in USA; Annapolis Junction, MD, Redmond, WA, Reston, VA · posted 2026-10-02 · SWE · BS/MS
+- [Software Engineer - Forward Deployed Engineer](https://apply.careers.microsoft.com/careers/job/1970393557004814) — Redmond, WA · posted 2026-10-01 · SWE · BS/MS
+- [Software Engineer - Cleared](https://apply.careers.microsoft.com/careers/job/1970393556982911) — Reston, VA · posted 2026-09-23 · SWE · BS/MS
+- [Software Engineering - Commercial Engineering & AI - Ceai](https://apply.careers.microsoft.com/careers/job/1970393556914839) — Redmond, WA · posted 2026-09-14 · SWE · BS/MS
+- [Software Engineer - CoreAI](https://apply.careers.microsoft.com/careers/job/1970393556989020) — Redmond, WA · posted 2026-09-11 · SWE · BS/MS
+- [Software Engineer - Ctj - Poly](https://apply.careers.microsoft.com/careers/job/1970393556860973) — Annapolis Junction, MD, Reston, VA · posted 2026-06-18 · SWE · BS
+
+</details>
+<details open>
 <summary>Amazon (11)</summary>
 
 - [Software Development Engineer – Early Career - Amazon Dedicated Cloud - ADC](https://amazon.jobs/en/jobs/10529546/software-development-engineer-amazon-dedicated-cloud-early-career-2026-amazon-dedicated-cloud-adc) — Seattle, WA, Jessup, MD, Arlington County, Arlington, VA · posted 2026-10-02 · SWE · BS
@@ -389,17 +398,6 @@ and `.nojekyll` into `docs/`, set Pages to `/docs`, and give every device a toke
 
 </details>
 <details open>
-<summary>Old Mission (6)</summary>
-
-- [Floor Trader New Grad](https://www.oldmissioncapital.com/careers/?gh_jid=7993756003) — Chicago, IL · posted 2026-09-16 · Quant · BS
-- [Software Engineer – Graduate Program - August Start](https://www.oldmissioncapital.com/careers/?gh_jid=7796048003) — Chicago, IL · posted 2026-07-13 · SWE · BS
-- [Quantitative Trader](https://www.oldmissioncapital.com/careers/?gh_jid=7796031003) — Chicago, IL, NYC · posted 2026-07-13 · Quant · BS
-- [Quantitative Trader Graduate Program](https://www.oldmissioncapital.com/careers/?gh_jid=7796044003) — Chicago, IL, NYC · posted 2026-07-13 · Quant · BS
-- [Quantitative Trader – Graduate Program - August Start](https://www.oldmissioncapital.com/careers/?gh_jid=7796058003) — London, UK, Chicago, IL, NYC · posted 2026-07-13 · Quant · BS/MS
-- [Junior Quantitative Researcher](https://www.oldmissioncapital.com/careers/?gh_jid=6309652003) — Chicago, IL · posted 2026-05-18 · Quant · MS/PhD
-
-</details>
-<details open>
 <summary>Akuna Capital University (5)</summary>
 
 - [Entry Level Software Engineer - C++](https://www.akunacapital.com/careers/job/8013085/?gh_jid=8013085) — Chicago, IL · posted 2026-07-13 · SWE · BS/MS/PhD
@@ -429,6 +427,16 @@ and `.nojekyll` into `docs/`, set Pages to `/docs`, and give every device a toke
 
 </details>
 <details open>
+<summary>Old Mission (5)</summary>
+
+- [Software Engineer – Graduate Program - August Start](https://www.oldmissioncapital.com/careers/?gh_jid=7796048003) — Chicago, IL · posted 2026-07-13 · SWE · BS
+- [Quantitative Trader](https://www.oldmissioncapital.com/careers/?gh_jid=7796031003) — Chicago, IL, NYC · posted 2026-07-13 · Quant · BS
+- [Quantitative Trader Graduate Program](https://www.oldmissioncapital.com/careers/?gh_jid=7796044003) — Chicago, IL, NYC · posted 2026-07-13 · Quant · BS
+- [Quantitative Trader – Graduate Program - August Start](https://www.oldmissioncapital.com/careers/?gh_jid=7796058003) — London, UK, Chicago, IL, NYC · posted 2026-07-13 · Quant · BS/MS
+- [Junior Quantitative Researcher](https://www.oldmissioncapital.com/careers/?gh_jid=6309652003) — Chicago, IL · posted 2026-05-18 · Quant · MS/PhD
+
+</details>
+<details open>
 <summary>Chicago Trading Company (4)</summary>
 
 - [Associate Engineer](https://job-boards.greenhouse.io/chicagotradingcampus/jobs/4716937005) · [2](https://job-boards.greenhouse.io/ctccampusboard/jobs/4709991005) — Chicago, IL, NYC · posted 2026-08-03 · SWE · BS/MS
@@ -442,15 +450,6 @@ and `.nojekyll` into `docs/`, set Pages to `/docs`, and give every device a toke
 - [Quantitative AI Technical Staff](https://www.citadelsecurities.com/careers/details/quantitative-ai-technical-staff/) — Miami, FL · posted 2026-07-22 · ML · BS/MS/PhD
 - [Graduate Software Engineer](https://www.citadelsecurities.com/careers/details/software-engineer-university-graduate-us/) — Miami, FL, NYC · posted 2026-07-06 · SWE · BS/MS/PhD
 - [Quantitative Trader – University Graduate](https://www.citadelsecurities.com/careers/details/quantitative-trader-university-graduate-us-miami/) · [2](https://www.citadelsecurities.com/careers/details/quantitative-trader-university-graduate-us-new-york/) — Miami, FL; NYC · posted 2026-07-06 · Quant · BS/MS/PhD
-
-</details>
-<details open>
-<summary>Microsoft (4)</summary>
-
-- [Software Engineer](https://apply.careers.microsoft.com/careers/job/1970393556999325) — Redmond, WA · posted 2026-10-02 · SWE · BS/MS
-- [Software Engineer - Cleared](https://apply.careers.microsoft.com/careers/job/1970393556982911) — Reston, VA · posted 2026-09-23 · SWE · BS/MS
-- [Software Engineer - CoreAI](https://apply.careers.microsoft.com/careers/job/1970393556989020) — Redmond, WA · posted 2026-09-11 · SWE · BS/MS
-- [Software Engineer - Ctj - Poly](https://apply.careers.microsoft.com/careers/job/1970393556860973) — Annapolis Junction, MD, Reston, VA · posted 2026-06-18 · SWE · BS
 
 </details>
 <details open>
@@ -669,12 +668,6 @@ and `.nojekyll` into `docs/`, set Pages to `/docs`, and give every device a toke
 
 </details>
 <details open>
-<summary>Man Group (1)</summary>
-
-- [Risk & Performance Analyst](https://job-boards.eu.greenhouse.io/mangroup/jobs/4958874101) — Boston, MA · posted 2026-08-27 · ML
-
-</details>
-<details open>
 <summary>Marshall Wace (1)</summary>
 
 - [Quant Research - Quantitative Associate Programme](https://job-boards.greenhouse.io/mw-tech-grad/jobs/8636830002) — London, UK, NYC · posted 2026-08-26 · Quant
@@ -690,12 +683,6 @@ and `.nojekyll` into `docs/`, set Pages to `/docs`, and give every device a toke
 <summary>OpenAI (1)</summary>
 
 - [Software Engineer - Applied Emerging Talent](https://jobs.ashbyhq.com/openai/55150071-fce8-48f5-aea4-14ed78b83511/application?embed=true) — SF · posted 2026-09-15 · SWE · BS/MS
-
-</details>
-<details open>
-<summary>Optiver (1)</summary>
-
-- [Equity Analyst New Grad](https://www.optiver.com/join-us/jobs/8616003002/?gh_jid=8616003002) — Chicago, IL · posted 2026-07-21 · Quant · BS/MS
 
 </details>
 <details open>
