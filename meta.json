@@ -4,31 +4,31 @@
  "repo": "Alanhsiu/jobwatch",
  "branch": "main",
  "pages_url": "https://alanhsiu.github.io/jobwatch/",
- "last_run": 1791142949,
- "last_change": 1791142949,
+ "last_run": 1791155876,
+ "last_change": 1791155876,
  "last_result": "ok",
  "feed": {
-  "records": 19586,
-  "active": 3027,
-  "fetched_at": 1791142949,
+  "records": 19588,
+  "active": 3030,
+  "fetched_at": 1791155876,
   "attempts": 1
  },
  "counts": {
-  "active": 294,
-  "closed": 211,
+  "active": 295,
+  "closed": 210,
   "untracked": 66,
-  "groups": 252,
-  "companies": 53,
+  "groups": 253,
+  "companies": 54,
   "new_this_run": 0,
   "silent_known_this_run": 0,
-  "closed_this_run": 1,
+  "closed_this_run": 0,
   "untracked_this_run": 0
  },
  "rejects": {
   "category": 121,
   "phd": 168,
   "title": 21,
-  "region": 41,
+  "region": 43,
   "sponsorship": 0,
   "age": 21
  },
@@ -206,9 +206,10 @@
    "denied": 0
   },
   "citadel": {
-   "active": 4,
+   "active": 5,
    "all_time": 10,
    "names": [
+    "Citadel",
     "Citadel Securities"
    ],
    "denied": 0
