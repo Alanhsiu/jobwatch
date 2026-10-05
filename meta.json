@@ -4,24 +4,24 @@
  "repo": "Alanhsiu/jobwatch",
  "branch": "main",
  "pages_url": "https://alanhsiu.github.io/jobwatch/",
- "last_run": 1791155876,
- "last_change": 1791155876,
+ "last_run": 1791212298,
+ "last_change": 1791212298,
  "last_result": "ok",
  "feed": {
-  "records": 19588,
-  "active": 3030,
-  "fetched_at": 1791155876,
+  "records": 19536,
+  "active": 3026,
+  "fetched_at": 1791212298,
   "attempts": 1
  },
  "counts": {
-  "active": 295,
-  "closed": 210,
+  "active": 294,
+  "closed": 211,
   "untracked": 66,
-  "groups": 253,
+  "groups": 252,
   "companies": 54,
   "new_this_run": 0,
   "silent_known_this_run": 0,
-  "closed_this_run": 0,
+  "closed_this_run": 1,
   "untracked_this_run": 0
  },
  "rejects": {
@@ -543,7 +543,7 @@
    "denied": 0
   },
   "microsoft": {
-   "active": 12,
+   "active": 11,
    "all_time": 20,
    "names": [
     "Microsoft"
