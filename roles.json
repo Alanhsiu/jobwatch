@@ -1,5 +1,29 @@
 [
  {
+  "id": "simplify:eba32eeb-b7a1-4b27-b3c2-1fdaa04d3bd9",
+  "first_seen": 1791240347,
+  "company": "Atlassian",
+  "title": "Data Engineer New Grad",
+  "location": "Seattle, WA",
+  "url": "https://campus-americas.icims.com/jobs/25998/data-engineer%2c-2027-graduate-u.s/job",
+  "category": "ML",
+  "posted": "2026-10-05",
+  "date_posted": 1791237839,
+  "active": true,
+  "locations": [
+   "Seattle, WA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "atlassian|data engineer new grad",
+  "in_feed": true,
+  "reason": null
+ },
+ {
   "id": "simplify:867c063f-636d-4f77-bf08-decee4955762",
   "first_seen": 1790985089,
   "company": "Harvey",
@@ -5821,32 +5845,6 @@
   "reason": null
  },
  {
-  "id": "simplify:f2abc99e-93ba-424e-8d7c-0e3382978e05",
-  "company": "Citadel Securities",
-  "title": "Quantitative AI Technical Staff",
-  "location": "Miami, FL",
-  "url": "https://www.citadelsecurities.com/careers/details/quantitative-ai-technical-staff/",
-  "category": "ML",
-  "posted": "2026-07-22",
-  "date_posted": 1784758384,
-  "active": true,
-  "first_seen": 1784765156.130683,
-  "last_seen": 1789521191.4314806,
-  "locations": [
-   "Miami, FL"
-  ],
-  "region": "US",
-  "degrees": [
-   "Bachelor's",
-   "Master's",
-   "PhD"
-  ],
-  "sponsorship": "Other",
-  "group": "citadel securities|quantitative ai technical staff",
-  "in_feed": true,
-  "reason": null
- },
- {
   "id": "simplify:5b94931b-c8c1-4030-94fd-b855ea4581c5",
   "company": "Amazon",
   "title": "EFA Network Software Engineer 1 - Annapurna Labs",
@@ -10218,17 +10216,16 @@
   "active": false,
   "first_seen": 1785081481.2181506,
   "last_seen": 1788139056.5271337,
-  "in_feed": true,
+  "in_feed": false,
   "closed_at": 1788139056,
-  "reason": "untracked",
+  "reason": "closed",
   "group": "tesla|data labeler",
   "locations": [
    "Dallas, TX"
   ],
   "region": "US",
   "degrees": [],
-  "sponsorship": "Other",
-  "why": "title"
+  "sponsorship": "Other"
  },
  {
   "id": "simplify:d18bc1a4-16e1-4dad-9fb3-8dcae83337fe",
@@ -10382,6 +10379,33 @@
   "closed_at": 1787700556,
   "reason": "closed",
   "group": "nvidia|developer technology engineer new grad public sector"
+ },
+ {
+  "id": "simplify:f2abc99e-93ba-424e-8d7c-0e3382978e05",
+  "company": "Citadel Securities",
+  "title": "Quantitative AI Technical Staff",
+  "location": "Miami, FL",
+  "url": "https://www.citadelsecurities.com/careers/details/quantitative-ai-technical-staff/",
+  "category": "ML",
+  "posted": "2026-07-22",
+  "date_posted": 1784758384,
+  "active": false,
+  "first_seen": 1784765156.130683,
+  "last_seen": 1791240347,
+  "locations": [
+   "Miami, FL"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's",
+   "PhD"
+  ],
+  "sponsorship": "Other",
+  "group": "citadel securities|quantitative ai technical staff",
+  "in_feed": false,
+  "reason": "closed",
+  "closed_at": 1791240347
  },
  {
   "id": "simplify:1da6cc61-1253-4949-8dcd-75e3f4e196c4",

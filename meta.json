@@ -4,31 +4,31 @@
  "repo": "Alanhsiu/jobwatch",
  "branch": "main",
  "pages_url": "https://alanhsiu.github.io/jobwatch/",
- "last_run": 1791212298,
- "last_change": 1791212298,
+ "last_run": 1791240347,
+ "last_change": 1791240347,
  "last_result": "ok",
  "feed": {
-  "records": 19536,
-  "active": 3026,
-  "fetched_at": 1791212298,
+  "records": 19553,
+  "active": 3002,
+  "fetched_at": 1791240347,
   "attempts": 1
  },
  "counts": {
   "active": 294,
-  "closed": 211,
-  "untracked": 66,
+  "closed": 213,
+  "untracked": 65,
   "groups": 252,
   "companies": 54,
-  "new_this_run": 0,
+  "new_this_run": 1,
   "silent_known_this_run": 0,
   "closed_this_run": 1,
   "untracked_this_run": 0
  },
  "rejects": {
-  "category": 121,
-  "phd": 168,
-  "title": 21,
-  "region": 43,
+  "category": 120,
+  "phd": 166,
+  "title": 20,
+  "region": 42,
   "sponsorship": 0,
   "age": 21
  },
@@ -112,8 +112,8 @@
    "denied": 0
   },
   "atlassian": {
-   "active": 3,
-   "all_time": 4,
+   "active": 4,
+   "all_time": 5,
    "names": [
     "Atlassian"
    ],
@@ -206,7 +206,7 @@
    "denied": 0
   },
   "citadel": {
-   "active": 5,
+   "active": 4,
    "all_time": 10,
    "names": [
     "Citadel",
@@ -1000,8 +1000,8 @@
   }
  },
  "telegram": {
-  "mode": "none",
-  "delivered": 0,
+  "mode": "sent",
+  "delivered": 1,
   "failed_chunks": 0,
   "creds": true
  },
