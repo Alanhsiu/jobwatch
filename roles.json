@@ -437,34 +437,6 @@
   "reason": null
  },
  {
-  "id": "simplify:e60e9a94-ba50-4649-b502-e7203a9eb65f",
-  "first_seen": 1790746990,
-  "company": "NVIDIA",
-  "title": "Software Engineer New Grad - DGX Cloud AI Infrastructure",
-  "location": "Washington, Oregon, Austin, TX",
-  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--DGX-Cloud-AI-Infrastructure---New-College-Grad-2026_JR2026477",
-  "category": "ML",
-  "posted": "2026-09-29",
-  "date_posted": 1790640000,
-  "active": true,
-  "locations": [
-   "Washington",
-   "Oregon",
-   "Austin, TX",
-   "Redmond, WA",
-   "Santa Clara, CA"
-  ],
-  "region": "US",
-  "degrees": [
-   "Bachelor's",
-   "Master's"
-  ],
-  "sponsorship": "Other",
-  "group": "nvidia|software engineer new grad dgx cloud ai infrastructure",
-  "in_feed": true,
-  "reason": null
- },
- {
   "id": "simplify:72f6e435-1060-4700-9b90-48d82c3b1972",
   "first_seen": 1790399376,
   "company": "Apple",
@@ -7249,6 +7221,36 @@
   "last_seen": 1791299864
  },
  {
+  "id": "simplify:e60e9a94-ba50-4649-b502-e7203a9eb65f",
+  "first_seen": 1790746990,
+  "company": "NVIDIA",
+  "title": "Software Engineer New Grad - DGX Cloud AI Infrastructure",
+  "location": "Washington, Oregon, Austin, TX",
+  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--DGX-Cloud-AI-Infrastructure---New-College-Grad-2026_JR2026477",
+  "category": "ML",
+  "posted": "2026-09-29",
+  "date_posted": 1790640000,
+  "active": false,
+  "locations": [
+   "Washington",
+   "Oregon",
+   "Austin, TX",
+   "Redmond, WA",
+   "Santa Clara, CA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "nvidia|software engineer new grad dgx cloud ai infrastructure",
+  "in_feed": false,
+  "reason": "closed",
+  "closed_at": 1791320611,
+  "last_seen": 1791320611
+ },
+ {
   "id": "simplify:d3c2d57b-c7ea-4194-ac33-731c72f64420",
   "first_seen": 1790323085,
   "company": "Apple",
@@ -10707,10 +10709,9 @@
   "region": "US",
   "degrees": [],
   "sponsorship": "Other",
-  "in_feed": true,
+  "in_feed": false,
   "closed_at": 1789570473,
-  "reason": "untracked",
-  "why": "title",
+  "reason": "closed",
   "group": "figure|data creator"
  },
  {
