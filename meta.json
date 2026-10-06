@@ -4,31 +4,31 @@
  "repo": "Alanhsiu/jobwatch",
  "branch": "main",
  "pages_url": "https://alanhsiu.github.io/jobwatch/",
- "last_run": 1791240347,
- "last_change": 1791240347,
+ "last_run": 1791268359,
+ "last_change": 1791268359,
  "last_result": "ok",
  "feed": {
-  "records": 19553,
-  "active": 3002,
-  "fetched_at": 1791240347,
+  "records": 19617,
+  "active": 3064,
+  "fetched_at": 1791268359,
   "attempts": 1
  },
  "counts": {
   "active": 294,
   "closed": 213,
   "untracked": 65,
-  "groups": 252,
+  "groups": 253,
   "companies": 54,
-  "new_this_run": 1,
+  "new_this_run": 0,
   "silent_known_this_run": 0,
   "closed_this_run": 1,
   "untracked_this_run": 0
  },
  "rejects": {
-  "category": 120,
-  "phd": 166,
+  "category": 121,
+  "phd": 169,
   "title": 20,
-  "region": 42,
+  "region": 43,
   "sponsorship": 0,
   "age": 21
  },
@@ -206,7 +206,7 @@
    "denied": 0
   },
   "citadel": {
-   "active": 4,
+   "active": 5,
    "all_time": 10,
    "names": [
     "Citadel",
@@ -543,7 +543,7 @@
    "denied": 0
   },
   "microsoft": {
-   "active": 11,
+   "active": 10,
    "all_time": 20,
    "names": [
     "Microsoft"
@@ -1000,8 +1000,8 @@
   }
  },
  "telegram": {
-  "mode": "sent",
-  "delivered": 1,
+  "mode": "none",
+  "delivered": 0,
   "failed_chunks": 0,
   "creds": true
  },
