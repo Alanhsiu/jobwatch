@@ -8,7 +8,7 @@ sync between devices through this repo. No servers, no database, no cost — a p
 bot token. This repo's tracker: **[alanhsiu.github.io/jobwatch](https://alanhsiu.github.io/jobwatch/)** (a fork gets its own at `https://<owner>.github.io/<repo>/`).
 
 <!-- JOBS:HEAD:START -->
-_294 open new-grad roles at 54 companies · list last changed 2026-10-06 · scans every ~2 h_ · **[Open the tracker](https://alanhsiu.github.io/jobwatch/)** · [Full list ↓](#current-roles) · TikTok 100 · ByteDance 37 · Amazon 11 · Anduril 11 · Microsoft 10 · Palantir 10 · Apple 9 · Akuna Capital University 5 · …
+_294 open new-grad roles at 55 companies · list last changed 2026-10-06 · scans every ~2 h_ · **[Open the tracker](https://alanhsiu.github.io/jobwatch/)** · [Full list ↓](#current-roles) · TikTok 100 · ByteDance 37 · Amazon 11 · Anduril 11 · Palantir 10 · Apple 9 · Microsoft 9 · Akuna Capital University 5 · …
 <!-- JOBS:HEAD:END -->
 
 ## How it works
@@ -362,17 +362,6 @@ and `.nojekyll` into `docs/`, set Pages to `/docs`, and give every device a toke
 
 </details>
 <details open>
-<summary>Microsoft (10)</summary>
-
-- [Software Engineer - Intune](https://apply.careers.microsoft.com/careers/job/1970393556982925) — Redmond, WA · posted 2026-10-02 · SWE · BS/MS
-- [Software Engineer](https://apply.careers.microsoft.com/careers/job/1970393556999325) · [2](https://apply.careers.microsoft.com/careers/job/1970393557016400) · [3](https://apply.careers.microsoft.com/careers/job/1970393557022395) · [4](https://apply.careers.microsoft.com/careers/job/1970393556982903) · [5](https://apply.careers.microsoft.com/careers/job/1970393556858723) — Redmond, WA; Annapolis Junction, MD, Redmond, WA, Reston, VA · posted 2026-10-02 · SWE · BS/MS
-- [Software Engineer - Forward Deployed Engineer](https://apply.careers.microsoft.com/careers/job/1970393557004814) — Redmond, WA · posted 2026-10-01 · SWE · BS/MS
-- [Software Engineer - Cleared](https://apply.careers.microsoft.com/careers/job/1970393556982911) — Reston, VA · posted 2026-09-23 · SWE · BS/MS
-- [Software Engineer - CoreAI](https://apply.careers.microsoft.com/careers/job/1970393556989020) — Redmond, WA · posted 2026-09-11 · SWE · BS/MS
-- [Software Engineer - Ctj - Poly](https://apply.careers.microsoft.com/careers/job/1970393556860973) — Annapolis Junction, MD, Reston, VA · posted 2026-06-18 · SWE · BS
-
-</details>
-<details open>
 <summary>Palantir (10)</summary>
 
 - [Software Engineer New Grad - Defense](https://jobs.lever.co/palantir/18d901fc-93bb-4d18-9f04-c72031e20d79/apply) · [2](https://jobs.lever.co/palantir/f362d7aa-360d-4059-ab38-f482742693b3/apply) · [3](https://jobs.lever.co/palantir/0a838e66-1ab0-4fc4-b4d3-4671c0352278/apply) — Washington, DC; Palo Alto, CA; NYC · posted 2026-06-29 · SWE
@@ -394,6 +383,16 @@ and `.nojekyll` into `docs/`, set Pages to `/docs`, and give every device a toke
 - [Frontend Engineer](https://jobs.apple.com/en-us/details/200676168) — Austin, TX · posted 2026-08-10 · SWE · BS
 - [Cellular Power Optimization Software Engineer - Wireless Technologies & Ecosystems](https://jobs.apple.com/en-us/details/200657382) — San Diego, CA · posted 2026-07-31 · HW · BS/MS
 - [Software Engineer Silicon Engineering Documentation Tools](https://jobs.apple.com/en-us/details/200661584) — Lafayette, KS · posted 2026-05-06 · SWE
+
+</details>
+<details open>
+<summary>Microsoft (9)</summary>
+
+- [Software Engineer - Intune](https://apply.careers.microsoft.com/careers/job/1970393556982925) — Redmond, WA · posted 2026-10-02 · SWE · BS/MS
+- [Software Engineer](https://apply.careers.microsoft.com/careers/job/1970393556999325) · [2](https://apply.careers.microsoft.com/careers/job/1970393557016400) · [3](https://apply.careers.microsoft.com/careers/job/1970393557022395) · [4](https://apply.careers.microsoft.com/careers/job/1970393556982903) · [5](https://apply.careers.microsoft.com/careers/job/1970393556858723) — Redmond, WA; Annapolis Junction, MD, Redmond, WA, Reston, VA · posted 2026-10-02 · SWE · BS/MS
+- [Software Engineer - Cleared](https://apply.careers.microsoft.com/careers/job/1970393556982911) — Reston, VA · posted 2026-09-23 · SWE · BS/MS
+- [Software Engineer - CoreAI](https://apply.careers.microsoft.com/careers/job/1970393556989020) — Redmond, WA · posted 2026-09-11 · SWE · BS/MS
+- [Software Engineer - Ctj - Poly](https://apply.careers.microsoft.com/careers/job/1970393556860973) — Annapolis Junction, MD, Reston, VA · posted 2026-06-18 · SWE · BS
 
 </details>
 <details open>
@@ -653,6 +652,12 @@ and `.nojekyll` into `docs/`, set Pages to `/docs`, and give every device a toke
 <summary>Figma (1)</summary>
 
 - [Data Scientist, Core Data](https://job-boards.greenhouse.io/figma/jobs/5976930004?gh_jid=5976930004) — New York, NY, San Francisco, CA · posted 2026-05-01 · ML · MS
+
+</details>
+<details open>
+<summary>Fireworks AI (1)</summary>
+
+- [Member of Technical Staff New Grad](https://jobs.ashbyhq.com/fireworks/0c78aede-7c21-4d1e-88f1-f309deb9819e/application?embed=true) — San Mateo, CA, NYC · posted 2026-10-06 · SWE · BS/MS
 
 </details>
 <details open>
