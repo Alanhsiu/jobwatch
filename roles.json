@@ -1,5 +1,29 @@
 [
  {
+  "id": "simplify:03a16469-429d-4f34-a718-e27b73e3b992",
+  "first_seen": 1791363131,
+  "company": "Apple",
+  "title": "Software Engineer - Siri User Experiences",
+  "location": "Cupertino, CA",
+  "url": "https://jobs.apple.com/en-us/details/200687375",
+  "category": "SWE",
+  "posted": "2026-10-07",
+  "date_posted": 1791353230,
+  "active": true,
+  "locations": [
+   "Cupertino, CA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "apple|software engineer siri user experiences",
+  "in_feed": true,
+  "reason": null
+ },
+ {
   "id": "simplify:8b5d1879-5003-4cf0-aaf6-4a45fdf0a007",
   "first_seen": 1791337144,
   "company": "Microsoft",
@@ -196,30 +220,6 @@
   "reason": null
  },
  {
-  "id": "simplify:3f0ab4da-e520-442d-bc93-8ead777699cd",
-  "first_seen": 1790985089,
-  "company": "Microsoft",
-  "title": "Software Engineer",
-  "location": "Redmond, WA",
-  "url": "https://apply.careers.microsoft.com/careers/job/1970393556999325",
-  "category": "SWE",
-  "posted": "2026-10-02",
-  "date_posted": 1790979173,
-  "active": true,
-  "locations": [
-   "Redmond, WA"
-  ],
-  "region": "US",
-  "degrees": [
-   "Bachelor's",
-   "Master's"
-  ],
-  "sponsorship": "Other",
-  "group": "microsoft|software engineer",
-  "in_feed": true,
-  "reason": null
- },
- {
   "id": "simplify:f7a49f5e-9e77-4384-862f-b5575135ec64",
   "first_seen": 1791127536,
   "company": "Microsoft",
@@ -266,30 +266,6 @@
   ],
   "sponsorship": "Other",
   "group": "amazon|software development engineer early career amazon dedicated cloud adc",
-  "in_feed": true,
-  "reason": null
- },
- {
-  "id": "simplify:f88093bb-d2d0-4394-a197-5b0f1159eec8",
-  "first_seen": 1791127536,
-  "company": "Microsoft",
-  "title": "Software Engineer",
-  "location": "Redmond, WA",
-  "url": "https://apply.careers.microsoft.com/careers/job/1970393557022395",
-  "category": "SWE",
-  "posted": "2026-10-02",
-  "date_posted": 1790903398,
-  "active": true,
-  "locations": [
-   "Redmond, WA"
-  ],
-  "region": "US",
-  "degrees": [
-   "Bachelor's",
-   "Master's"
-  ],
-  "sponsorship": "Other",
-  "group": "microsoft|software engineer",
   "in_feed": true,
   "reason": null
  },
@@ -6248,6 +6224,110 @@
   "reason": null
  },
  {
+  "id": "simplify:73cbd0da-d5af-4887-a89e-c404bc218ef3",
+  "company": "Akuna Capital University",
+  "title": "Junior Trader",
+  "location": "Chicago, IL",
+  "url": "https://www.akunacapital.com/careers/job/7773141/?gh_jid=7773141",
+  "category": "Quant",
+  "posted": "2026-07-13",
+  "date_posted": 1783980602,
+  "active": true,
+  "first_seen": 1784014543.6740808,
+  "last_seen": 1791337144,
+  "locations": [
+   "Chicago, IL"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's",
+   "PhD"
+  ],
+  "sponsorship": "Other",
+  "group": "akuna capital university|junior trader",
+  "in_feed": true,
+  "reason": null
+ },
+ {
+  "id": "simplify:0ddd865a-c11f-4160-8014-9d9cb6889252",
+  "company": "Akuna Capital University",
+  "title": "Junior Quantitative Researcher",
+  "location": "Chicago, IL",
+  "url": "https://www.akunacapital.com/careers/job/8036541/?gh_jid=8036541",
+  "category": "Quant",
+  "posted": "2026-07-13",
+  "date_posted": 1783980595,
+  "active": true,
+  "first_seen": 1784014543.6740808,
+  "last_seen": 1791337144,
+  "locations": [
+   "Chicago, IL"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's",
+   "PhD"
+  ],
+  "sponsorship": "Other",
+  "group": "akuna capital university|junior quantitative researcher",
+  "in_feed": true,
+  "reason": null
+ },
+ {
+  "id": "simplify:a92f1e72-634c-4222-886a-0b93307f9477",
+  "company": "Akuna Capital University",
+  "title": "Junior Quantitative Developer & Strategist",
+  "location": "Chicago, IL",
+  "url": "https://www.akunacapital.com/careers/job/8016687/?gh_jid=8016687",
+  "category": "Quant",
+  "posted": "2026-07-13",
+  "date_posted": 1783980586,
+  "active": true,
+  "first_seen": 1784014543.6740808,
+  "last_seen": 1791337144,
+  "locations": [
+   "Chicago, IL"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's",
+   "PhD"
+  ],
+  "sponsorship": "Other",
+  "group": "akuna capital university|junior quantitative developer strategist",
+  "in_feed": true,
+  "reason": null
+ },
+ {
+  "id": "simplify:5ea8412e-6f15-4f24-b9a2-a32f48b02a27",
+  "company": "Akuna Capital University",
+  "title": "Software Engineer - Python",
+  "location": "Chicago, IL",
+  "url": "https://www.akunacapital.com/careers/job/8013230/?gh_jid=8013230",
+  "category": "SWE",
+  "posted": "2026-07-13",
+  "date_posted": 1783980578,
+  "active": true,
+  "first_seen": 1784014543.6740808,
+  "last_seen": 1791337144,
+  "locations": [
+   "Chicago, IL"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's",
+   "PhD"
+  ],
+  "sponsorship": "Other",
+  "group": "akuna capital university|software engineer python",
+  "in_feed": true,
+  "reason": null
+ },
+ {
   "id": "simplify:86eec77e-62fa-43bc-a011-1e73aac2d372",
   "company": "Jump Trading",
   "title": "AI Research Engineer",
@@ -7162,6 +7242,58 @@
   "group": "schonfeld|market data analyst",
   "in_feed": true,
   "reason": null
+ },
+ {
+  "id": "simplify:3f0ab4da-e520-442d-bc93-8ead777699cd",
+  "first_seen": 1790985089,
+  "company": "Microsoft",
+  "title": "Software Engineer",
+  "location": "Redmond, WA",
+  "url": "https://apply.careers.microsoft.com/careers/job/1970393556999325",
+  "category": "SWE",
+  "posted": "2026-10-02",
+  "date_posted": 1790979173,
+  "active": false,
+  "locations": [
+   "Redmond, WA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "microsoft|software engineer",
+  "in_feed": false,
+  "reason": "closed",
+  "closed_at": 1791363131,
+  "last_seen": 1791363131
+ },
+ {
+  "id": "simplify:f88093bb-d2d0-4394-a197-5b0f1159eec8",
+  "first_seen": 1791127536,
+  "company": "Microsoft",
+  "title": "Software Engineer",
+  "location": "Redmond, WA",
+  "url": "https://apply.careers.microsoft.com/careers/job/1970393557022395",
+  "category": "SWE",
+  "posted": "2026-10-02",
+  "date_posted": 1790903398,
+  "active": false,
+  "locations": [
+   "Redmond, WA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "microsoft|software engineer",
+  "in_feed": false,
+  "reason": "closed",
+  "closed_at": 1791363131,
+  "last_seen": 1791363131
  },
  {
   "id": "simplify:fe14fd5d-c834-4c22-bc27-c3807e210b18",
@@ -10918,114 +11050,6 @@
   ],
   "sponsorship": "Other",
   "group": "akuna capital university|entry level software engineer c",
-  "in_feed": false,
-  "reason": "closed",
-  "closed_at": 1791337144
- },
- {
-  "id": "simplify:73cbd0da-d5af-4887-a89e-c404bc218ef3",
-  "company": "Akuna Capital University",
-  "title": "Junior Trader",
-  "location": "Chicago, IL",
-  "url": "https://www.akunacapital.com/careers/job/7773141/?gh_jid=7773141",
-  "category": "Quant",
-  "posted": "2026-07-13",
-  "date_posted": 1783980602,
-  "active": false,
-  "first_seen": 1784014543.6740808,
-  "last_seen": 1791337144,
-  "locations": [
-   "Chicago, IL"
-  ],
-  "region": "US",
-  "degrees": [
-   "Bachelor's",
-   "Master's",
-   "PhD"
-  ],
-  "sponsorship": "Other",
-  "group": "akuna capital university|junior trader",
-  "in_feed": false,
-  "reason": "closed",
-  "closed_at": 1791337144
- },
- {
-  "id": "simplify:0ddd865a-c11f-4160-8014-9d9cb6889252",
-  "company": "Akuna Capital University",
-  "title": "Junior Quantitative Researcher",
-  "location": "Chicago, IL",
-  "url": "https://www.akunacapital.com/careers/job/8036541/?gh_jid=8036541",
-  "category": "Quant",
-  "posted": "2026-07-13",
-  "date_posted": 1783980595,
-  "active": false,
-  "first_seen": 1784014543.6740808,
-  "last_seen": 1791337144,
-  "locations": [
-   "Chicago, IL"
-  ],
-  "region": "US",
-  "degrees": [
-   "Bachelor's",
-   "Master's",
-   "PhD"
-  ],
-  "sponsorship": "Other",
-  "group": "akuna capital university|junior quantitative researcher",
-  "in_feed": false,
-  "reason": "closed",
-  "closed_at": 1791337144
- },
- {
-  "id": "simplify:a92f1e72-634c-4222-886a-0b93307f9477",
-  "company": "Akuna Capital University",
-  "title": "Junior Quantitative Developer & Strategist",
-  "location": "Chicago, IL",
-  "url": "https://www.akunacapital.com/careers/job/8016687/?gh_jid=8016687",
-  "category": "Quant",
-  "posted": "2026-07-13",
-  "date_posted": 1783980586,
-  "active": false,
-  "first_seen": 1784014543.6740808,
-  "last_seen": 1791337144,
-  "locations": [
-   "Chicago, IL"
-  ],
-  "region": "US",
-  "degrees": [
-   "Bachelor's",
-   "Master's",
-   "PhD"
-  ],
-  "sponsorship": "Other",
-  "group": "akuna capital university|junior quantitative developer strategist",
-  "in_feed": false,
-  "reason": "closed",
-  "closed_at": 1791337144
- },
- {
-  "id": "simplify:5ea8412e-6f15-4f24-b9a2-a32f48b02a27",
-  "company": "Akuna Capital University",
-  "title": "Software Engineer - Python",
-  "location": "Chicago, IL",
-  "url": "https://www.akunacapital.com/careers/job/8013230/?gh_jid=8013230",
-  "category": "SWE",
-  "posted": "2026-07-13",
-  "date_posted": 1783980578,
-  "active": false,
-  "first_seen": 1784014543.6740808,
-  "last_seen": 1791337144,
-  "locations": [
-   "Chicago, IL"
-  ],
-  "region": "US",
-  "degrees": [
-   "Bachelor's",
-   "Master's",
-   "PhD"
-  ],
-  "sponsorship": "Other",
-  "group": "akuna capital university|software engineer python",
   "in_feed": false,
   "reason": "closed",
   "closed_at": 1791337144

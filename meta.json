@@ -4,30 +4,30 @@
  "repo": "Alanhsiu/jobwatch",
  "branch": "main",
  "pages_url": "https://alanhsiu.github.io/jobwatch/",
- "last_run": 1791337144,
- "last_change": 1791337144,
+ "last_run": 1791363131,
+ "last_change": 1791363131,
  "last_result": "ok",
  "feed": {
-  "records": 19738,
-  "active": 3100,
-  "fetched_at": 1791337144,
+  "records": 19741,
+  "active": 3099,
+  "fetched_at": 1791363131,
   "attempts": 1
  },
  "counts": {
-  "active": 292,
-  "closed": 219,
+  "active": 295,
+  "closed": 217,
   "untracked": 65,
-  "groups": 249,
-  "companies": 55,
-  "new_this_run": 3,
+  "groups": 254,
+  "companies": 56,
+  "new_this_run": 1,
   "silent_known_this_run": 0,
-  "closed_this_run": 5,
+  "closed_this_run": 2,
   "untracked_this_run": 0
  },
  "rejects": {
-  "category": 122,
+  "category": 121,
   "phd": 171,
-  "title": 20,
+  "title": 21,
   "region": 42,
   "sponsorship": 0,
   "age": 19
@@ -48,9 +48,11 @@
    "denied": 0
   },
   "akuna": {
-   "active": 0,
+   "active": 4,
    "all_time": 5,
-   "names": [],
+   "names": [
+    "Akuna Capital University"
+   ],
    "denied": 0
   },
   "amazon": {
@@ -86,8 +88,8 @@
    "denied": 0
   },
   "apple": {
-   "active": 10,
-   "all_time": 29,
+   "active": 11,
+   "all_time": 30,
    "names": [
     "Apple"
    ],
@@ -543,7 +545,7 @@
    "denied": 0
   },
   "microsoft": {
-   "active": 11,
+   "active": 9,
    "all_time": 21,
    "names": [
     "Microsoft"
@@ -1003,7 +1005,7 @@
  },
  "telegram": {
   "mode": "sent",
-  "delivered": 3,
+  "delivered": 1,
   "failed_chunks": 0,
   "creds": true
  },
