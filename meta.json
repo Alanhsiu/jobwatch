@@ -4,31 +4,31 @@
  "repo": "Alanhsiu/jobwatch",
  "branch": "main",
  "pages_url": "https://alanhsiu.github.io/jobwatch/",
- "last_run": 1791363131,
- "last_change": 1791363131,
+ "last_run": 1791394067,
+ "last_change": 1791394067,
  "last_result": "ok",
  "feed": {
-  "records": 19741,
-  "active": 3099,
-  "fetched_at": 1791363131,
+  "records": 19755,
+  "active": 3091,
+  "fetched_at": 1791394067,
   "attempts": 1
  },
  "counts": {
   "active": 295,
-  "closed": 217,
+  "closed": 218,
   "untracked": 65,
   "groups": 254,
   "companies": 56,
   "new_this_run": 1,
   "silent_known_this_run": 0,
-  "closed_this_run": 2,
+  "closed_this_run": 1,
   "untracked_this_run": 0
  },
  "rejects": {
-  "category": 121,
+  "category": 120,
   "phd": 171,
   "title": 21,
-  "region": 42,
+  "region": 41,
   "sponsorship": 0,
   "age": 19
  },
@@ -48,7 +48,7 @@
    "denied": 0
   },
   "akuna": {
-   "active": 4,
+   "active": 3,
    "all_time": 5,
    "names": [
     "Akuna Capital University"
@@ -585,8 +585,8 @@
    "denied": 0
   },
   "nvidia": {
-   "active": 3,
-   "all_time": 23,
+   "active": 4,
+   "all_time": 24,
    "names": [
     "NVIDIA"
    ],

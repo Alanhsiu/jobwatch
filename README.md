@@ -427,15 +427,6 @@ and `.nojekyll` into `docs/`, set Pages to `/docs`, and give every device a toke
 
 </details>
 <details open>
-<summary>Akuna Capital University (4)</summary>
-
-- [Junior Trader](https://www.akunacapital.com/careers/job/7773141/?gh_jid=7773141) — Chicago, IL · posted 2026-07-13 · Quant · BS/MS/PhD
-- [Junior Quantitative Researcher](https://www.akunacapital.com/careers/job/8036541/?gh_jid=8036541) — Chicago, IL · posted 2026-07-13 · Quant · BS/MS/PhD
-- [Junior Quantitative Developer & Strategist](https://www.akunacapital.com/careers/job/8016687/?gh_jid=8016687) — Chicago, IL · posted 2026-07-13 · Quant · BS/MS/PhD
-- [Software Engineer - Python](https://www.akunacapital.com/careers/job/8013230/?gh_jid=8013230) — Chicago, IL · posted 2026-07-13 · SWE · BS/MS/PhD
-
-</details>
-<details open>
 <summary>Atlassian (4)</summary>
 
 - [Data Engineer New Grad](https://campus-americas.icims.com/jobs/25998/data-engineer%2c-2027-graduate-u.s/job) — Seattle, WA · posted 2026-10-05 · ML · BS/MS
@@ -458,6 +449,15 @@ and `.nojekyll` into `docs/`, set Pages to `/docs`, and give every device a toke
 - [Quantitative AI Technical Staff](https://www.citadelsecurities.com/careers/details/quantitative-ai-technical-staff/) — Miami, FL · posted 2026-07-22 · ML · BS/MS/PhD
 - [Graduate Software Engineer](https://www.citadelsecurities.com/careers/details/software-engineer-university-graduate-us/) — Miami, FL, NYC · posted 2026-07-06 · SWE · BS/MS/PhD
 - [Quantitative Trader – University Graduate](https://www.citadelsecurities.com/careers/details/quantitative-trader-university-graduate-us-miami/) · [2](https://www.citadelsecurities.com/careers/details/quantitative-trader-university-graduate-us-new-york/) — Miami, FL; NYC · posted 2026-07-06 · Quant · BS/MS/PhD
+
+</details>
+<details open>
+<summary>NVIDIA (4)</summary>
+
+- [Systems Software Engineer - AI and Cloud](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Systems-Software-Engineer---AI-and-Cloud---New-College-Grad-2026_JR2025458) — Santa Clara, CA · posted 2026-10-06 · SWE · BS/MS
+- [Applied Machine Learning Engineer - AI for VLSI Design](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Applied-Machine-Learning-Engineer--AI-for-VLSI-Design---New-College-Grad-2026_JR2026576) — Santa Clara, CA · posted 2026-09-29 · ML · MS/PhD
+- [Architecture Energy Modeling Engineer - Power Modeling, Methodology and Analysis](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Architecture-Energy-Modeling-Engineer---New-College-Grad-2026_JR2023398) — Santa Clara, CA · posted 2026-08-21 · ML · MS/PhD
+- [Software Engineer New Grad - Hardware Tools and Methodology](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--Hardware-Tools-and-Methodology---New-College-Grad-2026_JR2018659) — Santa Clara, CA · posted 2026-06-03 · SWE · MS/PhD
 
 </details>
 <details open>
@@ -493,6 +493,14 @@ and `.nojekyll` into `docs/`, set Pages to `/docs`, and give every device a toke
 
 </details>
 <details open>
+<summary>Akuna Capital University (3)</summary>
+
+- [Junior Quantitative Researcher](https://www.akunacapital.com/careers/job/8036541/?gh_jid=8036541) — Chicago, IL · posted 2026-07-13 · Quant · BS/MS/PhD
+- [Junior Quantitative Developer & Strategist](https://www.akunacapital.com/careers/job/8016687/?gh_jid=8016687) — Chicago, IL · posted 2026-07-13 · Quant · BS/MS/PhD
+- [Software Engineer - Python](https://www.akunacapital.com/careers/job/8013230/?gh_jid=8013230) — Chicago, IL · posted 2026-07-13 · SWE · BS/MS/PhD
+
+</details>
+<details open>
 <summary>DRW (3)</summary>
 
 - [Floor Trader](https://job-boards.greenhouse.io/drweng/jobs/8207750) — Chicago, IL · posted 2026-09-16 · Quant · BS
@@ -506,14 +514,6 @@ and `.nojekyll` into `docs/`, set Pages to `/docs`, and give every device a toke
 - [Performance Engineer](https://job-boards.eu.greenhouse.io/imc/jobs/4823836101) — Chicago, IL · posted 2026-08-27 · SWE · BS
 - [Graduate Software Engineer](https://job-boards.eu.greenhouse.io/imc/jobs/4818790101) — Chicago, IL · posted 2026-07-01 · SWE · BS
 - [Graduate Quantitative Researcher](https://job-boards.eu.greenhouse.io/imc/jobs/4907368101) — Chicago, IL · posted 2026-07-01 · Quant · BS/MS
-
-</details>
-<details open>
-<summary>NVIDIA (3)</summary>
-
-- [Applied Machine Learning Engineer - AI for VLSI Design](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Applied-Machine-Learning-Engineer--AI-for-VLSI-Design---New-College-Grad-2026_JR2026576) — Santa Clara, CA · posted 2026-09-29 · ML · MS/PhD
-- [Architecture Energy Modeling Engineer - Power Modeling, Methodology and Analysis](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Architecture-Energy-Modeling-Engineer---New-College-Grad-2026_JR2023398) — Santa Clara, CA · posted 2026-08-21 · ML · MS/PhD
-- [Software Engineer New Grad - Hardware Tools and Methodology](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--Hardware-Tools-and-Methodology---New-College-Grad-2026_JR2018659) — Santa Clara, CA · posted 2026-06-03 · SWE · MS/PhD
 
 </details>
 <details open>

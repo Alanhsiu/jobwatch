@@ -123,6 +123,30 @@
   "reason": null
  },
  {
+  "id": "simplify:be3d4ee8-4dc8-4c20-bae9-49826174e869",
+  "first_seen": 1791394067,
+  "company": "NVIDIA",
+  "title": "Systems Software Engineer - AI and Cloud",
+  "location": "Santa Clara, CA",
+  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Systems-Software-Engineer---AI-and-Cloud---New-College-Grad-2026_JR2025458",
+  "category": "SWE",
+  "posted": "2026-10-06",
+  "date_posted": 1791244800,
+  "active": true,
+  "locations": [
+   "Santa Clara, CA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "nvidia|systems software engineer ai and cloud",
+  "in_feed": true,
+  "reason": null
+ },
+ {
   "id": "simplify:eba32eeb-b7a1-4b27-b3c2-1fdaa04d3bd9",
   "first_seen": 1791240347,
   "company": "Atlassian",
@@ -6224,32 +6248,6 @@
   "reason": null
  },
  {
-  "id": "simplify:73cbd0da-d5af-4887-a89e-c404bc218ef3",
-  "company": "Akuna Capital University",
-  "title": "Junior Trader",
-  "location": "Chicago, IL",
-  "url": "https://www.akunacapital.com/careers/job/7773141/?gh_jid=7773141",
-  "category": "Quant",
-  "posted": "2026-07-13",
-  "date_posted": 1783980602,
-  "active": true,
-  "first_seen": 1784014543.6740808,
-  "last_seen": 1791337144,
-  "locations": [
-   "Chicago, IL"
-  ],
-  "region": "US",
-  "degrees": [
-   "Bachelor's",
-   "Master's",
-   "PhD"
-  ],
-  "sponsorship": "Other",
-  "group": "akuna capital university|junior trader",
-  "in_feed": true,
-  "reason": null
- },
- {
   "id": "simplify:0ddd865a-c11f-4160-8014-9d9cb6889252",
   "company": "Akuna Capital University",
   "title": "Junior Quantitative Researcher",
@@ -11053,6 +11051,33 @@
   "in_feed": false,
   "reason": "closed",
   "closed_at": 1791337144
+ },
+ {
+  "id": "simplify:73cbd0da-d5af-4887-a89e-c404bc218ef3",
+  "company": "Akuna Capital University",
+  "title": "Junior Trader",
+  "location": "Chicago, IL",
+  "url": "https://www.akunacapital.com/careers/job/7773141/?gh_jid=7773141",
+  "category": "Quant",
+  "posted": "2026-07-13",
+  "date_posted": 1783980602,
+  "active": false,
+  "first_seen": 1784014543.6740808,
+  "last_seen": 1791394067,
+  "locations": [
+   "Chicago, IL"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's",
+   "PhD"
+  ],
+  "sponsorship": "Other",
+  "group": "akuna capital university|junior trader",
+  "in_feed": false,
+  "reason": "closed",
+  "closed_at": 1791394067
  },
  {
   "id": "simplify:58e0500b-3577-4e69-9d43-b710f8155f10",
