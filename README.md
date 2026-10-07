@@ -8,7 +8,7 @@ sync between devices through this repo. No servers, no database, no cost — a p
 bot token. This repo's tracker: **[alanhsiu.github.io/jobwatch](https://alanhsiu.github.io/jobwatch/)** (a fork gets its own at `https://<owner>.github.io/<repo>/`).
 
 <!-- JOBS:HEAD:START -->
-_293 open new-grad roles at 55 companies · list last changed 2026-10-06 · scans every ~2 h_ · **[Open the tracker](https://alanhsiu.github.io/jobwatch/)** · [Full list ↓](#current-roles) · TikTok 100 · ByteDance 37 · Amazon 11 · Anduril 11 · Palantir 10 · Apple 9 · Microsoft 9 · Akuna Capital University 5 · …
+_292 open new-grad roles at 55 companies · list last changed 2026-10-07 · scans every ~2 h_ · **[Open the tracker](https://alanhsiu.github.io/jobwatch/)** · [Full list ↓](#current-roles) · TikTok 100 · ByteDance 37 · Amazon 11 · Anduril 11 · Microsoft 11 · Apple 10 · Palantir 10 · Applied Intuition 5 · …
 <!-- JOBS:HEAD:END -->
 
 ## How it works
@@ -362,19 +362,20 @@ and `.nojekyll` into `docs/`, set Pages to `/docs`, and give every device a toke
 
 </details>
 <details open>
-<summary>Palantir (10)</summary>
+<summary>Microsoft (11)</summary>
 
-- [Software Engineer New Grad - Defense](https://jobs.lever.co/palantir/18d901fc-93bb-4d18-9f04-c72031e20d79/apply) · [2](https://jobs.lever.co/palantir/f362d7aa-360d-4059-ab38-f482742693b3/apply) · [3](https://jobs.lever.co/palantir/0a838e66-1ab0-4fc4-b4d3-4671c0352278/apply) — Washington, DC; Palo Alto, CA; NYC · posted 2026-06-29 · SWE
-- [Forward Deployed Software Engineer New Grad - Commercial](https://jobs.lever.co/palantir/e500bcf3-19d8-4d3c-b340-4d76e4a55b40/apply) · [2](https://jobs.lever.co/palantir/2e6b0ac8-83e9-4be5-a3aa-cf319f751728/apply) — Chicago, IL; NYC · posted 2026-06-29 · SWE · BS
-- [Software Engineer New Grad](https://jobs.lever.co/palantir/c34b424e-caf2-455a-b104-ae1096ccca29/apply) — Denver, CO · posted 2026-06-29 · SWE · BS
-- [Privacy & Civil Liberties Engineer New Grad](https://jobs.lever.co/palantir/95e0d2b0-437a-4096-a5c6-0f247f426c90/apply) — NYC · posted 2026-06-26 · SWE · BS
-- [Forward Deployed Software Engineer New Grad](https://jobs.lever.co/palantir/cbe90327-3e6e-451c-a54c-1d3cbcef5aeb/apply) · [2](https://jobs.lever.co/palantir/d1ac83d0-e923-42a5-8e6d-58dd0cab25ca/apply) · [3](https://jobs.lever.co/palantir/fbca0358-083a-4222-bdbb-3bd729b48382/apply) — Washington, DC; NYC · posted 2026-06-16 · SWE
+- [Software Engineer](https://apply.careers.microsoft.com/careers/job/1970393557022487) · [2](https://apply.careers.microsoft.com/careers/job/1970393556999325) · [3](https://apply.careers.microsoft.com/careers/job/1970393557016400) · [4](https://apply.careers.microsoft.com/careers/job/1970393557022395) · [5](https://apply.careers.microsoft.com/careers/job/1970393556982903) · [6](https://apply.careers.microsoft.com/careers/job/1970393556858723) — Redmond, WA, Reston, VA; Redmond, WA; Annapolis Junction, MD, Redmond, WA, Reston, VA · posted 2026-10-07 · SWE · BS/MS
+- [Software Engineer - Intune](https://apply.careers.microsoft.com/careers/job/1970393556982925) — Redmond, WA · posted 2026-10-02 · SWE · BS/MS
+- [Software Engineer - Cleared](https://apply.careers.microsoft.com/careers/job/1970393556982911) — Reston, VA · posted 2026-09-23 · SWE · BS/MS
+- [Software Engineering - Commercial Engineering & AI - Ceai](https://apply.careers.microsoft.com/careers/job/1970393556914839) — Redmond, WA · posted 2026-09-14 · SWE · BS/MS
+- [Software Engineer - CoreAI](https://apply.careers.microsoft.com/careers/job/1970393556989020) — Redmond, WA · posted 2026-09-11 · SWE · BS/MS
+- [Software Engineer - Ctj - Poly](https://apply.careers.microsoft.com/careers/job/1970393556860973) — Annapolis Junction, MD, Reston, VA · posted 2026-06-18 · SWE · BS
 
 </details>
 <details open>
-<summary>Apple (9)</summary>
+<summary>Apple (10)</summary>
 
-- [CAD Engineer - Signoff Infrastructure](https://jobs.apple.com/en-us/details/200685871) — Austin, TX, San Jose, CA · posted 2026-09-26 · SWE · BS
+- [CAD Engineer - Signoff Infrastructure](https://jobs.apple.com/en-us/details/200687472) · [2](https://jobs.apple.com/en-us/details/200685871) — Austin, TX, San Jose, CA · posted 2026-10-06 · SWE · BS
 - [Systems Software Engineer](https://jobs.apple.com/en-us/details/200683808) — San Diego, CA · posted 2026-09-15 · SWE · BS
 - [Cellular Layer-1 Control Software Development Engineer - Wireless Technologies & Ecosystems](https://jobs.apple.com/en-us/details/200681316) — Sunnyvale, CA · posted 2026-09-01 · HW · BS/MS
 - [CAD Automation and Mixed-Signal Simulation Engineer](https://jobs.apple.com/en-us/details/200680375) — Sunnyvale, CA · posted 2026-08-27 · SWE · BS
@@ -386,23 +387,13 @@ and `.nojekyll` into `docs/`, set Pages to `/docs`, and give every device a toke
 
 </details>
 <details open>
-<summary>Microsoft (9)</summary>
+<summary>Palantir (10)</summary>
 
-- [Software Engineer - Intune](https://apply.careers.microsoft.com/careers/job/1970393556982925) — Redmond, WA · posted 2026-10-02 · SWE · BS/MS
-- [Software Engineer](https://apply.careers.microsoft.com/careers/job/1970393556999325) · [2](https://apply.careers.microsoft.com/careers/job/1970393557016400) · [3](https://apply.careers.microsoft.com/careers/job/1970393557022395) · [4](https://apply.careers.microsoft.com/careers/job/1970393556982903) · [5](https://apply.careers.microsoft.com/careers/job/1970393556858723) — Redmond, WA; Annapolis Junction, MD, Redmond, WA, Reston, VA · posted 2026-10-02 · SWE · BS/MS
-- [Software Engineer - Cleared](https://apply.careers.microsoft.com/careers/job/1970393556982911) — Reston, VA · posted 2026-09-23 · SWE · BS/MS
-- [Software Engineer - CoreAI](https://apply.careers.microsoft.com/careers/job/1970393556989020) — Redmond, WA · posted 2026-09-11 · SWE · BS/MS
-- [Software Engineer - Ctj - Poly](https://apply.careers.microsoft.com/careers/job/1970393556860973) — Annapolis Junction, MD, Reston, VA · posted 2026-06-18 · SWE · BS
-
-</details>
-<details open>
-<summary>Akuna Capital University (5)</summary>
-
-- [Entry Level Software Engineer - C++](https://www.akunacapital.com/careers/job/8013085/?gh_jid=8013085) — Chicago, IL · posted 2026-07-13 · SWE · BS/MS/PhD
-- [Junior Trader](https://www.akunacapital.com/careers/job/7773141/?gh_jid=7773141) — Chicago, IL · posted 2026-07-13 · Quant · BS/MS/PhD
-- [Junior Quantitative Researcher](https://www.akunacapital.com/careers/job/8036541/?gh_jid=8036541) — Chicago, IL · posted 2026-07-13 · Quant · BS/MS/PhD
-- [Junior Quantitative Developer & Strategist](https://www.akunacapital.com/careers/job/8016687/?gh_jid=8016687) — Chicago, IL · posted 2026-07-13 · Quant · BS/MS/PhD
-- [Software Engineer - Python](https://www.akunacapital.com/careers/job/8013230/?gh_jid=8013230) — Chicago, IL · posted 2026-07-13 · SWE · BS/MS/PhD
+- [Software Engineer New Grad - Defense](https://jobs.lever.co/palantir/18d901fc-93bb-4d18-9f04-c72031e20d79/apply) · [2](https://jobs.lever.co/palantir/f362d7aa-360d-4059-ab38-f482742693b3/apply) · [3](https://jobs.lever.co/palantir/0a838e66-1ab0-4fc4-b4d3-4671c0352278/apply) — Washington, DC; Palo Alto, CA; NYC · posted 2026-06-29 · SWE
+- [Forward Deployed Software Engineer New Grad - Commercial](https://jobs.lever.co/palantir/e500bcf3-19d8-4d3c-b340-4d76e4a55b40/apply) · [2](https://jobs.lever.co/palantir/2e6b0ac8-83e9-4be5-a3aa-cf319f751728/apply) — Chicago, IL; NYC · posted 2026-06-29 · SWE · BS
+- [Software Engineer New Grad](https://jobs.lever.co/palantir/c34b424e-caf2-455a-b104-ae1096ccca29/apply) — Denver, CO · posted 2026-06-29 · SWE · BS
+- [Privacy & Civil Liberties Engineer New Grad](https://jobs.lever.co/palantir/95e0d2b0-437a-4096-a5c6-0f247f426c90/apply) — NYC · posted 2026-06-26 · SWE · BS
+- [Forward Deployed Software Engineer New Grad](https://jobs.lever.co/palantir/cbe90327-3e6e-451c-a54c-1d3cbcef5aeb/apply) · [2](https://jobs.lever.co/palantir/d1ac83d0-e923-42a5-8e6d-58dd0cab25ca/apply) · [3](https://jobs.lever.co/palantir/fbca0358-083a-4222-bdbb-3bd729b48382/apply) — Washington, DC; NYC · posted 2026-06-16 · SWE
 
 </details>
 <details open>
@@ -699,6 +690,12 @@ and `.nojekyll` into `docs/`, set Pages to `/docs`, and give every device a toke
 <summary>Schonfeld (1)</summary>
 
 - [Market Data Analyst](https://job-boards.greenhouse.io/schonfeld/jobs/7843959) — NYC · posted 2026-04-30 · ML · BS
+
+</details>
+<details open>
+<summary>Shield AI (1)</summary>
+
+- [Software Development Engineer New Grad](https://jobs.lever.co/shieldai/79c3b65f-ce0c-4868-bedf-4ddcc4cfe583/apply) — San Diego, CA · posted 2026-10-06 · ML · BS/MS/PhD
 
 </details>
 <details open>
