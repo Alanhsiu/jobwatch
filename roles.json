@@ -1,5 +1,97 @@
 [
  {
+  "id": "simplify:57799ea2-a163-43b4-a26c-1a91102d737e",
+  "first_seen": 1791414691,
+  "company": "Microsoft",
+  "title": "Software Engineer",
+  "location": "Redmond, WA",
+  "url": "https://apply.careers.microsoft.com/careers/job/1970393557022926",
+  "category": "SWE",
+  "posted": "2026-10-07",
+  "date_posted": 1791411135,
+  "active": true,
+  "locations": [
+   "Redmond, WA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's"
+  ],
+  "sponsorship": "Other",
+  "group": "microsoft|software engineer",
+  "in_feed": true,
+  "reason": null
+ },
+ {
+  "id": "simplify:2b3eca81-2577-435b-bff1-4b7a0b5a3e9a",
+  "first_seen": 1791414691,
+  "company": "Shield AI",
+  "title": "Simulation Framework Engineer 1",
+  "location": "Washington, DC",
+  "url": "https://jobs.lever.co/shieldai/71a4617f-c917-4536-bbf1-8d11d04d8cba/apply",
+  "category": "SWE",
+  "posted": "2026-10-07",
+  "date_posted": 1791411064,
+  "active": true,
+  "locations": [
+   "Washington, DC"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's"
+  ],
+  "sponsorship": "Other",
+  "group": "shield ai|simulation framework engineer 1",
+  "in_feed": true,
+  "reason": null
+ },
+ {
+  "id": "simplify:b2bf950b-bf97-4b9c-8ab7-e96bfd87276a",
+  "first_seen": 1791414691,
+  "company": "Shield AI",
+  "title": "Simulation Framework Engineer 2 - Simulation Framework",
+  "location": "San Diego, CA",
+  "url": "https://jobs.lever.co/shieldai/39a7aa1b-9988-4ac7-ade9-12dd16cbae62/apply",
+  "category": "SWE",
+  "posted": "2026-10-07",
+  "date_posted": 1791411064,
+  "active": true,
+  "locations": [
+   "San Diego, CA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "shield ai|simulation framework engineer 2 simulation framework",
+  "in_feed": true,
+  "reason": null
+ },
+ {
+  "id": "simplify:26312bf9-da72-4a4d-bd0d-d68bbce60496",
+  "first_seen": 1791414691,
+  "company": "Apple",
+  "title": "Screening & Integration Engineer - Watch Software - Sensing & Connectivity",
+  "location": "Cupertino, CA",
+  "url": "https://jobs.apple.com/en-us/details/200687790",
+  "category": "SWE",
+  "posted": "2026-10-07",
+  "date_posted": 1791410960,
+  "active": true,
+  "locations": [
+   "Cupertino, CA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's"
+  ],
+  "sponsorship": "Other",
+  "group": "apple|screening integration engineer watch software sensing connectivity",
+  "in_feed": true,
+  "reason": null
+ },
+ {
   "id": "simplify:03a16469-429d-4f34-a718-e27b73e3b992",
   "first_seen": 1791363131,
   "company": "Apple",
@@ -1417,31 +1509,6 @@
   "degrees": [],
   "sponsorship": "Other",
   "group": "wintermute|algorithmic trader",
-  "in_feed": true,
-  "reason": null
- },
- {
-  "id": "simplify:cc7b9cd5-ba87-4685-b07f-c22f2a4a6a31",
-  "company": "Amazon",
-  "title": "Applied Scientist - Global Risk Intelligence and Prevention - Seller Abuse Prevention",
-  "location": "Seattle, WA",
-  "url": "https://amazon.jobs/en/jobs/10528088/applied-scientist-global-risk-intelligence-and-prevention-seller-abuse-prevention",
-  "category": "ML",
-  "posted": "2026-09-03",
-  "date_posted": 1788415426,
-  "active": true,
-  "first_seen": 1788459477.1502452,
-  "last_seen": 1789521191.4314806,
-  "locations": [
-   "Seattle, WA"
-  ],
-  "region": "US",
-  "degrees": [
-   "Master's",
-   "PhD"
-  ],
-  "sponsorship": "Other",
-  "group": "amazon|applied scientist global risk intelligence and prevention seller abuse prevention",
   "in_feed": true,
   "reason": null
  },
@@ -7794,6 +7861,32 @@
   "reason": "untracked",
   "why": "title",
   "group": "tesla|data collection operator optimus"
+ },
+ {
+  "id": "simplify:cc7b9cd5-ba87-4685-b07f-c22f2a4a6a31",
+  "company": "Amazon",
+  "title": "Applied Scientist - Global Risk Intelligence and Prevention - Seller Abuse Prevention",
+  "location": "Seattle, WA",
+  "url": "https://amazon.jobs/en/jobs/10528088/applied-scientist-global-risk-intelligence-and-prevention-seller-abuse-prevention",
+  "category": "ML",
+  "posted": "2026-09-03",
+  "date_posted": 1788415426,
+  "active": false,
+  "first_seen": 1788459477.1502452,
+  "last_seen": 1791414691,
+  "locations": [
+   "Seattle, WA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Master's",
+   "PhD"
+  ],
+  "sponsorship": "Other",
+  "group": "amazon|applied scientist global risk intelligence and prevention seller abuse prevention",
+  "in_feed": false,
+  "reason": "closed",
+  "closed_at": 1791414691
  },
  {
   "id": "simplify:7c00bd35-b4d2-47d6-aa55-d4f4d70f9b5e",
