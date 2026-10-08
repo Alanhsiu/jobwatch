@@ -4,20 +4,20 @@
  "repo": "Alanhsiu/jobwatch",
  "branch": "main",
  "pages_url": "https://alanhsiu.github.io/jobwatch/",
- "last_run": 1791467023,
- "last_change": 1791467023,
+ "last_run": 1791489581,
+ "last_change": 1791489581,
  "last_result": "ok",
  "feed": {
-  "records": 19735,
-  "active": 3089,
-  "fetched_at": 1791467023,
+  "records": 19732,
+  "active": 3070,
+  "fetched_at": 1791489581,
   "attempts": 1
  },
  "counts": {
-  "active": 296,
-  "closed": 222,
+  "active": 293,
+  "closed": 225,
   "untracked": 65,
-  "groups": 253,
+  "groups": 252,
   "companies": 56,
   "new_this_run": 0,
   "silent_known_this_run": 0,
@@ -28,7 +28,7 @@
   "category": 119,
   "phd": 172,
   "title": 21,
-  "region": 41,
+  "region": 40,
   "sponsorship": 0,
   "age": 19
  },
@@ -64,7 +64,7 @@
    "denied": 0
   },
   "anduril": {
-   "active": 11,
+   "active": 10,
    "all_time": 15,
    "names": [
     "Anduril"
@@ -88,7 +88,7 @@
    "denied": 0
   },
   "apple": {
-   "active": 11,
+   "active": 10,
    "all_time": 31,
    "names": [
     "Apple"
@@ -545,7 +545,7 @@
    "denied": 0
   },
   "microsoft": {
-   "active": 8,
+   "active": 7,
    "all_time": 22,
    "names": [
     "Microsoft"

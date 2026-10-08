@@ -167,30 +167,6 @@
   "reason": null
  },
  {
-  "id": "simplify:2e77fdb4-933b-41b1-8fe2-253cdec7bb57",
-  "first_seen": 1791337144,
-  "company": "Apple",
-  "title": "CAD Engineer - Signoff Infrastructure",
-  "location": "Austin, TX, San Jose, CA",
-  "url": "https://jobs.apple.com/en-us/details/200687472",
-  "category": "SWE",
-  "posted": "2026-10-06",
-  "date_posted": 1791324460,
-  "active": true,
-  "locations": [
-   "Austin, TX",
-   "San Jose, CA"
-  ],
-  "region": "US",
-  "degrees": [
-   "Bachelor's"
-  ],
-  "sponsorship": "Other",
-  "group": "apple|cad engineer signoff infrastructure",
-  "in_feed": true,
-  "reason": null
- },
- {
   "id": "simplify:52003851-c92f-4b80-85d1-0cfbfde820cd",
   "first_seen": 1791299864,
   "company": "Fireworks AI",
@@ -309,29 +285,6 @@
   ],
   "sponsorship": "Other",
   "group": "harvey|software engineer new grad",
-  "in_feed": true,
-  "reason": null
- },
- {
-  "id": "simplify:f7a49f5e-9e77-4384-862f-b5575135ec64",
-  "first_seen": 1791127536,
-  "company": "Microsoft",
-  "title": "Software Engineer",
-  "location": "Redmond, WA",
-  "url": "https://apply.careers.microsoft.com/careers/job/1970393557016400",
-  "category": "SWE",
-  "posted": "2026-10-02",
-  "date_posted": 1790979171,
-  "active": true,
-  "locations": [
-   "Redmond, WA"
-  ],
-  "region": "US",
-  "degrees": [
-   "Bachelor's"
-  ],
-  "sponsorship": "Other",
-  "group": "microsoft|software engineer",
   "in_feed": true,
   "reason": null
  },
@@ -529,29 +482,6 @@
   "degrees": [],
   "sponsorship": "Other",
   "group": "anthropic|claude corps",
-  "in_feed": true,
-  "reason": null
- },
- {
-  "id": "simplify:7d9873a2-afea-4254-9ea2-9239888b1e16",
-  "first_seen": 1790671341,
-  "company": "Anduril",
-  "title": "Data Analyst - Quality",
-  "location": "Ashville, OH",
-  "url": "https://boards.greenhouse.io/andurilindustries/jobs/5251234007",
-  "category": "ML",
-  "posted": "2026-09-29",
-  "date_posted": 1790662837,
-  "active": true,
-  "locations": [
-   "Ashville, OH"
-  ],
-  "region": "US",
-  "degrees": [
-   "Bachelor's"
-  ],
-  "sponsorship": "Other",
-  "group": "anduril|data analyst quality",
   "in_feed": true,
   "reason": null
  },
@@ -7286,6 +7216,32 @@
   "last_seen": 1791467023
  },
  {
+  "id": "simplify:2e77fdb4-933b-41b1-8fe2-253cdec7bb57",
+  "first_seen": 1791337144,
+  "company": "Apple",
+  "title": "CAD Engineer - Signoff Infrastructure",
+  "location": "Austin, TX, San Jose, CA",
+  "url": "https://jobs.apple.com/en-us/details/200687472",
+  "category": "SWE",
+  "posted": "2026-10-06",
+  "date_posted": 1791324460,
+  "active": false,
+  "locations": [
+   "Austin, TX",
+   "San Jose, CA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's"
+  ],
+  "sponsorship": "Other",
+  "group": "apple|cad engineer signoff infrastructure",
+  "in_feed": false,
+  "reason": "closed",
+  "closed_at": 1791489581,
+  "last_seen": 1791489581
+ },
+ {
   "id": "simplify:0523ccf9-780c-4410-bcbb-60c3ebfa059b",
   "first_seen": 1791127536,
   "company": "Microsoft",
@@ -7338,6 +7294,31 @@
   "last_seen": 1791363131
  },
  {
+  "id": "simplify:f7a49f5e-9e77-4384-862f-b5575135ec64",
+  "first_seen": 1791127536,
+  "company": "Microsoft",
+  "title": "Software Engineer",
+  "location": "Redmond, WA",
+  "url": "https://apply.careers.microsoft.com/careers/job/1970393557016400",
+  "category": "SWE",
+  "posted": "2026-10-02",
+  "date_posted": 1790979171,
+  "active": false,
+  "locations": [
+   "Redmond, WA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's"
+  ],
+  "sponsorship": "Other",
+  "group": "microsoft|software engineer",
+  "in_feed": false,
+  "reason": "closed",
+  "closed_at": 1791489581,
+  "last_seen": 1791489581
+ },
+ {
   "id": "simplify:f88093bb-d2d0-4394-a197-5b0f1159eec8",
   "first_seen": 1791127536,
   "company": "Microsoft",
@@ -7388,6 +7369,31 @@
   "reason": "closed",
   "closed_at": 1791299864,
   "last_seen": 1791299864
+ },
+ {
+  "id": "simplify:7d9873a2-afea-4254-9ea2-9239888b1e16",
+  "first_seen": 1790671341,
+  "company": "Anduril",
+  "title": "Data Analyst - Quality",
+  "location": "Ashville, OH",
+  "url": "https://boards.greenhouse.io/andurilindustries/jobs/5251234007",
+  "category": "ML",
+  "posted": "2026-09-29",
+  "date_posted": 1790662837,
+  "active": false,
+  "locations": [
+   "Ashville, OH"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's"
+  ],
+  "sponsorship": "Other",
+  "group": "anduril|data analyst quality",
+  "in_feed": false,
+  "reason": "closed",
+  "closed_at": 1791489581,
+  "last_seen": 1791489581
  },
  {
   "id": "simplify:e60e9a94-ba50-4649-b502-e7203a9eb65f",
