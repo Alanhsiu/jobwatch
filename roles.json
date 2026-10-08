@@ -1,5 +1,29 @@
 [
  {
+  "id": "simplify:edc4278f-b222-4879-adc6-0a1a97a007a6",
+  "first_seen": 1791440320,
+  "company": "TikTok",
+  "title": "Machine Learning Engineer Graduate - E-Commerce Knowledge Graph",
+  "location": "Seattle, WA",
+  "url": "https://lifeattiktok.com/search/7694054165508557109",
+  "category": "ML",
+  "posted": "2026-10-08",
+  "date_posted": 1791422026,
+  "active": true,
+  "locations": [
+   "Seattle, WA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "tiktok|machine learning engineer graduate e commerce knowledge graph",
+  "in_feed": true,
+  "reason": null
+ },
+ {
   "id": "simplify:57799ea2-a163-43b4-a26c-1a91102d737e",
   "first_seen": 1791414691,
   "company": "Microsoft",
