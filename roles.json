@@ -1,5 +1,53 @@
 [
  {
+  "id": "simplify:8dc8094b-3378-4b61-b2e0-e96ca5a69fc5",
+  "first_seen": 1791505712,
+  "company": "TikTok",
+  "title": "Machine Learning Engineer Graduate - E-Commerce User Growth",
+  "location": "Seattle, WA",
+  "url": "https://lifeattiktok.com/search/7694353236283935029",
+  "category": "ML",
+  "posted": "2026-10-08",
+  "date_posted": 1791497917,
+  "active": true,
+  "locations": [
+   "Seattle, WA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "tiktok|machine learning engineer graduate e commerce user growth",
+  "in_feed": true,
+  "reason": null
+ },
+ {
+  "id": "simplify:e2182c1b-5804-476c-b3e7-fd9a76bfa949",
+  "first_seen": 1791505712,
+  "company": "TikTok",
+  "title": "Machine Learning Engineer New Grad - E-Commerce User Growth",
+  "location": "San Jose, CA",
+  "url": "https://lifeattiktok.com/search/7694352871949682997",
+  "category": "ML",
+  "posted": "2026-10-08",
+  "date_posted": 1791497917,
+  "active": true,
+  "locations": [
+   "San Jose, CA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "tiktok|machine learning engineer new grad e commerce user growth",
+  "in_feed": true,
+  "reason": null
+ },
+ {
   "id": "simplify:edc4278f-b222-4879-adc6-0a1a97a007a6",
   "first_seen": 1791440320,
   "company": "TikTok",
@@ -1294,27 +1342,6 @@
   ],
   "sponsorship": "Other",
   "group": "microsoft|software engineer",
-  "in_feed": true,
-  "reason": null
- },
- {
-  "id": "simplify:81c985f6-1a98-41d6-81bc-4765dee97c77",
-  "first_seen": 1791074788,
-  "company": "Anduril",
-  "title": "Mission Software Engineer",
-  "location": "Costa Mesa, CA",
-  "url": "https://boards.greenhouse.io/andurilindustries/jobs/5208852007",
-  "category": "SWE",
-  "posted": "2026-09-04",
-  "date_posted": 1788533725,
-  "active": true,
-  "locations": [
-   "Costa Mesa, CA"
-  ],
-  "region": "US",
-  "degrees": [],
-  "sponsorship": "Other",
-  "group": "anduril|mission software engineer",
   "in_feed": true,
   "reason": null
  },
@@ -7872,6 +7899,29 @@
   "closed_at": 1789063213,
   "reason": "closed",
   "group": "servicenow|software engineer"
+ },
+ {
+  "id": "simplify:81c985f6-1a98-41d6-81bc-4765dee97c77",
+  "first_seen": 1791074788,
+  "company": "Anduril",
+  "title": "Mission Software Engineer",
+  "location": "Costa Mesa, CA",
+  "url": "https://boards.greenhouse.io/andurilindustries/jobs/5208852007",
+  "category": "SWE",
+  "posted": "2026-09-04",
+  "date_posted": 1788533725,
+  "active": false,
+  "locations": [
+   "Costa Mesa, CA"
+  ],
+  "region": "US",
+  "degrees": [],
+  "sponsorship": "Other",
+  "group": "anduril|mission software engineer",
+  "in_feed": false,
+  "reason": "closed",
+  "closed_at": 1791505712,
+  "last_seen": 1791505712
  },
  {
   "id": "simplify:bf15bc13-29b7-40a4-83f5-9a809a1d744e",
