@@ -8,7 +8,7 @@ sync between devices through this repo. No servers, no database, no cost — a p
 bot token. This repo's tracker: **[alanhsiu.github.io/jobwatch](https://alanhsiu.github.io/jobwatch/)** (a fork gets its own at `https://<owner>.github.io/<repo>/`).
 
 <!-- JOBS:HEAD:START -->
-_295 open new-grad roles at 57 companies · list last changed 2026-10-09 · scans every ~2 h_ · **[Open the tracker](https://alanhsiu.github.io/jobwatch/)** · [Full list ↓](#current-roles) · TikTok 103 · ByteDance 37 · Amazon 10 · Apple 10 · Palantir 10 · Anduril 9 · Microsoft 7 · Applied Intuition 5 · …
+_295 open new-grad roles at 56 companies · list last changed 2026-10-09 · scans every ~2 h_ · **[Open the tracker](https://alanhsiu.github.io/jobwatch/)** · [Full list ↓](#current-roles) · TikTok 105 · ByteDance 37 · Amazon 10 · Apple 10 · Palantir 10 · Anduril 9 · Microsoft 7 · Applied Intuition 5 · …
 <!-- JOBS:HEAD:END -->
 
 ## How it works
@@ -205,8 +205,9 @@ and `.nojekyll` into `docs/`, set Pages to `/docs`, and give every device a toke
 ## Current roles
 <!-- JOBS:START -->
 <details>
-<summary>TikTok (103)</summary>
+<summary>TikTok (105)</summary>
 
+- [Machine Learning Engineer Graduate - Conversational AI](https://lifeattiktok.com/search/7670685495206857013) · [2](https://lifeattiktok.com/search/7670686314588801333) — Seattle, WA; San Jose, CA · posted 2026-10-09 · ML · BS
 - [Machine Learning Engineer Graduate - E-Commerce User Growth](https://lifeattiktok.com/search/7694353236283935029) — Seattle, WA · posted 2026-10-08 · ML · BS/MS
 - [Machine Learning Engineer New Grad - E-Commerce User Growth](https://lifeattiktok.com/search/7694352871949682997) — San Jose, CA · posted 2026-10-08 · ML · BS/MS
 - [Machine Learning Engineer Graduate - E-Commerce Knowledge Graph](https://lifeattiktok.com/search/7694054165508557109) · [2](https://lifeattiktok.com/search/7679156878833682693) — Seattle, WA; San Jose, CA · posted 2026-10-08 · ML · BS/MS
@@ -482,14 +483,6 @@ and `.nojekyll` into `docs/`, set Pages to `/docs`, and give every device a toke
 
 </details>
 <details open>
-<summary>Adobe (3)</summary>
-
-- [Machine Learning Engineer New Grad](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-University-Graduate---Machine-Learning-Engineer_R172085) — Seattle, WA, SF, Austin, TX · posted 2026-09-24 · ML · MS/PhD
-- [Software Engineer New Grad](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-University-Graduate---Software-Engineer_R172083) — Seattle, WA, SF, Austin, TX · posted 2026-09-24 · SWE · BS/MS
-- [Applied Scientist](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Senior-Applied-Scientist_R165817) — San Jose, CA · posted 2026-09-04 · ML · MS/PhD
-
-</details>
-<details open>
 <summary>Akuna Capital University (3)</summary>
 
 - [Junior Quantitative Researcher](https://www.akunacapital.com/careers/job/8036541/?gh_jid=8036541) — Chicago, IL · posted 2026-07-13 · Quant · BS/MS/PhD
@@ -525,6 +518,13 @@ and `.nojekyll` into `docs/`, set Pages to `/docs`, and give every device a toke
 <summary>Wolverine Trading (3)</summary>
 
 - [Entry Level C++ Software Engineer](https://wolve.pinpointhq.com/en/postings/2b2e514b-4709-4897-960d-77909fe33ab8?ats=pinpointhq) · [2](https://wolve.pinpointhq.com/en/postings/1f33c89b-2592-498d-b45a-1b2092cf944e?ats=pinpointhq) · [3](https://wolve.pinpointhq.com/en/postings/e03d9864-a128-40ff-91b5-dfc9fd1b59d6?ats=pinpointhq) — Chicago, IL · posted 2026-09-18 · SWE · BS/MS
+
+</details>
+<details open>
+<summary>Adobe (2)</summary>
+
+- [Machine Learning Engineer New Grad](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-University-Graduate---Machine-Learning-Engineer_R172085) — Seattle, WA, SF, Austin, TX · posted 2026-09-24 · ML · MS/PhD
+- [Software Engineer New Grad](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-University-Graduate---Software-Engineer_R172083) — Seattle, WA, SF, Austin, TX · posted 2026-09-24 · SWE · BS/MS
 
 </details>
 <details open>
@@ -705,12 +705,6 @@ and `.nojekyll` into `docs/`, set Pages to `/docs`, and give every device a toke
 <summary>Schonfeld (1)</summary>
 
 - [Market Data Analyst](https://job-boards.greenhouse.io/schonfeld/jobs/7843959) — NYC · posted 2026-04-30 · ML · BS
-
-</details>
-<details open>
-<summary>Snowflake (1)</summary>
-
-- [Software Engineer - Customer Experience Engineering](https://jobs.ashbyhq.com/snowflake/5ca0fa74-9e43-4468-8f1c-0a3aa0a993ec/application?embed=true) — Menlo Park, CA · posted 2026-10-09 · SWE · BS/MS
 
 </details>
 <details open>

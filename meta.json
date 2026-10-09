@@ -4,37 +4,37 @@
  "repo": "Alanhsiu/jobwatch",
  "branch": "main",
  "pages_url": "https://alanhsiu.github.io/jobwatch/",
- "last_run": 1791537400,
- "last_change": 1791537400,
+ "last_run": 1791585887,
+ "last_change": 1791585887,
  "last_result": "ok",
  "feed": {
-  "records": 19692,
-  "active": 3093,
-  "fetched_at": 1791537400,
+  "records": 19720,
+  "active": 3102,
+  "fetched_at": 1791585887,
   "attempts": 1
  },
  "counts": {
   "active": 295,
-  "closed": 226,
+  "closed": 228,
   "untracked": 65,
-  "groups": 254,
-  "companies": 57,
-  "new_this_run": 1,
+  "groups": 253,
+  "companies": 56,
+  "new_this_run": 2,
   "silent_known_this_run": 0,
-  "closed_this_run": 0,
+  "closed_this_run": 2,
   "untracked_this_run": 0
  },
  "rejects": {
-  "category": 119,
-  "phd": 177,
+  "category": 120,
+  "phd": 176,
   "title": 21,
-  "region": 41,
+  "region": 40,
   "sponsorship": 0,
   "age": 19
  },
  "keywords": {
   "adobe": {
-   "active": 3,
+   "active": 2,
    "all_time": 10,
    "names": [
     "Adobe"
@@ -801,11 +801,9 @@
    "denied": 1
   },
   "snowflake": {
-   "active": 1,
+   "active": 0,
    "all_time": 1,
-   "names": [
-    "Snowflake"
-   ],
+   "names": [],
    "denied": 0
   },
   "squarepoint": {
@@ -851,8 +849,8 @@
    "denied": 0
   },
   "tiktok": {
-   "active": 103,
-   "all_time": 156,
+   "active": 105,
+   "all_time": 158,
    "names": [
     "TikTok"
    ],
@@ -1007,7 +1005,7 @@
  },
  "telegram": {
   "mode": "sent",
-  "delivered": 1,
+  "delivered": 2,
   "failed_chunks": 0,
   "creds": true
  },

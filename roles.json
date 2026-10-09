@@ -1,25 +1,47 @@
 [
  {
-  "id": "simplify:07705204-70be-436b-85af-c48fd1f5e63d",
-  "first_seen": 1791537400,
-  "company": "Snowflake",
-  "title": "Software Engineer - Customer Experience Engineering",
-  "location": "Menlo Park, CA",
-  "url": "https://jobs.ashbyhq.com/snowflake/5ca0fa74-9e43-4468-8f1c-0a3aa0a993ec/application?embed=true",
-  "category": "SWE",
+  "id": "simplify:9f92b24f-ac56-4f00-9aa8-355eb21841bd",
+  "first_seen": 1791585887,
+  "company": "TikTok",
+  "title": "Machine Learning Engineer Graduate - Conversational AI",
+  "location": "Seattle, WA",
+  "url": "https://lifeattiktok.com/search/7670685495206857013",
+  "category": "ML",
   "posted": "2026-10-09",
-  "date_posted": 1791508811,
+  "date_posted": 1791584202,
   "active": true,
   "locations": [
-   "Menlo Park, CA"
+   "Seattle, WA"
   ],
   "region": "US",
   "degrees": [
-   "Bachelor's",
-   "Master's"
+   "Bachelor's"
   ],
   "sponsorship": "Other",
-  "group": "snowflake|software engineer customer experience engineering",
+  "group": "tiktok|machine learning engineer graduate conversational ai",
+  "in_feed": true,
+  "reason": null
+ },
+ {
+  "id": "simplify:40476e00-e6a1-484f-9b0e-f965b658d768",
+  "first_seen": 1791585887,
+  "company": "TikTok",
+  "title": "Machine Learning Engineer Graduate - Conversational AI",
+  "location": "San Jose, CA",
+  "url": "https://lifeattiktok.com/search/7670686314588801333",
+  "category": "ML",
+  "posted": "2026-10-09",
+  "date_posted": 1791584201,
+  "active": true,
+  "locations": [
+   "San Jose, CA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's"
+  ],
+  "sponsorship": "Other",
+  "group": "tiktok|machine learning engineer graduate conversational ai",
   "in_feed": true,
   "reason": null
  },
@@ -1395,30 +1417,6 @@
   ],
   "sponsorship": "Other",
   "group": "doordash|software engineer 1 entry level",
-  "in_feed": true,
-  "reason": null
- },
- {
-  "id": "simplify:585f5e28-8a7b-4cf2-a234-4dcd672412ef",
-  "first_seen": 1789691306,
-  "company": "Adobe",
-  "title": "Applied Scientist",
-  "location": "San Jose, CA",
-  "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Senior-Applied-Scientist_R165817",
-  "category": "ML",
-  "posted": "2026-09-04",
-  "date_posted": 1788480000,
-  "active": true,
-  "locations": [
-   "San Jose, CA"
-  ],
-  "region": "US",
-  "degrees": [
-   "Master's",
-   "PhD"
-  ],
-  "sponsorship": "Other",
-  "group": "adobe|applied scientist",
   "in_feed": true,
   "reason": null
  },
@@ -7242,6 +7240,32 @@
   "reason": null
  },
  {
+  "id": "simplify:07705204-70be-436b-85af-c48fd1f5e63d",
+  "first_seen": 1791537400,
+  "company": "Snowflake",
+  "title": "Software Engineer - Customer Experience Engineering",
+  "location": "Menlo Park, CA",
+  "url": "https://jobs.ashbyhq.com/snowflake/5ca0fa74-9e43-4468-8f1c-0a3aa0a993ec/application?embed=true",
+  "category": "SWE",
+  "posted": "2026-10-09",
+  "date_posted": 1791508811,
+  "active": false,
+  "locations": [
+   "Menlo Park, CA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "snowflake|software engineer customer experience engineering",
+  "in_feed": false,
+  "reason": "closed",
+  "closed_at": 1791585887,
+  "last_seen": 1791585887
+ },
+ {
   "id": "simplify:26312bf9-da72-4a4d-bd0d-d68bbce60496",
   "first_seen": 1791414691,
   "company": "Apple",
@@ -7946,6 +7970,32 @@
   "reason": "closed",
   "closed_at": 1791505712,
   "last_seen": 1791505712
+ },
+ {
+  "id": "simplify:585f5e28-8a7b-4cf2-a234-4dcd672412ef",
+  "first_seen": 1789691306,
+  "company": "Adobe",
+  "title": "Applied Scientist",
+  "location": "San Jose, CA",
+  "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Senior-Applied-Scientist_R165817",
+  "category": "ML",
+  "posted": "2026-09-04",
+  "date_posted": 1788480000,
+  "active": false,
+  "locations": [
+   "San Jose, CA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Master's",
+   "PhD"
+  ],
+  "sponsorship": "Other",
+  "group": "adobe|applied scientist",
+  "in_feed": false,
+  "reason": "closed",
+  "closed_at": 1791585887,
+  "last_seen": 1791585887
  },
  {
   "id": "simplify:bf15bc13-29b7-40a4-83f5-9a809a1d744e",
