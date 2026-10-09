@@ -4,30 +4,30 @@
  "repo": "Alanhsiu/jobwatch",
  "branch": "main",
  "pages_url": "https://alanhsiu.github.io/jobwatch/",
- "last_run": 1791505712,
- "last_change": 1791505712,
+ "last_run": 1791537400,
+ "last_change": 1791537400,
  "last_result": "ok",
  "feed": {
-  "records": 19705,
-  "active": 3100,
-  "fetched_at": 1791505712,
+  "records": 19692,
+  "active": 3093,
+  "fetched_at": 1791537400,
   "attempts": 1
  },
  "counts": {
-  "active": 294,
+  "active": 295,
   "closed": 226,
   "untracked": 65,
-  "groups": 253,
-  "companies": 56,
-  "new_this_run": 2,
+  "groups": 254,
+  "companies": 57,
+  "new_this_run": 1,
   "silent_known_this_run": 0,
-  "closed_this_run": 1,
+  "closed_this_run": 0,
   "untracked_this_run": 0
  },
  "rejects": {
-  "category": 120,
-  "phd": 175,
-  "title": 22,
+  "category": 119,
+  "phd": 177,
+  "title": 21,
   "region": 41,
   "sponsorship": 0,
   "age": 19
@@ -801,9 +801,11 @@
    "denied": 1
   },
   "snowflake": {
-   "active": 0,
-   "all_time": 0,
-   "names": [],
+   "active": 1,
+   "all_time": 1,
+   "names": [
+    "Snowflake"
+   ],
    "denied": 0
   },
   "squarepoint": {
@@ -1005,7 +1007,7 @@
  },
  "telegram": {
   "mode": "sent",
-  "delivered": 2,
+  "delivered": 1,
   "failed_chunks": 0,
   "creds": true
  },

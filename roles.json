@@ -1,5 +1,29 @@
 [
  {
+  "id": "simplify:07705204-70be-436b-85af-c48fd1f5e63d",
+  "first_seen": 1791537400,
+  "company": "Snowflake",
+  "title": "Software Engineer - Customer Experience Engineering",
+  "location": "Menlo Park, CA",
+  "url": "https://jobs.ashbyhq.com/snowflake/5ca0fa74-9e43-4468-8f1c-0a3aa0a993ec/application?embed=true",
+  "category": "SWE",
+  "posted": "2026-10-09",
+  "date_posted": 1791508811,
+  "active": true,
+  "locations": [
+   "Menlo Park, CA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "snowflake|software engineer customer experience engineering",
+  "in_feed": true,
+  "reason": null
+ },
+ {
   "id": "simplify:8dc8094b-3378-4b61-b2e0-e96ca5a69fc5",
   "first_seen": 1791505712,
   "company": "TikTok",
