@@ -1,5 +1,52 @@
 [
  {
+  "id": "simplify:96b88f42-fdea-4557-a58f-4847e5ce71d3",
+  "first_seen": 1791636223,
+  "company": "Microsoft",
+  "title": "Software Engineer",
+  "location": "Redmond, WA",
+  "url": "https://apply.careers.microsoft.com/careers/job/1970393557037774",
+  "category": "SWE",
+  "posted": "2026-10-10",
+  "date_posted": 1791612506,
+  "active": true,
+  "locations": [
+   "Redmond, WA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "microsoft|software engineer",
+  "in_feed": true,
+  "reason": null
+ },
+ {
+  "id": "simplify:c0e68386-5f91-485f-86a7-c92db1919740",
+  "first_seen": 1791636223,
+  "company": "Shield AI",
+  "title": "Software Engineer 1 - Factory Team",
+  "location": "Washington, DC",
+  "url": "https://jobs.lever.co/shieldai/59e0cf9b-04d7-43c0-8a65-9d411fe56c68/apply",
+  "category": "SWE",
+  "posted": "2026-10-10",
+  "date_posted": 1791612416,
+  "active": true,
+  "locations": [
+   "Washington, DC"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's"
+  ],
+  "sponsorship": "Other",
+  "group": "shield ai|software engineer 1 factory team",
+  "in_feed": true,
+  "reason": null
+ },
+ {
   "id": "simplify:6f15290e-1c49-44ed-a47d-5d3d58c890ae",
   "first_seen": 1791612160,
   "company": "Microsoft",
