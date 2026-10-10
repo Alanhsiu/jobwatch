@@ -4,30 +4,30 @@
  "repo": "Alanhsiu/jobwatch",
  "branch": "main",
  "pages_url": "https://alanhsiu.github.io/jobwatch/",
- "last_run": 1791585887,
- "last_change": 1791585887,
+ "last_run": 1791612160,
+ "last_change": 1791612160,
  "last_result": "ok",
  "feed": {
-  "records": 19720,
-  "active": 3102,
-  "fetched_at": 1791585887,
+  "records": 19689,
+  "active": 3127,
+  "fetched_at": 1791612160,
   "attempts": 1
  },
  "counts": {
-  "active": 295,
+  "active": 298,
   "closed": 228,
   "untracked": 65,
-  "groups": 253,
+  "groups": 255,
   "companies": 56,
-  "new_this_run": 2,
+  "new_this_run": 3,
   "silent_known_this_run": 0,
-  "closed_this_run": 2,
+  "closed_this_run": 0,
   "untracked_this_run": 0
  },
  "rejects": {
-  "category": 120,
+  "category": 122,
   "phd": 176,
-  "title": 21,
+  "title": 22,
   "region": 40,
   "sponsorship": 0,
   "age": 19
@@ -545,8 +545,8 @@
    "denied": 0
   },
   "microsoft": {
-   "active": 7,
-   "all_time": 22,
+   "active": 8,
+   "all_time": 23,
    "names": [
     "Microsoft"
    ],
@@ -585,8 +585,8 @@
    "denied": 0
   },
   "nvidia": {
-   "active": 4,
-   "all_time": 24,
+   "active": 5,
+   "all_time": 25,
    "names": [
     "NVIDIA"
    ],
@@ -773,8 +773,8 @@
    "denied": 0
   },
   "shield ai": {
-   "active": 3,
-   "all_time": 3,
+   "active": 4,
+   "all_time": 4,
    "names": [
     "Shield AI"
    ],
@@ -1005,7 +1005,7 @@
  },
  "telegram": {
   "mode": "sent",
-  "delivered": 2,
+  "delivered": 3,
   "failed_chunks": 0,
   "creds": true
  },
