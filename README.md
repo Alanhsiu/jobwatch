@@ -8,7 +8,7 @@ sync between devices through this repo. No servers, no database, no cost — a p
 bot token. This repo's tracker: **[alanhsiu.github.io/jobwatch](https://alanhsiu.github.io/jobwatch/)** (a fork gets its own at `https://<owner>.github.io/<repo>/`).
 
 <!-- JOBS:HEAD:START -->
-_300 open new-grad roles at 56 companies · list last changed 2026-10-12 · scans every ~2 h_ · **[Open the tracker](https://alanhsiu.github.io/jobwatch/)** · [Full list ↓](#current-roles) · TikTok 104 · ByteDance 37 · Amazon 10 · Apple 10 · Palantir 10 · Anduril 9 · Microsoft 9 · NVIDIA 6 · …
+_302 open new-grad roles at 56 companies · list last changed 2026-10-12 · scans every ~2 h_ · **[Open the tracker](https://alanhsiu.github.io/jobwatch/)** · [Full list ↓](#current-roles) · TikTok 105 · ByteDance 37 · Amazon 10 · Apple 10 · Palantir 10 · Anduril 9 · Microsoft 9 · NVIDIA 6 · …
 <!-- JOBS:HEAD:END -->
 
 ## How it works
@@ -205,7 +205,7 @@ and `.nojekyll` into `docs/`, set Pages to `/docs`, and give every device a toke
 ## Current roles
 <!-- JOBS:START -->
 <details>
-<summary>TikTok (104)</summary>
+<summary>TikTok (105)</summary>
 
 - [Machine Learning Engineer Graduate - Conversational AI](https://lifeattiktok.com/search/7670685495206857013) · [2](https://lifeattiktok.com/search/7670686314588801333) — Seattle, WA; San Jose, CA · posted 2026-10-09 · ML · BS
 - [Machine Learning Engineer Graduate - E-Commerce User Growth](https://lifeattiktok.com/search/7694353236283935029) — Seattle, WA · posted 2026-10-08 · ML · BS/MS
@@ -278,7 +278,7 @@ and `.nojekyll` into `docs/`, set Pages to `/docs`, and give every device a toke
 - [Backend Software Engineer Graduate - Business Governance](https://lifeattiktok.com/search/7663042453461600517) — San Jose, CA · posted 2026-08-03 · SWE · BS
 - [Backend Software Engineer New Grad - Feed Safety](https://lifeattiktok.com/search/7663028952600807733) — Seattle, WA · posted 2026-08-03 · SWE · BS/MS/PhD
 - [Backend Software Engineer New Grad - Emerging Products & AI Safety](https://lifeattiktok.com/search/7663036952090347829) — San Jose, CA · posted 2026-08-03 · SWE · BS/MS
-- [Backend Software Engineer New Grad - Trust & Safety](https://lifeattiktok.com/search/7664533229944178949) — Seattle, WA · posted 2026-08-03 · SWE · BS/MS/PhD
+- [Backend Software Engineer New Grad - Trust & Safety](https://lifeattiktok.com/search/7664533229944178949) · [2](https://lifeattiktok.com/search/7665994926887291189) — Seattle, WA; San Jose, CA · posted 2026-08-03 · SWE · BS/MS/PhD
 - [Machine Learning Engineer Graduate](https://lifeattiktok.com/search/7665797203155896581) · [2](https://lifeattiktok.com/search/7667344113001384197) · [3](https://lifeattiktok.com/search/7667346543553710389) — San Jose, CA · posted 2026-08-03 · ML · BS/MS
 - [Machine Learning Engineer New Grad - Data Search Visual Search](https://lifeattiktok.com/search/7667349591747758341) — San Jose, CA · posted 2026-08-03 · ML · BS/MS
 - [Machine Learning Engineer New Grad](https://lifeattiktok.com/search/7668376903708281141) — Seattle, WA · posted 2026-08-03 · ML · BS/MS
@@ -495,6 +495,13 @@ and `.nojekyll` into `docs/`, set Pages to `/docs`, and give every device a toke
 
 </details>
 <details open>
+<summary>Wolverine Trading (4)</summary>
+
+- [Early Career C++ Software Engineer](https://wolve.pinpointhq.com/en/postings/4b0e86a1-db36-4490-9a98-17782ffcc648?ats=pinpointhq) — Chicago, IL · posted 2026-10-12 · SWE · BS/MS
+- [Entry Level C++ Software Engineer](https://wolve.pinpointhq.com/en/postings/2b2e514b-4709-4897-960d-77909fe33ab8?ats=pinpointhq) · [2](https://wolve.pinpointhq.com/en/postings/1f33c89b-2592-498d-b45a-1b2092cf944e?ats=pinpointhq) · [3](https://wolve.pinpointhq.com/en/postings/e03d9864-a128-40ff-91b5-dfc9fd1b59d6?ats=pinpointhq) — Chicago, IL · posted 2026-09-18 · SWE · BS/MS
+
+</details>
+<details open>
 <summary>Akuna Capital University (3)</summary>
 
 - [Junior Quantitative Researcher](https://www.akunacapital.com/careers/job/8036541/?gh_jid=8036541) — Chicago, IL · posted 2026-07-13 · Quant · BS/MS/PhD
@@ -516,12 +523,6 @@ and `.nojekyll` into `docs/`, set Pages to `/docs`, and give every device a toke
 - [Performance Engineer](https://job-boards.eu.greenhouse.io/imc/jobs/4823836101) — Chicago, IL · posted 2026-08-27 · SWE · BS
 - [Graduate Software Engineer](https://job-boards.eu.greenhouse.io/imc/jobs/4818790101) — Chicago, IL · posted 2026-07-01 · SWE · BS
 - [Graduate Quantitative Researcher](https://job-boards.eu.greenhouse.io/imc/jobs/4907368101) — Chicago, IL · posted 2026-07-01 · Quant · BS/MS
-
-</details>
-<details open>
-<summary>Wolverine Trading (3)</summary>
-
-- [Entry Level C++ Software Engineer](https://wolve.pinpointhq.com/en/postings/2b2e514b-4709-4897-960d-77909fe33ab8?ats=pinpointhq) · [2](https://wolve.pinpointhq.com/en/postings/1f33c89b-2592-498d-b45a-1b2092cf944e?ats=pinpointhq) · [3](https://wolve.pinpointhq.com/en/postings/e03d9864-a128-40ff-91b5-dfc9fd1b59d6?ats=pinpointhq) — Chicago, IL · posted 2026-09-18 · SWE · BS/MS
 
 </details>
 <details open>
