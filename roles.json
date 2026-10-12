@@ -1,5 +1,52 @@
 [
  {
+  "id": "simplify:db3ca01b-bee9-4147-8df9-822f3a967e90",
+  "first_seen": 1791846268,
+  "company": "Microsoft",
+  "title": "Software Engineer",
+  "location": "Redmond, WA",
+  "url": "https://apply.careers.microsoft.com/careers/job/1970393557023170",
+  "category": "SWE",
+  "posted": "2026-10-12",
+  "date_posted": 1791843025,
+  "active": true,
+  "locations": [
+   "Redmond, WA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's"
+  ],
+  "sponsorship": "Other",
+  "group": "microsoft|software engineer",
+  "in_feed": true,
+  "reason": null
+ },
+ {
+  "id": "simplify:1d54b27d-8a8b-4037-85f3-347baff81004",
+  "first_seen": 1791846268,
+  "company": "Microsoft",
+  "title": "Software Engineering",
+  "location": "Redmond, WA",
+  "url": "https://apply.careers.microsoft.com/careers/job/1970393556999878",
+  "category": "SWE",
+  "posted": "2026-10-12",
+  "date_posted": 1791843002,
+  "active": true,
+  "locations": [
+   "Redmond, WA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "microsoft|software engineering",
+  "in_feed": true,
+  "reason": null
+ },
+ {
   "id": "simplify:1935c5df-770d-45f2-bbde-4d4a462ad5cb",
   "first_seen": 1791819876,
   "company": "Wolverine Trading",
@@ -20,6 +67,32 @@
   ],
   "sponsorship": "Other",
   "group": "wolverine trading|early career c software engineer",
+  "in_feed": true,
+  "reason": null
+ },
+ {
+  "id": "simplify:34e9778a-347d-4ab1-94fd-8da5c77008be",
+  "first_seen": 1791846268,
+  "company": "NVIDIA",
+  "title": "Deep Learning Software Engineer New Grad - TensorRT Performance",
+  "location": "Remote in USA, Santa Clara, CA",
+  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Deep-Learning-Software-Engineer--TensorRT-Performance---New-College-Grad-2027_JR2027083",
+  "category": "ML",
+  "posted": "2026-10-12",
+  "date_posted": 1791763200,
+  "active": true,
+  "locations": [
+   "Remote in USA",
+   "Santa Clara, CA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's",
+   "PhD"
+  ],
+  "sponsorship": "Other",
+  "group": "nvidia|deep learning software engineer new grad tensorrt performance",
   "in_feed": true,
   "reason": null
  },
@@ -652,29 +725,6 @@
   ],
   "sponsorship": "Other",
   "group": "amazon|software development engineer robotics",
-  "in_feed": true,
-  "reason": null
- },
- {
-  "id": "simplify:5f84715f-9790-4448-90f8-d53398abe7e9",
-  "first_seen": 1790861516,
-  "company": "Amazon",
-  "title": "Applied Scientist - International Seller Services",
-  "location": "Seattle, WA",
-  "url": "https://amazon.jobs/en/jobs/10566351/applied-scientist-international-seller-services",
-  "category": "ML",
-  "posted": "2026-10-01",
-  "date_posted": 1790845667,
-  "active": true,
-  "locations": [
-   "Seattle, WA"
-  ],
-  "region": "US",
-  "degrees": [
-   "Master's"
-  ],
-  "sponsorship": "Other",
-  "group": "amazon|applied scientist international seller services",
   "in_feed": true,
   "reason": null
  },
@@ -6057,6 +6107,32 @@
   "reason": null
  },
  {
+  "id": "simplify:30612f5b-226b-4ab8-9610-ae2ae82ca2a0",
+  "company": "NVIDIA",
+  "title": "Developer Technology Engineer New Grad - Public Sector",
+  "location": "Santa Clara, CA",
+  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Developer-Technology-Engineer--Public-Sector---New-College-Grad-2026_JR2008990",
+  "category": "SWE",
+  "posted": "2026-07-22",
+  "date_posted": 1784758590,
+  "active": true,
+  "first_seen": 1785341858.006412,
+  "last_seen": 1787700556.5491414,
+  "in_feed": true,
+  "reason": null,
+  "group": "nvidia|developer technology engineer new grad public sector",
+  "locations": [
+   "Santa Clara, CA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's",
+   "PhD"
+  ],
+  "sponsorship": "Other"
+ },
+ {
   "id": "simplify:f2abc99e-93ba-424e-8d7c-0e3382978e05",
   "company": "Citadel Securities",
   "title": "Quantitative AI Technical Staff",
@@ -6408,6 +6484,32 @@
   ],
   "sponsorship": "Other",
   "group": "drw|quantitative researcher",
+  "in_feed": true,
+  "reason": null
+ },
+ {
+  "id": "simplify:73cbd0da-d5af-4887-a89e-c404bc218ef3",
+  "company": "Akuna Capital University",
+  "title": "Junior Trader",
+  "location": "Chicago, IL",
+  "url": "https://www.akunacapital.com/careers/job/7773141/?gh_jid=7773141",
+  "category": "Quant",
+  "posted": "2026-07-13",
+  "date_posted": 1783980602,
+  "active": true,
+  "first_seen": 1784014543.6740808,
+  "last_seen": 1791394067,
+  "locations": [
+   "Chicago, IL"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's",
+   "PhD"
+  ],
+  "sponsorship": "Other",
+  "group": "akuna capital university|junior trader",
   "in_feed": true,
   "reason": null
  },
@@ -7610,6 +7712,31 @@
   "reason": "closed",
   "closed_at": 1791299864,
   "last_seen": 1791299864
+ },
+ {
+  "id": "simplify:5f84715f-9790-4448-90f8-d53398abe7e9",
+  "first_seen": 1790861516,
+  "company": "Amazon",
+  "title": "Applied Scientist - International Seller Services",
+  "location": "Seattle, WA",
+  "url": "https://amazon.jobs/en/jobs/10566351/applied-scientist-international-seller-services",
+  "category": "ML",
+  "posted": "2026-10-01",
+  "date_posted": 1790845667,
+  "active": false,
+  "locations": [
+   "Seattle, WA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "amazon|applied scientist international seller services",
+  "in_feed": false,
+  "reason": "closed",
+  "closed_at": 1791846268,
+  "last_seen": 1791846268
  },
  {
   "id": "simplify:7d9873a2-afea-4254-9ea2-9239888b1e16",
@@ -10913,23 +11040,6 @@
   "group": "nvidia|software engineer new grad physical design infrastructure"
  },
  {
-  "id": "simplify:30612f5b-226b-4ab8-9610-ae2ae82ca2a0",
-  "company": "NVIDIA",
-  "title": "Developer Technology Engineer New Grad - Public Sector",
-  "location": "Santa Clara, CA",
-  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Developer-Technology-Engineer--Public-Sector---New-College-Grad-2026_JR2008990",
-  "category": "SWE",
-  "posted": "2026-07-22",
-  "date_posted": 1784758590,
-  "active": false,
-  "first_seen": 1785341858.006412,
-  "last_seen": 1787700556.5491414,
-  "in_feed": false,
-  "closed_at": 1787700556,
-  "reason": "closed",
-  "group": "nvidia|developer technology engineer new grad public sector"
- },
- {
   "id": "simplify:1da6cc61-1253-4949-8dcd-75e3f4e196c4",
   "company": "Google",
   "title": "Data Engineer - Gup Engineering",
@@ -11469,33 +11579,6 @@
   "in_feed": false,
   "reason": "closed",
   "closed_at": 1791337144
- },
- {
-  "id": "simplify:73cbd0da-d5af-4887-a89e-c404bc218ef3",
-  "company": "Akuna Capital University",
-  "title": "Junior Trader",
-  "location": "Chicago, IL",
-  "url": "https://www.akunacapital.com/careers/job/7773141/?gh_jid=7773141",
-  "category": "Quant",
-  "posted": "2026-07-13",
-  "date_posted": 1783980602,
-  "active": false,
-  "first_seen": 1784014543.6740808,
-  "last_seen": 1791394067,
-  "locations": [
-   "Chicago, IL"
-  ],
-  "region": "US",
-  "degrees": [
-   "Bachelor's",
-   "Master's",
-   "PhD"
-  ],
-  "sponsorship": "Other",
-  "group": "akuna capital university|junior trader",
-  "in_feed": false,
-  "reason": "closed",
-  "closed_at": 1791394067
  },
  {
   "id": "simplify:58e0500b-3577-4e69-9d43-b710f8155f10",
