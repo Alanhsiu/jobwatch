@@ -4,24 +4,24 @@
  "repo": "Alanhsiu/jobwatch",
  "branch": "main",
  "pages_url": "https://alanhsiu.github.io/jobwatch/",
- "last_run": 1791723963,
- "last_change": 1791636223,
- "last_result": "ok-no-change",
+ "last_run": 1791785449,
+ "last_change": 1791785449,
+ "last_result": "ok",
  "feed": {
-  "records": 19565,
-  "active": 3119,
-  "fetched_at": 1791723963,
+  "records": 19484,
+  "active": 3121,
+  "fetched_at": 1791785449,
   "attempts": 1
  },
  "counts": {
   "active": 300,
-  "closed": 228,
+  "closed": 229,
   "untracked": 65,
-  "groups": 256,
+  "groups": 257,
   "companies": 56,
-  "new_this_run": 0,
+  "new_this_run": 1,
   "silent_known_this_run": 0,
-  "closed_this_run": 0,
+  "closed_this_run": 1,
   "untracked_this_run": 0
  },
  "rejects": {
@@ -585,8 +585,8 @@
    "denied": 0
   },
   "nvidia": {
-   "active": 5,
-   "all_time": 25,
+   "active": 6,
+   "all_time": 26,
    "names": [
     "NVIDIA"
    ],
@@ -849,7 +849,7 @@
    "denied": 0
   },
   "tiktok": {
-   "active": 105,
+   "active": 104,
    "all_time": 158,
    "names": [
     "TikTok"
@@ -1004,8 +1004,8 @@
   }
  },
  "telegram": {
-  "mode": "none",
-  "delivered": 0,
+  "mode": "sent",
+  "delivered": 1,
   "failed_chunks": 0,
   "creds": true
  },

@@ -8,7 +8,7 @@ sync between devices through this repo. No servers, no database, no cost — a p
 bot token. This repo's tracker: **[alanhsiu.github.io/jobwatch](https://alanhsiu.github.io/jobwatch/)** (a fork gets its own at `https://<owner>.github.io/<repo>/`).
 
 <!-- JOBS:HEAD:START -->
-_300 open new-grad roles at 56 companies · list last changed 2026-10-10 · scans every ~2 h_ · **[Open the tracker](https://alanhsiu.github.io/jobwatch/)** · [Full list ↓](#current-roles) · TikTok 105 · ByteDance 37 · Amazon 10 · Apple 10 · Palantir 10 · Anduril 9 · Microsoft 9 · Applied Intuition 5 · …
+_300 open new-grad roles at 56 companies · list last changed 2026-10-12 · scans every ~2 h_ · **[Open the tracker](https://alanhsiu.github.io/jobwatch/)** · [Full list ↓](#current-roles) · TikTok 104 · ByteDance 37 · Amazon 10 · Apple 10 · Palantir 10 · Anduril 9 · Microsoft 9 · NVIDIA 6 · …
 <!-- JOBS:HEAD:END -->
 
 ## How it works
@@ -205,7 +205,7 @@ and `.nojekyll` into `docs/`, set Pages to `/docs`, and give every device a toke
 ## Current roles
 <!-- JOBS:START -->
 <details>
-<summary>TikTok (105)</summary>
+<summary>TikTok (104)</summary>
 
 - [Machine Learning Engineer Graduate - Conversational AI](https://lifeattiktok.com/search/7670685495206857013) · [2](https://lifeattiktok.com/search/7670686314588801333) — Seattle, WA; San Jose, CA · posted 2026-10-09 · ML · BS
 - [Machine Learning Engineer Graduate - E-Commerce User Growth](https://lifeattiktok.com/search/7694353236283935029) — Seattle, WA · posted 2026-10-08 · ML · BS/MS
@@ -278,7 +278,7 @@ and `.nojekyll` into `docs/`, set Pages to `/docs`, and give every device a toke
 - [Backend Software Engineer Graduate - Business Governance](https://lifeattiktok.com/search/7663042453461600517) — San Jose, CA · posted 2026-08-03 · SWE · BS
 - [Backend Software Engineer New Grad - Feed Safety](https://lifeattiktok.com/search/7663028952600807733) — Seattle, WA · posted 2026-08-03 · SWE · BS/MS/PhD
 - [Backend Software Engineer New Grad - Emerging Products & AI Safety](https://lifeattiktok.com/search/7663036952090347829) — San Jose, CA · posted 2026-08-03 · SWE · BS/MS
-- [Backend Software Engineer New Grad - Trust & Safety](https://lifeattiktok.com/search/7664533229944178949) · [2](https://lifeattiktok.com/search/7665994926887291189) — Seattle, WA; San Jose, CA · posted 2026-08-03 · SWE · BS/MS/PhD
+- [Backend Software Engineer New Grad - Trust & Safety](https://lifeattiktok.com/search/7664533229944178949) — Seattle, WA · posted 2026-08-03 · SWE · BS/MS/PhD
 - [Machine Learning Engineer Graduate](https://lifeattiktok.com/search/7665797203155896581) · [2](https://lifeattiktok.com/search/7667344113001384197) · [3](https://lifeattiktok.com/search/7667346543553710389) — San Jose, CA · posted 2026-08-03 · ML · BS/MS
 - [Machine Learning Engineer New Grad - Data Search Visual Search](https://lifeattiktok.com/search/7667349591747758341) — San Jose, CA · posted 2026-08-03 · ML · BS/MS
 - [Machine Learning Engineer New Grad](https://lifeattiktok.com/search/7668376903708281141) — Seattle, WA · posted 2026-08-03 · ML · BS/MS
@@ -396,6 +396,17 @@ and `.nojekyll` into `docs/`, set Pages to `/docs`, and give every device a toke
 
 </details>
 <details open>
+<summary>NVIDIA (6)</summary>
+
+- [Software Engineer New Grad - DL Kernel Libraries](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--DL-Kernel-Libraries---New-College-Grad-2027_JR2027337) — Santa Clara, CA · posted 2026-10-11 · SWE · BS/MS/PhD
+- [C++ Software Engineer New Grad - Infrastructure Tools](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/C---Software-Engineer--Infrastructure-Tools---New-College-Grad-2027_JR2027431) — Santa Clara, CA · posted 2026-10-09 · SWE · BS
+- [Systems Software Engineer - AI and Cloud](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Systems-Software-Engineer---AI-and-Cloud---New-College-Grad-2026_JR2025458) — Santa Clara, CA · posted 2026-10-06 · SWE · BS/MS
+- [Applied Machine Learning Engineer - AI for VLSI Design](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Applied-Machine-Learning-Engineer--AI-for-VLSI-Design---New-College-Grad-2026_JR2026576) — Santa Clara, CA · posted 2026-09-29 · ML · MS/PhD
+- [Architecture Energy Modeling Engineer - Power Modeling, Methodology and Analysis](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Architecture-Energy-Modeling-Engineer---New-College-Grad-2026_JR2023398) — Santa Clara, CA · posted 2026-08-21 · ML · MS/PhD
+- [Software Engineer New Grad - Hardware Tools and Methodology](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--Hardware-Tools-and-Methodology---New-College-Grad-2026_JR2018659) — Santa Clara, CA · posted 2026-06-03 · SWE · MS/PhD
+
+</details>
+<details open>
 <summary>Applied Intuition (5)</summary>
 
 - [Forward Deployed Engineer New Grad](https://jobs.ashbyhq.com/applied/31140958-d768-452c-8498-0b1c7f403943/application?embed=true) — Sunnyvale, CA · posted 2026-09-03 · SWE · BS/MS
@@ -412,16 +423,6 @@ and `.nojekyll` into `docs/`, set Pages to `/docs`, and give every device a toke
 - [Kernel Engineer New Grad](https://jobs.ashbyhq.com/cerebras/9c7da4b8-446b-4bf2-8d07-23241590bf2e/application?embed=true) — Canada, United States · posted 2026-07-23 · SWE · BS/MS/PhD
 - [Software Engineer New Grad](https://jobs.ashbyhq.com/cerebras/99c289fa-8fc6-49f7-b7e8-78ac4e9d99ac/application) · [2](https://jobs.ashbyhq.com/cerebras/987d7f64-c957-4c8f-b89d-2f9d64738507/application) — Toronto, ON, Canada, Sunnyvale, CA; Sunnyvale, CA · posted 2026-07-07 · SWE · BS/MS
 - [Software Integration Engineer - AI Inference Core](https://jobs.ashbyhq.com/cerebras/90879967-1071-4d05-9180-6e18023ed887/application?embed=true) — Toronto, ON, Canada, Sunnyvale, CA · posted 2026-07-07 · SWE
-
-</details>
-<details open>
-<summary>NVIDIA (5)</summary>
-
-- [C++ Software Engineer New Grad - Infrastructure Tools](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/C---Software-Engineer--Infrastructure-Tools---New-College-Grad-2027_JR2027431) — Santa Clara, CA · posted 2026-10-09 · SWE · BS
-- [Systems Software Engineer - AI and Cloud](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Systems-Software-Engineer---AI-and-Cloud---New-College-Grad-2026_JR2025458) — Santa Clara, CA · posted 2026-10-06 · SWE · BS/MS
-- [Applied Machine Learning Engineer - AI for VLSI Design](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Applied-Machine-Learning-Engineer--AI-for-VLSI-Design---New-College-Grad-2026_JR2026576) — Santa Clara, CA · posted 2026-09-29 · ML · MS/PhD
-- [Architecture Energy Modeling Engineer - Power Modeling, Methodology and Analysis](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Architecture-Energy-Modeling-Engineer---New-College-Grad-2026_JR2023398) — Santa Clara, CA · posted 2026-08-21 · ML · MS/PhD
-- [Software Engineer New Grad - Hardware Tools and Methodology](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--Hardware-Tools-and-Methodology---New-College-Grad-2026_JR2018659) — Santa Clara, CA · posted 2026-06-03 · SWE · MS/PhD
 
 </details>
 <details open>
