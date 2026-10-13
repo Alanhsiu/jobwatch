@@ -8,7 +8,7 @@ sync between devices through this repo. No servers, no database, no cost — a p
 bot token. This repo's tracker: **[alanhsiu.github.io/jobwatch](https://alanhsiu.github.io/jobwatch/)** (a fork gets its own at `https://<owner>.github.io/<repo>/`).
 
 <!-- JOBS:HEAD:START -->
-_306 open new-grad roles at 56 companies · list last changed 2026-10-12 · scans every ~2 h_ · **[Open the tracker](https://alanhsiu.github.io/jobwatch/)** · [Full list ↓](#current-roles) · TikTok 105 · ByteDance 37 · Microsoft 11 · Apple 10 · Palantir 10 · Amazon 9 · Anduril 9 · NVIDIA 8 · …
+_305 open new-grad roles at 55 companies · list last changed 2026-10-13 · scans every ~2 h_ · **[Open the tracker](https://alanhsiu.github.io/jobwatch/)** · [Full list ↓](#current-roles) · TikTok 106 · ByteDance 37 · Microsoft 11 · Palantir 10 · Amazon 9 · Anduril 9 · Apple 9 · NVIDIA 8 · …
 <!-- JOBS:HEAD:END -->
 
 ## How it works
@@ -205,8 +205,9 @@ and `.nojekyll` into `docs/`, set Pages to `/docs`, and give every device a toke
 ## Current roles
 <!-- JOBS:START -->
 <details>
-<summary>TikTok (105)</summary>
+<summary>TikTok (106)</summary>
 
+- [Research Scientist Graduate](https://lifeattiktok.com/search/7695929967028750645) — Seattle, WA · posted 2026-10-13 · ML · BS/MS
 - [Machine Learning Engineer Graduate - Conversational AI](https://lifeattiktok.com/search/7670685495206857013) · [2](https://lifeattiktok.com/search/7670686314588801333) — Seattle, WA; San Jose, CA · posted 2026-10-09 · ML · BS
 - [Machine Learning Engineer Graduate - E-Commerce User Growth](https://lifeattiktok.com/search/7694353236283935029) — Seattle, WA · posted 2026-10-08 · ML · BS/MS
 - [Machine Learning Engineer New Grad - E-Commerce User Growth](https://lifeattiktok.com/search/7694352871949682997) — San Jose, CA · posted 2026-10-08 · ML · BS/MS
@@ -345,21 +346,6 @@ and `.nojekyll` into `docs/`, set Pages to `/docs`, and give every device a toke
 
 </details>
 <details open>
-<summary>Apple (10)</summary>
-
-- [Software Engineer - Siri User Experiences](https://jobs.apple.com/en-us/details/200687375) — Cupertino, CA · posted 2026-10-07 · SWE · BS/MS
-- [CAD Engineer - Signoff Infrastructure](https://jobs.apple.com/en-us/details/200685871) — Austin, TX, San Jose, CA · posted 2026-09-26 · SWE · BS
-- [Systems Software Engineer](https://jobs.apple.com/en-us/details/200683808) — San Diego, CA · posted 2026-09-15 · SWE · BS
-- [Cellular Layer-1 Control Software Development Engineer - Wireless Technologies & Ecosystems](https://jobs.apple.com/en-us/details/200681316) — Sunnyvale, CA · posted 2026-09-01 · HW · BS/MS
-- [CAD Automation and Mixed-Signal Simulation Engineer](https://jobs.apple.com/en-us/details/200680375) — Sunnyvale, CA · posted 2026-08-27 · SWE · BS
-- [Systems Engineer - UI Compositing](https://jobs.apple.com/en-us/details/200680183) — Cupertino, CA · posted 2026-08-26 · SWE · BS/MS
-- [Darwin Runtime Engineer - Core OS](https://jobs.apple.com/en-us/details/200662330) — Cupertino, CA · posted 2026-08-20 · SWE · BS/MS
-- [Frontend Engineer](https://jobs.apple.com/en-us/details/200676168) — Austin, TX · posted 2026-08-10 · SWE · BS
-- [Cellular Power Optimization Software Engineer - Wireless Technologies & Ecosystems](https://jobs.apple.com/en-us/details/200657382) — San Diego, CA · posted 2026-07-31 · HW · BS/MS
-- [Software Engineer Silicon Engineering Documentation Tools](https://jobs.apple.com/en-us/details/200661584) — Lafayette, KS · posted 2026-05-06 · SWE
-
-</details>
-<details open>
 <summary>Palantir (10)</summary>
 
 - [Software Engineer New Grad - Defense](https://jobs.lever.co/palantir/18d901fc-93bb-4d18-9f04-c72031e20d79/apply) · [2](https://jobs.lever.co/palantir/f362d7aa-360d-4059-ab38-f482742693b3/apply) · [3](https://jobs.lever.co/palantir/0a838e66-1ab0-4fc4-b4d3-4671c0352278/apply) — Washington, DC; Palo Alto, CA; NYC · posted 2026-06-29 · SWE
@@ -393,6 +379,20 @@ and `.nojekyll` into `docs/`, set Pages to `/docs`, and give every device a toke
 - [Agentic AI Engineer - Automation](https://boards.greenhouse.io/andurilindustries/jobs/5219383007) — Costa Mesa, CA · posted 2026-08-26 · SWE · MS/PhD
 - [Software Engineer - Tracking](https://boards.greenhouse.io/andurilindustries/jobs/5215629007) — Fort Collins, CO, Broomfield, CO · posted 2026-08-19 · SWE · BS
 - [Software Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5162263007) — Boston, MA, Seattle, WA, Newport Beach, CA · posted 2026-06-11 · SWE · BS/MS
+
+</details>
+<details open>
+<summary>Apple (9)</summary>
+
+- [CAD Engineer - Signoff Infrastructure](https://jobs.apple.com/en-us/details/200685871) — Austin, TX, San Jose, CA · posted 2026-09-26 · SWE · BS
+- [Systems Software Engineer](https://jobs.apple.com/en-us/details/200683808) — San Diego, CA · posted 2026-09-15 · SWE · BS
+- [Cellular Layer-1 Control Software Development Engineer - Wireless Technologies & Ecosystems](https://jobs.apple.com/en-us/details/200681316) — Sunnyvale, CA · posted 2026-09-01 · HW · BS/MS
+- [CAD Automation and Mixed-Signal Simulation Engineer](https://jobs.apple.com/en-us/details/200680375) — Sunnyvale, CA · posted 2026-08-27 · SWE · BS
+- [Systems Engineer - UI Compositing](https://jobs.apple.com/en-us/details/200680183) — Cupertino, CA · posted 2026-08-26 · SWE · BS/MS
+- [Darwin Runtime Engineer - Core OS](https://jobs.apple.com/en-us/details/200662330) — Cupertino, CA · posted 2026-08-20 · SWE · BS/MS
+- [Frontend Engineer](https://jobs.apple.com/en-us/details/200676168) — Austin, TX · posted 2026-08-10 · SWE · BS
+- [Cellular Power Optimization Software Engineer - Wireless Technologies & Ecosystems](https://jobs.apple.com/en-us/details/200657382) — San Diego, CA · posted 2026-07-31 · HW · BS/MS
+- [Software Engineer Silicon Engineering Documentation Tools](https://jobs.apple.com/en-us/details/200661584) — Lafayette, KS · posted 2026-05-06 · SWE
 
 </details>
 <details open>
@@ -719,12 +719,6 @@ and `.nojekyll` into `docs/`, set Pages to `/docs`, and give every device a toke
 <summary>The Voleon Group (1)</summary>
 
 - [Software Engineer - University Hire 2027](https://jobs.ashbyhq.com/voleon/d732fd5a-ac98-4985-9e60-d1d59f02a66c/application?embed=true) — Berkeley, CA, NYC · posted 2026-08-25 · SWE · BS
-
-</details>
-<details open>
-<summary>Together AI (1)</summary>
-
-- [Software Engineer New Grad](https://job-boards.greenhouse.io/togetherai/jobs/5211582007) — SF · posted 2026-09-18 · SWE · BS
 
 </details>
 <details open>

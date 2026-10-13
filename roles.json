@@ -1,5 +1,29 @@
 [
  {
+  "id": "simplify:22b439fe-1f57-4be3-b47f-046920ffad7a",
+  "first_seen": 1791874429,
+  "company": "TikTok",
+  "title": "Research Scientist Graduate",
+  "location": "Seattle, WA",
+  "url": "https://lifeattiktok.com/search/7695929967028750645",
+  "category": "ML",
+  "posted": "2026-10-13",
+  "date_posted": 1791854064,
+  "active": true,
+  "locations": [
+   "Seattle, WA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "tiktok|research scientist graduate",
+  "in_feed": true,
+  "reason": null
+ },
+ {
   "id": "simplify:db3ca01b-bee9-4147-8df9-822f3a967e90",
   "first_seen": 1791846268,
   "company": "Microsoft",
@@ -422,30 +446,6 @@
   ],
   "sponsorship": "Other",
   "group": "shield ai|simulation framework engineer 2 simulation framework",
-  "in_feed": true,
-  "reason": null
- },
- {
-  "id": "simplify:03a16469-429d-4f34-a718-e27b73e3b992",
-  "first_seen": 1791363131,
-  "company": "Apple",
-  "title": "Software Engineer - Siri User Experiences",
-  "location": "Cupertino, CA",
-  "url": "https://jobs.apple.com/en-us/details/200687375",
-  "category": "SWE",
-  "posted": "2026-10-07",
-  "date_posted": 1791353230,
-  "active": true,
-  "locations": [
-   "Cupertino, CA"
-  ],
-  "region": "US",
-  "degrees": [
-   "Bachelor's",
-   "Master's"
-  ],
-  "sponsorship": "Other",
-  "group": "apple|software engineer siri user experiences",
   "in_feed": true,
   "reason": null
  },
@@ -1065,29 +1065,6 @@
   ],
   "sponsorship": "Other",
   "group": "wolverine trading|entry level c software engineer",
-  "in_feed": true,
-  "reason": null
- },
- {
-  "id": "simplify:af76c7bd-9c7f-4bb7-8258-217044808327",
-  "first_seen": 1789802660,
-  "company": "Together AI",
-  "title": "Software Engineer New Grad",
-  "location": "SF",
-  "url": "https://job-boards.greenhouse.io/togetherai/jobs/5211582007",
-  "category": "SWE",
-  "posted": "2026-09-18",
-  "date_posted": 1789770003,
-  "active": true,
-  "locations": [
-   "SF"
-  ],
-  "region": "US",
-  "degrees": [
-   "Bachelor's"
-  ],
-  "sponsorship": "Other",
-  "group": "together ai|software engineer new grad",
   "in_feed": true,
   "reason": null
  },
@@ -7559,6 +7536,32 @@
   "last_seen": 1791467023
  },
  {
+  "id": "simplify:03a16469-429d-4f34-a718-e27b73e3b992",
+  "first_seen": 1791363131,
+  "company": "Apple",
+  "title": "Software Engineer - Siri User Experiences",
+  "location": "Cupertino, CA",
+  "url": "https://jobs.apple.com/en-us/details/200687375",
+  "category": "SWE",
+  "posted": "2026-10-07",
+  "date_posted": 1791353230,
+  "active": false,
+  "locations": [
+   "Cupertino, CA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "apple|software engineer siri user experiences",
+  "in_feed": false,
+  "reason": "closed",
+  "closed_at": 1791874429,
+  "last_seen": 1791874429
+ },
+ {
   "id": "simplify:2e77fdb4-933b-41b1-8fe2-253cdec7bb57",
   "first_seen": 1791337144,
   "company": "Apple",
@@ -7997,6 +8000,31 @@
   "reason": "closed",
   "closed_at": 1790149819,
   "last_seen": 1790149819
+ },
+ {
+  "id": "simplify:af76c7bd-9c7f-4bb7-8258-217044808327",
+  "first_seen": 1789802660,
+  "company": "Together AI",
+  "title": "Software Engineer New Grad",
+  "location": "SF",
+  "url": "https://job-boards.greenhouse.io/togetherai/jobs/5211582007",
+  "category": "SWE",
+  "posted": "2026-09-18",
+  "date_posted": 1789770003,
+  "active": false,
+  "locations": [
+   "SF"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's"
+  ],
+  "sponsorship": "Other",
+  "group": "together ai|software engineer new grad",
+  "in_feed": false,
+  "reason": "closed",
+  "closed_at": 1791874429,
+  "last_seen": 1791874429
  },
  {
   "id": "simplify:b6708f55-ced2-419a-9010-bf33b8b94595",
