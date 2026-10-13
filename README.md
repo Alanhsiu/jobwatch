@@ -8,7 +8,7 @@ sync between devices through this repo. No servers, no database, no cost — a p
 bot token. This repo's tracker: **[alanhsiu.github.io/jobwatch](https://alanhsiu.github.io/jobwatch/)** (a fork gets its own at `https://<owner>.github.io/<repo>/`).
 
 <!-- JOBS:HEAD:START -->
-_305 open new-grad roles at 55 companies · list last changed 2026-10-13 · scans every ~2 h_ · **[Open the tracker](https://alanhsiu.github.io/jobwatch/)** · [Full list ↓](#current-roles) · TikTok 106 · ByteDance 37 · Microsoft 11 · Palantir 10 · Amazon 9 · Anduril 9 · Apple 9 · NVIDIA 8 · …
+_307 open new-grad roles at 55 companies · list last changed 2026-10-13 · scans every ~2 h_ · **[Open the tracker](https://alanhsiu.github.io/jobwatch/)** · [Full list ↓](#current-roles) · TikTok 106 · ByteDance 37 · Microsoft 12 · Palantir 10 · Amazon 9 · Anduril 9 · Apple 9 · NVIDIA 8 · …
 <!-- JOBS:HEAD:END -->
 
 ## How it works
@@ -336,9 +336,9 @@ and `.nojekyll` into `docs/`, set Pages to `/docs`, and give every device a toke
 
 </details>
 <details open>
-<summary>Microsoft (11)</summary>
+<summary>Microsoft (12)</summary>
 
-- [Software Engineer](https://apply.careers.microsoft.com/careers/job/1970393557023170) · [2](https://apply.careers.microsoft.com/careers/job/1970393557037774) · [3](https://apply.careers.microsoft.com/careers/job/1970393557027422) · [4](https://apply.careers.microsoft.com/careers/job/1970393557022926) · [5](https://apply.careers.microsoft.com/careers/job/1970393557022487) · [6](https://apply.careers.microsoft.com/careers/job/1970393556982903) · [7](https://apply.careers.microsoft.com/careers/job/1970393556858723) — Redmond, WA; Remote in USA; Redmond, WA, Reston, VA; Annapolis Junction, MD, Redmond, WA, Reston, VA · posted 2026-10-12 · SWE · BS/MS
+- [Software Engineer](https://apply.careers.microsoft.com/careers/job/1970393556985571) · [2](https://apply.careers.microsoft.com/careers/job/1970393557023170) · [3](https://apply.careers.microsoft.com/careers/job/1970393557037774) · [4](https://apply.careers.microsoft.com/careers/job/1970393557027422) · [5](https://apply.careers.microsoft.com/careers/job/1970393557022926) · [6](https://apply.careers.microsoft.com/careers/job/1970393557022487) · [7](https://apply.careers.microsoft.com/careers/job/1970393556982903) · [8](https://apply.careers.microsoft.com/careers/job/1970393556858723) — Redmond, WA; Remote in USA; Redmond, WA, Reston, VA; Annapolis Junction, MD, Redmond, WA, Reston, VA · posted 2026-10-13 · SWE · BS/MS
 - [Software Engineering](https://apply.careers.microsoft.com/careers/job/1970393556999878) — Redmond, WA · posted 2026-10-12 · SWE · BS/MS
 - [Software Engineer - Cleared](https://apply.careers.microsoft.com/careers/job/1970393556982911) — Reston, VA · posted 2026-09-23 · SWE · BS/MS
 - [Software Engineering - Commercial Engineering & AI - Ceai](https://apply.careers.microsoft.com/careers/job/1970393556914839) — Redmond, WA · posted 2026-09-14 · SWE · BS/MS
@@ -529,6 +529,14 @@ and `.nojekyll` into `docs/`, set Pages to `/docs`, and give every device a toke
 
 </details>
 <details open>
+<summary>xAI (3)</summary>
+
+- [AI Tutor – Polish](https://job-boards.greenhouse.io/xai/jobs/5090218007) — Remote in USA · posted 2026-09-28 · ML
+- [Software Engineer - Evals](https://job-boards.greenhouse.io/xai/jobs/5188230007) — Palo Alto, CA · posted 2026-07-22 · SWE
+- [Software Engineer - Ads Product](https://job-boards.greenhouse.io/xai/jobs/5152408007) — Palo Alto, CA · posted 2026-06-02 · SWE
+
+</details>
+<details open>
 <summary>Adobe (2)</summary>
 
 - [Machine Learning Engineer New Grad](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-University-Graduate---Machine-Learning-Engineer_R172085) — Seattle, WA, SF, Austin, TX · posted 2026-09-24 · ML · MS/PhD
@@ -622,13 +630,6 @@ and `.nojekyll` into `docs/`, set Pages to `/docs`, and give every device a toke
 
 - [Algorithmic Trader](https://jobs.lever.co/wintermute-trading/28c7e15f-b3a0-48c6-8322-2e9f25371fd0/apply) — London, UK, NYC · posted 2026-09-03 · Quant
 - [Graduate Algorithmic Trader](https://jobs.lever.co/wintermute-trading/d962dc39-8839-4e13-a37a-baba49e52b44/apply) — NYC · posted 2026-09-01 · Quant
-
-</details>
-<details open>
-<summary>xAI (2)</summary>
-
-- [Software Engineer - Evals](https://job-boards.greenhouse.io/xai/jobs/5188230007) — Palo Alto, CA · posted 2026-07-22 · SWE
-- [Software Engineer - Ads Product](https://job-boards.greenhouse.io/xai/jobs/5152408007) — Palo Alto, CA · posted 2026-06-02 · SWE
 
 </details>
 <details open>

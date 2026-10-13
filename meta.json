@@ -4,24 +4,24 @@
  "repo": "Alanhsiu/jobwatch",
  "branch": "main",
  "pages_url": "https://alanhsiu.github.io/jobwatch/",
- "last_run": 1791874429,
- "last_change": 1791874429,
+ "last_run": 1791907611,
+ "last_change": 1791907611,
  "last_result": "ok",
  "feed": {
-  "records": 19539,
-  "active": 3103,
-  "fetched_at": 1791874429,
+  "records": 19549,
+  "active": 3106,
+  "fetched_at": 1791907611,
   "attempts": 1
  },
  "counts": {
-  "active": 305,
-  "closed": 229,
-  "untracked": 65,
-  "groups": 260,
+  "active": 307,
+  "closed": 230,
+  "untracked": 64,
+  "groups": 261,
   "companies": 55,
-  "new_this_run": 1,
+  "new_this_run": 2,
   "silent_known_this_run": 0,
-  "closed_this_run": 2,
+  "closed_this_run": 0,
   "untracked_this_run": 0
  },
  "rejects": {
@@ -545,8 +545,8 @@
    "denied": 0
   },
   "microsoft": {
-   "active": 11,
-   "all_time": 26,
+   "active": 12,
+   "all_time": 27,
    "names": [
     "Microsoft"
    ],
@@ -979,8 +979,8 @@
    "denied": 0
   },
   "xai": {
-   "active": 2,
-   "all_time": 3,
+   "active": 3,
+   "all_time": 4,
    "names": [
     "xAI"
    ],
@@ -1003,7 +1003,7 @@
  },
  "telegram": {
   "mode": "sent",
-  "delivered": 1,
+  "delivered": 2,
   "failed_chunks": 0,
   "creds": true
  },

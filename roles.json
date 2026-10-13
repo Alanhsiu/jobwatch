@@ -1,5 +1,29 @@
 [
  {
+  "id": "simplify:b1fd26e3-db3d-4f5c-8677-163fd6d481c6",
+  "first_seen": 1791907611,
+  "company": "Microsoft",
+  "title": "Software Engineer",
+  "location": "Redmond, WA",
+  "url": "https://apply.careers.microsoft.com/careers/job/1970393556985571",
+  "category": "SWE",
+  "posted": "2026-10-13",
+  "date_posted": 1791882535,
+  "active": true,
+  "locations": [
+   "Redmond, WA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "microsoft|software engineer",
+  "in_feed": true,
+  "reason": null
+ },
+ {
   "id": "simplify:22b439fe-1f57-4be3-b47f-046920ffad7a",
   "first_seen": 1791874429,
   "company": "TikTok",
@@ -816,6 +840,27 @@
   ],
   "sponsorship": "Other",
   "group": "nvidia|applied machine learning engineer ai for vlsi design",
+  "in_feed": true,
+  "reason": null
+ },
+ {
+  "id": "simplify:fe8a65ad-c24a-4a94-a75b-425547fe1f9d",
+  "first_seen": 1791907611,
+  "company": "xAI",
+  "title": "AI Tutor – Polish",
+  "location": "Remote in USA",
+  "url": "https://job-boards.greenhouse.io/xai/jobs/5090218007",
+  "category": "ML",
+  "posted": "2026-09-28",
+  "date_posted": 1790633826,
+  "active": true,
+  "locations": [
+   "Remote in USA"
+  ],
+  "region": "US",
+  "degrees": [],
+  "sponsorship": "Other",
+  "group": "xai|ai tutor polish",
   "in_feed": true,
   "reason": null
  },
@@ -9979,10 +10024,9 @@
    "Master's"
   ],
   "sponsorship": "Other",
-  "in_feed": true,
+  "in_feed": false,
   "closed_at": 1789570473,
-  "reason": "untracked",
-  "why": "title",
+  "reason": "closed",
   "group": "zoox|analyst student worker"
  },
  {
