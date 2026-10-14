@@ -4,31 +4,31 @@
  "repo": "Alanhsiu/jobwatch",
  "branch": "main",
  "pages_url": "https://alanhsiu.github.io/jobwatch/",
- "last_run": 1791907611,
- "last_change": 1791907611,
+ "last_run": 1791940614,
+ "last_change": 1791940614,
  "last_result": "ok",
  "feed": {
-  "records": 19549,
-  "active": 3106,
-  "fetched_at": 1791907611,
+  "records": 19598,
+  "active": 3126,
+  "fetched_at": 1791940614,
   "attempts": 1
  },
  "counts": {
-  "active": 307,
-  "closed": 230,
+  "active": 305,
+  "closed": 233,
   "untracked": 64,
-  "groups": 261,
-  "companies": 55,
-  "new_this_run": 2,
+  "groups": 259,
+  "companies": 56,
+  "new_this_run": 1,
   "silent_known_this_run": 0,
-  "closed_this_run": 0,
+  "closed_this_run": 3,
   "untracked_this_run": 0
  },
  "rejects": {
-  "category": 122,
+  "category": 123,
   "phd": 177,
   "title": 22,
-  "region": 41,
+  "region": 40,
   "sponsorship": 0,
   "age": 19
  },
@@ -347,9 +347,11 @@
    "denied": 0
   },
   "figure": {
-   "active": 0,
-   "all_time": 2,
-   "names": [],
+   "active": 1,
+   "all_time": 3,
+   "names": [
+    "Figure"
+   ],
    "denied": 0
   },
   "fireworks": {
@@ -585,7 +587,7 @@
    "denied": 0
   },
   "nvidia": {
-   "active": 8,
+   "active": 7,
    "all_time": 27,
    "names": [
     "NVIDIA"
@@ -765,7 +767,7 @@
    "denied": 0
   },
   "servicenow": {
-   "active": 2,
+   "active": 1,
    "all_time": 10,
    "names": [
     "ServiceNow"
@@ -979,7 +981,7 @@
    "denied": 0
   },
   "xai": {
-   "active": 3,
+   "active": 2,
    "all_time": 4,
    "names": [
     "xAI"
@@ -1003,7 +1005,7 @@
  },
  "telegram": {
   "mode": "sent",
-  "delivered": 2,
+  "delivered": 1,
   "failed_chunks": 0,
   "creds": true
  },

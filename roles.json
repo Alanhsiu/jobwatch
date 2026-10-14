@@ -1,5 +1,26 @@
 [
  {
+  "id": "simplify:3c75f0ca-29e4-400d-8e74-9adafaebcc9c",
+  "first_seen": 1791940614,
+  "company": "Figure",
+  "title": "Data Quality Analyst",
+  "location": "San Jose, CA",
+  "url": "https://job-boards.greenhouse.io/figureai/jobs/4590702006",
+  "category": "ML",
+  "posted": "2026-10-13",
+  "date_posted": 1791929786,
+  "active": true,
+  "locations": [
+   "San Jose, CA"
+  ],
+  "region": "US",
+  "degrees": [],
+  "sponsorship": "Other",
+  "group": "figure|data quality analyst",
+  "in_feed": true,
+  "reason": null
+ },
+ {
   "id": "simplify:b1fd26e3-db3d-4f5c-8677-163fd6d481c6",
   "first_seen": 1791907611,
   "company": "Microsoft",
@@ -549,30 +570,6 @@
   "reason": null
  },
  {
-  "id": "simplify:be3d4ee8-4dc8-4c20-bae9-49826174e869",
-  "first_seen": 1791394067,
-  "company": "NVIDIA",
-  "title": "Systems Software Engineer - AI and Cloud",
-  "location": "Santa Clara, CA",
-  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Systems-Software-Engineer---AI-and-Cloud---New-College-Grad-2026_JR2025458",
-  "category": "SWE",
-  "posted": "2026-10-06",
-  "date_posted": 1791244800,
-  "active": true,
-  "locations": [
-   "Santa Clara, CA"
-  ],
-  "region": "US",
-  "degrees": [
-   "Bachelor's",
-   "Master's"
-  ],
-  "sponsorship": "Other",
-  "group": "nvidia|systems software engineer ai and cloud",
-  "in_feed": true,
-  "reason": null
- },
- {
   "id": "simplify:eba32eeb-b7a1-4b27-b3c2-1fdaa04d3bd9",
   "first_seen": 1791240347,
   "company": "Atlassian",
@@ -840,27 +837,6 @@
   ],
   "sponsorship": "Other",
   "group": "nvidia|applied machine learning engineer ai for vlsi design",
-  "in_feed": true,
-  "reason": null
- },
- {
-  "id": "simplify:fe8a65ad-c24a-4a94-a75b-425547fe1f9d",
-  "first_seen": 1791907611,
-  "company": "xAI",
-  "title": "AI Tutor – Polish",
-  "location": "Remote in USA",
-  "url": "https://job-boards.greenhouse.io/xai/jobs/5090218007",
-  "category": "ML",
-  "posted": "2026-09-28",
-  "date_posted": 1790633826,
-  "active": true,
-  "locations": [
-   "Remote in USA"
-  ],
-  "region": "US",
-  "degrees": [],
-  "sponsorship": "Other",
-  "group": "xai|ai tutor polish",
   "in_feed": true,
   "reason": null
  },
@@ -2208,30 +2184,6 @@
   ],
   "sponsorship": "Other",
   "group": "susquehanna international group|trading system engineer new grad",
-  "in_feed": true,
-  "reason": null
- },
- {
-  "id": "simplify:f7be9d72-3649-44b3-8c8a-5a75fe9dbac9",
-  "company": "ServiceNow",
-  "title": "Associate Applications Development Engineer",
-  "location": "Santa Clara, CA",
-  "url": "https://jobs.smartrecruiters.com/ServiceNow/744000144653619",
-  "category": "SWE",
-  "posted": "2026-08-21",
-  "date_posted": 1787274504,
-  "active": true,
-  "first_seen": 1787326030.8299387,
-  "last_seen": 1789521191.4314806,
-  "locations": [
-   "Santa Clara, CA"
-  ],
-  "region": "US",
-  "degrees": [
-   "Bachelor's"
-  ],
-  "sponsorship": "Other",
-  "group": "servicenow|associate applications development engineer",
   "in_feed": true,
   "reason": null
  },
@@ -7633,6 +7585,32 @@
   "last_seen": 1791489581
  },
  {
+  "id": "simplify:be3d4ee8-4dc8-4c20-bae9-49826174e869",
+  "first_seen": 1791394067,
+  "company": "NVIDIA",
+  "title": "Systems Software Engineer - AI and Cloud",
+  "location": "Santa Clara, CA",
+  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Systems-Software-Engineer---AI-and-Cloud---New-College-Grad-2026_JR2025458",
+  "category": "SWE",
+  "posted": "2026-10-06",
+  "date_posted": 1791244800,
+  "active": false,
+  "locations": [
+   "Santa Clara, CA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "nvidia|systems software engineer ai and cloud",
+  "in_feed": false,
+  "reason": "closed",
+  "closed_at": 1791940614,
+  "last_seen": 1791940614
+ },
+ {
   "id": "simplify:0523ccf9-780c-4410-bcbb-60c3ebfa059b",
   "first_seen": 1791127536,
   "company": "Microsoft",
@@ -7840,6 +7818,29 @@
   "reason": "closed",
   "closed_at": 1791320611,
   "last_seen": 1791320611
+ },
+ {
+  "id": "simplify:fe8a65ad-c24a-4a94-a75b-425547fe1f9d",
+  "first_seen": 1791907611,
+  "company": "xAI",
+  "title": "AI Tutor – Polish",
+  "location": "Remote in USA",
+  "url": "https://job-boards.greenhouse.io/xai/jobs/5090218007",
+  "category": "ML",
+  "posted": "2026-09-28",
+  "date_posted": 1790633826,
+  "active": false,
+  "locations": [
+   "Remote in USA"
+  ],
+  "region": "US",
+  "degrees": [],
+  "sponsorship": "Other",
+  "group": "xai|ai tutor polish",
+  "in_feed": false,
+  "reason": "closed",
+  "closed_at": 1791940614,
+  "last_seen": 1791940614
  },
  {
   "id": "simplify:d3c2d57b-c7ea-4194-ac33-731c72f64420",
@@ -8783,6 +8784,31 @@
   "closed_at": 1788397308,
   "reason": "closed",
   "group": "bytedance|software engineer graduate aml engine forge platform"
+ },
+ {
+  "id": "simplify:f7be9d72-3649-44b3-8c8a-5a75fe9dbac9",
+  "company": "ServiceNow",
+  "title": "Associate Applications Development Engineer",
+  "location": "Santa Clara, CA",
+  "url": "https://jobs.smartrecruiters.com/ServiceNow/744000144653619",
+  "category": "SWE",
+  "posted": "2026-08-21",
+  "date_posted": 1787274504,
+  "active": false,
+  "first_seen": 1787326030.8299387,
+  "last_seen": 1791940614,
+  "locations": [
+   "Santa Clara, CA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's"
+  ],
+  "sponsorship": "Other",
+  "group": "servicenow|associate applications development engineer",
+  "in_feed": false,
+  "reason": "closed",
+  "closed_at": 1791940614
  },
  {
   "id": "simplify:253f4a59-14d2-4bf5-8f29-b05e37695e9a",

@@ -8,7 +8,7 @@ sync between devices through this repo. No servers, no database, no cost — a p
 bot token. This repo's tracker: **[alanhsiu.github.io/jobwatch](https://alanhsiu.github.io/jobwatch/)** (a fork gets its own at `https://<owner>.github.io/<repo>/`).
 
 <!-- JOBS:HEAD:START -->
-_307 open new-grad roles at 55 companies · list last changed 2026-10-13 · scans every ~2 h_ · **[Open the tracker](https://alanhsiu.github.io/jobwatch/)** · [Full list ↓](#current-roles) · TikTok 106 · ByteDance 37 · Microsoft 12 · Palantir 10 · Amazon 9 · Anduril 9 · Apple 9 · NVIDIA 8 · …
+_305 open new-grad roles at 56 companies · list last changed 2026-10-14 · scans every ~2 h_ · **[Open the tracker](https://alanhsiu.github.io/jobwatch/)** · [Full list ↓](#current-roles) · TikTok 106 · ByteDance 37 · Microsoft 12 · Palantir 10 · Amazon 9 · Anduril 9 · Apple 9 · NVIDIA 7 · …
 <!-- JOBS:HEAD:END -->
 
 ## How it works
@@ -396,12 +396,11 @@ and `.nojekyll` into `docs/`, set Pages to `/docs`, and give every device a toke
 
 </details>
 <details open>
-<summary>NVIDIA (8)</summary>
+<summary>NVIDIA (7)</summary>
 
 - [Deep Learning Software Engineer New Grad - TensorRT Performance](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Deep-Learning-Software-Engineer--TensorRT-Performance---New-College-Grad-2027_JR2027083) — Remote in USA, Santa Clara, CA · posted 2026-10-12 · ML · BS/MS/PhD
 - [Software Engineer New Grad - DL Kernel Libraries](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--DL-Kernel-Libraries---New-College-Grad-2027_JR2027337) — Santa Clara, CA · posted 2026-10-11 · SWE · BS/MS/PhD
 - [C++ Software Engineer New Grad - Infrastructure Tools](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/C---Software-Engineer--Infrastructure-Tools---New-College-Grad-2027_JR2027431) — Santa Clara, CA · posted 2026-10-09 · SWE · BS
-- [Systems Software Engineer - AI and Cloud](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Systems-Software-Engineer---AI-and-Cloud---New-College-Grad-2026_JR2025458) — Santa Clara, CA · posted 2026-10-06 · SWE · BS/MS
 - [Applied Machine Learning Engineer - AI for VLSI Design](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Applied-Machine-Learning-Engineer--AI-for-VLSI-Design---New-College-Grad-2026_JR2026576) — Santa Clara, CA · posted 2026-09-29 · ML · MS/PhD
 - [Architecture Energy Modeling Engineer - Power Modeling, Methodology and Analysis](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Architecture-Energy-Modeling-Engineer---New-College-Grad-2026_JR2023398) — Santa Clara, CA · posted 2026-08-21 · ML · MS/PhD
 - [Developer Technology Engineer New Grad - Public Sector](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Developer-Technology-Engineer--Public-Sector---New-College-Grad-2026_JR2008990) — Santa Clara, CA · posted 2026-07-22 · SWE · BS/MS/PhD
@@ -529,14 +528,6 @@ and `.nojekyll` into `docs/`, set Pages to `/docs`, and give every device a toke
 
 </details>
 <details open>
-<summary>xAI (3)</summary>
-
-- [AI Tutor – Polish](https://job-boards.greenhouse.io/xai/jobs/5090218007) — Remote in USA · posted 2026-09-28 · ML
-- [Software Engineer - Evals](https://job-boards.greenhouse.io/xai/jobs/5188230007) — Palo Alto, CA · posted 2026-07-22 · SWE
-- [Software Engineer - Ads Product](https://job-boards.greenhouse.io/xai/jobs/5152408007) — Palo Alto, CA · posted 2026-06-02 · SWE
-
-</details>
-<details open>
 <summary>Adobe (2)</summary>
 
 - [Machine Learning Engineer New Grad](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-University-Graduate---Machine-Learning-Engineer_R172085) — Seattle, WA, SF, Austin, TX · posted 2026-09-24 · ML · MS/PhD
@@ -598,13 +589,6 @@ and `.nojekyll` into `docs/`, set Pages to `/docs`, and give every device a toke
 
 </details>
 <details open>
-<summary>ServiceNow (2)</summary>
-
-- [Software Engineer](https://jobs.smartrecruiters.com/ServiceNow/744000149338366) — West Palm Beach, FL · posted 2026-09-14 · SWE
-- [Associate Applications Development Engineer](https://jobs.smartrecruiters.com/ServiceNow/744000144653619) — Santa Clara, CA · posted 2026-08-21 · SWE · BS
-
-</details>
-<details open>
 <summary>Stripe (2)</summary>
 
 - [Software Engineer - Early Career - Immediate Start](https://stripe.com/jobs/search?gh_jid=8212508) — Seattle, WA, SF, NYC · posted 2026-09-18 · SWE · BS/MS
@@ -630,6 +614,13 @@ and `.nojekyll` into `docs/`, set Pages to `/docs`, and give every device a toke
 
 - [Algorithmic Trader](https://jobs.lever.co/wintermute-trading/28c7e15f-b3a0-48c6-8322-2e9f25371fd0/apply) — London, UK, NYC · posted 2026-09-03 · Quant
 - [Graduate Algorithmic Trader](https://jobs.lever.co/wintermute-trading/d962dc39-8839-4e13-a37a-baba49e52b44/apply) — NYC · posted 2026-09-01 · Quant
+
+</details>
+<details open>
+<summary>xAI (2)</summary>
+
+- [Software Engineer - Evals](https://job-boards.greenhouse.io/xai/jobs/5188230007) — Palo Alto, CA · posted 2026-07-22 · SWE
+- [Software Engineer - Ads Product](https://job-boards.greenhouse.io/xai/jobs/5152408007) — Palo Alto, CA · posted 2026-06-02 · SWE
 
 </details>
 <details open>
@@ -666,6 +657,12 @@ and `.nojekyll` into `docs/`, set Pages to `/docs`, and give every device a toke
 <summary>Figma (1)</summary>
 
 - [Data Scientist, Core Data](https://job-boards.greenhouse.io/figma/jobs/5976930004?gh_jid=5976930004) — New York, NY, San Francisco, CA · posted 2026-05-01 · ML · MS
+
+</details>
+<details open>
+<summary>Figure (1)</summary>
+
+- [Data Quality Analyst](https://job-boards.greenhouse.io/figureai/jobs/4590702006) — San Jose, CA · posted 2026-10-13 · ML
 
 </details>
 <details open>
@@ -714,6 +711,12 @@ and `.nojekyll` into `docs/`, set Pages to `/docs`, and give every device a toke
 <summary>Schonfeld (1)</summary>
 
 - [Market Data Analyst](https://job-boards.greenhouse.io/schonfeld/jobs/7843959) — NYC · posted 2026-04-30 · ML · BS
+
+</details>
+<details open>
+<summary>ServiceNow (1)</summary>
+
+- [Software Engineer](https://jobs.smartrecruiters.com/ServiceNow/744000149338366) — West Palm Beach, FL · posted 2026-09-14 · SWE
 
 </details>
 <details open>
