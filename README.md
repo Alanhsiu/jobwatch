@@ -8,7 +8,7 @@ sync between devices through this repo. No servers, no database, no cost — a p
 bot token. This repo's tracker: **[alanhsiu.github.io/jobwatch](https://alanhsiu.github.io/jobwatch/)** (a fork gets its own at `https://<owner>.github.io/<repo>/`).
 
 <!-- JOBS:HEAD:START -->
-_306 open new-grad roles at 57 companies · list last changed 2026-10-14 · scans every ~2 h_ · **[Open the tracker](https://alanhsiu.github.io/jobwatch/)** · [Full list ↓](#current-roles) · TikTok 106 · ByteDance 37 · Microsoft 11 · Palantir 10 · Amazon 9 · Anduril 9 · NVIDIA 9 · Apple 8 · …
+_305 open new-grad roles at 57 companies · list last changed 2026-10-14 · scans every ~2 h_ · **[Open the tracker](https://alanhsiu.github.io/jobwatch/)** · [Full list ↓](#current-roles) · TikTok 107 · ByteDance 37 · Microsoft 10 · Palantir 10 · Amazon 9 · Anduril 9 · NVIDIA 9 · Apple 8 · …
 <!-- JOBS:HEAD:END -->
 
 ## How it works
@@ -205,8 +205,9 @@ and `.nojekyll` into `docs/`, set Pages to `/docs`, and give every device a toke
 ## Current roles
 <!-- JOBS:START -->
 <details>
-<summary>TikTok (106)</summary>
+<summary>TikTok (107)</summary>
 
+- [Software Engineer Graduate - Data Ecosystem - 2027 Start](https://lifeattiktok.com/search/7685769994391832837) — San Jose, CA · posted 2026-10-14 · SWE · BS/MS
 - [Research Scientist Graduate](https://lifeattiktok.com/search/7695929967028750645) — Seattle, WA · posted 2026-10-13 · ML · BS/MS
 - [Machine Learning Engineer Graduate - Conversational AI](https://lifeattiktok.com/search/7670685495206857013) · [2](https://lifeattiktok.com/search/7670686314588801333) — Seattle, WA; San Jose, CA · posted 2026-10-09 · ML · BS
 - [Machine Learning Engineer Graduate - E-Commerce User Growth](https://lifeattiktok.com/search/7694353236283935029) — Seattle, WA · posted 2026-10-08 · ML · BS/MS
@@ -336,9 +337,9 @@ and `.nojekyll` into `docs/`, set Pages to `/docs`, and give every device a toke
 
 </details>
 <details open>
-<summary>Microsoft (11)</summary>
+<summary>Microsoft (10)</summary>
 
-- [Software Engineer](https://apply.careers.microsoft.com/careers/job/1970393556985571) · [2](https://apply.careers.microsoft.com/careers/job/1970393557023170) · [3](https://apply.careers.microsoft.com/careers/job/1970393557037774) · [4](https://apply.careers.microsoft.com/careers/job/1970393557027422) · [5](https://apply.careers.microsoft.com/careers/job/1970393557022926) · [6](https://apply.careers.microsoft.com/careers/job/1970393557022487) · [7](https://apply.careers.microsoft.com/careers/job/1970393556982903) · [8](https://apply.careers.microsoft.com/careers/job/1970393556858723) — Redmond, WA; Remote in USA; Redmond, WA, Reston, VA; Annapolis Junction, MD, Redmond, WA, Reston, VA · posted 2026-10-13 · SWE · BS/MS
+- [Software Engineer](https://apply.careers.microsoft.com/careers/job/1970393556985571) · [2](https://apply.careers.microsoft.com/careers/job/1970393557023170) · [3](https://apply.careers.microsoft.com/careers/job/1970393557037774) · [4](https://apply.careers.microsoft.com/careers/job/1970393557022926) · [5](https://apply.careers.microsoft.com/careers/job/1970393557022487) · [6](https://apply.careers.microsoft.com/careers/job/1970393556982903) · [7](https://apply.careers.microsoft.com/careers/job/1970393556858723) — Redmond, WA; Redmond, WA, Reston, VA; Annapolis Junction, MD, Redmond, WA, Reston, VA · posted 2026-10-13 · SWE · BS/MS
 - [Software Engineering](https://apply.careers.microsoft.com/careers/job/1970393556999878) — Redmond, WA · posted 2026-10-12 · SWE · BS/MS
 - [Software Engineer - Cleared](https://apply.careers.microsoft.com/careers/job/1970393556982911) — Reston, VA · posted 2026-09-23 · SWE · BS/MS
 - [Software Engineer - Ctj - Poly](https://apply.careers.microsoft.com/careers/job/1970393556860973) — Annapolis Junction, MD, Reston, VA · posted 2026-06-18 · SWE · BS
@@ -575,12 +576,6 @@ and `.nojekyll` into `docs/`, set Pages to `/docs`, and give every device a toke
 
 </details>
 <details open>
-<summary>Salesforce (2)</summary>
-
-- [Software Engineer College Grad](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Software-Engineering-AMTS--College-Grad-_JR355250-1) · [2](https://salesforce.wd12.myworkdayjobs.com/Futureforce_NewGradRoles/job/California---San-Francisco/Software-Engineering-AMTS--College-Grad-_JR355250) — Palo Alto, CA, Seattle, WA, Indianapolis, IN · posted 2026-08-06 · SWE
-
-</details>
-<details open>
 <summary>Scale AI (2)</summary>
 
 - [Software Engineer New Grad - Public Sector](https://job-boards.greenhouse.io/scaleai/jobs/4736426005) — SF · posted 2026-09-23 · SWE · BS
@@ -710,6 +705,12 @@ and `.nojekyll` into `docs/`, set Pages to `/docs`, and give every device a toke
 <summary>Roblox (1)</summary>
 
 - [Software Engineer - Early Career](https://careers.roblox.com/jobs/8072244?gh_jid=8072244) — San Mateo, CA · posted 2026-08-05 · SWE · BS
+
+</details>
+<details open>
+<summary>Salesforce (1)</summary>
+
+- [Software Engineer College Grad](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Software-Engineering-AMTS--College-Grad-_JR355250-1) — Palo Alto, CA, Seattle, WA, Indianapolis, IN · posted 2026-08-06 · SWE
 
 </details>
 <details open>

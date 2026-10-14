@@ -4,33 +4,33 @@
  "repo": "Alanhsiu/jobwatch",
  "branch": "main",
  "pages_url": "https://alanhsiu.github.io/jobwatch/",
- "last_run": 1791985864,
- "last_change": 1791985864,
+ "last_run": 1792019929,
+ "last_change": 1792019929,
  "last_result": "ok",
  "feed": {
-  "records": 19606,
-  "active": 3135,
-  "fetched_at": 1791985864,
+  "records": 19648,
+  "active": 3159,
+  "fetched_at": 1792019929,
   "attempts": 1
  },
  "counts": {
-  "active": 306,
-  "closed": 235,
+  "active": 305,
+  "closed": 237,
   "untracked": 64,
-  "groups": 259,
+  "groups": 260,
   "companies": 57,
   "new_this_run": 1,
   "silent_known_this_run": 0,
-  "closed_this_run": 1,
+  "closed_this_run": 2,
   "untracked_this_run": 0
  },
  "rejects": {
   "category": 125,
-  "phd": 177,
+  "phd": 179,
   "title": 22,
   "region": 40,
   "sponsorship": 0,
-  "age": 19
+  "age": 21
  },
  "keywords": {
   "adobe": {
@@ -549,7 +549,7 @@
    "denied": 0
   },
   "microsoft": {
-   "active": 11,
+   "active": 10,
    "all_time": 27,
    "names": [
     "Microsoft"
@@ -739,7 +739,7 @@
    "denied": 0
   },
   "salesforce": {
-   "active": 2,
+   "active": 1,
    "all_time": 6,
    "names": [
     "Salesforce"
@@ -853,8 +853,8 @@
    "denied": 0
   },
   "tiktok": {
-   "active": 106,
-   "all_time": 159,
+   "active": 107,
+   "all_time": 160,
    "names": [
     "TikTok"
    ],
