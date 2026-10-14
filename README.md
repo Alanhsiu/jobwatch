@@ -8,7 +8,7 @@ sync between devices through this repo. No servers, no database, no cost — a p
 bot token. This repo's tracker: **[alanhsiu.github.io/jobwatch](https://alanhsiu.github.io/jobwatch/)** (a fork gets its own at `https://<owner>.github.io/<repo>/`).
 
 <!-- JOBS:HEAD:START -->
-_306 open new-grad roles at 56 companies · list last changed 2026-10-14 · scans every ~2 h_ · **[Open the tracker](https://alanhsiu.github.io/jobwatch/)** · [Full list ↓](#current-roles) · TikTok 106 · ByteDance 37 · Microsoft 12 · Palantir 10 · Amazon 9 · Anduril 9 · NVIDIA 9 · Apple 8 · …
+_306 open new-grad roles at 57 companies · list last changed 2026-10-14 · scans every ~2 h_ · **[Open the tracker](https://alanhsiu.github.io/jobwatch/)** · [Full list ↓](#current-roles) · TikTok 106 · ByteDance 37 · Microsoft 11 · Palantir 10 · Amazon 9 · Anduril 9 · NVIDIA 9 · Apple 8 · …
 <!-- JOBS:HEAD:END -->
 
 ## How it works
@@ -336,12 +336,11 @@ and `.nojekyll` into `docs/`, set Pages to `/docs`, and give every device a toke
 
 </details>
 <details open>
-<summary>Microsoft (12)</summary>
+<summary>Microsoft (11)</summary>
 
 - [Software Engineer](https://apply.careers.microsoft.com/careers/job/1970393556985571) · [2](https://apply.careers.microsoft.com/careers/job/1970393557023170) · [3](https://apply.careers.microsoft.com/careers/job/1970393557037774) · [4](https://apply.careers.microsoft.com/careers/job/1970393557027422) · [5](https://apply.careers.microsoft.com/careers/job/1970393557022926) · [6](https://apply.careers.microsoft.com/careers/job/1970393557022487) · [7](https://apply.careers.microsoft.com/careers/job/1970393556982903) · [8](https://apply.careers.microsoft.com/careers/job/1970393556858723) — Redmond, WA; Remote in USA; Redmond, WA, Reston, VA; Annapolis Junction, MD, Redmond, WA, Reston, VA · posted 2026-10-13 · SWE · BS/MS
 - [Software Engineering](https://apply.careers.microsoft.com/careers/job/1970393556999878) — Redmond, WA · posted 2026-10-12 · SWE · BS/MS
 - [Software Engineer - Cleared](https://apply.careers.microsoft.com/careers/job/1970393556982911) — Reston, VA · posted 2026-09-23 · SWE · BS/MS
-- [Software Engineering - Commercial Engineering & AI - Ceai](https://apply.careers.microsoft.com/careers/job/1970393556914839) — Redmond, WA · posted 2026-09-14 · SWE · BS/MS
 - [Software Engineer - Ctj - Poly](https://apply.careers.microsoft.com/careers/job/1970393556860973) — Annapolis Junction, MD, Reston, VA · posted 2026-06-18 · SWE · BS
 
 </details>
@@ -675,6 +674,12 @@ and `.nojekyll` into `docs/`, set Pages to `/docs`, and give every device a toke
 <summary>Flow Traders (1)</summary>
 
 - [Graduate Quantitative Trader](https://job-boards.greenhouse.io/flowtraders/jobs/8094581) — NYC · posted 2026-07-29 · Quant · BS
+
+</details>
+<details open>
+<summary>Google (1)</summary>
+
+- [Research Engineer](https://www.google.com/about/careers/applications/jobs/results/114077679900074694) — Mountain View, CA · posted 2026-09-11 · ML
 
 </details>
 <details open>

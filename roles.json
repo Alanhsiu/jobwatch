@@ -1355,31 +1355,6 @@
   "reason": null
  },
  {
-  "id": "simplify:b4e7a187-9537-4e72-8b27-c8d54faf0118",
-  "first_seen": 1791127536,
-  "company": "Microsoft",
-  "title": "Software Engineering - Commercial Engineering & AI - Ceai",
-  "location": "Redmond, WA",
-  "url": "https://apply.careers.microsoft.com/careers/job/1970393556914839",
-  "category": "SWE",
-  "posted": "2026-09-14",
-  "date_posted": 1789425238,
-  "active": true,
-  "locations": [
-   "Redmond, WA"
-  ],
-  "region": "US",
-  "degrees": [
-   "Bachelor's",
-   "Master's"
-  ],
-  "sponsorship": "Other",
-  "group": "microsoft|software engineering commercial engineering ai ceai",
-  "in_feed": true,
-  "reason": null,
-  "last_seen": 1791212298
- },
- {
   "id": "simplify:a5015239-b0f5-4194-ba7b-fc8c2eac8c28",
   "company": "Motional",
   "title": "Motion Planning Engineer - Trajectory Generation",
@@ -1451,6 +1426,27 @@
   ],
   "sponsorship": "Other",
   "group": "amazon|software privacy engineer multiple teams",
+  "in_feed": true,
+  "reason": null
+ },
+ {
+  "id": "simplify:42f706ad-c2f4-4190-9175-61c8b63fda22",
+  "first_seen": 1791985864,
+  "company": "Google",
+  "title": "Research Engineer",
+  "location": "Mountain View, CA",
+  "url": "https://www.google.com/about/careers/applications/jobs/results/114077679900074694",
+  "category": "ML",
+  "posted": "2026-09-11",
+  "date_posted": 1789164755,
+  "active": true,
+  "locations": [
+   "Mountain View, CA"
+  ],
+  "region": "US",
+  "degrees": [],
+  "sponsorship": "Other",
+  "group": "google|research engineer",
   "in_feed": true,
   "reason": null
  },
@@ -8227,6 +8223,32 @@
   "reason": "closed",
   "closed_at": 1790149819,
   "last_seen": 1790149819
+ },
+ {
+  "id": "simplify:b4e7a187-9537-4e72-8b27-c8d54faf0118",
+  "first_seen": 1791127536,
+  "company": "Microsoft",
+  "title": "Software Engineering - Commercial Engineering & AI - Ceai",
+  "location": "Redmond, WA",
+  "url": "https://apply.careers.microsoft.com/careers/job/1970393556914839",
+  "category": "SWE",
+  "posted": "2026-09-14",
+  "date_posted": 1789425238,
+  "active": false,
+  "locations": [
+   "Redmond, WA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "microsoft|software engineering commercial engineering ai ceai",
+  "in_feed": false,
+  "reason": "closed",
+  "last_seen": 1791985864,
+  "closed_at": 1791985864
  },
  {
   "id": "simplify:a9b5356a-b658-407e-858e-29e74df5f581",
