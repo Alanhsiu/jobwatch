@@ -8,7 +8,7 @@ sync between devices through this repo. No servers, no database, no cost — a p
 bot token. This repo's tracker: **[alanhsiu.github.io/jobwatch](https://alanhsiu.github.io/jobwatch/)** (a fork gets its own at `https://<owner>.github.io/<repo>/`).
 
 <!-- JOBS:HEAD:START -->
-_305 open new-grad roles at 57 companies · list last changed 2026-10-15 · scans every ~2 h_ · **[Open the tracker](https://alanhsiu.github.io/jobwatch/)** · [Full list ↓](#current-roles) · TikTok 108 · ByteDance 37 · Microsoft 10 · Palantir 10 · Amazon 9 · Anduril 9 · Apple 8 · NVIDIA 8 · …
+_304 open new-grad roles at 57 companies · list last changed 2026-10-15 · scans every ~2 h_ · **[Open the tracker](https://alanhsiu.github.io/jobwatch/)** · [Full list ↓](#current-roles) · TikTok 108 · ByteDance 37 · Palantir 10 · Amazon 9 · Anduril 9 · Microsoft 9 · Apple 8 · NVIDIA 8 · …
 <!-- JOBS:HEAD:END -->
 
 ## How it works
@@ -338,15 +338,6 @@ and `.nojekyll` into `docs/`, set Pages to `/docs`, and give every device a toke
 
 </details>
 <details open>
-<summary>Microsoft (10)</summary>
-
-- [Software Engineer](https://apply.careers.microsoft.com/careers/job/1970393557026652) · [2](https://apply.careers.microsoft.com/careers/job/1970393556985571) · [3](https://apply.careers.microsoft.com/careers/job/1970393557023170) · [4](https://apply.careers.microsoft.com/careers/job/1970393557037774) · [5](https://apply.careers.microsoft.com/careers/job/1970393557022487) · [6](https://apply.careers.microsoft.com/careers/job/1970393556982903) · [7](https://apply.careers.microsoft.com/careers/job/1970393556858723) — Redmond, WA; Redmond, WA, Reston, VA; Annapolis Junction, MD, Redmond, WA, Reston, VA · posted 2026-10-15 · SWE · BS/MS
-- [Software Engineering](https://apply.careers.microsoft.com/careers/job/1970393556999878) — Redmond, WA · posted 2026-10-12 · SWE · BS/MS
-- [Software Engineer - Cleared](https://apply.careers.microsoft.com/careers/job/1970393556982911) — Reston, VA · posted 2026-09-23 · SWE · BS/MS
-- [Software Engineer - Ctj - Poly](https://apply.careers.microsoft.com/careers/job/1970393556860973) — Annapolis Junction, MD, Reston, VA · posted 2026-06-18 · SWE · BS
-
-</details>
-<details open>
 <summary>Palantir (10)</summary>
 
 - [Software Engineer New Grad - Defense](https://jobs.lever.co/palantir/18d901fc-93bb-4d18-9f04-c72031e20d79/apply) · [2](https://jobs.lever.co/palantir/f362d7aa-360d-4059-ab38-f482742693b3/apply) · [3](https://jobs.lever.co/palantir/0a838e66-1ab0-4fc4-b4d3-4671c0352278/apply) — Washington, DC; Palo Alto, CA; NYC · posted 2026-06-29 · SWE
@@ -380,6 +371,15 @@ and `.nojekyll` into `docs/`, set Pages to `/docs`, and give every device a toke
 - [Agentic AI Engineer - Automation](https://boards.greenhouse.io/andurilindustries/jobs/5219383007) — Costa Mesa, CA · posted 2026-08-26 · SWE · MS/PhD
 - [Software Engineer - Tracking](https://boards.greenhouse.io/andurilindustries/jobs/5215629007) — Fort Collins, CO, Broomfield, CO · posted 2026-08-19 · SWE · BS
 - [Software Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5162263007) — Boston, MA, Seattle, WA, Newport Beach, CA · posted 2026-06-11 · SWE · BS/MS
+
+</details>
+<details open>
+<summary>Microsoft (9)</summary>
+
+- [Software Engineer](https://apply.careers.microsoft.com/careers/job/1970393557026652) · [2](https://apply.careers.microsoft.com/careers/job/1970393556985571) · [3](https://apply.careers.microsoft.com/careers/job/1970393557023170) · [4](https://apply.careers.microsoft.com/careers/job/1970393557022487) · [5](https://apply.careers.microsoft.com/careers/job/1970393556982903) · [6](https://apply.careers.microsoft.com/careers/job/1970393556858723) — Redmond, WA; Redmond, WA, Reston, VA; Annapolis Junction, MD, Redmond, WA, Reston, VA · posted 2026-10-15 · SWE · BS/MS
+- [Software Engineering](https://apply.careers.microsoft.com/careers/job/1970393556999878) — Redmond, WA · posted 2026-10-12 · SWE · BS/MS
+- [Software Engineer - Cleared](https://apply.careers.microsoft.com/careers/job/1970393556982911) — Reston, VA · posted 2026-09-23 · SWE · BS/MS
+- [Software Engineer - Ctj - Poly](https://apply.careers.microsoft.com/careers/job/1970393556860973) — Annapolis Junction, MD, Reston, VA · posted 2026-06-18 · SWE · BS
 
 </details>
 <details open>

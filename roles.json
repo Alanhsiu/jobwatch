@@ -310,30 +310,6 @@
   "reason": null
  },
  {
-  "id": "simplify:96b88f42-fdea-4557-a58f-4847e5ce71d3",
-  "first_seen": 1791636223,
-  "company": "Microsoft",
-  "title": "Software Engineer",
-  "location": "Redmond, WA",
-  "url": "https://apply.careers.microsoft.com/careers/job/1970393557037774",
-  "category": "SWE",
-  "posted": "2026-10-10",
-  "date_posted": 1791612506,
-  "active": true,
-  "locations": [
-   "Redmond, WA"
-  ],
-  "region": "US",
-  "degrees": [
-   "Bachelor's",
-   "Master's"
-  ],
-  "sponsorship": "Other",
-  "group": "microsoft|software engineer",
-  "in_feed": true,
-  "reason": null
- },
- {
   "id": "simplify:c0e68386-5f91-485f-86a7-c92db1919740",
   "first_seen": 1791636223,
   "company": "Shield AI",
@@ -7473,6 +7449,32 @@
   "group": "schonfeld|market data analyst",
   "in_feed": true,
   "reason": null
+ },
+ {
+  "id": "simplify:96b88f42-fdea-4557-a58f-4847e5ce71d3",
+  "first_seen": 1791636223,
+  "company": "Microsoft",
+  "title": "Software Engineer",
+  "location": "Redmond, WA",
+  "url": "https://apply.careers.microsoft.com/careers/job/1970393557037774",
+  "category": "SWE",
+  "posted": "2026-10-10",
+  "date_posted": 1791612506,
+  "active": false,
+  "locations": [
+   "Redmond, WA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "microsoft|software engineer",
+  "in_feed": false,
+  "reason": "closed",
+  "closed_at": 1792099916,
+  "last_seen": 1792099916
  },
  {
   "id": "simplify:6f15290e-1c49-44ed-a47d-5d3d58c890ae",
