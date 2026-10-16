@@ -1,5 +1,28 @@
 [
  {
+  "id": "simplify:86c9474f-6e5a-412d-86b0-43966e80038a",
+  "first_seen": 1792110549,
+  "company": "Apple",
+  "title": "Graphics Software Content Engineer",
+  "location": "Orlando, FL",
+  "url": "https://jobs.apple.com/en-us/details/200689345",
+  "category": "HW",
+  "posted": "2026-10-15",
+  "date_posted": 1792103632,
+  "active": true,
+  "locations": [
+   "Orlando, FL"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's"
+  ],
+  "sponsorship": "Other",
+  "group": "apple|graphics software content engineer",
+  "in_feed": true,
+  "reason": null
+ },
+ {
   "id": "simplify:f3c27242-85bc-4d24-acb5-70028e2c09c2",
   "first_seen": 1792064612,
   "company": "TikTok",
