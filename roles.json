@@ -1,5 +1,81 @@
 [
  {
+  "id": "simplify:5aac86eb-5f0c-4bf5-b902-cd78aa3278a1",
+  "first_seen": 1792197331,
+  "company": "Microsoft",
+  "title": "Software Engineer - Forward Deployed Engineer",
+  "location": "Redmond, WA",
+  "url": "https://apply.careers.microsoft.com/careers/job/1970393557027406",
+  "category": "SWE",
+  "posted": "2026-10-16",
+  "date_posted": 1792190432,
+  "active": true,
+  "locations": [
+   "Redmond, WA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "microsoft|software engineer forward deployed engineer",
+  "in_feed": true,
+  "reason": null
+ },
+ {
+  "id": "simplify:6e0e49d7-3f42-454e-9884-85f4bdf8c139",
+  "first_seen": 1792197331,
+  "company": "Salesforce",
+  "title": "AI Labs Rotational Fellow - Emerging Talent",
+  "location": "Seattle, WA, SF, NYC",
+  "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/AI-Labs-Rotational-Fellowship--Emerging-Talent_JR363678-1",
+  "category": "SWE",
+  "posted": "2026-10-16",
+  "date_posted": 1792108800,
+  "active": true,
+  "locations": [
+   "Seattle, WA",
+   "SF",
+   "NYC"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "salesforce|ai labs rotational fellow emerging talent",
+  "in_feed": true,
+  "reason": null
+ },
+ {
+  "id": "simplify:8c732701-b682-414e-8968-708f8b132ff0",
+  "first_seen": 1792197331,
+  "company": "Salesforce",
+  "title": "AI Labs Rotational Fellow - Emerging Talent",
+  "location": "Seattle, WA, SF, NYC",
+  "url": "https://salesforce.wd12.myworkdayjobs.com/Futureforce_NewGradRoles/job/California---San-Francisco/AI-Labs-Rotational-Fellowship--Emerging-Talent_JR363678",
+  "category": "SWE",
+  "posted": "2026-10-16",
+  "date_posted": 1792108800,
+  "active": true,
+  "locations": [
+   "Seattle, WA",
+   "SF",
+   "NYC"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "salesforce|ai labs rotational fellow emerging talent",
+  "in_feed": true,
+  "reason": null
+ },
+ {
   "id": "simplify:86c9474f-6e5a-412d-86b0-43966e80038a",
   "first_seen": 1792110549,
   "company": "Apple",
@@ -1983,31 +2059,6 @@
   ],
   "sponsorship": "Other",
   "group": "tiktok|machine learning engineer graduate e commerce recommendation video",
-  "in_feed": true,
-  "reason": null
- },
- {
-  "id": "simplify:ad7fc6cf-4649-4523-8f4a-2b113297ea41",
-  "company": "Anduril",
-  "title": "Agentic AI Engineer - Automation",
-  "location": "Costa Mesa, CA",
-  "url": "https://boards.greenhouse.io/andurilindustries/jobs/5219383007",
-  "category": "SWE",
-  "posted": "2026-08-26",
-  "date_posted": 1787782878,
-  "active": true,
-  "first_seen": 1787804808.9766827,
-  "last_seen": 1789521191.4314806,
-  "locations": [
-   "Costa Mesa, CA"
-  ],
-  "region": "US",
-  "degrees": [
-   "Master's",
-   "PhD"
-  ],
-  "sponsorship": "Other",
-  "group": "anduril|agentic ai engineer automation",
   "in_feed": true,
   "reason": null
  },
@@ -5103,31 +5154,6 @@
   "reason": null
  },
  {
-  "id": "simplify:e568e4b0-521c-46fd-9755-b2d6ee6b85f3",
-  "company": "ByteDance",
-  "title": "Backend Software Engineer Graduate - Platform",
-  "location": "San Jose, CA",
-  "url": "https://jobs.bytedance.com/en/position/7667269919588321541/detail",
-  "category": "SWE",
-  "posted": "2026-08-03",
-  "date_posted": 1785748598,
-  "active": true,
-  "first_seen": 1785776785.3406992,
-  "last_seen": 1789521191.4314806,
-  "locations": [
-   "San Jose, CA"
-  ],
-  "region": "US",
-  "degrees": [
-   "Bachelor's",
-   "Master's"
-  ],
-  "sponsorship": "Other",
-  "group": "bytedance|backend software engineer graduate platform",
-  "in_feed": true,
-  "reason": null
- },
- {
   "id": "simplify:1b859931-1544-478a-bc10-f4d7d0521089",
   "company": "ByteDance",
   "title": "Software Engineer Graduate - AI Infrastructure Compute",
@@ -5172,31 +5198,6 @@
   ],
   "sponsorship": "Other",
   "group": "bytedance|software engineer new grad ai infra compute",
-  "in_feed": true,
-  "reason": null
- },
- {
-  "id": "simplify:7ffeb3ff-36cb-4a84-be96-de9c169871f8",
-  "company": "ByteDance",
-  "title": "Backend Software Engineer Graduate - Platform",
-  "location": "NYC",
-  "url": "https://jobs.bytedance.com/en/position/7667267464923171077/detail",
-  "category": "SWE",
-  "posted": "2026-08-03",
-  "date_posted": 1785748597,
-  "active": true,
-  "first_seen": 1785776785.3406992,
-  "last_seen": 1789521191.4314806,
-  "locations": [
-   "NYC"
-  ],
-  "region": "US",
-  "degrees": [
-   "Bachelor's",
-   "Master's"
-  ],
-  "sponsorship": "Other",
-  "group": "bytedance|backend software engineer graduate platform",
   "in_feed": true,
   "reason": null
  },
@@ -8706,6 +8707,32 @@
   "group": "bridgewater associates|trading associate"
  },
  {
+  "id": "simplify:ad7fc6cf-4649-4523-8f4a-2b113297ea41",
+  "company": "Anduril",
+  "title": "Agentic AI Engineer - Automation",
+  "location": "Costa Mesa, CA",
+  "url": "https://boards.greenhouse.io/andurilindustries/jobs/5219383007",
+  "category": "SWE",
+  "posted": "2026-08-26",
+  "date_posted": 1787782878,
+  "active": false,
+  "first_seen": 1787804808.9766827,
+  "last_seen": 1792197331,
+  "locations": [
+   "Costa Mesa, CA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Master's",
+   "PhD"
+  ],
+  "sponsorship": "Other",
+  "group": "anduril|agentic ai engineer automation",
+  "in_feed": false,
+  "reason": "closed",
+  "closed_at": 1792197331
+ },
+ {
   "id": "simplify:bbfd547f-84e0-4194-8f94-d9fd13af41da",
   "company": "Bridgewater Associates",
   "title": "Trading Associate",
@@ -10683,6 +10710,32 @@
   "group": "bytedance|software engineer new grad traffic infrastructure"
  },
  {
+  "id": "simplify:e568e4b0-521c-46fd-9755-b2d6ee6b85f3",
+  "company": "ByteDance",
+  "title": "Backend Software Engineer Graduate - Platform",
+  "location": "San Jose, CA",
+  "url": "https://jobs.bytedance.com/en/position/7667269919588321541/detail",
+  "category": "SWE",
+  "posted": "2026-08-03",
+  "date_posted": 1785748598,
+  "active": false,
+  "first_seen": 1785776785.3406992,
+  "last_seen": 1792197331,
+  "locations": [
+   "San Jose, CA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "bytedance|backend software engineer graduate platform",
+  "in_feed": false,
+  "reason": "closed",
+  "closed_at": 1792197331
+ },
+ {
   "id": "simplify:53efd4af-54a6-411e-a939-031cead7e3c1",
   "company": "ByteDance",
   "title": "Security Engineer New Grad - Threat Detection and Response",
@@ -10698,6 +10751,32 @@
   "closed_at": 1788459477,
   "reason": "closed",
   "group": "bytedance|security engineer new grad threat detection and response"
+ },
+ {
+  "id": "simplify:7ffeb3ff-36cb-4a84-be96-de9c169871f8",
+  "company": "ByteDance",
+  "title": "Backend Software Engineer Graduate - Platform",
+  "location": "NYC",
+  "url": "https://jobs.bytedance.com/en/position/7667267464923171077/detail",
+  "category": "SWE",
+  "posted": "2026-08-03",
+  "date_posted": 1785748597,
+  "active": false,
+  "first_seen": 1785776785.3406992,
+  "last_seen": 1792197331,
+  "locations": [
+   "NYC"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "bytedance|backend software engineer graduate platform",
+  "in_feed": false,
+  "reason": "closed",
+  "closed_at": 1792197331
  },
  {
   "id": "simplify:7c78b644-a242-4bdb-b125-4624e558f892",
