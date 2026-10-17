@@ -1,5 +1,28 @@
 [
  {
+  "id": "simplify:e6dd9201-55c5-46cf-a0bc-b9d1b81d9359",
+  "first_seen": 1792220566,
+  "company": "Amazon",
+  "title": "Systems Development Engineer – Early Career",
+  "location": "Seattle, WA",
+  "url": "https://amazon.jobs/en/jobs/10581943/systems-development-engineer-early-career-2026-us",
+  "category": "SWE",
+  "posted": "2026-10-17",
+  "date_posted": 1792200310,
+  "active": true,
+  "locations": [
+   "Seattle, WA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's"
+  ],
+  "sponsorship": "Other",
+  "group": "amazon|systems development engineer early career",
+  "in_feed": true,
+  "reason": null
+ },
+ {
   "id": "simplify:5aac86eb-5f0c-4bf5-b902-cd78aa3278a1",
   "first_seen": 1792197331,
   "company": "Microsoft",

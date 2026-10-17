@@ -8,7 +8,7 @@ sync between devices through this repo. No servers, no database, no cost — a p
 bot token. This repo's tracker: **[alanhsiu.github.io/jobwatch](https://alanhsiu.github.io/jobwatch/)** (a fork gets its own at `https://<owner>.github.io/<repo>/`).
 
 <!-- JOBS:HEAD:START -->
-_305 open new-grad roles at 57 companies · list last changed 2026-10-17 · scans every ~2 h_ · **[Open the tracker](https://alanhsiu.github.io/jobwatch/)** · [Full list ↓](#current-roles) · TikTok 108 · ByteDance 35 · Microsoft 10 · Palantir 10 · Amazon 9 · Apple 9 · Anduril 8 · NVIDIA 8 · …
+_306 open new-grad roles at 57 companies · list last changed 2026-10-17 · scans every ~2 h_ · **[Open the tracker](https://alanhsiu.github.io/jobwatch/)** · [Full list ↓](#current-roles) · TikTok 108 · ByteDance 35 · Amazon 10 · Microsoft 10 · Palantir 10 · Apple 9 · Anduril 8 · NVIDIA 8 · …
 <!-- JOBS:HEAD:END -->
 
 ## How it works
@@ -337,6 +337,21 @@ and `.nojekyll` into `docs/`, set Pages to `/docs`, and give every device a toke
 
 </details>
 <details open>
+<summary>Amazon (10)</summary>
+
+- [Systems Development Engineer – Early Career](https://amazon.jobs/en/jobs/10581943/systems-development-engineer-early-career-2026-us) — Seattle, WA · posted 2026-10-17 · SWE · BS
+- [Software Development Engineer – Early Career - Amazon Dedicated Cloud - ADC](https://amazon.jobs/en/jobs/10529546/software-development-engineer-amazon-dedicated-cloud-early-career-2026-amazon-dedicated-cloud-adc) — Seattle, WA, Jessup, MD, Arlington County, Arlington, VA · posted 2026-10-02 · SWE · BS
+- [Software Development Engineer - Robotics](https://amazon.jobs/en/jobs/10567489/software-development-engineer-robotics-early-career-2027) — Seattle, WA, Nashville, TN, Austin, TX · posted 2026-10-01 · SWE · BS
+- [Software Privacy Engineer - Multiple Teams](https://amazon.jobs/en/jobs/10538147/software-privacy-engineer-trust-platform-automation-devices-services-trust-privacy-and-accessibility-tpa) — Bellevue, WA · posted 2026-09-12 · SWE · BS
+- [Robotics System Development Engineer](https://amazon.jobs/en/jobs/10523031/robotics-system-development-engineer) — Austin, TX · posted 2026-09-01 · SWE · BS
+- [Software Development Engineer - Amazon Leo](https://amazon.jobs/en/jobs/10513110/software-development-engineer-amazon-leo-early-career-2026) — Redmond, WA, Northridge, LA · posted 2026-08-25 · SWE · BS/MS
+- [Applied Scientist - Operations](https://amazon.jobs/en/jobs/10492292/applied-scientist-na-operations) — Bellevue, WA · posted 2026-08-04 · ML · MS
+- [EFA Network Software Engineer 1 - Annapurna Labs](https://amazon.jobs/en/jobs/10481932/efa-network-software-engineer-i-annapurna-labs) — Seattle, WA · posted 2026-07-22 · SWE · BS/MS
+- [Software Development Engineer - Military Veterans](https://amazon.jobs/en/jobs/3179205/software-development-engineer-military-veterans) — Seattle, WA, Redmond, WA, Arlington, VA · posted 2026-07-14 · SWE · BS
+- [Software Development Engineer](https://amazon.jobs/en/jobs/3177934/software-development-engineer-2026-us) — Seattle, WA · posted 2026-05-04 · SWE · BS
+
+</details>
+<details open>
 <summary>Microsoft (10)</summary>
 
 - [Software Engineer - Forward Deployed Engineer](https://apply.careers.microsoft.com/careers/job/1970393557027406) — Redmond, WA · posted 2026-10-16 · SWE · BS/MS
@@ -354,20 +369,6 @@ and `.nojekyll` into `docs/`, set Pages to `/docs`, and give every device a toke
 - [Software Engineer New Grad](https://jobs.lever.co/palantir/c34b424e-caf2-455a-b104-ae1096ccca29/apply) — Denver, CO · posted 2026-06-29 · SWE · BS
 - [Privacy & Civil Liberties Engineer New Grad](https://jobs.lever.co/palantir/95e0d2b0-437a-4096-a5c6-0f247f426c90/apply) — NYC · posted 2026-06-26 · SWE · BS
 - [Forward Deployed Software Engineer New Grad](https://jobs.lever.co/palantir/cbe90327-3e6e-451c-a54c-1d3cbcef5aeb/apply) · [2](https://jobs.lever.co/palantir/d1ac83d0-e923-42a5-8e6d-58dd0cab25ca/apply) · [3](https://jobs.lever.co/palantir/fbca0358-083a-4222-bdbb-3bd729b48382/apply) — Washington, DC; NYC · posted 2026-06-16 · SWE
-
-</details>
-<details open>
-<summary>Amazon (9)</summary>
-
-- [Software Development Engineer – Early Career - Amazon Dedicated Cloud - ADC](https://amazon.jobs/en/jobs/10529546/software-development-engineer-amazon-dedicated-cloud-early-career-2026-amazon-dedicated-cloud-adc) — Seattle, WA, Jessup, MD, Arlington County, Arlington, VA · posted 2026-10-02 · SWE · BS
-- [Software Development Engineer - Robotics](https://amazon.jobs/en/jobs/10567489/software-development-engineer-robotics-early-career-2027) — Seattle, WA, Nashville, TN, Austin, TX · posted 2026-10-01 · SWE · BS
-- [Software Privacy Engineer - Multiple Teams](https://amazon.jobs/en/jobs/10538147/software-privacy-engineer-trust-platform-automation-devices-services-trust-privacy-and-accessibility-tpa) — Bellevue, WA · posted 2026-09-12 · SWE · BS
-- [Robotics System Development Engineer](https://amazon.jobs/en/jobs/10523031/robotics-system-development-engineer) — Austin, TX · posted 2026-09-01 · SWE · BS
-- [Software Development Engineer - Amazon Leo](https://amazon.jobs/en/jobs/10513110/software-development-engineer-amazon-leo-early-career-2026) — Redmond, WA, Northridge, LA · posted 2026-08-25 · SWE · BS/MS
-- [Applied Scientist - Operations](https://amazon.jobs/en/jobs/10492292/applied-scientist-na-operations) — Bellevue, WA · posted 2026-08-04 · ML · MS
-- [EFA Network Software Engineer 1 - Annapurna Labs](https://amazon.jobs/en/jobs/10481932/efa-network-software-engineer-i-annapurna-labs) — Seattle, WA · posted 2026-07-22 · SWE · BS/MS
-- [Software Development Engineer - Military Veterans](https://amazon.jobs/en/jobs/3179205/software-development-engineer-military-veterans) — Seattle, WA, Redmond, WA, Arlington, VA · posted 2026-07-14 · SWE · BS
-- [Software Development Engineer](https://amazon.jobs/en/jobs/3177934/software-development-engineer-2026-us) — Seattle, WA · posted 2026-05-04 · SWE · BS
 
 </details>
 <details open>
