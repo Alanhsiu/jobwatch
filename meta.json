@@ -4,22 +4,22 @@
  "repo": "Alanhsiu/jobwatch",
  "branch": "main",
  "pages_url": "https://alanhsiu.github.io/jobwatch/",
- "last_run": 1792220566,
- "last_change": 1792220566,
+ "last_run": 1792239341,
+ "last_change": 1792239341,
  "last_result": "ok",
  "feed": {
-  "records": 19528,
-  "active": 3027,
-  "fetched_at": 1792220566,
+  "records": 19497,
+  "active": 3024,
+  "fetched_at": 1792239341,
   "attempts": 1
  },
  "counts": {
   "active": 306,
-  "closed": 244,
-  "untracked": 63,
+  "closed": 245,
+  "untracked": 62,
   "groups": 262,
   "companies": 57,
-  "new_this_run": 1,
+  "new_this_run": 0,
   "silent_known_this_run": 0,
   "closed_this_run": 0,
   "untracked_this_run": 0
@@ -27,7 +27,7 @@
  "rejects": {
   "category": 124,
   "phd": 179,
-  "title": 21,
+  "title": 20,
   "region": 41,
   "sponsorship": 0,
   "age": 18
@@ -1006,8 +1006,8 @@
   }
  },
  "telegram": {
-  "mode": "sent",
-  "delivered": 1,
+  "mode": "none",
+  "delivered": 0,
   "failed_chunks": 0,
   "creds": true
  },
