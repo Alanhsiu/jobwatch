@@ -4,13 +4,13 @@
  "repo": "Alanhsiu/jobwatch",
  "branch": "main",
  "pages_url": "https://alanhsiu.github.io/jobwatch/",
- "last_run": 1792239341,
+ "last_run": 1792322595,
  "last_change": 1792239341,
- "last_result": "ok",
+ "last_result": "ok-no-change",
  "feed": {
-  "records": 19497,
-  "active": 3024,
-  "fetched_at": 1792239341,
+  "records": 19363,
+  "active": 3021,
+  "fetched_at": 1792322595,
   "attempts": 1
  },
  "counts": {
