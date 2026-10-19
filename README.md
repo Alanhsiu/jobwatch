@@ -8,7 +8,7 @@ sync between devices through this repo. No servers, no database, no cost — a p
 bot token. This repo's tracker: **[alanhsiu.github.io/jobwatch](https://alanhsiu.github.io/jobwatch/)** (a fork gets its own at `https://<owner>.github.io/<repo>/`).
 
 <!-- JOBS:HEAD:START -->
-_306 open new-grad roles at 57 companies · list last changed 2026-10-17 · scans every ~2 h_ · **[Open the tracker](https://alanhsiu.github.io/jobwatch/)** · [Full list ↓](#current-roles) · TikTok 108 · ByteDance 35 · Amazon 10 · Microsoft 10 · Palantir 10 · Apple 9 · Anduril 8 · NVIDIA 8 · …
+_303 open new-grad roles at 57 companies · list last changed 2026-10-19 · scans every ~2 h_ · **[Open the tracker](https://alanhsiu.github.io/jobwatch/)** · [Full list ↓](#current-roles) · TikTok 108 · ByteDance 35 · Amazon 10 · Microsoft 10 · Palantir 10 · Apple 9 · Anduril 8 · NVIDIA 8 · …
 <!-- JOBS:HEAD:END -->
 
 ## How it works
@@ -428,16 +428,6 @@ and `.nojekyll` into `docs/`, set Pages to `/docs`, and give every device a toke
 
 </details>
 <details open>
-<summary>Old Mission (5)</summary>
-
-- [Software Engineer – Graduate Program - August Start](https://www.oldmissioncapital.com/careers/?gh_jid=7796048003) — Chicago, IL · posted 2026-07-13 · SWE · BS
-- [Quantitative Trader](https://www.oldmissioncapital.com/careers/?gh_jid=7796031003) — Chicago, IL, NYC · posted 2026-07-13 · Quant · BS
-- [Quantitative Trader Graduate Program](https://www.oldmissioncapital.com/careers/?gh_jid=7796044003) — Chicago, IL, NYC · posted 2026-07-13 · Quant · BS
-- [Quantitative Trader – Graduate Program - August Start](https://www.oldmissioncapital.com/careers/?gh_jid=7796058003) — London, UK, Chicago, IL, NYC · posted 2026-07-13 · Quant · BS/MS
-- [Junior Quantitative Researcher](https://www.oldmissioncapital.com/careers/?gh_jid=6309652003) — Chicago, IL · posted 2026-05-18 · Quant · MS/PhD
-
-</details>
-<details open>
 <summary>Shield AI (5)</summary>
 
 - [Software Engineer 1 - Factory Team](https://jobs.lever.co/shieldai/59e0cf9b-04d7-43c0-8a65-9d411fe56c68/apply) — Washington, DC · posted 2026-10-10 · SWE · BS
@@ -574,6 +564,13 @@ and `.nojekyll` into `docs/`, set Pages to `/docs`, and give every device a toke
 
 - [Software Engineer - C++ or Python](https://www.hudsonrivertrading.com/careers/job/?gh_jid=8052122) — Austin, TX, Chicago, IL, NYC · posted 2026-07-13 · SWE · BS/MS
 - [Algorithm Developer New Grad - Quant Researcher](https://www.hudsonrivertrading.com/careers/job/?gh_jid=8052050) — NYC · posted 2026-07-13 · Quant · BS/MS
+
+</details>
+<details open>
+<summary>Old Mission (2)</summary>
+
+- [Quantitative Trader Graduate Program](https://www.oldmissioncapital.com/careers/?gh_jid=7796044003) — Chicago, IL, NYC · posted 2026-07-13 · Quant · BS
+- [Junior Quantitative Researcher](https://www.oldmissioncapital.com/careers/?gh_jid=6309652003) — Chicago, IL · posted 2026-05-18 · Quant · MS/PhD
 
 </details>
 <details open>
