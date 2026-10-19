@@ -1,5 +1,84 @@
 [
  {
+  "id": "simplify:9c9ff27f-75fd-4c1b-b076-e687f7e08f74",
+  "first_seen": 1792453678,
+  "company": "Amazon",
+  "title": "Software Engineer – Early Career",
+  "location": "Madison, WI, Boston, MA, Seattle, WA",
+  "url": "https://amazon.jobs/en/jobs/10583340/software-development-engineer-early-career-2027-us",
+  "category": "SWE",
+  "posted": "2026-10-19",
+  "date_posted": 1792449569,
+  "active": true,
+  "locations": [
+   "Madison, WI",
+   "Boston, MA",
+   "Seattle, WA",
+   "Austin, TX",
+   "Detroit, MI",
+   "Santa Clara, CA",
+   "Arlington County, Arlington, VA",
+   "Minneapolis, MN",
+   "Denver, CO"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "amazon|software engineer early career",
+  "in_feed": true,
+  "reason": null
+ },
+ {
+  "id": "simplify:685e432a-5583-46a1-a7ac-d9819bab8f8d",
+  "first_seen": 1792453678,
+  "company": "Apple",
+  "title": "Software Engineer - IS&T",
+  "location": "Austin, TX",
+  "url": "https://jobs.apple.com/en-us/details/200688599",
+  "category": "SWE",
+  "posted": "2026-10-19",
+  "date_posted": 1792449035,
+  "active": true,
+  "locations": [
+   "Austin, TX"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's"
+  ],
+  "sponsorship": "Other",
+  "group": "apple|software engineer is t",
+  "in_feed": true,
+  "reason": null
+ },
+ {
+  "id": "simplify:80493332-3c89-4c41-ac25-0143b349ecbc",
+  "first_seen": 1792453678,
+  "company": "NVIDIA",
+  "title": "Technical Product Marketing Engineer - Robotics Simulation",
+  "location": "Santa Clara, CA",
+  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Technical-Product-Marketing-Engineer--Robotics-Simulation---New-College-Grad-2027_JR2027742",
+  "category": "ML",
+  "posted": "2026-10-19",
+  "date_posted": 1792368000,
+  "active": true,
+  "locations": [
+   "Santa Clara, CA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "nvidia|technical product marketing engineer robotics simulation",
+  "in_feed": true,
+  "reason": null
+ },
+ {
   "id": "simplify:e6dd9201-55c5-46cf-a0bc-b9d1b81d9359",
   "first_seen": 1792220566,
   "company": "Amazon",
@@ -6300,31 +6379,6 @@
   "reason": null
  },
  {
-  "id": "simplify:aafa1895-fe91-4e4b-af42-cf3c9ef2d784",
-  "company": "Old Mission",
-  "title": "Quantitative Trader Graduate Program",
-  "location": "Chicago, IL, NYC",
-  "url": "https://www.oldmissioncapital.com/careers/?gh_jid=7796044003",
-  "category": "Quant",
-  "posted": "2026-07-13",
-  "date_posted": 1783981823,
-  "active": true,
-  "first_seen": 1784014543.6740808,
-  "last_seen": 1789521191.4314806,
-  "locations": [
-   "Chicago, IL",
-   "NYC"
-  ],
-  "region": "US",
-  "degrees": [
-   "Bachelor's"
-  ],
-  "sponsorship": "Other",
-  "group": "old mission|quantitative trader graduate program",
-  "in_feed": true,
-  "reason": null
- },
- {
   "id": "simplify:5a57537d-9e34-437b-b912-d582e9641b85",
   "company": "Tesla",
   "title": "Data Analytics Engineer Scientist - Thermal - Chassis",
@@ -7274,31 +7328,6 @@
   "degrees": [],
   "sponsorship": "Other",
   "group": "xai|software engineer ads product",
-  "in_feed": true,
-  "reason": null
- },
- {
-  "id": "simplify:896dbe55-ef9b-431b-9a54-5c8eb5ad8c43",
-  "company": "Old Mission",
-  "title": "Junior Quantitative Researcher",
-  "location": "Chicago, IL",
-  "url": "https://www.oldmissioncapital.com/careers/?gh_jid=6309652003",
-  "category": "Quant",
-  "posted": "2026-05-18",
-  "date_posted": 1779142154,
-  "active": true,
-  "first_seen": 1784737062.4389405,
-  "last_seen": 1785599856.6978114,
-  "locations": [
-   "Chicago, IL"
-  ],
-  "region": "US",
-  "degrees": [
-   "Master's",
-   "PhD"
-  ],
-  "sponsorship": "Other",
-  "group": "old mission|junior quantitative researcher",
   "in_feed": true,
   "reason": null
  },
@@ -11874,6 +11903,32 @@
   "closed_at": 1792440015
  },
  {
+  "id": "simplify:aafa1895-fe91-4e4b-af42-cf3c9ef2d784",
+  "company": "Old Mission",
+  "title": "Quantitative Trader Graduate Program",
+  "location": "Chicago, IL, NYC",
+  "url": "https://www.oldmissioncapital.com/careers/?gh_jid=7796044003",
+  "category": "Quant",
+  "posted": "2026-07-13",
+  "date_posted": 1783981823,
+  "active": false,
+  "first_seen": 1784014543.6740808,
+  "last_seen": 1792453678,
+  "locations": [
+   "Chicago, IL",
+   "NYC"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's"
+  ],
+  "sponsorship": "Other",
+  "group": "old mission|quantitative trader graduate program",
+  "in_feed": false,
+  "reason": "closed",
+  "closed_at": 1792453678
+ },
+ {
   "id": "simplify:41d187c2-7c7d-4c78-bfeb-532bbe7ca543",
   "company": "Old Mission",
   "title": "Quantitative Trader – Graduate Program - August Start",
@@ -13853,6 +13908,32 @@
   "closed_at": 1784014543,
   "reason": "closed",
   "group": "chicago trading company|associate engineer quantitative research trading technology"
+ },
+ {
+  "id": "simplify:896dbe55-ef9b-431b-9a54-5c8eb5ad8c43",
+  "company": "Old Mission",
+  "title": "Junior Quantitative Researcher",
+  "location": "Chicago, IL",
+  "url": "https://www.oldmissioncapital.com/careers/?gh_jid=6309652003",
+  "category": "Quant",
+  "posted": "2026-05-18",
+  "date_posted": 1779142154,
+  "active": false,
+  "first_seen": 1784737062.4389405,
+  "last_seen": 1792453678,
+  "locations": [
+   "Chicago, IL"
+  ],
+  "region": "US",
+  "degrees": [
+   "Master's",
+   "PhD"
+  ],
+  "sponsorship": "Other",
+  "group": "old mission|junior quantitative researcher",
+  "in_feed": false,
+  "reason": "closed",
+  "closed_at": 1792453678
  },
  {
   "id": "simplify:5de30536-7ed9-4121-977c-734010710c22",
