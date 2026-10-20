@@ -1,5 +1,30 @@
 [
  {
+  "id": "simplify:814742fa-a084-4b5c-8a86-88b5c02f9b2f",
+  "first_seen": 1792472478,
+  "company": "Palantir",
+  "title": "Software Engineer New Grad - Query Engines",
+  "location": "NYC",
+  "url": "https://jobs.lever.co/palantir/90329118-d9b7-4b96-acdf-13377e3196ac/apply",
+  "category": "SWE",
+  "posted": "2026-10-20",
+  "date_posted": 1792459830,
+  "active": true,
+  "locations": [
+   "NYC"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's",
+   "PhD"
+  ],
+  "sponsorship": "Other",
+  "group": "palantir|software engineer new grad query engines",
+  "in_feed": true,
+  "reason": null
+ },
+ {
   "id": "simplify:9c9ff27f-75fd-4c1b-b076-e687f7e08f74",
   "first_seen": 1792453678,
   "company": "Amazon",
@@ -2381,31 +2406,6 @@
   ],
   "sponsorship": "Other",
   "group": "nvidia|architecture energy modeling engineer power modeling methodology and analysis",
-  "in_feed": true,
-  "reason": null
- },
- {
-  "id": "simplify:f58075d4-27db-4102-bd57-53ec0e1878fb",
-  "company": "Apple",
-  "title": "Darwin Runtime Engineer - Core OS",
-  "location": "Cupertino, CA",
-  "url": "https://jobs.apple.com/en-us/details/200662330",
-  "category": "SWE",
-  "posted": "2026-08-20",
-  "date_posted": 1787263809,
-  "active": true,
-  "first_seen": 1787268658.904747,
-  "last_seen": 1789521191.4314806,
-  "locations": [
-   "Cupertino, CA"
-  ],
-  "region": "US",
-  "degrees": [
-   "Bachelor's",
-   "Master's"
-  ],
-  "sponsorship": "Other",
-  "group": "apple|darwin runtime engineer core os",
   "in_feed": true,
   "reason": null
  },
@@ -8975,6 +8975,32 @@
   "closed_at": 1788208555,
   "reason": "closed",
   "group": "nvidia|research engineer new grad interactive world models"
+ },
+ {
+  "id": "simplify:f58075d4-27db-4102-bd57-53ec0e1878fb",
+  "company": "Apple",
+  "title": "Darwin Runtime Engineer - Core OS",
+  "location": "Cupertino, CA",
+  "url": "https://jobs.apple.com/en-us/details/200662330",
+  "category": "SWE",
+  "posted": "2026-08-20",
+  "date_posted": 1787263809,
+  "active": false,
+  "first_seen": 1787268658.904747,
+  "last_seen": 1792472478,
+  "locations": [
+   "Cupertino, CA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "apple|darwin runtime engineer core os",
+  "in_feed": false,
+  "reason": "closed",
+  "closed_at": 1792472478
  },
  {
   "id": "simplify:01e84074-5874-4e15-ab81-c3ef832f1fb8",
