@@ -414,53 +414,6 @@
   "reason": null
  },
  {
-  "id": "simplify:db3ca01b-bee9-4147-8df9-822f3a967e90",
-  "first_seen": 1791846268,
-  "company": "Microsoft",
-  "title": "Software Engineer",
-  "location": "Redmond, WA",
-  "url": "https://apply.careers.microsoft.com/careers/job/1970393557023170",
-  "category": "SWE",
-  "posted": "2026-10-12",
-  "date_posted": 1791843025,
-  "active": true,
-  "locations": [
-   "Redmond, WA"
-  ],
-  "region": "US",
-  "degrees": [
-   "Bachelor's"
-  ],
-  "sponsorship": "Other",
-  "group": "microsoft|software engineer",
-  "in_feed": true,
-  "reason": null
- },
- {
-  "id": "simplify:1d54b27d-8a8b-4037-85f3-347baff81004",
-  "first_seen": 1791846268,
-  "company": "Microsoft",
-  "title": "Software Engineering",
-  "location": "Redmond, WA",
-  "url": "https://apply.careers.microsoft.com/careers/job/1970393556999878",
-  "category": "SWE",
-  "posted": "2026-10-12",
-  "date_posted": 1791843002,
-  "active": true,
-  "locations": [
-   "Redmond, WA"
-  ],
-  "region": "US",
-  "degrees": [
-   "Bachelor's",
-   "Master's"
-  ],
-  "sponsorship": "Other",
-  "group": "microsoft|software engineering",
-  "in_feed": true,
-  "reason": null
- },
- {
   "id": "simplify:1935c5df-770d-45f2-bbde-4d4a462ad5cb",
   "first_seen": 1791819876,
   "company": "Wolverine Trading",
@@ -970,6 +923,31 @@
   "group": "pinterest|university grad software engineer",
   "in_feed": true,
   "reason": null
+ },
+ {
+  "id": "simplify:fe14fd5d-c834-4c22-bc27-c3807e210b18",
+  "first_seen": 1791127536,
+  "company": "Microsoft",
+  "title": "Software Engineer - Forward Deployed Engineer",
+  "location": "Redmond, WA",
+  "url": "https://apply.careers.microsoft.com/careers/job/1970393557004814",
+  "category": "SWE",
+  "posted": "2026-10-01",
+  "date_posted": 1790892628,
+  "active": true,
+  "locations": [
+   "Redmond, WA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "microsoft|software engineer forward deployed engineer",
+  "in_feed": true,
+  "reason": null,
+  "last_seen": 1791299864
  },
  {
   "id": "simplify:e738e999-5fd1-4d8e-a451-bd26b18a0fa0",
@@ -7451,6 +7429,57 @@
   "reason": null
  },
  {
+  "id": "simplify:db3ca01b-bee9-4147-8df9-822f3a967e90",
+  "first_seen": 1791846268,
+  "company": "Microsoft",
+  "title": "Software Engineer",
+  "location": "Redmond, WA",
+  "url": "https://apply.careers.microsoft.com/careers/job/1970393557023170",
+  "category": "SWE",
+  "posted": "2026-10-12",
+  "date_posted": 1791843025,
+  "active": false,
+  "locations": [
+   "Redmond, WA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's"
+  ],
+  "sponsorship": "Other",
+  "group": "microsoft|software engineer",
+  "in_feed": false,
+  "reason": "closed",
+  "closed_at": 1792497071,
+  "last_seen": 1792497071
+ },
+ {
+  "id": "simplify:1d54b27d-8a8b-4037-85f3-347baff81004",
+  "first_seen": 1791846268,
+  "company": "Microsoft",
+  "title": "Software Engineering",
+  "location": "Redmond, WA",
+  "url": "https://apply.careers.microsoft.com/careers/job/1970393556999878",
+  "category": "SWE",
+  "posted": "2026-10-12",
+  "date_posted": 1791843002,
+  "active": false,
+  "locations": [
+   "Redmond, WA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "microsoft|software engineering",
+  "in_feed": false,
+  "reason": "closed",
+  "closed_at": 1792497071,
+  "last_seen": 1792497071
+ },
+ {
   "id": "simplify:96b88f42-fdea-4557-a58f-4847e5ce71d3",
   "first_seen": 1791636223,
   "company": "Microsoft",
@@ -7783,32 +7812,6 @@
   "reason": "closed",
   "closed_at": 1791363131,
   "last_seen": 1791363131
- },
- {
-  "id": "simplify:fe14fd5d-c834-4c22-bc27-c3807e210b18",
-  "first_seen": 1791127536,
-  "company": "Microsoft",
-  "title": "Software Engineer - Forward Deployed Engineer",
-  "location": "Redmond, WA",
-  "url": "https://apply.careers.microsoft.com/careers/job/1970393557004814",
-  "category": "SWE",
-  "posted": "2026-10-01",
-  "date_posted": 1790892628,
-  "active": false,
-  "locations": [
-   "Redmond, WA"
-  ],
-  "region": "US",
-  "degrees": [
-   "Bachelor's",
-   "Master's"
-  ],
-  "sponsorship": "Other",
-  "group": "microsoft|software engineer forward deployed engineer",
-  "in_feed": false,
-  "reason": "closed",
-  "closed_at": 1791299864,
-  "last_seen": 1791299864
  },
  {
   "id": "simplify:5f84715f-9790-4448-90f8-d53398abe7e9",
