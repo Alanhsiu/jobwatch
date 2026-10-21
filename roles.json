@@ -1,5 +1,127 @@
 [
  {
+  "id": "simplify:b13f54cd-bea8-496e-90d2-fc9e388ea1ab",
+  "first_seen": 1792543267,
+  "company": "AQR Capital Management",
+  "title": "Software Engineer",
+  "location": "Greenwich, CT",
+  "url": "https://careers.aqr.com/jobs?gh_jid=8284812&gh_jid=8284812",
+  "category": "SWE",
+  "posted": "2026-10-20",
+  "date_posted": 1792535030,
+  "active": true,
+  "locations": [
+   "Greenwich, CT"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "aqr capital management|software engineer",
+  "in_feed": true,
+  "reason": null
+ },
+ {
+  "id": "simplify:ca7b6f2d-22c2-4d9a-baab-b5e91077acc8",
+  "first_seen": 1792543267,
+  "company": "Microsoft",
+  "title": "Software Engineer",
+  "location": "Redmond, WA",
+  "url": "https://apply.careers.microsoft.com/careers/job/1970393557039399",
+  "category": "SWE",
+  "posted": "2026-10-20",
+  "date_posted": 1792535028,
+  "active": true,
+  "locations": [
+   "Redmond, WA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "microsoft|software engineer",
+  "in_feed": true,
+  "reason": null
+ },
+ {
+  "id": "simplify:cfa9e9a7-7d54-4f72-ab81-1485d300ae55",
+  "first_seen": 1792543267,
+  "company": "Microsoft",
+  "title": "Member of Technical Staff - Platform",
+  "location": "Redmond, WA",
+  "url": "https://apply.careers.microsoft.com/careers/job/1970393557042199",
+  "category": "SWE",
+  "posted": "2026-10-20",
+  "date_posted": 1792535016,
+  "active": true,
+  "locations": [
+   "Redmond, WA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "microsoft|member of technical staff platform",
+  "in_feed": true,
+  "reason": null
+ },
+ {
+  "id": "simplify:33da640d-5eb4-4a66-b577-c2ec5f60bcf3",
+  "first_seen": 1792543267,
+  "company": "Microsoft",
+  "title": "Software Engineer",
+  "location": "Redmond, WA",
+  "url": "https://apply.careers.microsoft.com/careers/job/1970393557043616",
+  "category": "SWE",
+  "posted": "2026-10-20",
+  "date_posted": 1792535014,
+  "active": true,
+  "locations": [
+   "Redmond, WA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "microsoft|software engineer",
+  "in_feed": true,
+  "reason": null
+ },
+ {
+  "id": "simplify:79eb7a85-c4c3-4b07-b781-f8a67ec940c5",
+  "first_seen": 1792543267,
+  "company": "SambaNova Systems",
+  "title": "AI Performance Engineer New Grad",
+  "location": "Austin, TX, San Jose, CA",
+  "url": "https://sambanova.ai/sambanova-available-positions/?gh_jid=6224936004",
+  "category": "ML",
+  "posted": "2026-10-20",
+  "date_posted": 1792533887,
+  "active": true,
+  "locations": [
+   "Austin, TX",
+   "San Jose, CA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's",
+   "PhD"
+  ],
+  "sponsorship": "Other",
+  "group": "sambanova systems|ai performance engineer new grad",
+  "in_feed": true,
+  "reason": null
+ },
+ {
   "id": "simplify:814742fa-a084-4b5c-8a86-88b5c02f9b2f",
   "first_seen": 1792472478,
   "company": "Palantir",

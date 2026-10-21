@@ -8,7 +8,7 @@ sync between devices through this repo. No servers, no database, no cost — a p
 bot token. This repo's tracker: **[alanhsiu.github.io/jobwatch](https://alanhsiu.github.io/jobwatch/)** (a fork gets its own at `https://<owner>.github.io/<repo>/`).
 
 <!-- JOBS:HEAD:START -->
-_303 open new-grad roles at 56 companies · list last changed 2026-10-20 · scans every ~2 h_ · **[Open the tracker](https://alanhsiu.github.io/jobwatch/)** · [Full list ↓](#current-roles) · TikTok 108 · ByteDance 35 · Amazon 11 · Palantir 11 · Apple 9 · Microsoft 9 · NVIDIA 9 · Anduril 8 · …
+_308 open new-grad roles at 57 companies · list last changed 2026-10-21 · scans every ~2 h_ · **[Open the tracker](https://alanhsiu.github.io/jobwatch/)** · [Full list ↓](#current-roles) · TikTok 108 · ByteDance 35 · Microsoft 12 · Amazon 11 · Palantir 11 · Apple 9 · NVIDIA 9 · Anduril 8 · …
 <!-- JOBS:HEAD:END -->
 
 ## How it works
@@ -337,6 +337,16 @@ and `.nojekyll` into `docs/`, set Pages to `/docs`, and give every device a toke
 
 </details>
 <details open>
+<summary>Microsoft (12)</summary>
+
+- [Software Engineer](https://apply.careers.microsoft.com/careers/job/1970393557039399) · [2](https://apply.careers.microsoft.com/careers/job/1970393557043616) · [3](https://apply.careers.microsoft.com/careers/job/1970393557026652) · [4](https://apply.careers.microsoft.com/careers/job/1970393556985571) · [5](https://apply.careers.microsoft.com/careers/job/1970393557022487) · [6](https://apply.careers.microsoft.com/careers/job/1970393556982903) · [7](https://apply.careers.microsoft.com/careers/job/1970393556858723) — Redmond, WA; Redmond, WA, Reston, VA; Annapolis Junction, MD, Redmond, WA, Reston, VA · posted 2026-10-20 · SWE · BS/MS
+- [Member of Technical Staff - Platform](https://apply.careers.microsoft.com/careers/job/1970393557042199) — Redmond, WA · posted 2026-10-20 · SWE · BS/MS
+- [Software Engineer - Forward Deployed Engineer](https://apply.careers.microsoft.com/careers/job/1970393557027406) · [2](https://apply.careers.microsoft.com/careers/job/1970393557004814) — Redmond, WA · posted 2026-10-16 · SWE · BS/MS
+- [Software Engineer - Cleared](https://apply.careers.microsoft.com/careers/job/1970393556982911) — Reston, VA · posted 2026-09-23 · SWE · BS/MS
+- [Software Engineer - Ctj - Poly](https://apply.careers.microsoft.com/careers/job/1970393556860973) — Annapolis Junction, MD, Reston, VA · posted 2026-06-18 · SWE · BS
+
+</details>
+<details open>
 <summary>Amazon (11)</summary>
 
 - [Software Engineer – Early Career](https://amazon.jobs/en/jobs/10583340/software-development-engineer-early-career-2027-us) — Madison, WI, Boston, MA, Seattle, WA · posted 2026-10-19 · SWE · BS/MS
@@ -375,15 +385,6 @@ and `.nojekyll` into `docs/`, set Pages to `/docs`, and give every device a toke
 - [Frontend Engineer](https://jobs.apple.com/en-us/details/200676168) — Austin, TX · posted 2026-08-10 · SWE · BS
 - [Cellular Power Optimization Software Engineer - Wireless Technologies & Ecosystems](https://jobs.apple.com/en-us/details/200657382) — San Diego, CA · posted 2026-07-31 · HW · BS/MS
 - [Software Engineer Silicon Engineering Documentation Tools](https://jobs.apple.com/en-us/details/200661584) — Lafayette, KS · posted 2026-05-06 · SWE
-
-</details>
-<details open>
-<summary>Microsoft (9)</summary>
-
-- [Software Engineer - Forward Deployed Engineer](https://apply.careers.microsoft.com/careers/job/1970393557027406) · [2](https://apply.careers.microsoft.com/careers/job/1970393557004814) — Redmond, WA · posted 2026-10-16 · SWE · BS/MS
-- [Software Engineer](https://apply.careers.microsoft.com/careers/job/1970393557026652) · [2](https://apply.careers.microsoft.com/careers/job/1970393556985571) · [3](https://apply.careers.microsoft.com/careers/job/1970393557022487) · [4](https://apply.careers.microsoft.com/careers/job/1970393556982903) · [5](https://apply.careers.microsoft.com/careers/job/1970393556858723) — Redmond, WA; Redmond, WA, Reston, VA; Annapolis Junction, MD, Redmond, WA, Reston, VA · posted 2026-10-15 · SWE · BS/MS
-- [Software Engineer - Cleared](https://apply.careers.microsoft.com/careers/job/1970393556982911) — Reston, VA · posted 2026-09-23 · SWE · BS/MS
-- [Software Engineer - Ctj - Poly](https://apply.careers.microsoft.com/careers/job/1970393556860973) — Annapolis Junction, MD, Reston, VA · posted 2026-06-18 · SWE · BS
 
 </details>
 <details open>
@@ -535,6 +536,13 @@ and `.nojekyll` into `docs/`, set Pages to `/docs`, and give every device a toke
 
 </details>
 <details open>
+<summary>AQR Capital Management (2)</summary>
+
+- [Software Engineer](https://careers.aqr.com/jobs?gh_jid=8284812&gh_jid=8284812) — Greenwich, CT · posted 2026-10-20 · SWE · BS/MS
+- [Trading Analyst](https://careers.aqr.com/jobs?gh_jid=8156709&gh_jid=8156709) — Greenwich, CT · posted 2026-08-25 · Quant · BS/MS
+
+</details>
+<details open>
 <summary>Belvedere Trading (2)</summary>
 
 - [Quantitative Trader](https://jobs.lever.co/belvederetrading/34369a5c-55c0-4e9f-9d2e-4f21b9418bee/apply) — Chicago, IL · posted 2026-08-07 · Quant
@@ -630,12 +638,6 @@ and `.nojekyll` into `docs/`, set Pages to `/docs`, and give every device a toke
 
 </details>
 <details open>
-<summary>AQR Capital Management (1)</summary>
-
-- [Trading Analyst](https://careers.aqr.com/jobs?gh_jid=8156709&gh_jid=8156709) — Greenwich, CT · posted 2026-08-25 · Quant · BS/MS
-
-</details>
-<details open>
 <summary>Citadel (1)</summary>
 
 - [Software Engineer – University Graduate](https://www.citadel.com/careers/details/software-engineer-university-graduate-us/) — Greenwich, CT, Houston, TX, Miami, FL · posted 2026-07-06 · SWE
@@ -705,6 +707,12 @@ and `.nojekyll` into `docs/`, set Pages to `/docs`, and give every device a toke
 <summary>Roblox (1)</summary>
 
 - [Software Engineer - Early Career](https://careers.roblox.com/jobs/8072244?gh_jid=8072244) — San Mateo, CA · posted 2026-08-05 · SWE · BS
+
+</details>
+<details open>
+<summary>SambaNova Systems (1)</summary>
+
+- [AI Performance Engineer New Grad](https://sambanova.ai/sambanova-available-positions/?gh_jid=6224936004) — Austin, TX, San Jose, CA · posted 2026-10-20 · ML · BS/MS/PhD
 
 </details>
 <details open>
