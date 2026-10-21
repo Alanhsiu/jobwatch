@@ -8,7 +8,7 @@ sync between devices through this repo. No servers, no database, no cost — a p
 bot token. This repo's tracker: **[alanhsiu.github.io/jobwatch](https://alanhsiu.github.io/jobwatch/)** (a fork gets its own at `https://<owner>.github.io/<repo>/`).
 
 <!-- JOBS:HEAD:START -->
-_308 open new-grad roles at 57 companies · list last changed 2026-10-21 · scans every ~2 h_ · **[Open the tracker](https://alanhsiu.github.io/jobwatch/)** · [Full list ↓](#current-roles) · TikTok 108 · ByteDance 35 · Microsoft 12 · Amazon 11 · Palantir 11 · Apple 9 · NVIDIA 9 · Anduril 8 · …
+_306 open new-grad roles at 57 companies · list last changed 2026-10-21 · scans every ~2 h_ · **[Open the tracker](https://alanhsiu.github.io/jobwatch/)** · [Full list ↓](#current-roles) · TikTok 108 · ByteDance 35 · Amazon 12 · Microsoft 12 · Palantir 11 · Apple 9 · Anduril 8 · NVIDIA 7 · …
 <!-- JOBS:HEAD:END -->
 
 ## How it works
@@ -337,18 +337,9 @@ and `.nojekyll` into `docs/`, set Pages to `/docs`, and give every device a toke
 
 </details>
 <details open>
-<summary>Microsoft (12)</summary>
+<summary>Amazon (12)</summary>
 
-- [Software Engineer](https://apply.careers.microsoft.com/careers/job/1970393557039399) · [2](https://apply.careers.microsoft.com/careers/job/1970393557043616) · [3](https://apply.careers.microsoft.com/careers/job/1970393557026652) · [4](https://apply.careers.microsoft.com/careers/job/1970393556985571) · [5](https://apply.careers.microsoft.com/careers/job/1970393557022487) · [6](https://apply.careers.microsoft.com/careers/job/1970393556982903) · [7](https://apply.careers.microsoft.com/careers/job/1970393556858723) — Redmond, WA; Redmond, WA, Reston, VA; Annapolis Junction, MD, Redmond, WA, Reston, VA · posted 2026-10-20 · SWE · BS/MS
-- [Member of Technical Staff - Platform](https://apply.careers.microsoft.com/careers/job/1970393557042199) — Redmond, WA · posted 2026-10-20 · SWE · BS/MS
-- [Software Engineer - Forward Deployed Engineer](https://apply.careers.microsoft.com/careers/job/1970393557027406) · [2](https://apply.careers.microsoft.com/careers/job/1970393557004814) — Redmond, WA · posted 2026-10-16 · SWE · BS/MS
-- [Software Engineer - Cleared](https://apply.careers.microsoft.com/careers/job/1970393556982911) — Reston, VA · posted 2026-09-23 · SWE · BS/MS
-- [Software Engineer - Ctj - Poly](https://apply.careers.microsoft.com/careers/job/1970393556860973) — Annapolis Junction, MD, Reston, VA · posted 2026-06-18 · SWE · BS
-
-</details>
-<details open>
-<summary>Amazon (11)</summary>
-
+- [Software Development Engineer 1 - AI/ML Network Infrastructure](https://amazon.jobs/en/jobs/10584797/software-development-engineer-i-ai-ml-network-infrastructure-annapurna-labs) — Cupertino, CA · posted 2026-10-21 · SWE · BS/MS/PhD
 - [Software Engineer – Early Career](https://amazon.jobs/en/jobs/10583340/software-development-engineer-early-career-2027-us) — Madison, WI, Boston, MA, Seattle, WA · posted 2026-10-19 · SWE · BS/MS
 - [Systems Development Engineer – Early Career](https://amazon.jobs/en/jobs/10581943/systems-development-engineer-early-career-2026-us) — Seattle, WA · posted 2026-10-17 · SWE · BS
 - [Software Development Engineer – Early Career - Amazon Dedicated Cloud - ADC](https://amazon.jobs/en/jobs/10529546/software-development-engineer-amazon-dedicated-cloud-early-career-2026-amazon-dedicated-cloud-adc) — Seattle, WA, Jessup, MD, Arlington County, Arlington, VA · posted 2026-10-02 · SWE · BS
@@ -360,6 +351,16 @@ and `.nojekyll` into `docs/`, set Pages to `/docs`, and give every device a toke
 - [EFA Network Software Engineer 1 - Annapurna Labs](https://amazon.jobs/en/jobs/10481932/efa-network-software-engineer-i-annapurna-labs) — Seattle, WA · posted 2026-07-22 · SWE · BS/MS
 - [Software Development Engineer - Military Veterans](https://amazon.jobs/en/jobs/3179205/software-development-engineer-military-veterans) — Seattle, WA, Redmond, WA, Arlington, VA · posted 2026-07-14 · SWE · BS
 - [Software Development Engineer](https://amazon.jobs/en/jobs/3177934/software-development-engineer-2026-us) — Seattle, WA · posted 2026-05-04 · SWE · BS
+
+</details>
+<details open>
+<summary>Microsoft (12)</summary>
+
+- [Software Engineer](https://apply.careers.microsoft.com/careers/job/1970393557039399) · [2](https://apply.careers.microsoft.com/careers/job/1970393557043616) · [3](https://apply.careers.microsoft.com/careers/job/1970393557026652) · [4](https://apply.careers.microsoft.com/careers/job/1970393556985571) · [5](https://apply.careers.microsoft.com/careers/job/1970393557022487) · [6](https://apply.careers.microsoft.com/careers/job/1970393556982903) · [7](https://apply.careers.microsoft.com/careers/job/1970393556858723) — Redmond, WA; Redmond, WA, Reston, VA; Annapolis Junction, MD, Redmond, WA, Reston, VA · posted 2026-10-20 · SWE · BS/MS
+- [Member of Technical Staff - Platform](https://apply.careers.microsoft.com/careers/job/1970393557042199) — Redmond, WA · posted 2026-10-20 · SWE · BS/MS
+- [Software Engineer - Forward Deployed Engineer](https://apply.careers.microsoft.com/careers/job/1970393557027406) · [2](https://apply.careers.microsoft.com/careers/job/1970393557004814) — Redmond, WA · posted 2026-10-16 · SWE · BS/MS
+- [Software Engineer - Cleared](https://apply.careers.microsoft.com/careers/job/1970393556982911) — Reston, VA · posted 2026-09-23 · SWE · BS/MS
+- [Software Engineer - Ctj - Poly](https://apply.careers.microsoft.com/careers/job/1970393556860973) — Annapolis Junction, MD, Reston, VA · posted 2026-06-18 · SWE · BS
 
 </details>
 <details open>
@@ -388,19 +389,6 @@ and `.nojekyll` into `docs/`, set Pages to `/docs`, and give every device a toke
 
 </details>
 <details open>
-<summary>NVIDIA (9)</summary>
-
-- [Technical Product Marketing Engineer - Robotics Simulation](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Technical-Product-Marketing-Engineer--Robotics-Simulation---New-College-Grad-2027_JR2027742) — Santa Clara, CA · posted 2026-10-19 · ML · BS/MS
-- [SoC Software Engineer New Grad](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/SoC-Software-Engineer---New-College-Grad-2027_JR2026744) · [2](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/SoC-Software-Engineer---New-College-Graduate-2026_JR2027552-1) — Santa Clara, CA · posted 2026-10-13 · SWE · BS/MS
-- [Deep Learning Software Engineer New Grad - TensorRT Performance](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Deep-Learning-Software-Engineer--TensorRT-Performance---New-College-Grad-2027_JR2027083) — Remote in USA, Santa Clara, CA · posted 2026-10-12 · ML · BS/MS/PhD
-- [Software Engineer New Grad - DL Kernel Libraries](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--DL-Kernel-Libraries---New-College-Grad-2027_JR2027337) — Santa Clara, CA · posted 2026-10-11 · SWE · BS/MS/PhD
-- [Applied Machine Learning Engineer - AI for VLSI Design](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Applied-Machine-Learning-Engineer--AI-for-VLSI-Design---New-College-Grad-2026_JR2026576) — Santa Clara, CA · posted 2026-09-29 · ML · MS/PhD
-- [Architecture Energy Modeling Engineer - Power Modeling, Methodology and Analysis](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Architecture-Energy-Modeling-Engineer---New-College-Grad-2026_JR2023398) — Santa Clara, CA · posted 2026-08-21 · ML · MS/PhD
-- [Developer Technology Engineer New Grad - Public Sector](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Developer-Technology-Engineer--Public-Sector---New-College-Grad-2026_JR2008990) — Santa Clara, CA · posted 2026-07-22 · SWE · BS/MS/PhD
-- [Software Engineer New Grad - Hardware Tools and Methodology](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--Hardware-Tools-and-Methodology---New-College-Grad-2026_JR2018659) — Santa Clara, CA · posted 2026-06-03 · SWE · MS/PhD
-
-</details>
-<details open>
 <summary>Anduril (8)</summary>
 
 - [Early Career Firmware Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5246141007) — Costa Mesa, CA · posted 2026-09-22 · HW · BS/MS
@@ -409,6 +397,17 @@ and `.nojekyll` into `docs/`, set Pages to `/docs`, and give every device a toke
 - [Mission Software Engineer - Undersea Reconnaissance & Strike](https://boards.greenhouse.io/andurilindustries/jobs/5226473007) · [2](https://boards.greenhouse.io/andurilindustries/jobs/5226471007) · [3](https://boards.greenhouse.io/andurilindustries/jobs/5221253007) — Washington, DC; Boston, MA; Quincy, MA · posted 2026-09-01 · SWE
 - [Software Engineer - Tracking](https://boards.greenhouse.io/andurilindustries/jobs/5215629007) — Fort Collins, CO, Broomfield, CO · posted 2026-08-19 · SWE · BS
 - [Software Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5162263007) — Boston, MA, Seattle, WA, Newport Beach, CA · posted 2026-06-11 · SWE · BS/MS
+
+</details>
+<details open>
+<summary>NVIDIA (7)</summary>
+
+- [Software Engineer New Grad - Agent Performance Modeling](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--Agent-Performance-Modeling---New-College-Grad-2026_JR2028350) — Santa Clara, CA · posted 2026-10-20 · SWE · MS
+- [Technical Product Marketing Engineer - Robotics Simulation](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Technical-Product-Marketing-Engineer--Robotics-Simulation---New-College-Grad-2027_JR2027742) — Santa Clara, CA · posted 2026-10-19 · ML · BS/MS
+- [SoC Software Engineer New Grad](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/SoC-Software-Engineer---New-College-Grad-2027_JR2026744) · [2](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/SoC-Software-Engineer---New-College-Graduate-2026_JR2027552-1) — Santa Clara, CA · posted 2026-10-13 · SWE · BS/MS
+- [Applied Machine Learning Engineer - AI for VLSI Design](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Applied-Machine-Learning-Engineer--AI-for-VLSI-Design---New-College-Grad-2026_JR2026576) — Santa Clara, CA · posted 2026-09-29 · ML · MS/PhD
+- [Architecture Energy Modeling Engineer - Power Modeling, Methodology and Analysis](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Architecture-Energy-Modeling-Engineer---New-College-Grad-2026_JR2023398) — Santa Clara, CA · posted 2026-08-21 · ML · MS/PhD
+- [Software Engineer New Grad - Hardware Tools and Methodology](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--Hardware-Tools-and-Methodology---New-College-Grad-2026_JR2018659) — Santa Clara, CA · posted 2026-06-03 · SWE · MS/PhD
 
 </details>
 <details open>
@@ -543,13 +542,6 @@ and `.nojekyll` into `docs/`, set Pages to `/docs`, and give every device a toke
 
 </details>
 <details open>
-<summary>Belvedere Trading (2)</summary>
-
-- [Quantitative Trader](https://jobs.lever.co/belvederetrading/34369a5c-55c0-4e9f-9d2e-4f21b9418bee/apply) — Chicago, IL · posted 2026-08-07 · Quant
-- [Software Engineer](https://jobs.lever.co/belvederetrading/2f6480e5-7bf1-4c41-b3b5-3c7404d95b5f/apply) — Chicago, IL · posted 2026-08-07 · SWE
-
-</details>
-<details open>
 <summary>Five Rings Capital (2)</summary>
 
 - [Campus Full Time - Software Developer](https://job-boards.greenhouse.io/fiveringsllc/jobs/5349839008) — NYC · posted 2026-07-14 · SWE
@@ -635,6 +627,12 @@ and `.nojekyll` into `docs/`, set Pages to `/docs`, and give every device a toke
 <summary>Anysphere (1)</summary>
 
 - [Software Engineer New Grad - 2027](https://jobs.ashbyhq.com/cursor/d0e5b41d-84ab-4887-bd3a-55589b11dd7b/application?embed=true) — SF, NYC · posted 2026-09-10 · SWE · BS
+
+</details>
+<details open>
+<summary>Belvedere Trading (1)</summary>
+
+- [Quantitative Trader](https://jobs.lever.co/belvederetrading/34369a5c-55c0-4e9f-9d2e-4f21b9418bee/apply) — Chicago, IL · posted 2026-08-07 · Quant
 
 </details>
 <details open>

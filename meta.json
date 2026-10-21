@@ -4,24 +4,24 @@
  "repo": "Alanhsiu/jobwatch",
  "branch": "main",
  "pages_url": "https://alanhsiu.github.io/jobwatch/",
- "last_run": 1792543267,
- "last_change": 1792543267,
+ "last_run": 1792568912,
+ "last_change": 1792568912,
  "last_result": "ok",
  "feed": {
-  "records": 19308,
-  "active": 3029,
-  "fetched_at": 1792543267,
+  "records": 19307,
+  "active": 3025,
+  "fetched_at": 1792568912,
   "attempts": 1
  },
  "counts": {
-  "active": 308,
-  "closed": 252,
+  "active": 306,
+  "closed": 256,
   "untracked": 62,
-  "groups": 262,
+  "groups": 260,
   "companies": 57,
-  "new_this_run": 5,
+  "new_this_run": 2,
   "silent_known_this_run": 0,
-  "closed_this_run": 0,
+  "closed_this_run": 4,
   "untracked_this_run": 0
  },
  "rejects": {
@@ -56,8 +56,8 @@
    "denied": 0
   },
   "amazon": {
-   "active": 11,
-   "all_time": 23,
+   "active": 12,
+   "all_time": 24,
    "names": [
     "Amazon"
    ],
@@ -138,7 +138,7 @@
    "denied": 0
   },
   "belvedere": {
-   "active": 2,
+   "active": 1,
    "all_time": 2,
    "names": [
     "Belvedere Trading"
@@ -589,8 +589,8 @@
    "denied": 0
   },
   "nvidia": {
-   "active": 9,
-   "all_time": 30,
+   "active": 7,
+   "all_time": 31,
    "names": [
     "NVIDIA"
    ],
@@ -1007,7 +1007,7 @@
  },
  "telegram": {
   "mode": "sent",
-  "delivered": 5,
+  "delivered": 2,
   "failed_chunks": 0,
   "creds": true
  },
