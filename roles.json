@@ -25,6 +25,32 @@
   "reason": null
  },
  {
+  "id": "simplify:a81ea685-687e-4db9-8c99-a39d7bc2f563",
+  "first_seen": 1792625230,
+  "company": "NVIDIA",
+  "title": "High-Performance LLM Training Engineer New Grad",
+  "location": "Canada, Santa Clara, CA, United States",
+  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/High-Performance-LLM-Training-Engineer---New-College-Grad-2027_JR2028237",
+  "category": "ML",
+  "posted": "2026-10-21",
+  "date_posted": 1792540800,
+  "active": true,
+  "locations": [
+   "Canada",
+   "Santa Clara, CA",
+   "United States"
+  ],
+  "region": "US",
+  "degrees": [
+   "Master's",
+   "PhD"
+  ],
+  "sponsorship": "Other",
+  "group": "nvidia|high performance llm training engineer new grad",
+  "in_feed": true,
+  "reason": null
+ },
+ {
   "id": "simplify:b13f54cd-bea8-496e-90d2-fc9e388ea1ab",
   "first_seen": 1792543267,
   "company": "AQR Capital Management",
