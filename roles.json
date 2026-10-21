@@ -6227,32 +6227,6 @@
   "reason": null
  },
  {
-  "id": "simplify:f2abc99e-93ba-424e-8d7c-0e3382978e05",
-  "company": "Citadel Securities",
-  "title": "Quantitative AI Technical Staff",
-  "location": "Miami, FL",
-  "url": "https://www.citadelsecurities.com/careers/details/quantitative-ai-technical-staff/",
-  "category": "ML",
-  "posted": "2026-07-22",
-  "date_posted": 1784758384,
-  "active": true,
-  "first_seen": 1784765156.130683,
-  "last_seen": 1791240347,
-  "locations": [
-   "Miami, FL"
-  ],
-  "region": "US",
-  "degrees": [
-   "Bachelor's",
-   "Master's",
-   "PhD"
-  ],
-  "sponsorship": "Other",
-  "group": "citadel securities|quantitative ai technical staff",
-  "in_feed": true,
-  "reason": null
- },
- {
   "id": "simplify:5b94931b-c8c1-4030-94fd-b855ea4581c5",
   "company": "Amazon",
   "title": "EFA Network Software Engineer 1 - Annapurna Labs",
@@ -6720,110 +6694,6 @@
   "degrees": [],
   "sponsorship": "Other",
   "group": "tesla|applied reinforcement learning engineer whole body controls optimus",
-  "in_feed": true,
-  "reason": null
- },
- {
-  "id": "simplify:495929ef-4f6f-4cdb-9c26-6156e4966b6b",
-  "company": "Citadel Securities",
-  "title": "Graduate Software Engineer",
-  "location": "Miami, FL, NYC",
-  "url": "https://www.citadelsecurities.com/careers/details/software-engineer-university-graduate-us/",
-  "category": "SWE",
-  "posted": "2026-07-06",
-  "date_posted": 1783328994,
-  "active": true,
-  "first_seen": 1784014543.6740808,
-  "last_seen": 1789521191.4314806,
-  "locations": [
-   "Miami, FL",
-   "NYC"
-  ],
-  "region": "US",
-  "degrees": [
-   "Bachelor's",
-   "Master's",
-   "PhD"
-  ],
-  "sponsorship": "Other",
-  "group": "citadel securities|graduate software engineer",
-  "in_feed": true,
-  "reason": null
- },
- {
-  "id": "simplify:6b49a320-d5f3-402e-a29a-de15758b90d4",
-  "company": "Citadel Securities",
-  "title": "Quantitative Trader – University Graduate",
-  "location": "Miami, FL",
-  "url": "https://www.citadelsecurities.com/careers/details/quantitative-trader-university-graduate-us-miami/",
-  "category": "Quant",
-  "posted": "2026-07-06",
-  "date_posted": 1783318265,
-  "active": true,
-  "first_seen": 1788483176.4737847,
-  "last_seen": 1789521191.4314806,
-  "locations": [
-   "Miami, FL"
-  ],
-  "region": "US",
-  "degrees": [
-   "Bachelor's",
-   "Master's",
-   "PhD"
-  ],
-  "sponsorship": "Other",
-  "group": "citadel securities|quantitative trader university graduate",
-  "in_feed": true,
-  "reason": null
- },
- {
-  "id": "simplify:d498b59e-e50f-4ab3-a746-669a040d136c",
-  "company": "Citadel Securities",
-  "title": "Quantitative Trader – University Graduate",
-  "location": "NYC",
-  "url": "https://www.citadelsecurities.com/careers/details/quantitative-trader-university-graduate-us-new-york/",
-  "category": "Quant",
-  "posted": "2026-07-06",
-  "date_posted": 1783318263,
-  "active": true,
-  "first_seen": 1788483176.4737847,
-  "last_seen": 1789521191.4314806,
-  "locations": [
-   "NYC"
-  ],
-  "region": "US",
-  "degrees": [
-   "Bachelor's",
-   "Master's",
-   "PhD"
-  ],
-  "sponsorship": "Other",
-  "group": "citadel securities|quantitative trader university graduate",
-  "in_feed": true,
-  "reason": null
- },
- {
-  "id": "simplify:410b28b6-b357-4b72-9480-bad83701b4cb",
-  "company": "Citadel",
-  "title": "Software Engineer – University Graduate",
-  "location": "Greenwich, CT, Houston, TX, Miami, FL",
-  "url": "https://www.citadel.com/careers/details/software-engineer-university-graduate-us/",
-  "category": "SWE",
-  "posted": "2026-07-06",
-  "date_posted": 1783318138,
-  "active": true,
-  "first_seen": 1784014543.6740808,
-  "last_seen": 1791142949,
-  "locations": [
-   "Greenwich, CT",
-   "Houston, TX",
-   "Miami, FL",
-   "NYC"
-  ],
-  "region": "US",
-  "degrees": [],
-  "sponsorship": "Other",
-  "group": "citadel|software engineer university graduate",
   "in_feed": true,
   "reason": null
  },
@@ -11572,6 +11442,33 @@
   "closed_at": 1792568912
  },
  {
+  "id": "simplify:f2abc99e-93ba-424e-8d7c-0e3382978e05",
+  "company": "Citadel Securities",
+  "title": "Quantitative AI Technical Staff",
+  "location": "Miami, FL",
+  "url": "https://www.citadelsecurities.com/careers/details/quantitative-ai-technical-staff/",
+  "category": "ML",
+  "posted": "2026-07-22",
+  "date_posted": 1784758384,
+  "active": false,
+  "first_seen": 1784765156.130683,
+  "last_seen": 1792608317,
+  "locations": [
+   "Miami, FL"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's",
+   "PhD"
+  ],
+  "sponsorship": "Other",
+  "group": "citadel securities|quantitative ai technical staff",
+  "in_feed": false,
+  "reason": "closed",
+  "closed_at": 1792608317
+ },
+ {
   "id": "simplify:1da6cc61-1253-4949-8dcd-75e3f4e196c4",
   "company": "Google",
   "title": "Data Engineer - Gup Engineering",
@@ -12525,6 +12422,88 @@
   "group": "anduril|people data analyst"
  },
  {
+  "id": "simplify:495929ef-4f6f-4cdb-9c26-6156e4966b6b",
+  "company": "Citadel Securities",
+  "title": "Graduate Software Engineer",
+  "location": "Miami, FL, NYC",
+  "url": "https://www.citadelsecurities.com/careers/details/software-engineer-university-graduate-us/",
+  "category": "SWE",
+  "posted": "2026-07-06",
+  "date_posted": 1783328994,
+  "active": false,
+  "first_seen": 1784014543.6740808,
+  "last_seen": 1792608317,
+  "locations": [
+   "Miami, FL",
+   "NYC"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's",
+   "PhD"
+  ],
+  "sponsorship": "Other",
+  "group": "citadel securities|graduate software engineer",
+  "in_feed": false,
+  "reason": "closed",
+  "closed_at": 1792608317
+ },
+ {
+  "id": "simplify:6b49a320-d5f3-402e-a29a-de15758b90d4",
+  "company": "Citadel Securities",
+  "title": "Quantitative Trader – University Graduate",
+  "location": "Miami, FL",
+  "url": "https://www.citadelsecurities.com/careers/details/quantitative-trader-university-graduate-us-miami/",
+  "category": "Quant",
+  "posted": "2026-07-06",
+  "date_posted": 1783318265,
+  "active": false,
+  "first_seen": 1788483176.4737847,
+  "last_seen": 1792608317,
+  "locations": [
+   "Miami, FL"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's",
+   "PhD"
+  ],
+  "sponsorship": "Other",
+  "group": "citadel securities|quantitative trader university graduate",
+  "in_feed": false,
+  "reason": "closed",
+  "closed_at": 1792608317
+ },
+ {
+  "id": "simplify:d498b59e-e50f-4ab3-a746-669a040d136c",
+  "company": "Citadel Securities",
+  "title": "Quantitative Trader – University Graduate",
+  "location": "NYC",
+  "url": "https://www.citadelsecurities.com/careers/details/quantitative-trader-university-graduate-us-new-york/",
+  "category": "Quant",
+  "posted": "2026-07-06",
+  "date_posted": 1783318263,
+  "active": false,
+  "first_seen": 1788483176.4737847,
+  "last_seen": 1792608317,
+  "locations": [
+   "NYC"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's",
+   "PhD"
+  ],
+  "sponsorship": "Other",
+  "group": "citadel securities|quantitative trader university graduate",
+  "in_feed": false,
+  "reason": "closed",
+  "closed_at": 1792608317
+ },
+ {
   "id": "simplify:d724f264-a5fb-4740-bde3-38ab45368cba",
   "company": "Citadel",
   "title": "Quantitative Research Analyst University Graduate",
@@ -12551,6 +12530,32 @@
   "in_feed": false,
   "reason": "closed",
   "closed_at": 1790422466
+ },
+ {
+  "id": "simplify:410b28b6-b357-4b72-9480-bad83701b4cb",
+  "company": "Citadel",
+  "title": "Software Engineer – University Graduate",
+  "location": "Greenwich, CT, Houston, TX, Miami, FL",
+  "url": "https://www.citadel.com/careers/details/software-engineer-university-graduate-us/",
+  "category": "SWE",
+  "posted": "2026-07-06",
+  "date_posted": 1783318138,
+  "active": false,
+  "first_seen": 1784014543.6740808,
+  "last_seen": 1792608317,
+  "locations": [
+   "Greenwich, CT",
+   "Houston, TX",
+   "Miami, FL",
+   "NYC"
+  ],
+  "region": "US",
+  "degrees": [],
+  "sponsorship": "Other",
+  "group": "citadel|software engineer university graduate",
+  "in_feed": false,
+  "reason": "closed",
+  "closed_at": 1792608317
  },
  {
   "id": "simplify:a321ad73-583a-4203-bee3-a9fe75923346",
@@ -12946,10 +12951,9 @@
    "PhD"
   ],
   "sponsorship": "Other",
-  "in_feed": true,
+  "in_feed": false,
   "closed_at": 1789347101,
-  "reason": "untracked",
-  "why": "phd",
+  "reason": "closed",
   "group": "citadel securities|quantitative research engineer"
  },
  {
