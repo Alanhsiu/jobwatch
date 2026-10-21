@@ -488,30 +488,6 @@
   "reason": null
  },
  {
-  "id": "simplify:b1fd26e3-db3d-4f5c-8677-163fd6d481c6",
-  "first_seen": 1791907611,
-  "company": "Microsoft",
-  "title": "Software Engineer",
-  "location": "Redmond, WA",
-  "url": "https://apply.careers.microsoft.com/careers/job/1970393556985571",
-  "category": "SWE",
-  "posted": "2026-10-13",
-  "date_posted": 1791882535,
-  "active": true,
-  "locations": [
-   "Redmond, WA"
-  ],
-  "region": "US",
-  "degrees": [
-   "Bachelor's",
-   "Master's"
-  ],
-  "sponsorship": "Other",
-  "group": "microsoft|software engineer",
-  "in_feed": true,
-  "reason": null
- },
- {
   "id": "simplify:22b439fe-1f57-4be3-b47f-046920ffad7a",
   "first_seen": 1791874429,
   "company": "TikTok",
@@ -7498,6 +7474,32 @@
   "group": "schonfeld|market data analyst",
   "in_feed": true,
   "reason": null
+ },
+ {
+  "id": "simplify:b1fd26e3-db3d-4f5c-8677-163fd6d481c6",
+  "first_seen": 1791907611,
+  "company": "Microsoft",
+  "title": "Software Engineer",
+  "location": "Redmond, WA",
+  "url": "https://apply.careers.microsoft.com/careers/job/1970393556985571",
+  "category": "SWE",
+  "posted": "2026-10-13",
+  "date_posted": 1791882535,
+  "active": false,
+  "locations": [
+   "Redmond, WA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "microsoft|software engineer",
+  "in_feed": false,
+  "reason": "closed",
+  "closed_at": 1792590989,
+  "last_seen": 1792590989
  },
  {
   "id": "simplify:db3ca01b-bee9-4147-8df9-822f3a967e90",
