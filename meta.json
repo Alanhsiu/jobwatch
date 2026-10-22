@@ -4,30 +4,30 @@
  "repo": "Alanhsiu/jobwatch",
  "branch": "main",
  "pages_url": "https://alanhsiu.github.io/jobwatch/",
- "last_run": 1792625230,
- "last_change": 1792625230,
+ "last_run": 1792670761,
+ "last_change": 1792670761,
  "last_result": "ok",
  "feed": {
-  "records": 19341,
-  "active": 3022,
-  "fetched_at": 1792625230,
+  "records": 19164,
+  "active": 2998,
+  "fetched_at": 1792670761,
   "attempts": 1
  },
  "counts": {
   "active": 301,
-  "closed": 263,
-  "untracked": 61,
-  "groups": 257,
+  "closed": 266,
+  "untracked": 60,
+  "groups": 258,
   "companies": 55,
-  "new_this_run": 1,
+  "new_this_run": 2,
   "silent_known_this_run": 0,
-  "closed_this_run": 0,
+  "closed_this_run": 2,
   "untracked_this_run": 0
  },
  "rejects": {
-  "category": 125,
-  "phd": 174,
-  "title": 18,
+  "category": 123,
+  "phd": 175,
+  "title": 17,
   "region": 38,
   "sponsorship": 0,
   "age": 19
@@ -56,8 +56,8 @@
    "denied": 0
   },
   "amazon": {
-   "active": 12,
-   "all_time": 24,
+   "active": 14,
+   "all_time": 26,
    "names": [
     "Amazon"
    ],
@@ -239,7 +239,7 @@
    "active": 0,
    "all_time": 1,
    "names": [],
-   "denied": 0
+   "denied": 1
   },
   "cubist": {
    "active": 0,
@@ -546,7 +546,7 @@
    "denied": 0
   },
   "microsoft": {
-   "active": 11,
+   "active": 9,
    "all_time": 32,
    "names": [
     "Microsoft"
@@ -1004,7 +1004,7 @@
  },
  "telegram": {
   "mode": "sent",
-  "delivered": 1,
+  "delivered": 2,
   "failed_chunks": 0,
   "creds": true
  },

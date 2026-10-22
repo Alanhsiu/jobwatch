@@ -1,5 +1,53 @@
 [
  {
+  "id": "simplify:f970364b-ba46-4607-8459-05ce7311e1b5",
+  "first_seen": 1792670761,
+  "company": "Amazon",
+  "title": "Robotics Embedded Software Development Engineer",
+  "location": "North Reading, MA, Westborough, MA",
+  "url": "https://amazon.jobs/en/jobs/10522935/robotics-embedded-software-development-engineer",
+  "category": "HW",
+  "posted": "2026-10-22",
+  "date_posted": 1792649751,
+  "active": true,
+  "locations": [
+   "North Reading, MA",
+   "Westborough, MA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's"
+  ],
+  "sponsorship": "Other",
+  "group": "amazon|robotics embedded software development engineer",
+  "in_feed": true,
+  "reason": null
+ },
+ {
+  "id": "simplify:f0af7b08-4219-47f9-bdb7-9ff2e900dcc8",
+  "first_seen": 1792670761,
+  "company": "Amazon",
+  "title": "Software Development Engineer 1 - AI/ML Network Infrastructure",
+  "location": "Cupertino, CA",
+  "url": "https://amazon.jobs/en/jobs/10490741/software-development-engineer-i-ai-ml-network-infrastructure-annapurna-labs",
+  "category": "SWE",
+  "posted": "2026-10-22",
+  "date_posted": 1792649750,
+  "active": true,
+  "locations": [
+   "Cupertino, CA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "amazon|software development engineer 1 ai ml network infrastructure",
+  "in_feed": true,
+  "reason": null
+ },
+ {
   "id": "simplify:26d84509-a16b-4556-99f7-18329fa61191",
   "first_seen": 1792568912,
   "company": "Amazon",
@@ -441,30 +489,6 @@
   ],
   "sponsorship": "Other",
   "group": "tiktok|backend engineer graduate social foundation",
-  "in_feed": true,
-  "reason": null
- },
- {
-  "id": "simplify:19107d15-9629-4efe-b0f5-7e1cc38dd47d",
-  "first_seen": 1792064612,
-  "company": "Microsoft",
-  "title": "Software Engineer",
-  "location": "Redmond, WA",
-  "url": "https://apply.careers.microsoft.com/careers/job/1970393557026652",
-  "category": "SWE",
-  "posted": "2026-10-15",
-  "date_posted": 1792045225,
-  "active": true,
-  "locations": [
-   "Redmond, WA"
-  ],
-  "region": "US",
-  "degrees": [
-   "Bachelor's",
-   "Master's"
-  ],
-  "sponsorship": "Other",
-  "group": "microsoft|software engineer",
   "in_feed": true,
   "reason": null
  },
@@ -1044,31 +1068,6 @@
   "group": "pinterest|university grad software engineer",
   "in_feed": true,
   "reason": null
- },
- {
-  "id": "simplify:fe14fd5d-c834-4c22-bc27-c3807e210b18",
-  "first_seen": 1791127536,
-  "company": "Microsoft",
-  "title": "Software Engineer - Forward Deployed Engineer",
-  "location": "Redmond, WA",
-  "url": "https://apply.careers.microsoft.com/careers/job/1970393557004814",
-  "category": "SWE",
-  "posted": "2026-10-01",
-  "date_posted": 1790892628,
-  "active": true,
-  "locations": [
-   "Redmond, WA"
-  ],
-  "region": "US",
-  "degrees": [
-   "Bachelor's",
-   "Master's"
-  ],
-  "sponsorship": "Other",
-  "group": "microsoft|software engineer forward deployed engineer",
-  "in_feed": true,
-  "reason": null,
-  "last_seen": 1791299864
  },
  {
   "id": "simplify:e738e999-5fd1-4d8e-a451-bd26b18a0fa0",
@@ -7372,6 +7371,32 @@
   "reason": null
  },
  {
+  "id": "simplify:19107d15-9629-4efe-b0f5-7e1cc38dd47d",
+  "first_seen": 1792064612,
+  "company": "Microsoft",
+  "title": "Software Engineer",
+  "location": "Redmond, WA",
+  "url": "https://apply.careers.microsoft.com/careers/job/1970393557026652",
+  "category": "SWE",
+  "posted": "2026-10-15",
+  "date_posted": 1792045225,
+  "active": false,
+  "locations": [
+   "Redmond, WA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "microsoft|software engineer",
+  "in_feed": false,
+  "reason": "closed",
+  "closed_at": 1792670761,
+  "last_seen": 1792670761
+ },
+ {
   "id": "simplify:b1fd26e3-db3d-4f5c-8677-163fd6d481c6",
   "first_seen": 1791907611,
   "company": "Microsoft",
@@ -7836,6 +7861,32 @@
   "reason": "closed",
   "closed_at": 1791363131,
   "last_seen": 1791363131
+ },
+ {
+  "id": "simplify:fe14fd5d-c834-4c22-bc27-c3807e210b18",
+  "first_seen": 1791127536,
+  "company": "Microsoft",
+  "title": "Software Engineer - Forward Deployed Engineer",
+  "location": "Redmond, WA",
+  "url": "https://apply.careers.microsoft.com/careers/job/1970393557004814",
+  "category": "SWE",
+  "posted": "2026-10-01",
+  "date_posted": 1790892628,
+  "active": false,
+  "locations": [
+   "Redmond, WA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "microsoft|software engineer forward deployed engineer",
+  "in_feed": false,
+  "reason": "closed",
+  "last_seen": 1792670761,
+  "closed_at": 1792670761
  },
  {
   "id": "simplify:5f84715f-9790-4448-90f8-d53398abe7e9",
@@ -11106,10 +11157,9 @@
   "region": "US",
   "degrees": [],
   "sponsorship": "Other",
-  "in_feed": true,
+  "in_feed": false,
   "closed_at": 1789570473,
-  "reason": "untracked",
-  "why": "title",
+  "reason": "closed",
   "group": "tesla|data collection operator optimus"
  },
  {
