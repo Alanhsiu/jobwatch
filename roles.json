@@ -1,5 +1,136 @@
 [
  {
+  "id": "simplify:312b7b27-dc1b-4ccc-a582-f20be014c2e9",
+  "first_seen": 1792741310,
+  "company": "Amazon",
+  "title": "Software Development Engineer - Prime Video Personalization & Discovery",
+  "location": "Seattle, WA",
+  "url": "https://amazon.jobs/en/jobs/10412948/software-dev-engineer-prime-video-personalization-discovery",
+  "category": "SWE",
+  "posted": "2026-10-23",
+  "date_posted": 1792720347,
+  "active": true,
+  "locations": [
+   "Seattle, WA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "amazon|software development engineer prime video personalization discovery",
+  "in_feed": true,
+  "reason": null
+ },
+ {
+  "id": "simplify:2b5665cf-ffeb-4c91-adce-7d9357641676",
+  "first_seen": 1792741310,
+  "company": "Amazon",
+  "title": "Software Development Engineer 1 Early Career - Annapurna Labs",
+  "location": "Seattle, WA, Austin, TX, NYC",
+  "url": "https://amazon.jobs/en/jobs/10558915/software-development-engineer-i-annapurna-labs-early-career-2027",
+  "category": "SWE",
+  "posted": "2026-10-23",
+  "date_posted": 1792720223,
+  "active": true,
+  "locations": [
+   "Seattle, WA",
+   "Austin, TX",
+   "NYC",
+   "Cupertino, CA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "amazon|software development engineer 1 early career annapurna labs",
+  "in_feed": true,
+  "reason": null
+ },
+ {
+  "id": "simplify:beb3809f-7e70-4921-8048-c14921c4ba78",
+  "first_seen": 1792741310,
+  "company": "Amazon",
+  "title": "Software Development Engineer - Prime Video Personalization & Discovery",
+  "location": "Seattle, WA, NYC, Sunnyvale, CA",
+  "url": "https://amazon.jobs/en/jobs/10576161/software-dev-engineer-prime-video-personalization-discovery",
+  "category": "SWE",
+  "posted": "2026-10-23",
+  "date_posted": 1792720171,
+  "active": true,
+  "locations": [
+   "Seattle, WA",
+   "NYC",
+   "Sunnyvale, CA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "amazon|software development engineer prime video personalization discovery",
+  "in_feed": true,
+  "reason": null
+ },
+ {
+  "id": "simplify:4d59f74a-c96d-4f88-bf07-1f3df967b2de",
+  "first_seen": 1792741310,
+  "company": "Amazon",
+  "title": "System Development Engineer - Region Reliability Engineering",
+  "location": "Denver, CO",
+  "url": "https://amazon.jobs/en/jobs/10550753/system-development-engineer-region-reliability-engineering",
+  "category": "SWE",
+  "posted": "2026-10-23",
+  "date_posted": 1792720056,
+  "active": true,
+  "locations": [
+   "Denver, CO"
+  ],
+  "region": "US",
+  "degrees": [
+   "Associate's"
+  ],
+  "sponsorship": "Other",
+  "group": "amazon|system development engineer region reliability engineering",
+  "in_feed": true,
+  "reason": null
+ },
+ {
+  "id": "simplify:99e8b672-5e35-4fbe-a857-fa9a8fece7a5",
+  "first_seen": 1792741310,
+  "company": "Amazon",
+  "title": "Software Development Engineer - Embedded Systems",
+  "location": "Seattle, WA, Austin, TX, Redmond, WA",
+  "url": "https://amazon.jobs/en/jobs/3183020/software-development-engineer-embedded-systems-2026-us",
+  "category": "HW",
+  "posted": "2026-10-23",
+  "date_posted": 1792719944,
+  "active": true,
+  "locations": [
+   "Seattle, WA",
+   "Austin, TX",
+   "Redmond, WA",
+   "Santa Clara, CA",
+   "Northridge, LA",
+   "Hudson, MA",
+   "Cupertino, CA",
+   "Sunnyvale, CA",
+   "Herndon, VA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's"
+  ],
+  "sponsorship": "Other",
+  "group": "amazon|software development engineer embedded systems",
+  "in_feed": true,
+  "reason": null
+ },
+ {
   "id": "simplify:b160c2da-eab8-4a59-9b66-181feed9fbdb",
   "first_seen": 1792716246,
   "company": "Palantir",
@@ -6658,29 +6789,6 @@
   "reason": null
  },
  {
-  "id": "simplify:86eec77e-62fa-43bc-a011-1e73aac2d372",
-  "company": "Jump Trading",
-  "title": "AI Research Engineer",
-  "location": "Chicago, IL, NYC",
-  "url": "https://boards.greenhouse.io/embed/job_app?token=8052313",
-  "category": "ML",
-  "posted": "2026-07-08",
-  "date_posted": 1783549628,
-  "active": true,
-  "first_seen": 1784014543.6740808,
-  "last_seen": 1789521191.4314806,
-  "locations": [
-   "Chicago, IL",
-   "NYC"
-  ],
-  "region": "US",
-  "degrees": [],
-  "sponsorship": "Other",
-  "group": "jump trading|ai research engineer",
-  "in_feed": true,
-  "reason": null
- },
- {
   "id": "simplify:66cb9e6f-2e5e-4fab-be1b-bf612ad91a02",
   "company": "Citadel",
   "title": "Quantitative Trader: Equity Quantitative Research – University Graduate",
@@ -12528,6 +12636,30 @@
   "closed_at": 1788286002,
   "reason": "closed",
   "group": "jump trading|campus software engineer"
+ },
+ {
+  "id": "simplify:86eec77e-62fa-43bc-a011-1e73aac2d372",
+  "company": "Jump Trading",
+  "title": "AI Research Engineer",
+  "location": "Chicago, IL, NYC",
+  "url": "https://boards.greenhouse.io/embed/job_app?token=8052313",
+  "category": "ML",
+  "posted": "2026-07-08",
+  "date_posted": 1783549628,
+  "active": false,
+  "first_seen": 1784014543.6740808,
+  "last_seen": 1792741310,
+  "locations": [
+   "Chicago, IL",
+   "NYC"
+  ],
+  "region": "US",
+  "degrees": [],
+  "sponsorship": "Other",
+  "group": "jump trading|ai research engineer",
+  "in_feed": false,
+  "reason": "closed",
+  "closed_at": 1792741310
  },
  {
   "id": "simplify:372f6713-b484-4724-ac51-015c5d0810f2",

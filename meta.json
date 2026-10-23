@@ -4,33 +4,33 @@
  "repo": "Alanhsiu/jobwatch",
  "branch": "main",
  "pages_url": "https://alanhsiu.github.io/jobwatch/",
- "last_run": 1792716246,
- "last_change": 1792716246,
+ "last_run": 1792741310,
+ "last_change": 1792741310,
  "last_result": "ok",
  "feed": {
-  "records": 19126,
-  "active": 3038,
-  "fetched_at": 1792716246,
+  "records": 19119,
+  "active": 3043,
+  "fetched_at": 1792741310,
   "attempts": 1
  },
  "counts": {
-  "active": 310,
-  "closed": 257,
+  "active": 314,
+  "closed": 258,
   "untracked": 61,
-  "groups": 265,
-  "companies": 57,
-  "new_this_run": 1,
+  "groups": 268,
+  "companies": 56,
+  "new_this_run": 5,
   "silent_known_this_run": 0,
-  "closed_this_run": 0,
+  "closed_this_run": 1,
   "untracked_this_run": 0
  },
  "rejects": {
-  "category": 121,
+  "category": 127,
   "phd": 181,
   "title": 17,
-  "region": 43,
+  "region": 46,
   "sponsorship": 0,
-  "age": 19
+  "age": 20
  },
  "keywords": {
   "adobe": {
@@ -56,8 +56,8 @@
    "denied": 0
   },
   "amazon": {
-   "active": 14,
-   "all_time": 26,
+   "active": 19,
+   "all_time": 31,
    "names": [
     "Amazon"
    ],
@@ -485,11 +485,9 @@
    "denied": 0
   },
   "jump trading": {
-   "active": 1,
+   "active": 0,
    "all_time": 5,
-   "names": [
-    "Jump Trading"
-   ],
+   "names": [],
    "denied": 0
   },
   "kodiak": {
@@ -1007,7 +1005,7 @@
  },
  "telegram": {
   "mode": "sent",
-  "delivered": 1,
+  "delivered": 5,
   "failed_chunks": 0,
   "creds": true
  },
