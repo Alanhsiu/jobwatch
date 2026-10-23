@@ -4,31 +4,31 @@
  "repo": "Alanhsiu/jobwatch",
  "branch": "main",
  "pages_url": "https://alanhsiu.github.io/jobwatch/",
- "last_run": 1792670761,
- "last_change": 1792670761,
+ "last_run": 1792716246,
+ "last_change": 1792716246,
  "last_result": "ok",
  "feed": {
-  "records": 19164,
-  "active": 2998,
-  "fetched_at": 1792670761,
+  "records": 19126,
+  "active": 3038,
+  "fetched_at": 1792716246,
   "attempts": 1
  },
  "counts": {
-  "active": 301,
-  "closed": 266,
-  "untracked": 60,
-  "groups": 258,
-  "companies": 55,
-  "new_this_run": 2,
+  "active": 310,
+  "closed": 257,
+  "untracked": 61,
+  "groups": 265,
+  "companies": 57,
+  "new_this_run": 1,
   "silent_known_this_run": 0,
-  "closed_this_run": 2,
+  "closed_this_run": 0,
   "untracked_this_run": 0
  },
  "rejects": {
-  "category": 123,
-  "phd": 175,
+  "category": 121,
+  "phd": 181,
   "title": 17,
-  "region": 38,
+  "region": 43,
   "sponsorship": 0,
   "age": 19
  },
@@ -206,9 +206,12 @@
    "denied": 0
   },
   "citadel": {
-   "active": 0,
+   "active": 8,
    "all_time": 10,
-   "names": [],
+   "names": [
+    "Citadel",
+    "Citadel Securities"
+   ],
    "denied": 0
   },
   "cloudflare": {
@@ -620,8 +623,8 @@
    "denied": 0
   },
   "palantir": {
-   "active": 11,
-   "all_time": 13,
+   "active": 12,
+   "all_time": 14,
    "names": [
     "Palantir"
    ],
@@ -1004,7 +1007,7 @@
  },
  "telegram": {
   "mode": "sent",
-  "delivered": 2,
+  "delivered": 1,
   "failed_chunks": 0,
   "creds": true
  },
