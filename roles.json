@@ -1810,35 +1810,6 @@
   "reason": null
  },
  {
-  "id": "simplify:a5015239-b0f5-4194-ba7b-fc8c2eac8c28",
-  "company": "Motional",
-  "title": "Motion Planning Engineer - Trajectory Generation",
-  "location": "Boston, MA, Las Vegas, NV, Remote in USA",
-  "url": "https://motional.com/open-positions/?gh_jid=7980363003#/7980363003",
-  "category": "ML",
-  "posted": "2026-09-14",
-  "date_posted": 1789411683,
-  "active": true,
-  "first_seen": 1789414950.7806032,
-  "last_seen": 1789521191.4314806,
-  "locations": [
-   "Boston, MA",
-   "Las Vegas, NV",
-   "Remote in USA",
-   "Pittsburgh, PA"
-  ],
-  "region": "US",
-  "degrees": [
-   "Bachelor's",
-   "Master's",
-   "PhD"
-  ],
-  "sponsorship": "Other",
-  "group": "motional|motion planning engineer trajectory generation",
-  "in_feed": true,
-  "reason": null
- },
- {
   "id": "simplify:13ed523b-577a-4fbe-a3da-032a28eb0207",
   "company": "ServiceNow",
   "title": "Software Engineer",
@@ -2540,31 +2511,6 @@
   "reason": null
  },
  {
-  "id": "simplify:ce9b5601-f631-40d5-93f2-c131bea80fdd",
-  "company": "AQR Capital Management",
-  "title": "Trading Analyst",
-  "location": "Greenwich, CT",
-  "url": "https://careers.aqr.com/jobs?gh_jid=8156709&gh_jid=8156709",
-  "category": "Quant",
-  "posted": "2026-08-25",
-  "date_posted": 1787682504,
-  "active": true,
-  "first_seen": 1787700556.5491414,
-  "last_seen": 1789521191.4314806,
-  "locations": [
-   "Greenwich, CT"
-  ],
-  "region": "US",
-  "degrees": [
-   "Bachelor's",
-   "Master's"
-  ],
-  "sponsorship": "Other",
-  "group": "aqr capital management|trading analyst",
-  "in_feed": true,
-  "reason": null
- },
- {
   "id": "simplify:157b6bc2-6368-407f-9ba7-8af25443d0be",
   "first_seen": 1791074788,
   "company": "Anduril",
@@ -2582,6 +2528,31 @@
   "degrees": [],
   "sponsorship": "Other",
   "group": "anduril|mission software engineer undersea reconnaissance strike",
+  "in_feed": true,
+  "reason": null
+ },
+ {
+  "id": "simplify:e5efd84d-ee5e-47b6-8b5c-f101e7094c9f",
+  "first_seen": 1792762544,
+  "company": "Apple",
+  "title": "Software Engineer - Infrastructure Services - Cloud Network Fault Tolerance",
+  "location": "California",
+  "url": "https://jobs.apple.com/en-us/details/200679765",
+  "category": "SWE",
+  "posted": "2026-08-25",
+  "date_posted": 1787626810,
+  "active": true,
+  "locations": [
+   "California"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's",
+   "PhD"
+  ],
+  "sponsorship": "Other",
+  "group": "apple|software engineer infrastructure services cloud network fault tolerance",
   "in_feed": true,
   "reason": null
  },
@@ -4647,29 +4618,6 @@
   "reason": null
  },
  {
-  "id": "simplify:af356dc5-6ece-45f4-9cbf-7e378944c633",
-  "first_seen": 1790945452,
-  "company": "Amazon",
-  "title": "Applied Scientist - Operations",
-  "location": "Bellevue, WA",
-  "url": "https://amazon.jobs/en/jobs/10492292/applied-scientist-na-operations",
-  "category": "ML",
-  "posted": "2026-08-04",
-  "date_posted": 1785881630,
-  "active": true,
-  "locations": [
-   "Bellevue, WA"
-  ],
-  "region": "US",
-  "degrees": [
-   "Master's"
-  ],
-  "sponsorship": "Other",
-  "group": "amazon|applied scientist operations",
-  "in_feed": true,
-  "reason": null
- },
- {
   "id": "simplify:83ab4fcc-d246-4d39-999f-5bb6fbee8953",
   "company": "TikTok",
   "title": "AI Engineer Graduate - Client Architecture - 2027 Start",
@@ -5559,31 +5507,6 @@
   "reason": null
  },
  {
-  "id": "simplify:89cf07d7-dea8-45c0-bd63-f03870bf2088",
-  "company": "ByteDance",
-  "title": "Backend and Infrastructure Software Engineer New Grad - Dev Infra",
-  "location": "San Jose, CA",
-  "url": "https://jobs.bytedance.com/en/position/7667894766036322565/detail",
-  "category": "SWE",
-  "posted": "2026-08-03",
-  "date_posted": 1785748596,
-  "active": true,
-  "first_seen": 1785776785.3406992,
-  "last_seen": 1789521191.4314806,
-  "locations": [
-   "San Jose, CA"
-  ],
-  "region": "US",
-  "degrees": [
-   "Bachelor's",
-   "Master's"
-  ],
-  "sponsorship": "Other",
-  "group": "bytedance|backend and infrastructure software engineer new grad dev infra",
-  "in_feed": true,
-  "reason": null
- },
- {
   "id": "simplify:906a54ba-479e-4593-8fae-3ac47867717b",
   "company": "ByteDance",
   "title": "Software Engineer AI Agent Infrastructure - Security Engineering",
@@ -6230,30 +6153,6 @@
   ],
   "sponsorship": "Other",
   "group": "two sigma|quantitative researcher full time campus hire",
-  "in_feed": true,
-  "reason": null
- },
- {
-  "id": "simplify:0f38cb8f-9548-4161-b1d2-a6734d216f12",
-  "first_seen": 1789570473,
-  "company": "Two Sigma",
-  "title": "AI Research Scientist - Campus Full-Time",
-  "location": "NYC",
-  "url": "https://twosigma.avature.net/careers/JobDetail/13671",
-  "category": "ML",
-  "posted": "2026-08-02",
-  "date_posted": 1785633715,
-  "active": true,
-  "locations": [
-   "NYC"
-  ],
-  "region": "US",
-  "degrees": [
-   "Master's",
-   "PhD"
-  ],
-  "sponsorship": "Other",
-  "group": "two sigma|ai research scientist campus full time",
   "in_feed": true,
   "reason": null
  },
@@ -7684,30 +7583,6 @@
   "reason": null
  },
  {
-  "id": "simplify:72d39aa8-4e41-4461-b86b-7aa17e2f4da1",
-  "company": "Schonfeld",
-  "title": "Market Data Analyst",
-  "location": "NYC",
-  "url": "https://job-boards.greenhouse.io/schonfeld/jobs/7843959",
-  "category": "ML",
-  "posted": "2026-04-30",
-  "date_posted": 1777587611,
-  "active": true,
-  "first_seen": 1784014543.6740808,
-  "last_seen": 1784014543.6740808,
-  "locations": [
-   "NYC"
-  ],
-  "region": "US",
-  "degrees": [
-   "Bachelor's"
-  ],
-  "sponsorship": "Other",
-  "group": "schonfeld|market data analyst",
-  "in_feed": true,
-  "reason": null
- },
- {
   "id": "simplify:19107d15-9629-4efe-b0f5-7e1cc38dd47d",
   "first_seen": 1792064612,
   "company": "Microsoft",
@@ -8718,6 +8593,36 @@
   "closed_at": 1791985864
  },
  {
+  "id": "simplify:a5015239-b0f5-4194-ba7b-fc8c2eac8c28",
+  "company": "Motional",
+  "title": "Motion Planning Engineer - Trajectory Generation",
+  "location": "Boston, MA, Las Vegas, NV, Remote in USA",
+  "url": "https://motional.com/open-positions/?gh_jid=7980363003#/7980363003",
+  "category": "ML",
+  "posted": "2026-09-14",
+  "date_posted": 1789411683,
+  "active": false,
+  "first_seen": 1789414950.7806032,
+  "last_seen": 1792762544,
+  "locations": [
+   "Boston, MA",
+   "Las Vegas, NV",
+   "Remote in USA",
+   "Pittsburgh, PA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's",
+   "PhD"
+  ],
+  "sponsorship": "Other",
+  "group": "motional|motion planning engineer trajectory generation",
+  "in_feed": false,
+  "reason": "closed",
+  "closed_at": 1792762544
+ },
+ {
   "id": "simplify:a9b5356a-b658-407e-858e-29e74df5f581",
   "company": "Microsoft",
   "title": "Software Engineer - CoreAI",
@@ -9234,6 +9139,32 @@
   "closed_at": 1788286002,
   "reason": "closed",
   "group": "man group|systematic quant graduate rotational"
+ },
+ {
+  "id": "simplify:ce9b5601-f631-40d5-93f2-c131bea80fdd",
+  "company": "AQR Capital Management",
+  "title": "Trading Analyst",
+  "location": "Greenwich, CT",
+  "url": "https://careers.aqr.com/jobs?gh_jid=8156709&gh_jid=8156709",
+  "category": "Quant",
+  "posted": "2026-08-25",
+  "date_posted": 1787682504,
+  "active": false,
+  "first_seen": 1787700556.5491414,
+  "last_seen": 1792762544,
+  "locations": [
+   "Greenwich, CT"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "aqr capital management|trading analyst",
+  "in_feed": false,
+  "reason": "closed",
+  "closed_at": 1792762544
  },
  {
   "id": "simplify:31f44b7e-6d0d-463a-802d-ce894a00130f",
@@ -10464,10 +10395,11 @@
   "region": "US",
   "degrees": [],
   "sponsorship": "Other",
-  "in_feed": false,
+  "in_feed": true,
   "closed_at": 1789570473,
-  "reason": "closed",
-  "group": "tesla|data collection operator"
+  "reason": "untracked",
+  "group": "tesla|data collection operator",
+  "why": "title"
  },
  {
   "id": "simplify:1ffbd441-9fea-43f5-819f-f097b8702aaf",
@@ -10667,6 +10599,31 @@
   "closed_at": 1787268658,
   "reason": "closed",
   "group": "tiktok|data scientist graduate ug mid platform"
+ },
+ {
+  "id": "simplify:af356dc5-6ece-45f4-9cbf-7e378944c633",
+  "first_seen": 1790945452,
+  "company": "Amazon",
+  "title": "Applied Scientist - Operations",
+  "location": "Bellevue, WA",
+  "url": "https://amazon.jobs/en/jobs/10492292/applied-scientist-na-operations",
+  "category": "ML",
+  "posted": "2026-08-04",
+  "date_posted": 1785881630,
+  "active": false,
+  "locations": [
+   "Bellevue, WA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "amazon|applied scientist operations",
+  "in_feed": false,
+  "reason": "closed",
+  "closed_at": 1792762544,
+  "last_seen": 1792762544
  },
  {
   "id": "simplify:f3263689-d515-4c9c-9631-2adeab1cf950",
@@ -11244,6 +11201,32 @@
   "group": "bytedance|research graduate ai infra compute"
  },
  {
+  "id": "simplify:89cf07d7-dea8-45c0-bd63-f03870bf2088",
+  "company": "ByteDance",
+  "title": "Backend and Infrastructure Software Engineer New Grad - Dev Infra",
+  "location": "San Jose, CA",
+  "url": "https://jobs.bytedance.com/en/position/7667894766036322565/detail",
+  "category": "SWE",
+  "posted": "2026-08-03",
+  "date_posted": 1785748596,
+  "active": false,
+  "first_seen": 1785776785.3406992,
+  "last_seen": 1792762544,
+  "locations": [
+   "San Jose, CA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "bytedance|backend and infrastructure software engineer new grad dev infra",
+  "in_feed": false,
+  "reason": "closed",
+  "closed_at": 1792762544
+ },
+ {
   "id": "simplify:eeae9e48-e67c-41d3-9962-8fc290fdc2a8",
   "company": "ByteDance",
   "title": "Computer Vision Research Engineer Graduate",
@@ -11475,6 +11458,32 @@
   "closed_at": 1789347101,
   "reason": "closed",
   "group": "tiktok|software engineer new grad quality and efficiency technology"
+ },
+ {
+  "id": "simplify:0f38cb8f-9548-4161-b1d2-a6734d216f12",
+  "first_seen": 1789570473,
+  "company": "Two Sigma",
+  "title": "AI Research Scientist - Campus Full-Time",
+  "location": "NYC",
+  "url": "https://twosigma.avature.net/careers/JobDetail/13671",
+  "category": "ML",
+  "posted": "2026-08-02",
+  "date_posted": 1785633715,
+  "active": false,
+  "locations": [
+   "NYC"
+  ],
+  "region": "US",
+  "degrees": [
+   "Master's",
+   "PhD"
+  ],
+  "sponsorship": "Other",
+  "group": "two sigma|ai research scientist campus full time",
+  "in_feed": false,
+  "reason": "closed",
+  "closed_at": 1792762544,
+  "last_seen": 1792762544
  },
  {
   "id": "simplify:4313018c-b18f-43d6-93e3-df7efe66ba77",
@@ -14219,10 +14228,9 @@
    "PhD"
   ],
   "sponsorship": "Other",
-  "in_feed": true,
+  "in_feed": false,
   "closed_at": 1786893350,
-  "reason": "untracked",
-  "why": "phd",
+  "reason": "closed",
   "group": "bytedance|applied scientist global frontier tech recruitment program"
  },
  {
@@ -14539,5 +14547,30 @@
   "closed_at": 1784014543,
   "reason": "closed",
   "group": "squarepoint capital|trading infrastructure specialist"
+ },
+ {
+  "id": "simplify:72d39aa8-4e41-4461-b86b-7aa17e2f4da1",
+  "company": "Schonfeld",
+  "title": "Market Data Analyst",
+  "location": "NYC",
+  "url": "https://job-boards.greenhouse.io/schonfeld/jobs/7843959",
+  "category": "ML",
+  "posted": "2026-04-30",
+  "date_posted": 1777587611,
+  "active": false,
+  "first_seen": 1784014543.6740808,
+  "last_seen": 1792762544,
+  "locations": [
+   "NYC"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's"
+  ],
+  "sponsorship": "Other",
+  "group": "schonfeld|market data analyst",
+  "in_feed": false,
+  "reason": "closed",
+  "closed_at": 1792762544
  }
 ]
