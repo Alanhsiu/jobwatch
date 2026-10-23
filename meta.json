@@ -4,31 +4,31 @@
  "repo": "Alanhsiu/jobwatch",
  "branch": "main",
  "pages_url": "https://alanhsiu.github.io/jobwatch/",
- "last_run": 1792762544,
- "last_change": 1792762544,
+ "last_run": 1792780150,
+ "last_change": 1792780150,
  "last_result": "ok",
  "feed": {
-  "records": 19219,
-  "active": 3056,
-  "fetched_at": 1792762544,
+  "records": 19300,
+  "active": 3069,
+  "fetched_at": 1792780150,
   "attempts": 1
  },
  "counts": {
-  "active": 309,
-  "closed": 264,
+  "active": 308,
+  "closed": 267,
   "untracked": 61,
   "groups": 263,
   "companies": 54,
-  "new_this_run": 1,
+  "new_this_run": 2,
   "silent_known_this_run": 0,
-  "closed_this_run": 6,
+  "closed_this_run": 3,
   "untracked_this_run": 0
  },
  "rejects": {
-  "category": 120,
-  "phd": 175,
-  "title": 18,
-  "region": 46,
+  "category": 119,
+  "phd": 176,
+  "title": 19,
+  "region": 45,
   "sponsorship": 0,
   "age": 21
  },
@@ -56,7 +56,7 @@
    "denied": 0
   },
   "amazon": {
-   "active": 18,
+   "active": 17,
    "all_time": 31,
    "names": [
     "Amazon"
@@ -88,8 +88,8 @@
    "denied": 0
   },
   "apple": {
-   "active": 10,
-   "all_time": 34,
+   "active": 11,
+   "all_time": 35,
    "names": [
     "Apple"
    ],
@@ -465,7 +465,7 @@
    "denied": 0
   },
   "imc": {
-   "active": 3,
+   "active": 2,
    "all_time": 5,
    "names": [
     "IMC Trading"
@@ -585,7 +585,7 @@
    "denied": 0
   },
   "nvidia": {
-   "active": 8,
+   "active": 7,
    "all_time": 32,
    "names": [
     "NVIDIA"
@@ -771,8 +771,8 @@
    "denied": 0
   },
   "shield ai": {
-   "active": 5,
-   "all_time": 5,
+   "active": 6,
+   "all_time": 6,
    "names": [
     "Shield AI"
    ],
@@ -1001,7 +1001,7 @@
  },
  "telegram": {
   "mode": "sent",
-  "delivered": 1,
+  "delivered": 2,
   "failed_chunks": 0,
   "creds": true
  },
