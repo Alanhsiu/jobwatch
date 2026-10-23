@@ -1,5 +1,49 @@
 [
  {
+  "id": "simplify:9d5e6f80-ce26-4d6c-9b38-e69626426496",
+  "first_seen": 1792797228,
+  "company": "Microsoft",
+  "title": "Software Engineer",
+  "location": "Redmond, WA",
+  "url": "https://apply.careers.microsoft.com/careers/job/1970393557045536",
+  "category": "SWE",
+  "posted": "2026-10-23",
+  "date_posted": 1792795214,
+  "active": true,
+  "locations": [
+   "Redmond, WA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's"
+  ],
+  "sponsorship": "Other",
+  "group": "microsoft|software engineer",
+  "in_feed": true,
+  "reason": null
+ },
+ {
+  "id": "simplify:8f92f713-831e-414a-9cc3-067cf3b3ba4f",
+  "first_seen": 1792797228,
+  "company": "ServiceNow",
+  "title": "Associate Software Engineer",
+  "location": "Santa Clara, CA",
+  "url": "https://jobs.smartrecruiters.com/ServiceNow/744000157571919",
+  "category": "SWE",
+  "posted": "2026-10-23",
+  "date_posted": 1792790698,
+  "active": true,
+  "locations": [
+   "Santa Clara, CA"
+  ],
+  "region": "US",
+  "degrees": [],
+  "sponsorship": "Other",
+  "group": "servicenow|associate software engineer",
+  "in_feed": true,
+  "reason": null
+ },
+ {
   "id": "simplify:b29c852f-50f9-42bc-a4b6-65ef06b990be",
   "first_seen": 1792780150,
   "company": "Shield AI",
@@ -150,6 +194,28 @@
   ],
   "sponsorship": "Other",
   "group": "amazon|software development engineer embedded systems",
+  "in_feed": true,
+  "reason": null
+ },
+ {
+  "id": "simplify:3557be68-fc43-4f36-88de-aeddac816ec2",
+  "first_seen": 1792797228,
+  "company": "Perplexity AI",
+  "title": "Member of Technical Staff - AI Policy and Strategic Initiatives",
+  "location": "Washington, DC, SF",
+  "url": "https://jobs.ashbyhq.com/perplexity/c23c4d82-3c53-432b-8a00-2e400ccdf3ea/application?embed=true",
+  "category": "SWE",
+  "posted": "2026-10-23",
+  "date_posted": 1792713600,
+  "active": true,
+  "locations": [
+   "Washington, DC",
+   "SF"
+  ],
+  "region": "US",
+  "degrees": [],
+  "sponsorship": "Other",
+  "group": "perplexity ai|member of technical staff ai policy and strategic initiatives",
   "in_feed": true,
   "reason": null
  },
@@ -520,29 +586,6 @@
   ],
   "sponsorship": "Other",
   "group": "nvidia|technical product marketing engineer robotics simulation",
-  "in_feed": true,
-  "reason": null
- },
- {
-  "id": "simplify:e6dd9201-55c5-46cf-a0bc-b9d1b81d9359",
-  "first_seen": 1792220566,
-  "company": "Amazon",
-  "title": "Systems Development Engineer – Early Career",
-  "location": "Seattle, WA",
-  "url": "https://amazon.jobs/en/jobs/10581943/systems-development-engineer-early-career-2026-us",
-  "category": "SWE",
-  "posted": "2026-10-17",
-  "date_posted": 1792200310,
-  "active": true,
-  "locations": [
-   "Seattle, WA"
-  ],
-  "region": "US",
-  "degrees": [
-   "Bachelor's"
-  ],
-  "sponsorship": "Other",
-  "group": "amazon|systems development engineer early career",
   "in_feed": true,
   "reason": null
  },
@@ -2045,31 +2088,6 @@
   ],
   "sponsorship": "Other",
   "group": "scale ai|software engineer new grad",
-  "in_feed": true,
-  "reason": null
- },
- {
-  "id": "simplify:03bcc190-297d-4f25-b85d-749b57da6016",
-  "first_seen": 1791127536,
-  "company": "Microsoft",
-  "title": "Software Engineer",
-  "location": "Annapolis Junction, MD, Redmond, WA, Reston, VA",
-  "url": "https://apply.careers.microsoft.com/careers/job/1970393556858723",
-  "category": "SWE",
-  "posted": "2026-09-04",
-  "date_posted": 1788560182,
-  "active": true,
-  "locations": [
-   "Annapolis Junction, MD",
-   "Redmond, WA",
-   "Reston, VA"
-  ],
-  "region": "US",
-  "degrees": [
-   "Bachelor's"
-  ],
-  "sponsorship": "Other",
-  "group": "microsoft|software engineer",
   "in_feed": true,
   "reason": null
  },
@@ -7584,6 +7602,31 @@
   "last_seen": 1792780150
  },
  {
+  "id": "simplify:e6dd9201-55c5-46cf-a0bc-b9d1b81d9359",
+  "first_seen": 1792220566,
+  "company": "Amazon",
+  "title": "Systems Development Engineer – Early Career",
+  "location": "Seattle, WA",
+  "url": "https://amazon.jobs/en/jobs/10581943/systems-development-engineer-early-career-2026-us",
+  "category": "SWE",
+  "posted": "2026-10-17",
+  "date_posted": 1792200310,
+  "active": false,
+  "locations": [
+   "Seattle, WA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's"
+  ],
+  "sponsorship": "Other",
+  "group": "amazon|systems development engineer early career",
+  "in_feed": false,
+  "reason": "closed",
+  "closed_at": 1792797228,
+  "last_seen": 1792797228
+ },
+ {
   "id": "simplify:19107d15-9629-4efe-b0f5-7e1cc38dd47d",
   "first_seen": 1792064612,
   "company": "Microsoft",
@@ -8758,6 +8801,33 @@
   "closed_at": 1789063213,
   "reason": "closed",
   "group": "servicenow|software engineer"
+ },
+ {
+  "id": "simplify:03bcc190-297d-4f25-b85d-749b57da6016",
+  "first_seen": 1791127536,
+  "company": "Microsoft",
+  "title": "Software Engineer",
+  "location": "Annapolis Junction, MD, Redmond, WA, Reston, VA",
+  "url": "https://apply.careers.microsoft.com/careers/job/1970393556858723",
+  "category": "SWE",
+  "posted": "2026-09-04",
+  "date_posted": 1788560182,
+  "active": false,
+  "locations": [
+   "Annapolis Junction, MD",
+   "Redmond, WA",
+   "Reston, VA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's"
+  ],
+  "sponsorship": "Other",
+  "group": "microsoft|software engineer",
+  "in_feed": false,
+  "reason": "closed",
+  "closed_at": 1792797228,
+  "last_seen": 1792797228
  },
  {
   "id": "simplify:81c985f6-1a98-41d6-81bc-4765dee97c77",

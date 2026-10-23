@@ -8,7 +8,7 @@ sync between devices through this repo. No servers, no database, no cost — a p
 bot token. This repo's tracker: **[alanhsiu.github.io/jobwatch](https://alanhsiu.github.io/jobwatch/)** (a fork gets its own at `https://<owner>.github.io/<repo>/`).
 
 <!-- JOBS:HEAD:START -->
-_308 open new-grad roles at 54 companies · list last changed 2026-10-23 · scans every ~2 h_ · **[Open the tracker](https://alanhsiu.github.io/jobwatch/)** · [Full list ↓](#current-roles) · TikTok 108 · ByteDance 34 · Amazon 17 · Palantir 12 · Apple 11 · Microsoft 9 · Anduril 8 · NVIDIA 7 · …
+_309 open new-grad roles at 55 companies · list last changed 2026-10-23 · scans every ~2 h_ · **[Open the tracker](https://alanhsiu.github.io/jobwatch/)** · [Full list ↓](#current-roles) · TikTok 108 · ByteDance 34 · Amazon 16 · Palantir 12 · Apple 11 · Microsoft 9 · Anduril 8 · NVIDIA 7 · …
 <!-- JOBS:HEAD:END -->
 
 ## How it works
@@ -336,7 +336,7 @@ and `.nojekyll` into `docs/`, set Pages to `/docs`, and give every device a toke
 
 </details>
 <details open>
-<summary>Amazon (17)</summary>
+<summary>Amazon (16)</summary>
 
 - [Software Development Engineer - Prime Video Personalization & Discovery](https://amazon.jobs/en/jobs/10412948/software-dev-engineer-prime-video-personalization-discovery) · [2](https://amazon.jobs/en/jobs/10576161/software-dev-engineer-prime-video-personalization-discovery) — Seattle, WA; Seattle, WA, NYC, Sunnyvale, CA · posted 2026-10-23 · SWE · BS/MS
 - [Software Development Engineer 1 Early Career - Annapurna Labs](https://amazon.jobs/en/jobs/10558915/software-development-engineer-i-annapurna-labs-early-career-2027) — Seattle, WA, Austin, TX, NYC · posted 2026-10-23 · SWE · BS/MS
@@ -345,7 +345,6 @@ and `.nojekyll` into `docs/`, set Pages to `/docs`, and give every device a toke
 - [Robotics Embedded Software Development Engineer](https://amazon.jobs/en/jobs/10522935/robotics-embedded-software-development-engineer) — North Reading, MA, Westborough, MA · posted 2026-10-22 · HW · BS
 - [Software Development Engineer 1 - AI/ML Network Infrastructure](https://amazon.jobs/en/jobs/10490741/software-development-engineer-i-ai-ml-network-infrastructure-annapurna-labs) — Cupertino, CA · posted 2026-10-22 · SWE · BS/MS
 - [Software Engineer – Early Career](https://amazon.jobs/en/jobs/10583340/software-development-engineer-early-career-2027-us) — Madison, WI, Boston, MA, Seattle, WA · posted 2026-10-19 · SWE · BS/MS
-- [Systems Development Engineer – Early Career](https://amazon.jobs/en/jobs/10581943/systems-development-engineer-early-career-2026-us) — Seattle, WA · posted 2026-10-17 · SWE · BS
 - [Software Development Engineer – Early Career - Amazon Dedicated Cloud - ADC](https://amazon.jobs/en/jobs/10529546/software-development-engineer-amazon-dedicated-cloud-early-career-2026-amazon-dedicated-cloud-adc) — Seattle, WA, Jessup, MD, Arlington County, Arlington, VA · posted 2026-10-02 · SWE · BS
 - [Software Development Engineer - Robotics](https://amazon.jobs/en/jobs/10567489/software-development-engineer-robotics-early-career-2027) — Seattle, WA, Nashville, TN, Austin, TX · posted 2026-10-01 · SWE · BS
 - [Software Privacy Engineer - Multiple Teams](https://amazon.jobs/en/jobs/10538147/software-privacy-engineer-trust-platform-automation-devices-services-trust-privacy-and-accessibility-tpa) — Bellevue, WA · posted 2026-09-12 · SWE · BS
@@ -386,7 +385,7 @@ and `.nojekyll` into `docs/`, set Pages to `/docs`, and give every device a toke
 <details open>
 <summary>Microsoft (9)</summary>
 
-- [Software Engineer](https://apply.careers.microsoft.com/careers/job/1970393557039399) · [2](https://apply.careers.microsoft.com/careers/job/1970393557043616) · [3](https://apply.careers.microsoft.com/careers/job/1970393557022487) · [4](https://apply.careers.microsoft.com/careers/job/1970393556982903) · [5](https://apply.careers.microsoft.com/careers/job/1970393556858723) — Redmond, WA; Redmond, WA, Reston, VA; Annapolis Junction, MD, Redmond, WA, Reston, VA · posted 2026-10-20 · SWE · BS/MS
+- [Software Engineer](https://apply.careers.microsoft.com/careers/job/1970393557045536) · [2](https://apply.careers.microsoft.com/careers/job/1970393557039399) · [3](https://apply.careers.microsoft.com/careers/job/1970393557043616) · [4](https://apply.careers.microsoft.com/careers/job/1970393557022487) · [5](https://apply.careers.microsoft.com/careers/job/1970393556982903) — Redmond, WA; Redmond, WA, Reston, VA · posted 2026-10-23 · SWE · BS/MS
 - [Member of Technical Staff - Platform](https://apply.careers.microsoft.com/careers/job/1970393557042199) — Redmond, WA · posted 2026-10-20 · SWE · BS/MS
 - [Software Engineer - Forward Deployed Engineer](https://apply.careers.microsoft.com/careers/job/1970393557027406) — Redmond, WA · posted 2026-10-16 · SWE · BS/MS
 - [Software Engineer - Cleared](https://apply.careers.microsoft.com/careers/job/1970393556982911) — Reston, VA · posted 2026-09-23 · SWE · BS/MS
@@ -589,6 +588,13 @@ and `.nojekyll` into `docs/`, set Pages to `/docs`, and give every device a toke
 
 </details>
 <details open>
+<summary>ServiceNow (2)</summary>
+
+- [Associate Software Engineer](https://jobs.smartrecruiters.com/ServiceNow/744000157571919) — Santa Clara, CA · posted 2026-10-23 · SWE
+- [Software Engineer](https://jobs.smartrecruiters.com/ServiceNow/744000149338366) — West Palm Beach, FL · posted 2026-09-14 · SWE
+
+</details>
+<details open>
 <summary>Stripe (2)</summary>
 
 - [Software Engineer - Early Career - Immediate Start](https://stripe.com/jobs/search?gh_jid=8212508) — Seattle, WA, SF, NYC · posted 2026-09-18 · SWE · BS/MS
@@ -696,6 +702,12 @@ and `.nojekyll` into `docs/`, set Pages to `/docs`, and give every device a toke
 
 </details>
 <details open>
+<summary>Perplexity AI (1)</summary>
+
+- [Member of Technical Staff - AI Policy and Strategic Initiatives](https://jobs.ashbyhq.com/perplexity/c23c4d82-3c53-432b-8a00-2e400ccdf3ea/application?embed=true) — Washington, DC, SF · posted 2026-10-23 · SWE
+
+</details>
+<details open>
 <summary>Roblox (1)</summary>
 
 - [Software Engineer - Early Career](https://careers.roblox.com/jobs/8072244?gh_jid=8072244) — San Mateo, CA · posted 2026-08-05 · SWE · BS
@@ -705,12 +717,6 @@ and `.nojekyll` into `docs/`, set Pages to `/docs`, and give every device a toke
 <summary>SambaNova Systems (1)</summary>
 
 - [AI Performance Engineer New Grad](https://sambanova.ai/sambanova-available-positions/?gh_jid=6224936004) — Austin, TX, San Jose, CA · posted 2026-10-20 · ML · BS/MS/PhD
-
-</details>
-<details open>
-<summary>ServiceNow (1)</summary>
-
-- [Software Engineer](https://jobs.smartrecruiters.com/ServiceNow/744000149338366) — West Palm Beach, FL · posted 2026-09-14 · SWE
 
 </details>
 <details open>

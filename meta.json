@@ -4,33 +4,33 @@
  "repo": "Alanhsiu/jobwatch",
  "branch": "main",
  "pages_url": "https://alanhsiu.github.io/jobwatch/",
- "last_run": 1792780150,
- "last_change": 1792780150,
+ "last_run": 1792797228,
+ "last_change": 1792797228,
  "last_result": "ok",
  "feed": {
-  "records": 19300,
-  "active": 3069,
-  "fetched_at": 1792780150,
+  "records": 19344,
+  "active": 3095,
+  "fetched_at": 1792797228,
   "attempts": 1
  },
  "counts": {
-  "active": 308,
-  "closed": 267,
+  "active": 309,
+  "closed": 269,
   "untracked": 61,
-  "groups": 263,
-  "companies": 54,
-  "new_this_run": 2,
+  "groups": 264,
+  "companies": 55,
+  "new_this_run": 3,
   "silent_known_this_run": 0,
-  "closed_this_run": 3,
+  "closed_this_run": 2,
   "untracked_this_run": 0
  },
  "rejects": {
   "category": 119,
-  "phd": 176,
+  "phd": 177,
   "title": 19,
   "region": 45,
   "sponsorship": 0,
-  "age": 21
+  "age": 20
  },
  "keywords": {
   "adobe": {
@@ -56,7 +56,7 @@
    "denied": 0
   },
   "amazon": {
-   "active": 17,
+   "active": 16,
    "all_time": 31,
    "names": [
     "Amazon"
@@ -548,7 +548,7 @@
   },
   "microsoft": {
    "active": 9,
-   "all_time": 32,
+   "all_time": 33,
    "names": [
     "Microsoft"
    ],
@@ -639,9 +639,11 @@
    "denied": 0
   },
   "perplexity": {
-   "active": 0,
-   "all_time": 0,
-   "names": [],
+   "active": 1,
+   "all_time": 1,
+   "names": [
+    "Perplexity AI"
+   ],
    "denied": 0
   },
   "physical intelligence": {
@@ -763,8 +765,8 @@
    "denied": 0
   },
   "servicenow": {
-   "active": 1,
-   "all_time": 10,
+   "active": 2,
+   "all_time": 11,
    "names": [
     "ServiceNow"
    ],
@@ -1001,7 +1003,7 @@
  },
  "telegram": {
   "mode": "sent",
-  "delivered": 2,
+  "delivered": 3,
   "failed_chunks": 0,
   "creds": true
  },
