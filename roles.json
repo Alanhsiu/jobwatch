@@ -1,5 +1,27 @@
 [
  {
+  "id": "simplify:78e650dd-5e32-4200-83e1-7ef0d9d92b0a",
+  "first_seen": 1792840603,
+  "company": "Perplexity AI",
+  "title": "Member of Technical Staff - AI Policy and Strategic Initiatives",
+  "location": "Washington, DC, SF",
+  "url": "https://jobs.ashbyhq.com/perplexity/7e4a95c3-6322-4300-9455-96c511ab2621/application?embed=true",
+  "category": "SWE",
+  "posted": "2026-10-24",
+  "date_posted": 1792800000,
+  "active": true,
+  "locations": [
+   "Washington, DC",
+   "SF"
+  ],
+  "region": "US",
+  "degrees": [],
+  "sponsorship": "Other",
+  "group": "perplexity ai|member of technical staff ai policy and strategic initiatives",
+  "in_feed": true,
+  "reason": null
+ },
+ {
   "id": "simplify:9d5e6f80-ce26-4d6c-9b38-e69626426496",
   "first_seen": 1792797228,
   "company": "Microsoft",
@@ -194,28 +216,6 @@
   ],
   "sponsorship": "Other",
   "group": "amazon|software development engineer embedded systems",
-  "in_feed": true,
-  "reason": null
- },
- {
-  "id": "simplify:3557be68-fc43-4f36-88de-aeddac816ec2",
-  "first_seen": 1792797228,
-  "company": "Perplexity AI",
-  "title": "Member of Technical Staff - AI Policy and Strategic Initiatives",
-  "location": "Washington, DC, SF",
-  "url": "https://jobs.ashbyhq.com/perplexity/c23c4d82-3c53-432b-8a00-2e400ccdf3ea/application?embed=true",
-  "category": "SWE",
-  "posted": "2026-10-23",
-  "date_posted": 1792713600,
-  "active": true,
-  "locations": [
-   "Washington, DC",
-   "SF"
-  ],
-  "region": "US",
-  "degrees": [],
-  "sponsorship": "Other",
-  "group": "perplexity ai|member of technical staff ai policy and strategic initiatives",
   "in_feed": true,
   "reason": null
  },
@@ -7573,6 +7573,30 @@
   "group": "figma|data scientist core data",
   "in_feed": true,
   "reason": null
+ },
+ {
+  "id": "simplify:3557be68-fc43-4f36-88de-aeddac816ec2",
+  "first_seen": 1792797228,
+  "company": "Perplexity AI",
+  "title": "Member of Technical Staff - AI Policy and Strategic Initiatives",
+  "location": "Washington, DC, SF",
+  "url": "https://jobs.ashbyhq.com/perplexity/c23c4d82-3c53-432b-8a00-2e400ccdf3ea/application?embed=true",
+  "category": "SWE",
+  "posted": "2026-10-23",
+  "date_posted": 1792713600,
+  "active": false,
+  "locations": [
+   "Washington, DC",
+   "SF"
+  ],
+  "region": "US",
+  "degrees": [],
+  "sponsorship": "Other",
+  "group": "perplexity ai|member of technical staff ai policy and strategic initiatives",
+  "in_feed": false,
+  "reason": "closed",
+  "closed_at": 1792840603,
+  "last_seen": 1792840603
  },
  {
   "id": "simplify:26d84509-a16b-4556-99f7-18329fa61191",
