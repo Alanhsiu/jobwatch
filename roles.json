@@ -1138,30 +1138,6 @@
   "reason": null
  },
  {
-  "id": "simplify:eba32eeb-b7a1-4b27-b3c2-1fdaa04d3bd9",
-  "first_seen": 1791240347,
-  "company": "Atlassian",
-  "title": "Data Engineer New Grad",
-  "location": "Seattle, WA",
-  "url": "https://campus-americas.icims.com/jobs/25998/data-engineer%2c-2027-graduate-u.s/job",
-  "category": "ML",
-  "posted": "2026-10-05",
-  "date_posted": 1791237839,
-  "active": true,
-  "locations": [
-   "Seattle, WA"
-  ],
-  "region": "US",
-  "degrees": [
-   "Bachelor's",
-   "Master's"
-  ],
-  "sponsorship": "Other",
-  "group": "atlassian|data engineer new grad",
-  "in_feed": true,
-  "reason": null
- },
- {
   "id": "simplify:867c063f-636d-4f77-bf08-decee4955762",
   "first_seen": 1790985089,
   "company": "Harvey",
@@ -1341,29 +1317,6 @@
   "reason": null
  },
  {
-  "id": "simplify:d739b0c1-7de2-4820-8075-fc8cf49855fd",
-  "first_seen": 1790812668,
-  "company": "Atlassian",
-  "title": "Data Scientist Graduate",
-  "location": "Seattle, WA",
-  "url": "https://campus-americas.icims.com/jobs/26000/data-scientist%2c-2027-graduate-u.s./job",
-  "category": "ML",
-  "posted": "2026-09-30",
-  "date_posted": 1790806007,
-  "active": true,
-  "locations": [
-   "Seattle, WA"
-  ],
-  "region": "US",
-  "degrees": [
-   "Master's"
-  ],
-  "sponsorship": "Other",
-  "group": "atlassian|data scientist graduate",
-  "in_feed": true,
-  "reason": null
- },
- {
   "id": "simplify:f2c0c0c5-f679-46c2-98dc-36b42fe0532e",
   "first_seen": 1790746990,
   "company": "Anthropic",
@@ -1405,30 +1358,6 @@
   ],
   "sponsorship": "Other",
   "group": "apple|cad engineer signoff infrastructure",
-  "in_feed": true,
-  "reason": null
- },
- {
-  "id": "simplify:0d1c69d1-e147-4307-a0d9-73744bf4a2cd",
-  "first_seen": 1790296592,
-  "company": "Atlassian",
-  "title": "Machine Learning Engineer - 2027 Graduate",
-  "location": "Seattle, WA",
-  "url": "https://campus-americas.icims.com/jobs/25999/machine-learning-engineer%2c-2027-graduate-u.s./job",
-  "category": "ML",
-  "posted": "2026-09-24",
-  "date_posted": 1790287661,
-  "active": true,
-  "locations": [
-   "Seattle, WA"
-  ],
-  "region": "US",
-  "degrees": [
-   "Bachelor's",
-   "Master's"
-  ],
-  "sponsorship": "Other",
-  "group": "atlassian|machine learning engineer 2027 graduate",
   "in_feed": true,
   "reason": null
  },
@@ -1822,31 +1751,6 @@
   ],
   "sponsorship": "Other",
   "group": "openai|software engineer applied emerging talent",
-  "in_feed": true,
-  "reason": null
- },
- {
-  "id": "simplify:71842870-b830-4748-a505-dedd8137d854",
-  "company": "Atlassian",
-  "title": "Software Engineer",
-  "location": "Seattle, WA",
-  "url": "https://campus-americas.icims.com/jobs/25813/software-engineer%2c-2027-graduate-u.s./job",
-  "category": "SWE",
-  "posted": "2026-09-15",
-  "date_posted": 1789434532,
-  "active": true,
-  "first_seen": 1789497618.2979448,
-  "last_seen": 1789521191.4314806,
-  "locations": [
-   "Seattle, WA"
-  ],
-  "region": "US",
-  "degrees": [
-   "Bachelor's",
-   "Master's"
-  ],
-  "sponsorship": "Other",
-  "group": "atlassian|software engineer",
   "in_feed": true,
   "reason": null
  },
@@ -2599,31 +2503,6 @@
   "reason": null
  },
  {
-  "id": "simplify:eb3814c7-6fd3-4e58-852c-6cc00005cf9a",
-  "company": "Susquehanna International Group",
-  "title": "Trading System Engineer New Grad",
-  "location": "Bala Cynwyd, PA",
-  "url": "https://careers-sig.icims.com/jobs/11349/job?mobile=true&needsRedirect=false",
-  "category": "Quant",
-  "posted": "2026-08-21",
-  "date_posted": 1787333319,
-  "active": true,
-  "first_seen": 1787354957.9775043,
-  "last_seen": 1789521191.4314806,
-  "locations": [
-   "Bala Cynwyd, PA"
-  ],
-  "region": "US",
-  "degrees": [
-   "Bachelor's",
-   "Master's"
-  ],
-  "sponsorship": "Other",
-  "group": "susquehanna international group|trading system engineer new grad",
-  "in_feed": true,
-  "reason": null
- },
- {
   "id": "simplify:d96fafe9-2ce5-48db-8750-98e1d30c0c85",
   "company": "NVIDIA",
   "title": "Architecture Energy Modeling Engineer - Power Modeling, Methodology and Analysis",
@@ -2720,31 +2599,6 @@
   ],
   "sponsorship": "Other",
   "group": "tiktok|machine learning engineer graduate e commerce supply chain logistics",
-  "in_feed": true,
-  "reason": null
- },
- {
-  "id": "simplify:03168c7d-a3ff-4da7-9e0a-378b83a7de04",
-  "company": "Susquehanna International Group",
-  "title": "Quantitative Strategy Developer New Grad",
-  "location": "Bala Cynwyd, PA",
-  "url": "https://careers-sig.icims.com/jobs/11321/job?mobile=true&needsRedirect=false",
-  "category": "Quant",
-  "posted": "2026-08-19",
-  "date_posted": 1787177673,
-  "active": true,
-  "first_seen": 1787182064.903562,
-  "last_seen": 1789521191.4314806,
-  "locations": [
-   "Bala Cynwyd, PA"
-  ],
-  "region": "US",
-  "degrees": [
-   "Bachelor's",
-   "Master's"
-  ],
-  "sponsorship": "Other",
-  "group": "susquehanna international group|quantitative strategy developer new grad",
   "in_feed": true,
   "reason": null
  },
@@ -7053,104 +6907,6 @@
   "reason": null
  },
  {
-  "id": "simplify:b2ffbf79-12f6-4a0d-a44f-81db7e09aaaf",
-  "company": "Susquehanna International Group (SIG)",
-  "title": "Quantitative Researcher",
-  "location": "Ardmore, PA",
-  "url": "https://careers-sig.icims.com/jobs/11016/job?mobile=true&needsRedirect=false",
-  "category": "Quant",
-  "posted": "2026-06-29",
-  "date_posted": 1782770788,
-  "active": true,
-  "first_seen": 1784014543.6740808,
-  "last_seen": 1789234769.4011393,
-  "locations": [
-   "Ardmore, PA"
-  ],
-  "region": "US",
-  "degrees": [
-   "Master's"
-  ],
-  "sponsorship": "Other",
-  "group": "susquehanna international group sig|quantitative researcher",
-  "in_feed": true,
-  "reason": null
- },
- {
-  "id": "simplify:6470fc04-154d-4d53-9a4c-9f69aaba3aaf",
-  "company": "Susquehanna International Group (SIG)",
-  "title": "Quantitative Systematic Trader",
-  "location": "Philadelphia, PA, NYC",
-  "url": "https://careers-sig.icims.com/jobs/11022/job?mobile=true&needsRedirect=false",
-  "category": "Quant",
-  "posted": "2026-06-29",
-  "date_posted": 1782770788,
-  "active": true,
-  "first_seen": 1784564485.8354206,
-  "last_seen": 1789234769.4011393,
-  "locations": [
-   "Philadelphia, PA",
-   "NYC"
-  ],
-  "region": "US",
-  "degrees": [
-   "Master's"
-  ],
-  "sponsorship": "Other",
-  "group": "susquehanna international group sig|quantitative systematic trader",
-  "in_feed": true,
-  "reason": null
- },
- {
-  "id": "simplify:d1bd4c62-1898-4f9d-be41-c433dacb61f5",
-  "company": "Susquehanna International Group (SIG)",
-  "title": "Quantitative Systematic Trader",
-  "location": "Ardmore, PA",
-  "url": "https://careers-sig.icims.com/jobs/11020/job?mobile=true&needsRedirect=false",
-  "category": "Quant",
-  "posted": "2026-06-29",
-  "date_posted": 1782770788,
-  "active": true,
-  "first_seen": 1784014543.6740808,
-  "last_seen": 1789234769.4011393,
-  "locations": [
-   "Ardmore, PA"
-  ],
-  "region": "US",
-  "degrees": [
-   "Master's"
-  ],
-  "sponsorship": "Other",
-  "group": "susquehanna international group sig|quantitative systematic trader",
-  "in_feed": true,
-  "reason": null
- },
- {
-  "id": "simplify:926f6a3a-e7a1-426f-b008-2345912b0b2e",
-  "company": "Susquehanna International Group (SIG)",
-  "title": "Quantitative Researcher",
-  "location": "Philadelphia, PA, NYC",
-  "url": "https://careers-sig.icims.com/jobs/11018/job?mobile=true&needsRedirect=false",
-  "category": "Quant",
-  "posted": "2026-06-29",
-  "date_posted": 1782770787,
-  "active": true,
-  "first_seen": 1784014543.6740808,
-  "last_seen": 1789234769.4011393,
-  "locations": [
-   "Philadelphia, PA",
-   "NYC"
-  ],
-  "region": "US",
-  "degrees": [
-   "Master's"
-  ],
-  "sponsorship": "Other",
-  "group": "susquehanna international group sig|quantitative researcher",
-  "in_feed": true,
-  "reason": null
- },
- {
   "id": "simplify:057e0386-1d1a-425c-b6a6-d6e3374a3d52",
   "company": "Palantir",
   "title": "Software Engineer New Grad - Defense",
@@ -8040,6 +7796,32 @@
   "last_seen": 1791940614
  },
  {
+  "id": "simplify:eba32eeb-b7a1-4b27-b3c2-1fdaa04d3bd9",
+  "first_seen": 1791240347,
+  "company": "Atlassian",
+  "title": "Data Engineer New Grad",
+  "location": "Seattle, WA",
+  "url": "https://campus-americas.icims.com/jobs/25998/data-engineer%2c-2027-graduate-u.s/job",
+  "category": "ML",
+  "posted": "2026-10-05",
+  "date_posted": 1791237839,
+  "active": false,
+  "locations": [
+   "Seattle, WA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "atlassian|data engineer new grad",
+  "in_feed": false,
+  "reason": "closed",
+  "closed_at": 1792867864,
+  "last_seen": 1792867864
+ },
+ {
   "id": "simplify:0523ccf9-780c-4410-bcbb-60c3ebfa059b",
   "first_seen": 1791127536,
   "company": "Microsoft",
@@ -8192,6 +7974,31 @@
   "reason": "closed",
   "closed_at": 1791846268,
   "last_seen": 1791846268
+ },
+ {
+  "id": "simplify:d739b0c1-7de2-4820-8075-fc8cf49855fd",
+  "first_seen": 1790812668,
+  "company": "Atlassian",
+  "title": "Data Scientist Graduate",
+  "location": "Seattle, WA",
+  "url": "https://campus-americas.icims.com/jobs/26000/data-scientist%2c-2027-graduate-u.s./job",
+  "category": "ML",
+  "posted": "2026-09-30",
+  "date_posted": 1790806007,
+  "active": false,
+  "locations": [
+   "Seattle, WA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "atlassian|data scientist graduate",
+  "in_feed": false,
+  "reason": "closed",
+  "closed_at": 1792867864,
+  "last_seen": 1792867864
  },
  {
   "id": "simplify:7d9873a2-afea-4254-9ea2-9239888b1e16",
@@ -8372,6 +8179,32 @@
   "reason": "closed",
   "closed_at": 1790422466,
   "last_seen": 1790422466
+ },
+ {
+  "id": "simplify:0d1c69d1-e147-4307-a0d9-73744bf4a2cd",
+  "first_seen": 1790296592,
+  "company": "Atlassian",
+  "title": "Machine Learning Engineer - 2027 Graduate",
+  "location": "Seattle, WA",
+  "url": "https://campus-americas.icims.com/jobs/25999/machine-learning-engineer%2c-2027-graduate-u.s./job",
+  "category": "ML",
+  "posted": "2026-09-24",
+  "date_posted": 1790287661,
+  "active": false,
+  "locations": [
+   "Seattle, WA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "atlassian|machine learning engineer 2027 graduate",
+  "in_feed": false,
+  "reason": "closed",
+  "closed_at": 1792867864,
+  "last_seen": 1792867864
  },
  {
   "id": "simplify:39e6bebf-6cf0-4612-982e-5fd9d4af764d",
@@ -8632,6 +8465,32 @@
   "reason": "closed",
   "closed_at": 1791127536,
   "last_seen": 1791127536
+ },
+ {
+  "id": "simplify:71842870-b830-4748-a505-dedd8137d854",
+  "company": "Atlassian",
+  "title": "Software Engineer",
+  "location": "Seattle, WA",
+  "url": "https://campus-americas.icims.com/jobs/25813/software-engineer%2c-2027-graduate-u.s./job",
+  "category": "SWE",
+  "posted": "2026-09-15",
+  "date_posted": 1789434532,
+  "active": false,
+  "first_seen": 1789497618.2979448,
+  "last_seen": 1792867864,
+  "locations": [
+   "Seattle, WA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "atlassian|software engineer",
+  "in_feed": false,
+  "reason": "closed",
+  "closed_at": 1792867864
  },
  {
   "id": "simplify:86cb0b1e-3691-4e3c-a4ec-c65f90643d87",
@@ -9385,6 +9244,32 @@
   "group": "tesla|ai safety operator"
  },
  {
+  "id": "simplify:eb3814c7-6fd3-4e58-852c-6cc00005cf9a",
+  "company": "Susquehanna International Group",
+  "title": "Trading System Engineer New Grad",
+  "location": "Bala Cynwyd, PA",
+  "url": "https://careers-sig.icims.com/jobs/11349/job?mobile=true&needsRedirect=false",
+  "category": "Quant",
+  "posted": "2026-08-21",
+  "date_posted": 1787333319,
+  "active": false,
+  "first_seen": 1787354957.9775043,
+  "last_seen": 1792867864,
+  "locations": [
+   "Bala Cynwyd, PA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "susquehanna international group|trading system engineer new grad",
+  "in_feed": false,
+  "reason": "closed",
+  "closed_at": 1792867864
+ },
+ {
   "id": "simplify:67f9183a-b3d2-41ab-a0e5-2b1c829e2a9c",
   "company": "ByteDance",
   "title": "Software Engineer Graduate - AML-Engine-Forge Platform",
@@ -9554,6 +9439,32 @@
   "reason": "untracked",
   "why": "phd",
   "group": "tiktok|machine learning engineer graduate multiple teams"
+ },
+ {
+  "id": "simplify:03168c7d-a3ff-4da7-9e0a-378b83a7de04",
+  "company": "Susquehanna International Group",
+  "title": "Quantitative Strategy Developer New Grad",
+  "location": "Bala Cynwyd, PA",
+  "url": "https://careers-sig.icims.com/jobs/11321/job?mobile=true&needsRedirect=false",
+  "category": "Quant",
+  "posted": "2026-08-19",
+  "date_posted": 1787177673,
+  "active": false,
+  "first_seen": 1787182064.903562,
+  "last_seen": 1792867864,
+  "locations": [
+   "Bala Cynwyd, PA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "susquehanna international group|quantitative strategy developer new grad",
+  "in_feed": false,
+  "reason": "closed",
+  "closed_at": 1792867864
  },
  {
   "id": "simplify:01e96f8b-3039-4c34-807c-eb95ca76fd52",
@@ -13474,11 +13385,35 @@
    "PhD"
   ],
   "sponsorship": "Other",
-  "in_feed": true,
+  "in_feed": false,
   "closed_at": 1789234769,
-  "reason": "untracked",
-  "why": "phd",
+  "reason": "closed",
   "group": "susquehanna international group sig|quantitative researcher"
+ },
+ {
+  "id": "simplify:b2ffbf79-12f6-4a0d-a44f-81db7e09aaaf",
+  "company": "Susquehanna International Group (SIG)",
+  "title": "Quantitative Researcher",
+  "location": "Ardmore, PA",
+  "url": "https://careers-sig.icims.com/jobs/11016/job?mobile=true&needsRedirect=false",
+  "category": "Quant",
+  "posted": "2026-06-29",
+  "date_posted": 1782770788,
+  "active": false,
+  "first_seen": 1784014543.6740808,
+  "last_seen": 1792867864,
+  "locations": [
+   "Ardmore, PA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "susquehanna international group sig|quantitative researcher",
+  "in_feed": false,
+  "reason": "closed",
+  "closed_at": 1792867864
  },
  {
   "id": "simplify:04b469a0-dcfe-4ba4-b011-d0cbc2f2f6bf",
@@ -13500,10 +13435,9 @@
    "PhD"
   ],
   "sponsorship": "Other",
-  "in_feed": true,
+  "in_feed": false,
   "closed_at": 1789234769,
-  "reason": "untracked",
-  "why": "phd",
+  "reason": "closed",
   "group": "susquehanna international group sig|quantitative systematic trader"
  },
  {
@@ -13527,11 +13461,87 @@
    "PhD"
   ],
   "sponsorship": "Other",
-  "in_feed": true,
+  "in_feed": false,
   "closed_at": 1789234769,
-  "reason": "untracked",
-  "why": "phd",
+  "reason": "closed",
   "group": "susquehanna international group sig|quantitative systematic trader"
+ },
+ {
+  "id": "simplify:6470fc04-154d-4d53-9a4c-9f69aaba3aaf",
+  "company": "Susquehanna International Group (SIG)",
+  "title": "Quantitative Systematic Trader",
+  "location": "Philadelphia, PA, NYC",
+  "url": "https://careers-sig.icims.com/jobs/11022/job?mobile=true&needsRedirect=false",
+  "category": "Quant",
+  "posted": "2026-06-29",
+  "date_posted": 1782770788,
+  "active": false,
+  "first_seen": 1784564485.8354206,
+  "last_seen": 1792867864,
+  "locations": [
+   "Philadelphia, PA",
+   "NYC"
+  ],
+  "region": "US",
+  "degrees": [
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "susquehanna international group sig|quantitative systematic trader",
+  "in_feed": false,
+  "reason": "closed",
+  "closed_at": 1792867864
+ },
+ {
+  "id": "simplify:d1bd4c62-1898-4f9d-be41-c433dacb61f5",
+  "company": "Susquehanna International Group (SIG)",
+  "title": "Quantitative Systematic Trader",
+  "location": "Ardmore, PA",
+  "url": "https://careers-sig.icims.com/jobs/11020/job?mobile=true&needsRedirect=false",
+  "category": "Quant",
+  "posted": "2026-06-29",
+  "date_posted": 1782770788,
+  "active": false,
+  "first_seen": 1784014543.6740808,
+  "last_seen": 1792867864,
+  "locations": [
+   "Ardmore, PA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "susquehanna international group sig|quantitative systematic trader",
+  "in_feed": false,
+  "reason": "closed",
+  "closed_at": 1792867864
+ },
+ {
+  "id": "simplify:926f6a3a-e7a1-426f-b008-2345912b0b2e",
+  "company": "Susquehanna International Group (SIG)",
+  "title": "Quantitative Researcher",
+  "location": "Philadelphia, PA, NYC",
+  "url": "https://careers-sig.icims.com/jobs/11018/job?mobile=true&needsRedirect=false",
+  "category": "Quant",
+  "posted": "2026-06-29",
+  "date_posted": 1782770787,
+  "active": false,
+  "first_seen": 1784014543.6740808,
+  "last_seen": 1792867864,
+  "locations": [
+   "Philadelphia, PA",
+   "NYC"
+  ],
+  "region": "US",
+  "degrees": [
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "susquehanna international group sig|quantitative researcher",
+  "in_feed": false,
+  "reason": "closed",
+  "closed_at": 1792867864
  },
  {
   "id": "simplify:ac3e9cad-2324-4beb-a175-1d9b537b0de9",
@@ -13553,10 +13563,9 @@
    "PhD"
   ],
   "sponsorship": "Other",
-  "in_feed": true,
+  "in_feed": false,
   "closed_at": 1789234769,
-  "reason": "untracked",
-  "why": "phd",
+  "reason": "closed",
   "group": "susquehanna international group sig|quantitative researcher"
  },
  {

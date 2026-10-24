@@ -8,7 +8,7 @@ sync between devices through this repo. No servers, no database, no cost — a p
 bot token. This repo's tracker: **[alanhsiu.github.io/jobwatch](https://alanhsiu.github.io/jobwatch/)** (a fork gets its own at `https://<owner>.github.io/<repo>/`).
 
 <!-- JOBS:HEAD:START -->
-_309 open new-grad roles at 55 companies · list last changed 2026-10-24 · scans every ~2 h_ · **[Open the tracker](https://alanhsiu.github.io/jobwatch/)** · [Full list ↓](#current-roles) · TikTok 108 · ByteDance 34 · Amazon 16 · Palantir 12 · Apple 11 · Microsoft 9 · Anduril 8 · NVIDIA 7 · …
+_299 open new-grad roles at 52 companies · list last changed 2026-10-24 · scans every ~2 h_ · **[Open the tracker](https://alanhsiu.github.io/jobwatch/)** · [Full list ↓](#current-roles) · TikTok 108 · ByteDance 34 · Amazon 16 · Palantir 12 · Apple 11 · Microsoft 9 · Anduril 8 · NVIDIA 7 · …
 <!-- JOBS:HEAD:END -->
 
 ## How it works
@@ -454,15 +454,6 @@ and `.nojekyll` into `docs/`, set Pages to `/docs`, and give every device a toke
 
 </details>
 <details open>
-<summary>Atlassian (4)</summary>
-
-- [Data Engineer New Grad](https://campus-americas.icims.com/jobs/25998/data-engineer%2c-2027-graduate-u.s/job) — Seattle, WA · posted 2026-10-05 · ML · BS/MS
-- [Data Scientist Graduate](https://campus-americas.icims.com/jobs/26000/data-scientist%2c-2027-graduate-u.s./job) — Seattle, WA · posted 2026-09-30 · ML · MS
-- [Machine Learning Engineer - 2027 Graduate](https://campus-americas.icims.com/jobs/25999/machine-learning-engineer%2c-2027-graduate-u.s./job) — Seattle, WA · posted 2026-09-24 · ML · BS/MS
-- [Software Engineer](https://campus-americas.icims.com/jobs/25813/software-engineer%2c-2027-graduate-u.s./job) — Seattle, WA · posted 2026-09-15 · SWE · BS/MS
-
-</details>
-<details open>
 <summary>Chicago Trading Company (4)</summary>
 
 - [Associate Engineer](https://job-boards.greenhouse.io/chicagotradingcampus/jobs/4716937005) · [2](https://job-boards.greenhouse.io/ctccampusboard/jobs/4709991005) — Chicago, IL, NYC · posted 2026-08-03 · SWE · BS/MS
@@ -485,13 +476,6 @@ and `.nojekyll` into `docs/`, set Pages to `/docs`, and give every device a toke
 - [Quantitative AI Technical Staff](https://www.citadelsecurities.com/careers/details/quantitative-ai-technical-staff/) — Miami, FL · posted 2026-07-22 · ML · BS/MS/PhD
 - [Graduate Software Engineer](https://www.citadelsecurities.com/careers/details/software-engineer-university-graduate-us/) — Miami, FL, NYC · posted 2026-07-06 · SWE · BS/MS/PhD
 - [Quantitative Trader – University Graduate](https://www.citadelsecurities.com/careers/details/quantitative-trader-university-graduate-us-miami/) · [2](https://www.citadelsecurities.com/careers/details/quantitative-trader-university-graduate-us-new-york/) — Miami, FL; NYC · posted 2026-07-06 · Quant · BS/MS/PhD
-
-</details>
-<details open>
-<summary>Susquehanna International Group (SIG) (4)</summary>
-
-- [Quantitative Researcher](https://careers-sig.icims.com/jobs/11016/job?mobile=true&needsRedirect=false) · [2](https://careers-sig.icims.com/jobs/11018/job?mobile=true&needsRedirect=false) — Ardmore, PA; Philadelphia, PA, NYC · posted 2026-06-29 · Quant · MS
-- [Quantitative Systematic Trader](https://careers-sig.icims.com/jobs/11022/job?mobile=true&needsRedirect=false) · [2](https://careers-sig.icims.com/jobs/11020/job?mobile=true&needsRedirect=false) — Philadelphia, PA, NYC; Ardmore, PA · posted 2026-06-29 · Quant · MS
 
 </details>
 <details open>
@@ -599,13 +583,6 @@ and `.nojekyll` into `docs/`, set Pages to `/docs`, and give every device a toke
 
 - [Software Engineer - Early Career - Immediate Start](https://stripe.com/jobs/search?gh_jid=8212508) — Seattle, WA, SF, NYC · posted 2026-09-18 · SWE · BS/MS
 - [Software Engineer New Grad](https://stripe.com/jobs/search?gh_jid=8128744) — Seattle, WA, SF, NYC · posted 2026-09-01 · SWE · BS/MS
-
-</details>
-<details open>
-<summary>Susquehanna International Group (2)</summary>
-
-- [Trading System Engineer New Grad](https://careers-sig.icims.com/jobs/11349/job?mobile=true&needsRedirect=false) — Bala Cynwyd, PA · posted 2026-08-21 · Quant · BS/MS
-- [Quantitative Strategy Developer New Grad](https://careers-sig.icims.com/jobs/11321/job?mobile=true&needsRedirect=false) — Bala Cynwyd, PA · posted 2026-08-19 · Quant · BS/MS
 
 </details>
 <details open>
