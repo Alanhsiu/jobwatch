@@ -8,7 +8,7 @@ sync between devices through this repo. No servers, no database, no cost — a p
 bot token. This repo's tracker: **[alanhsiu.github.io/jobwatch](https://alanhsiu.github.io/jobwatch/)** (a fork gets its own at `https://<owner>.github.io/<repo>/`).
 
 <!-- JOBS:HEAD:START -->
-_299 open new-grad roles at 52 companies · list last changed 2026-10-24 · scans every ~2 h_ · **[Open the tracker](https://alanhsiu.github.io/jobwatch/)** · [Full list ↓](#current-roles) · TikTok 108 · ByteDance 34 · Amazon 16 · Palantir 12 · Apple 11 · Microsoft 9 · Anduril 8 · NVIDIA 7 · …
+_298 open new-grad roles at 52 companies · list last changed 2026-10-25 · scans every ~2 h_ · **[Open the tracker](https://alanhsiu.github.io/jobwatch/)** · [Full list ↓](#current-roles) · TikTok 108 · ByteDance 34 · Amazon 16 · Palantir 12 · Apple 11 · Microsoft 9 · Anduril 8 · NVIDIA 7 · …
 <!-- JOBS:HEAD:END -->
 
 ## How it works
@@ -479,15 +479,6 @@ and `.nojekyll` into `docs/`, set Pages to `/docs`, and give every device a toke
 
 </details>
 <details open>
-<summary>Tesla (4)</summary>
-
-- [Data Statistician](https://www.tesla.com/careers/search/job/282286) — Fremont, CA · posted 2026-09-09 · ML · BS
-- [Data Analytics Engineer Scientist - Thermal - Chassis](https://www.tesla.com/careers/search/job/262399) — Palo Alto, CA · posted 2026-07-13 · ML · BS
-- [AI Engineer - Whole Body Controls - Optimus](https://www.tesla.com/careers/search/job/275999) — Palo Alto, CA · posted 2026-07-06 · ML
-- [Applied Reinforcement Learning Engineer - Whole Body Controls - Optimus](https://www.tesla.com/careers/search/job/276000) — Palo Alto, CA · posted 2026-07-06 · ML
-
-</details>
-<details open>
 <summary>Wolverine Trading (4)</summary>
 
 - [Early Career C++ Software Engineer](https://wolve.pinpointhq.com/en/postings/4b0e86a1-db36-4490-9a98-17782ffcc648?ats=pinpointhq) — Chicago, IL · posted 2026-10-12 · SWE · BS/MS
@@ -507,6 +498,14 @@ and `.nojekyll` into `docs/`, set Pages to `/docs`, and give every device a toke
 
 - [AI Labs Rotational Fellow - Emerging Talent](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/AI-Labs-Rotational-Fellowship--Emerging-Talent_JR363678-1) · [2](https://salesforce.wd12.myworkdayjobs.com/Futureforce_NewGradRoles/job/California---San-Francisco/AI-Labs-Rotational-Fellowship--Emerging-Talent_JR363678) — Seattle, WA, SF, NYC · posted 2026-10-16 · SWE · BS/MS
 - [Software Engineer College Grad](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Software-Engineering-AMTS--College-Grad-_JR355250-1) — Palo Alto, CA, Seattle, WA, Indianapolis, IN · posted 2026-08-06 · SWE
+
+</details>
+<details open>
+<summary>Tesla (3)</summary>
+
+- [Data Statistician](https://www.tesla.com/careers/search/job/282286) — Fremont, CA · posted 2026-09-09 · ML · BS
+- [AI Engineer - Whole Body Controls - Optimus](https://www.tesla.com/careers/search/job/275999) — Palo Alto, CA · posted 2026-07-06 · ML
+- [Applied Reinforcement Learning Engineer - Whole Body Controls - Optimus](https://www.tesla.com/careers/search/job/276000) — Palo Alto, CA · posted 2026-07-06 · ML
 
 </details>
 <details open>

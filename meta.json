@@ -4,24 +4,24 @@
  "repo": "Alanhsiu/jobwatch",
  "branch": "main",
  "pages_url": "https://alanhsiu.github.io/jobwatch/",
- "last_run": 1792946087,
- "last_change": 1792867864,
- "last_result": "ok-no-change",
+ "last_run": 1792961905,
+ "last_change": 1792961905,
+ "last_result": "ok",
  "feed": {
   "records": 19065,
-  "active": 2933,
-  "fetched_at": 1792946087,
+  "active": 2932,
+  "fetched_at": 1792961905,
   "attempts": 1
  },
  "counts": {
-  "active": 299,
-  "closed": 284,
+  "active": 298,
+  "closed": 285,
   "untracked": 57,
-  "groups": 256,
+  "groups": 255,
   "companies": 52,
   "new_this_run": 0,
   "silent_known_this_run": 0,
-  "closed_this_run": 0,
+  "closed_this_run": 1,
   "untracked_this_run": 0
  },
  "rejects": {
@@ -829,7 +829,7 @@
    "denied": 0
   },
   "tesla": {
-   "active": 4,
+   "active": 3,
    "all_time": 28,
    "names": [
     "Tesla"
