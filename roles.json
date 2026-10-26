@@ -519,53 +519,6 @@
   "reason": null
  },
  {
-  "id": "simplify:946bbff5-9d0d-4834-8b42-b696719861f5",
-  "first_seen": 1792780150,
-  "company": "Apple",
-  "title": "Software Engineer",
-  "location": "Cupertino, CA, Sunnyvale, CA",
-  "url": "https://jobs.apple.com/en-us/details/200689349",
-  "category": "SWE",
-  "posted": "2026-10-19",
-  "date_posted": 1792449037,
-  "active": true,
-  "locations": [
-   "Cupertino, CA",
-   "Sunnyvale, CA"
-  ],
-  "region": "US",
-  "degrees": [
-   "Bachelor's"
-  ],
-  "sponsorship": "Other",
-  "group": "apple|software engineer",
-  "in_feed": true,
-  "reason": null
- },
- {
-  "id": "simplify:685e432a-5583-46a1-a7ac-d9819bab8f8d",
-  "first_seen": 1792453678,
-  "company": "Apple",
-  "title": "Software Engineer - IS&T",
-  "location": "Austin, TX",
-  "url": "https://jobs.apple.com/en-us/details/200688599",
-  "category": "SWE",
-  "posted": "2026-10-19",
-  "date_posted": 1792449035,
-  "active": true,
-  "locations": [
-   "Austin, TX"
-  ],
-  "region": "US",
-  "degrees": [
-   "Bachelor's"
-  ],
-  "sponsorship": "Other",
-  "group": "apple|software engineer is t",
-  "in_feed": true,
-  "reason": null
- },
- {
   "id": "simplify:80493332-3c89-4c41-ac25-0143b349ecbc",
   "first_seen": 1792453678,
   "company": "NVIDIA",
@@ -7356,6 +7309,57 @@
   "reason": "closed",
   "closed_at": 1792780150,
   "last_seen": 1792780150
+ },
+ {
+  "id": "simplify:946bbff5-9d0d-4834-8b42-b696719861f5",
+  "first_seen": 1792780150,
+  "company": "Apple",
+  "title": "Software Engineer",
+  "location": "Cupertino, CA, Sunnyvale, CA",
+  "url": "https://jobs.apple.com/en-us/details/200689349",
+  "category": "SWE",
+  "posted": "2026-10-19",
+  "date_posted": 1792449037,
+  "active": false,
+  "locations": [
+   "Cupertino, CA",
+   "Sunnyvale, CA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's"
+  ],
+  "sponsorship": "Other",
+  "group": "apple|software engineer",
+  "in_feed": false,
+  "reason": "closed",
+  "closed_at": 1793048726,
+  "last_seen": 1793048726
+ },
+ {
+  "id": "simplify:685e432a-5583-46a1-a7ac-d9819bab8f8d",
+  "first_seen": 1792453678,
+  "company": "Apple",
+  "title": "Software Engineer - IS&T",
+  "location": "Austin, TX",
+  "url": "https://jobs.apple.com/en-us/details/200688599",
+  "category": "SWE",
+  "posted": "2026-10-19",
+  "date_posted": 1792449035,
+  "active": false,
+  "locations": [
+   "Austin, TX"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's"
+  ],
+  "sponsorship": "Other",
+  "group": "apple|software engineer is t",
+  "in_feed": false,
+  "reason": "closed",
+  "closed_at": 1793048726,
+  "last_seen": 1793048726
  },
  {
   "id": "simplify:e6dd9201-55c5-46cf-a0bc-b9d1b81d9359",
