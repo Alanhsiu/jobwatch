@@ -10380,10 +10380,11 @@
   "region": "US",
   "degrees": [],
   "sponsorship": "Other",
-  "in_feed": false,
+  "in_feed": true,
   "closed_at": 1789570473,
-  "reason": "closed",
-  "group": "tesla|data collection operator optimus"
+  "reason": "untracked",
+  "group": "tesla|data collection operator optimus",
+  "why": "title"
  },
  {
   "id": "simplify:cfe4e5c9-9477-44a4-80c5-eaeebe0656f1",

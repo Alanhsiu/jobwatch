@@ -8,7 +8,7 @@ sync between devices through this repo. No servers, no database, no cost — a p
 bot token. This repo's tracker: **[alanhsiu.github.io/jobwatch](https://alanhsiu.github.io/jobwatch/)** (a fork gets its own at `https://<owner>.github.io/<repo>/`).
 
 <!-- JOBS:HEAD:START -->
-_298 open new-grad roles at 52 companies · list last changed 2026-10-25 · scans every ~2 h_ · **[Open the tracker](https://alanhsiu.github.io/jobwatch/)** · [Full list ↓](#current-roles) · TikTok 108 · ByteDance 34 · Amazon 16 · Palantir 12 · Apple 11 · Microsoft 9 · Anduril 8 · NVIDIA 7 · …
+_298 open new-grad roles at 52 companies · list last changed 2026-10-26 · scans every ~2 h_ · **[Open the tracker](https://alanhsiu.github.io/jobwatch/)** · [Full list ↓](#current-roles) · TikTok 108 · ByteDance 34 · Amazon 16 · Palantir 12 · Apple 11 · Microsoft 9 · Anduril 8 · NVIDIA 7 · …
 <!-- JOBS:HEAD:END -->
 
 ## How it works
