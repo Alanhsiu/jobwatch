@@ -482,30 +482,6 @@
   "reason": null
  },
  {
-  "id": "simplify:33da640d-5eb4-4a66-b577-c2ec5f60bcf3",
-  "first_seen": 1792543267,
-  "company": "Microsoft",
-  "title": "Software Engineer",
-  "location": "Redmond, WA",
-  "url": "https://apply.careers.microsoft.com/careers/job/1970393557043616",
-  "category": "SWE",
-  "posted": "2026-10-20",
-  "date_posted": 1792535014,
-  "active": true,
-  "locations": [
-   "Redmond, WA"
-  ],
-  "region": "US",
-  "degrees": [
-   "Bachelor's",
-   "Master's"
-  ],
-  "sponsorship": "Other",
-  "group": "microsoft|software engineer",
-  "in_feed": true,
-  "reason": null
- },
- {
   "id": "simplify:79eb7a85-c4c3-4b07-b781-f8a67ec940c5",
   "first_seen": 1792543267,
   "company": "SambaNova Systems",
@@ -632,30 +608,6 @@
   ],
   "sponsorship": "Other",
   "group": "nvidia|technical product marketing engineer robotics simulation",
-  "in_feed": true,
-  "reason": null
- },
- {
-  "id": "simplify:5aac86eb-5f0c-4bf5-b902-cd78aa3278a1",
-  "first_seen": 1792197331,
-  "company": "Microsoft",
-  "title": "Software Engineer - Forward Deployed Engineer",
-  "location": "Redmond, WA",
-  "url": "https://apply.careers.microsoft.com/careers/job/1970393557027406",
-  "category": "SWE",
-  "posted": "2026-10-16",
-  "date_posted": 1792190432,
-  "active": true,
-  "locations": [
-   "Redmond, WA"
-  ],
-  "region": "US",
-  "degrees": [
-   "Bachelor's",
-   "Master's"
-  ],
-  "sponsorship": "Other",
-  "group": "microsoft|software engineer forward deployed engineer",
   "in_feed": true,
   "reason": null
  },
@@ -7429,6 +7381,32 @@
   "last_seen": 1792780150
  },
  {
+  "id": "simplify:33da640d-5eb4-4a66-b577-c2ec5f60bcf3",
+  "first_seen": 1792543267,
+  "company": "Microsoft",
+  "title": "Software Engineer",
+  "location": "Redmond, WA",
+  "url": "https://apply.careers.microsoft.com/careers/job/1970393557043616",
+  "category": "SWE",
+  "posted": "2026-10-20",
+  "date_posted": 1792535014,
+  "active": false,
+  "locations": [
+   "Redmond, WA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "microsoft|software engineer",
+  "in_feed": false,
+  "reason": "closed",
+  "closed_at": 1793112003,
+  "last_seen": 1793112003
+ },
+ {
   "id": "simplify:946bbff5-9d0d-4834-8b42-b696719861f5",
   "first_seen": 1792780150,
   "company": "Apple",
@@ -7503,6 +7481,32 @@
   "reason": "closed",
   "closed_at": 1792797228,
   "last_seen": 1792797228
+ },
+ {
+  "id": "simplify:5aac86eb-5f0c-4bf5-b902-cd78aa3278a1",
+  "first_seen": 1792197331,
+  "company": "Microsoft",
+  "title": "Software Engineer - Forward Deployed Engineer",
+  "location": "Redmond, WA",
+  "url": "https://apply.careers.microsoft.com/careers/job/1970393557027406",
+  "category": "SWE",
+  "posted": "2026-10-16",
+  "date_posted": 1792190432,
+  "active": false,
+  "locations": [
+   "Redmond, WA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "microsoft|software engineer forward deployed engineer",
+  "in_feed": false,
+  "reason": "closed",
+  "closed_at": 1793112003,
+  "last_seen": 1793112003
  },
  {
   "id": "simplify:19107d15-9629-4efe-b0f5-7e1cc38dd47d",
