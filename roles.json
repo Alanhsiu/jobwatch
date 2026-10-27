@@ -1,5 +1,74 @@
 [
  {
+  "id": "simplify:add2af69-d211-451e-87a2-8feb56317943",
+  "first_seen": 1793064694,
+  "company": "Microsoft",
+  "title": "Software Engineer",
+  "location": "Redmond, WA, Reston, VA",
+  "url": "https://apply.careers.microsoft.com/careers/job/1970393557025694",
+  "category": "SWE",
+  "posted": "2026-10-26",
+  "date_posted": 1793054508,
+  "active": true,
+  "locations": [
+   "Redmond, WA",
+   "Reston, VA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's"
+  ],
+  "sponsorship": "Other",
+  "group": "microsoft|software engineer",
+  "in_feed": true,
+  "reason": null
+ },
+ {
+  "id": "simplify:881a59a5-91b7-453d-a86e-a73f4684462e",
+  "first_seen": 1793064694,
+  "company": "Tesla",
+  "title": "Data Collection Coordinator - Optimus",
+  "location": "Fremont, CA",
+  "url": "https://www.tesla.com/careers/search/job/257533",
+  "category": "ML",
+  "posted": "2026-10-26",
+  "date_posted": 1793053638,
+  "active": true,
+  "locations": [
+   "Fremont, CA"
+  ],
+  "region": "US",
+  "degrees": [],
+  "sponsorship": "Other",
+  "group": "tesla|data collection coordinator optimus",
+  "in_feed": true,
+  "reason": null
+ },
+ {
+  "id": "simplify:6d6de57a-a933-4e13-aa3c-2e0ee0b7d04d",
+  "first_seen": 1793064694,
+  "company": "Anduril",
+  "title": "Early Career Software Engineer - Battlespace Awareness",
+  "location": "Fort Collins, CO, Broomfield, CO",
+  "url": "https://boards.greenhouse.io/andurilindustries/jobs/5275431007",
+  "category": "SWE",
+  "posted": "2026-10-26",
+  "date_posted": 1793043267,
+  "active": true,
+  "locations": [
+   "Fort Collins, CO",
+   "Broomfield, CO"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's"
+  ],
+  "sponsorship": "Other",
+  "group": "anduril|early career software engineer battlespace awareness",
+  "in_feed": true,
+  "reason": null
+ },
+ {
   "id": "simplify:78e650dd-5e32-4200-83e1-7ef0d9d92b0a",
   "first_seen": 1792840603,
   "company": "Perplexity AI",

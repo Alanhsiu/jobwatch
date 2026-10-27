@@ -4,24 +4,24 @@
  "repo": "Alanhsiu/jobwatch",
  "branch": "main",
  "pages_url": "https://alanhsiu.github.io/jobwatch/",
- "last_run": 1793048726,
- "last_change": 1793048726,
+ "last_run": 1793064694,
+ "last_change": 1793064694,
  "last_result": "ok",
  "feed": {
-  "records": 18985,
-  "active": 2888,
-  "fetched_at": 1793048726,
+  "records": 19019,
+  "active": 2930,
+  "fetched_at": 1793064694,
   "attempts": 1
  },
  "counts": {
-  "active": 296,
+  "active": 299,
   "closed": 286,
   "untracked": 58,
-  "groups": 253,
+  "groups": 255,
   "companies": 52,
-  "new_this_run": 0,
+  "new_this_run": 3,
   "silent_known_this_run": 0,
-  "closed_this_run": 2,
+  "closed_this_run": 0,
   "untracked_this_run": 0
  },
  "rejects": {
@@ -64,8 +64,8 @@
    "denied": 0
   },
   "anduril": {
-   "active": 8,
-   "all_time": 15,
+   "active": 9,
+   "all_time": 16,
    "names": [
     "Anduril"
    ],
@@ -545,8 +545,8 @@
    "denied": 0
   },
   "microsoft": {
-   "active": 9,
-   "all_time": 33,
+   "active": 10,
+   "all_time": 34,
    "names": [
     "Microsoft"
    ],
@@ -829,8 +829,8 @@
    "denied": 0
   },
   "tesla": {
-   "active": 3,
-   "all_time": 28,
+   "active": 4,
+   "all_time": 29,
    "names": [
     "Tesla"
    ],
@@ -996,8 +996,8 @@
   }
  },
  "telegram": {
-  "mode": "none",
-  "delivered": 0,
+  "mode": "sent",
+  "delivered": 3,
   "failed_chunks": 0,
   "creds": true
  },
