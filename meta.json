@@ -4,29 +4,29 @@
  "repo": "Alanhsiu/jobwatch",
  "branch": "main",
  "pages_url": "https://alanhsiu.github.io/jobwatch/",
- "last_run": 1793064694,
- "last_change": 1793064694,
+ "last_run": 1793088099,
+ "last_change": 1793088099,
  "last_result": "ok",
  "feed": {
-  "records": 19019,
-  "active": 2930,
-  "fetched_at": 1793064694,
+  "records": 19034,
+  "active": 2946,
+  "fetched_at": 1793088099,
   "attempts": 1
  },
  "counts": {
-  "active": 299,
-  "closed": 286,
+  "active": 301,
+  "closed": 285,
   "untracked": 58,
-  "groups": 255,
+  "groups": 256,
   "companies": 52,
-  "new_this_run": 3,
+  "new_this_run": 1,
   "silent_known_this_run": 0,
   "closed_this_run": 0,
   "untracked_this_run": 0
  },
  "rejects": {
-  "category": 121,
-  "phd": 172,
+  "category": 126,
+  "phd": 173,
   "title": 20,
   "region": 38,
   "sponsorship": 0,
@@ -545,8 +545,8 @@
    "denied": 0
   },
   "microsoft": {
-   "active": 10,
-   "all_time": 34,
+   "active": 11,
+   "all_time": 35,
    "names": [
     "Microsoft"
    ],
@@ -583,7 +583,7 @@
    "denied": 0
   },
   "nvidia": {
-   "active": 7,
+   "active": 8,
    "all_time": 32,
    "names": [
     "NVIDIA"
@@ -997,7 +997,7 @@
  },
  "telegram": {
   "mode": "sent",
-  "delivered": 3,
+  "delivered": 1,
   "failed_chunks": 0,
   "creds": true
  },

@@ -1,5 +1,29 @@
 [
  {
+  "id": "simplify:12b37514-55d3-4d2b-889d-499ef0584772",
+  "first_seen": 1793088099,
+  "company": "Microsoft",
+  "title": "Software Engineer",
+  "location": "Mountain View, CA",
+  "url": "https://apply.careers.microsoft.com/careers/job/1970393557045516",
+  "category": "SWE",
+  "posted": "2026-10-27",
+  "date_posted": 1793082825,
+  "active": true,
+  "locations": [
+   "Mountain View, CA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "microsoft|software engineer",
+  "in_feed": true,
+  "reason": null
+ },
+ {
   "id": "simplify:add2af69-d211-451e-87a2-8feb56317943",
   "first_seen": 1793064694,
   "company": "Microsoft",
@@ -1358,6 +1382,31 @@
   "group": "anthropic|claude corps",
   "in_feed": true,
   "reason": null
+ },
+ {
+  "id": "simplify:c629b4e6-c4f2-414a-9bfa-e7be4219dd59",
+  "first_seen": 1790746990,
+  "company": "NVIDIA",
+  "title": "Applied Machine Learning Engineer - AI for VLSI Design",
+  "location": "Santa Clara, CA",
+  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Applied-Machine-Learning-Engineer--AI-for-VLSI-Design---New-College-Grad-2026_JR2026576",
+  "category": "ML",
+  "posted": "2026-09-29",
+  "date_posted": 1790640000,
+  "active": true,
+  "locations": [
+   "Santa Clara, CA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Master's",
+   "PhD"
+  ],
+  "sponsorship": "Other",
+  "group": "nvidia|applied machine learning engineer ai for vlsi design",
+  "in_feed": true,
+  "reason": null,
+  "last_seen": 1792780150
  },
  {
   "id": "simplify:72f6e435-1060-4700-9b90-48d82c3b1972",
@@ -8073,32 +8122,6 @@
   "reason": "closed",
   "closed_at": 1791489581,
   "last_seen": 1791489581
- },
- {
-  "id": "simplify:c629b4e6-c4f2-414a-9bfa-e7be4219dd59",
-  "first_seen": 1790746990,
-  "company": "NVIDIA",
-  "title": "Applied Machine Learning Engineer - AI for VLSI Design",
-  "location": "Santa Clara, CA",
-  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Applied-Machine-Learning-Engineer--AI-for-VLSI-Design---New-College-Grad-2026_JR2026576",
-  "category": "ML",
-  "posted": "2026-09-29",
-  "date_posted": 1790640000,
-  "active": false,
-  "locations": [
-   "Santa Clara, CA"
-  ],
-  "region": "US",
-  "degrees": [
-   "Master's",
-   "PhD"
-  ],
-  "sponsorship": "Other",
-  "group": "nvidia|applied machine learning engineer ai for vlsi design",
-  "in_feed": false,
-  "reason": "closed",
-  "closed_at": 1792780150,
-  "last_seen": 1792780150
  },
  {
   "id": "simplify:e60e9a94-ba50-4649-b502-e7203a9eb65f",
