@@ -69,30 +69,6 @@
   "reason": null
  },
  {
-  "id": "simplify:6d6de57a-a933-4e13-aa3c-2e0ee0b7d04d",
-  "first_seen": 1793064694,
-  "company": "Anduril",
-  "title": "Early Career Software Engineer - Battlespace Awareness",
-  "location": "Fort Collins, CO, Broomfield, CO",
-  "url": "https://boards.greenhouse.io/andurilindustries/jobs/5275431007",
-  "category": "SWE",
-  "posted": "2026-10-26",
-  "date_posted": 1793043267,
-  "active": true,
-  "locations": [
-   "Fort Collins, CO",
-   "Broomfield, CO"
-  ],
-  "region": "US",
-  "degrees": [
-   "Bachelor's"
-  ],
-  "sponsorship": "Other",
-  "group": "anduril|early career software engineer battlespace awareness",
-  "in_feed": true,
-  "reason": null
- },
- {
   "id": "simplify:78e650dd-5e32-4200-83e1-7ef0d9d92b0a",
   "first_seen": 1792840603,
   "company": "Perplexity AI",
@@ -7328,6 +7304,32 @@
   "group": "figma|data scientist core data",
   "in_feed": true,
   "reason": null
+ },
+ {
+  "id": "simplify:6d6de57a-a933-4e13-aa3c-2e0ee0b7d04d",
+  "first_seen": 1793064694,
+  "company": "Anduril",
+  "title": "Early Career Software Engineer - Battlespace Awareness",
+  "location": "Fort Collins, CO, Broomfield, CO",
+  "url": "https://boards.greenhouse.io/andurilindustries/jobs/5275431007",
+  "category": "SWE",
+  "posted": "2026-10-26",
+  "date_posted": 1793043267,
+  "active": false,
+  "locations": [
+   "Fort Collins, CO",
+   "Broomfield, CO"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's"
+  ],
+  "sponsorship": "Other",
+  "group": "anduril|early career software engineer battlespace awareness",
+  "in_feed": false,
+  "reason": "closed",
+  "closed_at": 1793134036,
+  "last_seen": 1793134036
  },
  {
   "id": "simplify:3557be68-fc43-4f36-88de-aeddac816ec2",
