@@ -4,28 +4,28 @@
  "repo": "Alanhsiu/jobwatch",
  "branch": "main",
  "pages_url": "https://alanhsiu.github.io/jobwatch/",
- "last_run": 1793205763,
- "last_change": 1793205763,
+ "last_run": 1793227321,
+ "last_change": 1793227321,
  "last_result": "ok",
  "feed": {
-  "records": 19154,
-  "active": 3014,
-  "fetched_at": 1793205763,
+  "records": 19180,
+  "active": 3009,
+  "fetched_at": 1793227321,
   "attempts": 1
  },
  "counts": {
-  "active": 306,
+  "active": 308,
   "closed": 295,
   "untracked": 58,
-  "groups": 265,
-  "companies": 54,
-  "new_this_run": 0,
+  "groups": 267,
+  "companies": 55,
+  "new_this_run": 2,
   "silent_known_this_run": 0,
-  "closed_this_run": 4,
+  "closed_this_run": 0,
   "untracked_this_run": 0
  },
  "rejects": {
-  "category": 137,
+  "category": 136,
   "phd": 175,
   "title": 21,
   "region": 39,
@@ -56,8 +56,8 @@
    "denied": 0
   },
   "amazon": {
-   "active": 17,
-   "all_time": 32,
+   "active": 18,
+   "all_time": 33,
    "names": [
     "Amazon"
    ],
@@ -403,9 +403,11 @@
    "denied": 0
   },
   "glean": {
-   "active": 0,
-   "all_time": 2,
-   "names": [],
+   "active": 1,
+   "all_time": 3,
+   "names": [
+    "Glean"
+   ],
    "denied": 0
   },
   "google": {
@@ -1000,8 +1002,8 @@
   }
  },
  "telegram": {
-  "mode": "none",
-  "delivered": 0,
+  "mode": "sent",
+  "delivered": 2,
   "failed_chunks": 0,
   "creds": true
  },

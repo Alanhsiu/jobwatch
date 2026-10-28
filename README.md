@@ -8,7 +8,7 @@ sync between devices through this repo. No servers, no database, no cost — a p
 bot token. This repo's tracker: **[alanhsiu.github.io/jobwatch](https://alanhsiu.github.io/jobwatch/)** (a fork gets its own at `https://<owner>.github.io/<repo>/`).
 
 <!-- JOBS:HEAD:START -->
-_306 open new-grad roles at 54 companies · list last changed 2026-10-28 · scans every ~2 h_ · **[Open the tracker](https://alanhsiu.github.io/jobwatch/)** · [Full list ↓](#current-roles) · TikTok 108 · ByteDance 34 · Amazon 17 · Shield AI 13 · Palantir 12 · Apple 9 · Anduril 8 · Microsoft 7 · …
+_308 open new-grad roles at 55 companies · list last changed 2026-10-28 · scans every ~2 h_ · **[Open the tracker](https://alanhsiu.github.io/jobwatch/)** · [Full list ↓](#current-roles) · TikTok 108 · ByteDance 34 · Amazon 18 · Shield AI 13 · Palantir 12 · Apple 9 · Anduril 8 · Microsoft 7 · …
 <!-- JOBS:HEAD:END -->
 
 ## How it works
@@ -336,8 +336,9 @@ and `.nojekyll` into `docs/`, set Pages to `/docs`, and give every device a toke
 
 </details>
 <details open>
-<summary>Amazon (17)</summary>
+<summary>Amazon (18)</summary>
 
+- [Software Developer Engineer - Product Knowledge Store](https://amazon.jobs/en/jobs/10590471/software-dev-engineer-product-knowledge-store) — Seattle, WA, United States · posted 2026-10-28 · SWE · BS
 - [Software Developer Engineer 1 - Graviton Software - Annapurna Labs](https://amazon.jobs/en/jobs/10526808/software-dev-engineer-i-graviton-software-annapurna-labs) — Austin, TX · posted 2026-10-27 · SWE · BS
 - [Software Development Engineer - Prime Video Personalization & Discovery](https://amazon.jobs/en/jobs/10412948/software-dev-engineer-prime-video-personalization-discovery) · [2](https://amazon.jobs/en/jobs/10576161/software-dev-engineer-prime-video-personalization-discovery) — Seattle, WA; Seattle, WA, NYC, Sunnyvale, CA · posted 2026-10-23 · SWE · BS/MS
 - [Software Development Engineer 1 Early Career - Annapurna Labs](https://amazon.jobs/en/jobs/10558915/software-development-engineer-i-annapurna-labs-early-career-2027) — Seattle, WA, Austin, TX, NYC · posted 2026-10-23 · SWE · BS/MS
@@ -677,6 +678,12 @@ and `.nojekyll` into `docs/`, set Pages to `/docs`, and give every device a toke
 <summary>Flow Traders (1)</summary>
 
 - [Graduate Quantitative Trader](https://job-boards.greenhouse.io/flowtraders/jobs/8094581) — NYC · posted 2026-07-29 · Quant · BS
+
+</details>
+<details open>
+<summary>Glean (1)</summary>
+
+- [Software Engineer](https://job-boards.greenhouse.io/gleanwork/jobs/4748567005) — Mountain View, CA · posted 2026-10-28 · SWE · BS
 
 </details>
 <details open>
