@@ -310,29 +310,6 @@
   "reason": null
  },
  {
-  "id": "simplify:9d5e6f80-ce26-4d6c-9b38-e69626426496",
-  "first_seen": 1792797228,
-  "company": "Microsoft",
-  "title": "Software Engineer",
-  "location": "Redmond, WA",
-  "url": "https://apply.careers.microsoft.com/careers/job/1970393557045536",
-  "category": "SWE",
-  "posted": "2026-10-23",
-  "date_posted": 1792795214,
-  "active": true,
-  "locations": [
-   "Redmond, WA"
-  ],
-  "region": "US",
-  "degrees": [
-   "Bachelor's"
-  ],
-  "sponsorship": "Other",
-  "group": "microsoft|software engineer",
-  "in_feed": true,
-  "reason": null
- },
- {
   "id": "simplify:8f92f713-831e-414a-9cc3-067cf3b3ba4f",
   "first_seen": 1792797228,
   "company": "ServiceNow",
@@ -602,32 +579,6 @@
   "reason": null
  },
  {
-  "id": "simplify:a81ea685-687e-4db9-8c99-a39d7bc2f563",
-  "first_seen": 1792625230,
-  "company": "NVIDIA",
-  "title": "High-Performance LLM Training Engineer New Grad",
-  "location": "Canada, Santa Clara, CA, United States",
-  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/High-Performance-LLM-Training-Engineer---New-College-Grad-2027_JR2028237",
-  "category": "ML",
-  "posted": "2026-10-21",
-  "date_posted": 1792540800,
-  "active": true,
-  "locations": [
-   "Canada",
-   "Santa Clara, CA",
-   "United States"
-  ],
-  "region": "US",
-  "degrees": [
-   "Master's",
-   "PhD"
-  ],
-  "sponsorship": "Other",
-  "group": "nvidia|high performance llm training engineer new grad",
-  "in_feed": true,
-  "reason": null
- },
- {
   "id": "simplify:b13f54cd-bea8-496e-90d2-fc9e388ea1ab",
   "first_seen": 1792543267,
   "company": "AQR Capital Management",
@@ -648,30 +599,6 @@
   ],
   "sponsorship": "Other",
   "group": "aqr capital management|software engineer",
-  "in_feed": true,
-  "reason": null
- },
- {
-  "id": "simplify:ca7b6f2d-22c2-4d9a-baab-b5e91077acc8",
-  "first_seen": 1792543267,
-  "company": "Microsoft",
-  "title": "Software Engineer",
-  "location": "Redmond, WA",
-  "url": "https://apply.careers.microsoft.com/careers/job/1970393557039399",
-  "category": "SWE",
-  "posted": "2026-10-20",
-  "date_posted": 1792535028,
-  "active": true,
-  "locations": [
-   "Redmond, WA"
-  ],
-  "region": "US",
-  "degrees": [
-   "Bachelor's",
-   "Master's"
-  ],
-  "sponsorship": "Other",
-  "group": "microsoft|software engineer",
   "in_feed": true,
   "reason": null
  },
@@ -747,29 +674,6 @@
   ],
   "sponsorship": "Other",
   "group": "palantir|software engineer new grad query engines",
-  "in_feed": true,
-  "reason": null
- },
- {
-  "id": "simplify:d848615a-0d50-478c-a92e-2dda9489542c",
-  "first_seen": 1792568912,
-  "company": "NVIDIA",
-  "title": "Software Engineer New Grad - Agent Performance Modeling",
-  "location": "Santa Clara, CA",
-  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--Agent-Performance-Modeling---New-College-Grad-2026_JR2028350",
-  "category": "SWE",
-  "posted": "2026-10-20",
-  "date_posted": 1792454400,
-  "active": true,
-  "locations": [
-   "Santa Clara, CA"
-  ],
-  "region": "US",
-  "degrees": [
-   "Master's"
-  ],
-  "sponsorship": "Other",
-  "group": "nvidia|software engineer new grad agent performance modeling",
   "in_feed": true,
   "reason": null
  },
@@ -7645,6 +7549,31 @@
   "last_seen": 1793134036
  },
  {
+  "id": "simplify:9d5e6f80-ce26-4d6c-9b38-e69626426496",
+  "first_seen": 1792797228,
+  "company": "Microsoft",
+  "title": "Software Engineer",
+  "location": "Redmond, WA",
+  "url": "https://apply.careers.microsoft.com/careers/job/1970393557045536",
+  "category": "SWE",
+  "posted": "2026-10-23",
+  "date_posted": 1792795214,
+  "active": false,
+  "locations": [
+   "Redmond, WA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's"
+  ],
+  "sponsorship": "Other",
+  "group": "microsoft|software engineer",
+  "in_feed": false,
+  "reason": "closed",
+  "closed_at": 1793205763,
+  "last_seen": 1793205763
+ },
+ {
   "id": "simplify:3557be68-fc43-4f36-88de-aeddac816ec2",
   "first_seen": 1792797228,
   "company": "Perplexity AI",
@@ -7696,6 +7625,60 @@
   "last_seen": 1792780150
  },
  {
+  "id": "simplify:a81ea685-687e-4db9-8c99-a39d7bc2f563",
+  "first_seen": 1792625230,
+  "company": "NVIDIA",
+  "title": "High-Performance LLM Training Engineer New Grad",
+  "location": "Canada, Santa Clara, CA, United States",
+  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/High-Performance-LLM-Training-Engineer---New-College-Grad-2027_JR2028237",
+  "category": "ML",
+  "posted": "2026-10-21",
+  "date_posted": 1792540800,
+  "active": false,
+  "locations": [
+   "Canada",
+   "Santa Clara, CA",
+   "United States"
+  ],
+  "region": "US",
+  "degrees": [
+   "Master's",
+   "PhD"
+  ],
+  "sponsorship": "Other",
+  "group": "nvidia|high performance llm training engineer new grad",
+  "in_feed": false,
+  "reason": "closed",
+  "closed_at": 1793205763,
+  "last_seen": 1793205763
+ },
+ {
+  "id": "simplify:ca7b6f2d-22c2-4d9a-baab-b5e91077acc8",
+  "first_seen": 1792543267,
+  "company": "Microsoft",
+  "title": "Software Engineer",
+  "location": "Redmond, WA",
+  "url": "https://apply.careers.microsoft.com/careers/job/1970393557039399",
+  "category": "SWE",
+  "posted": "2026-10-20",
+  "date_posted": 1792535028,
+  "active": false,
+  "locations": [
+   "Redmond, WA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "microsoft|software engineer",
+  "in_feed": false,
+  "reason": "closed",
+  "closed_at": 1793205763,
+  "last_seen": 1793205763
+ },
+ {
   "id": "simplify:33da640d-5eb4-4a66-b577-c2ec5f60bcf3",
   "first_seen": 1792543267,
   "company": "Microsoft",
@@ -7720,6 +7703,31 @@
   "reason": "closed",
   "closed_at": 1793112003,
   "last_seen": 1793112003
+ },
+ {
+  "id": "simplify:d848615a-0d50-478c-a92e-2dda9489542c",
+  "first_seen": 1792568912,
+  "company": "NVIDIA",
+  "title": "Software Engineer New Grad - Agent Performance Modeling",
+  "location": "Santa Clara, CA",
+  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--Agent-Performance-Modeling---New-College-Grad-2026_JR2028350",
+  "category": "SWE",
+  "posted": "2026-10-20",
+  "date_posted": 1792454400,
+  "active": false,
+  "locations": [
+   "Santa Clara, CA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "nvidia|software engineer new grad agent performance modeling",
+  "in_feed": false,
+  "reason": "closed",
+  "closed_at": 1793205763,
+  "last_seen": 1793205763
  },
  {
   "id": "simplify:946bbff5-9d0d-4834-8b42-b696719861f5",
