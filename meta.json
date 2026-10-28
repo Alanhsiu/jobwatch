@@ -4,31 +4,31 @@
  "repo": "Alanhsiu/jobwatch",
  "branch": "main",
  "pages_url": "https://alanhsiu.github.io/jobwatch/",
- "last_run": 1793134036,
- "last_change": 1793134036,
+ "last_run": 1793150869,
+ "last_change": 1793150869,
  "last_result": "ok",
  "feed": {
-  "records": 19051,
-  "active": 2926,
-  "fetched_at": 1793134036,
+  "records": 19100,
+  "active": 2960,
+  "fetched_at": 1793150869,
   "attempts": 1
  },
  "counts": {
-  "active": 298,
-  "closed": 288,
+  "active": 303,
+  "closed": 290,
   "untracked": 58,
-  "groups": 254,
-  "companies": 52,
-  "new_this_run": 0,
+  "groups": 260,
+  "companies": 53,
+  "new_this_run": 7,
   "silent_known_this_run": 0,
-  "closed_this_run": 1,
+  "closed_this_run": 2,
   "untracked_this_run": 0
  },
  "rejects": {
-  "category": 126,
-  "phd": 173,
+  "category": 131,
+  "phd": 172,
   "title": 20,
-  "region": 38,
+  "region": 39,
   "sponsorship": 0,
   "age": 19
  },
@@ -48,7 +48,7 @@
    "denied": 0
   },
   "akuna": {
-   "active": 4,
+   "active": 3,
    "all_time": 5,
    "names": [
     "Akuna Capital University"
@@ -56,8 +56,8 @@
    "denied": 0
   },
   "amazon": {
-   "active": 16,
-   "all_time": 31,
+   "active": 17,
+   "all_time": 32,
    "names": [
     "Amazon"
    ],
@@ -267,9 +267,11 @@
    "denied": 0
   },
   "databricks": {
-   "active": 0,
-   "all_time": 0,
-   "names": [],
+   "active": 2,
+   "all_time": 2,
+   "names": [
+    "Databricks"
+   ],
    "denied": 0
   },
   "datadog": {
@@ -583,7 +585,7 @@
    "denied": 0
   },
   "nvidia": {
-   "active": 8,
+   "active": 7,
    "all_time": 32,
    "names": [
     "NVIDIA"
@@ -741,8 +743,8 @@
    "denied": 0
   },
   "sambanova": {
-   "active": 1,
-   "all_time": 2,
+   "active": 4,
+   "all_time": 5,
    "names": [
     "SambaNova Systems"
    ],
@@ -763,8 +765,8 @@
    "denied": 0
   },
   "servicenow": {
-   "active": 2,
-   "all_time": 11,
+   "active": 3,
+   "all_time": 12,
    "names": [
     "ServiceNow"
    ],
@@ -996,8 +998,8 @@
   }
  },
  "telegram": {
-  "mode": "none",
-  "delivered": 0,
+  "mode": "sent",
+  "delivered": 7,
   "failed_chunks": 0,
   "creds": true
  },
