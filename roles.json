@@ -172,6 +172,77 @@
   "reason": null
  },
  {
+  "id": "simplify:d08ceabe-f3ba-46d0-ac76-e4809c9fe1e9",
+  "first_seen": 1793177023,
+  "company": "Shield AI",
+  "title": "Autonomous Software Engineer New Grad",
+  "location": "San Diego, CA",
+  "url": "https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/c0735824-2b3c-46a2-a888-99e7376a9606/application?embed=true",
+  "category": "HW",
+  "posted": "2026-10-27",
+  "date_posted": 1793059200,
+  "active": true,
+  "locations": [
+   "San Diego, CA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's",
+   "PhD"
+  ],
+  "sponsorship": "Other",
+  "group": "shield ai|autonomous software engineer new grad",
+  "in_feed": true,
+  "reason": null
+ },
+ {
+  "id": "simplify:b3968d77-3489-4bef-9ff3-acd12708ba23",
+  "first_seen": 1793177023,
+  "company": "Shield AI",
+  "title": "Software Engineer 2 New Grad",
+  "location": "Washington, DC",
+  "url": "https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/0e7ecf76-b4f6-4159-aa44-4814af263c86/application?embed=true",
+  "category": "SWE",
+  "posted": "2026-10-27",
+  "date_posted": 1793059200,
+  "active": true,
+  "locations": [
+   "Washington, DC"
+  ],
+  "region": "US",
+  "degrees": [
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "shield ai|software engineer 2 new grad",
+  "in_feed": true,
+  "reason": null
+ },
+ {
+  "id": "simplify:50363c94-1c17-4034-909d-b4b47a67fe3f",
+  "first_seen": 1793177023,
+  "company": "Shield AI",
+  "title": "Software Integration Engineer 1 New Grad - Software Integration",
+  "location": "Washington, DC",
+  "url": "https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/bffebf59-65b7-4f4f-805e-a9cdf0d2b252/application?embed=true",
+  "category": "SWE",
+  "posted": "2026-10-27",
+  "date_posted": 1793059200,
+  "active": true,
+  "locations": [
+   "Washington, DC"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's"
+  ],
+  "sponsorship": "Other",
+  "group": "shield ai|software integration engineer 1 new grad software integration",
+  "in_feed": true,
+  "reason": null
+ },
+ {
   "id": "simplify:add2af69-d211-451e-87a2-8feb56317943",
   "first_seen": 1793064694,
   "company": "Microsoft",
@@ -213,31 +284,6 @@
   "degrees": [],
   "sponsorship": "Other",
   "group": "tesla|data collection coordinator optimus",
-  "in_feed": true,
-  "reason": null
- },
- {
-  "id": "simplify:ffedf0e5-2d73-47af-aa9d-0ef0ae4b42d6",
-  "first_seen": 1793150869,
-  "company": "ServiceNow",
-  "title": "Software Engineer New Grad - AI/ML",
-  "location": "Mountain View, CA",
-  "url": "https://jobs.smartrecruiters.com/ServiceNow/744000157900224",
-  "category": "SWE",
-  "posted": "2026-10-26",
-  "date_posted": 1793043857,
-  "active": true,
-  "locations": [
-   "Mountain View, CA"
-  ],
-  "region": "US",
-  "degrees": [
-   "Bachelor's",
-   "Master's",
-   "PhD"
-  ],
-  "sponsorship": "Other",
-  "group": "servicenow|software engineer new grad ai ml",
   "in_feed": true,
   "reason": null
  },
@@ -458,6 +504,29 @@
   ],
   "sponsorship": "Other",
   "group": "amazon|software development engineer embedded systems",
+  "in_feed": true,
+  "reason": null
+ },
+ {
+  "id": "simplify:74eb4b4b-ac29-4bdc-90f3-f70b743e4c06",
+  "first_seen": 1793177023,
+  "company": "Shield AI",
+  "title": "Software Engineer New Grad",
+  "location": "Seattle, WA",
+  "url": "https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/986a26e9-0597-4402-85ee-0f05a6012902/application?embed=true",
+  "category": "SWE",
+  "posted": "2026-10-23",
+  "date_posted": 1792713600,
+  "active": true,
+  "locations": [
+   "Seattle, WA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's"
+  ],
+  "sponsorship": "Other",
+  "group": "shield ai|software engineer new grad",
   "in_feed": true,
   "reason": null
  },
@@ -1211,6 +1280,77 @@
   "reason": null
  },
  {
+  "id": "simplify:ccb8858f-f999-4876-80d4-80def8494834",
+  "first_seen": 1793177023,
+  "company": "Shield AI",
+  "title": "Autonomy Engineer-Behavior and Motion Planning",
+  "location": "San Diego, CA",
+  "url": "https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/f3b10e8f-51b7-42e6-94d1-075934eeb716/application?embed=true",
+  "category": "ML",
+  "posted": "2026-10-07",
+  "date_posted": 1791331200,
+  "active": true,
+  "locations": [
+   "San Diego, CA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's",
+   "PhD"
+  ],
+  "sponsorship": "Other",
+  "group": "shield ai|autonomy engineer behavior and motion planning",
+  "in_feed": true,
+  "reason": null
+ },
+ {
+  "id": "simplify:9c20706d-1c36-49c7-a6d2-07c92520bf94",
+  "first_seen": 1793177023,
+  "company": "Shield AI",
+  "title": "Simulation Framework Engineer - Simulation Framework",
+  "location": "Washington, DC",
+  "url": "https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/f5ea96c5-7d70-4058-adec-16be606f5ad3/application?embed=true",
+  "category": "SWE",
+  "posted": "2026-10-07",
+  "date_posted": 1791331200,
+  "active": true,
+  "locations": [
+   "Washington, DC"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's"
+  ],
+  "sponsorship": "Other",
+  "group": "shield ai|simulation framework engineer simulation framework",
+  "in_feed": true,
+  "reason": null
+ },
+ {
+  "id": "simplify:4be638e1-80b0-4aa7-ac1f-416839d623c1",
+  "first_seen": 1793177023,
+  "company": "Shield AI",
+  "title": "Simulation Framework Engineer 2",
+  "location": "San Diego, CA",
+  "url": "https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/a9e2509c-fa35-4bf7-b50d-a557666b629d/application?embed=true",
+  "category": "SWE",
+  "posted": "2026-10-07",
+  "date_posted": 1791331200,
+  "active": true,
+  "locations": [
+   "San Diego, CA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "shield ai|simulation framework engineer 2",
+  "in_feed": true,
+  "reason": null
+ },
+ {
   "id": "simplify:f28161fe-bd49-4abe-9430-703600ec69d6",
   "first_seen": 1791337144,
   "company": "Shield AI",
@@ -1828,6 +1968,29 @@
   ],
   "sponsorship": "Other",
   "group": "anduril|software engineer battlespace awareness",
+  "in_feed": true,
+  "reason": null
+ },
+ {
+  "id": "simplify:0af222fe-d297-4bd0-b4d2-f9bdfb0708ac",
+  "first_seen": 1793177023,
+  "company": "Old Mission",
+  "title": "Floor Trader New Grad",
+  "location": "Chicago, IL",
+  "url": "https://jobs.ashbyhq.com/old-mission-capital/f41d3ded-526b-49e2-9cad-21223b048161/application?embed=true",
+  "category": "Quant",
+  "posted": "2026-09-16",
+  "date_posted": 1789516800,
+  "active": true,
+  "locations": [
+   "Chicago, IL"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's"
+  ],
+  "sponsorship": "Other",
+  "group": "old mission|floor trader new grad",
   "in_feed": true,
   "reason": null
  },
@@ -7427,6 +7590,33 @@
   "group": "figma|data scientist core data",
   "in_feed": true,
   "reason": null
+ },
+ {
+  "id": "simplify:ffedf0e5-2d73-47af-aa9d-0ef0ae4b42d6",
+  "first_seen": 1793150869,
+  "company": "ServiceNow",
+  "title": "Software Engineer New Grad - AI/ML",
+  "location": "Mountain View, CA",
+  "url": "https://jobs.smartrecruiters.com/ServiceNow/744000157900224",
+  "category": "SWE",
+  "posted": "2026-10-26",
+  "date_posted": 1793043857,
+  "active": false,
+  "locations": [
+   "Mountain View, CA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's",
+   "PhD"
+  ],
+  "sponsorship": "Other",
+  "group": "servicenow|software engineer new grad ai ml",
+  "in_feed": false,
+  "reason": "closed",
+  "closed_at": 1793177023,
+  "last_seen": 1793177023
  },
  {
   "id": "simplify:6d6de57a-a933-4e13-aa3c-2e0ee0b7d04d",

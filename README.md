@@ -8,7 +8,7 @@ sync between devices through this repo. No servers, no database, no cost — a p
 bot token. This repo's tracker: **[alanhsiu.github.io/jobwatch](https://alanhsiu.github.io/jobwatch/)** (a fork gets its own at `https://<owner>.github.io/<repo>/`).
 
 <!-- JOBS:HEAD:START -->
-_303 open new-grad roles at 53 companies · list last changed 2026-10-28 · scans every ~2 h_ · **[Open the tracker](https://alanhsiu.github.io/jobwatch/)** · [Full list ↓](#current-roles) · TikTok 108 · ByteDance 34 · Amazon 17 · Palantir 12 · Apple 9 · Microsoft 9 · Anduril 8 · NVIDIA 7 · …
+_310 open new-grad roles at 54 companies · list last changed 2026-10-28 · scans every ~2 h_ · **[Open the tracker](https://alanhsiu.github.io/jobwatch/)** · [Full list ↓](#current-roles) · TikTok 108 · ByteDance 34 · Amazon 17 · Shield AI 13 · Palantir 12 · Apple 9 · Microsoft 9 · Anduril 8 · …
 <!-- JOBS:HEAD:END -->
 
 ## How it works
@@ -357,6 +357,24 @@ and `.nojekyll` into `docs/`, set Pages to `/docs`, and give every device a toke
 
 </details>
 <details open>
+<summary>Shield AI (13)</summary>
+
+- [Autonomous Software Engineer New Grad](https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/c0735824-2b3c-46a2-a888-99e7376a9606/application?embed=true) — San Diego, CA · posted 2026-10-27 · HW · BS/MS/PhD
+- [Software Engineer 2 New Grad](https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/0e7ecf76-b4f6-4159-aa44-4814af263c86/application?embed=true) — Washington, DC · posted 2026-10-27 · SWE · MS
+- [Software Integration Engineer 1 New Grad - Software Integration](https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/bffebf59-65b7-4f4f-805e-a9cdf0d2b252/application?embed=true) — Washington, DC · posted 2026-10-27 · SWE · BS
+- [Software Engineer 1 New Grad](https://jobs.lever.co/shieldai/633a3038-574c-45ff-babb-7e1b8b7c6196/apply) — Seattle, WA · posted 2026-10-23 · SWE · BS
+- [Software Engineer New Grad](https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/986a26e9-0597-4402-85ee-0f05a6012902/application?embed=true) — Seattle, WA · posted 2026-10-23 · SWE · BS
+- [Software Engineer 1 - Factory Team](https://jobs.lever.co/shieldai/59e0cf9b-04d7-43c0-8a65-9d411fe56c68/apply) — Washington, DC · posted 2026-10-10 · SWE · BS
+- [Software Integration Engineer 1 - Software Integration](https://jobs.lever.co/shieldai/7c8aaf63-ab92-4c0f-8a54-9cf1ce07ca69/apply) — Washington, DC · posted 2026-10-09 · HW · BS
+- [Simulation Framework Engineer 1](https://jobs.lever.co/shieldai/71a4617f-c917-4536-bbf1-8d11d04d8cba/apply) — Washington, DC · posted 2026-10-07 · SWE · BS
+- [Simulation Framework Engineer 2 - Simulation Framework](https://jobs.lever.co/shieldai/39a7aa1b-9988-4ac7-ade9-12dd16cbae62/apply) — San Diego, CA · posted 2026-10-07 · SWE · MS
+- [Autonomy Engineer-Behavior and Motion Planning](https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/f3b10e8f-51b7-42e6-94d1-075934eeb716/application?embed=true) — San Diego, CA · posted 2026-10-07 · ML · BS/MS/PhD
+- [Simulation Framework Engineer - Simulation Framework](https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/f5ea96c5-7d70-4058-adec-16be606f5ad3/application?embed=true) — Washington, DC · posted 2026-10-07 · SWE · BS
+- [Simulation Framework Engineer 2](https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/a9e2509c-fa35-4bf7-b50d-a557666b629d/application?embed=true) — San Diego, CA · posted 2026-10-07 · SWE · MS
+- [Software Development Engineer New Grad](https://jobs.lever.co/shieldai/79c3b65f-ce0c-4868-bedf-4ddcc4cfe583/apply) — San Diego, CA · posted 2026-10-06 · ML · BS/MS/PhD
+
+</details>
+<details open>
 <summary>Palantir (12)</summary>
 
 - [Forward Deployed Software Engineer New Grad](https://jobs.lever.co/palantir/66b495eb-aaf9-4bf9-a759-41854534add7/apply) · [2](https://jobs.lever.co/palantir/cbe90327-3e6e-451c-a54c-1d3cbcef5aeb/apply) · [3](https://jobs.lever.co/palantir/d1ac83d0-e923-42a5-8e6d-58dd0cab25ca/apply) · [4](https://jobs.lever.co/palantir/fbca0358-083a-4222-bdbb-3bd729b48382/apply) — NYC; Washington, DC · posted 2026-10-22 · SWE · BS
@@ -411,17 +429,6 @@ and `.nojekyll` into `docs/`, set Pages to `/docs`, and give every device a toke
 - [Applied Machine Learning Engineer - AI for VLSI Design](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Applied-Machine-Learning-Engineer--AI-for-VLSI-Design---New-College-Grad-2026_JR2026576) — Santa Clara, CA · posted 2026-09-29 · ML · MS/PhD
 - [Architecture Energy Modeling Engineer - Power Modeling, Methodology and Analysis](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Architecture-Energy-Modeling-Engineer---New-College-Grad-2026_JR2023398) — Santa Clara, CA · posted 2026-08-21 · ML · MS/PhD
 - [Software Engineer New Grad - Hardware Tools and Methodology](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--Hardware-Tools-and-Methodology---New-College-Grad-2026_JR2018659) — Santa Clara, CA · posted 2026-06-03 · SWE · MS/PhD
-
-</details>
-<details open>
-<summary>Shield AI (6)</summary>
-
-- [Software Engineer 1 New Grad](https://jobs.lever.co/shieldai/633a3038-574c-45ff-babb-7e1b8b7c6196/apply) — Seattle, WA · posted 2026-10-23 · SWE · BS
-- [Software Engineer 1 - Factory Team](https://jobs.lever.co/shieldai/59e0cf9b-04d7-43c0-8a65-9d411fe56c68/apply) — Washington, DC · posted 2026-10-10 · SWE · BS
-- [Software Integration Engineer 1 - Software Integration](https://jobs.lever.co/shieldai/7c8aaf63-ab92-4c0f-8a54-9cf1ce07ca69/apply) — Washington, DC · posted 2026-10-09 · HW · BS
-- [Simulation Framework Engineer 1](https://jobs.lever.co/shieldai/71a4617f-c917-4536-bbf1-8d11d04d8cba/apply) — Washington, DC · posted 2026-10-07 · SWE · BS
-- [Simulation Framework Engineer 2 - Simulation Framework](https://jobs.lever.co/shieldai/39a7aa1b-9988-4ac7-ade9-12dd16cbae62/apply) — San Diego, CA · posted 2026-10-07 · SWE · MS
-- [Software Development Engineer New Grad](https://jobs.lever.co/shieldai/79c3b65f-ce0c-4868-bedf-4ddcc4cfe583/apply) — San Diego, CA · posted 2026-10-06 · ML · BS/MS/PhD
 
 </details>
 <details open>
@@ -517,14 +524,6 @@ and `.nojekyll` into `docs/`, set Pages to `/docs`, and give every device a toke
 
 </details>
 <details open>
-<summary>ServiceNow (3)</summary>
-
-- [Software Engineer New Grad - AI/ML](https://jobs.smartrecruiters.com/ServiceNow/744000157900224) — Mountain View, CA · posted 2026-10-26 · SWE · BS/MS/PhD
-- [Associate Software Engineer](https://jobs.smartrecruiters.com/ServiceNow/744000157571919) — Santa Clara, CA · posted 2026-10-23 · SWE
-- [Software Engineer](https://jobs.smartrecruiters.com/ServiceNow/744000149338366) — West Palm Beach, FL · posted 2026-09-14 · SWE
-
-</details>
-<details open>
 <summary>Two Sigma (3)</summary>
 
 - [Software Engineer](https://twosigma.avature.net/careers/JobDetail/14018) · [2](https://twosigma.avature.net/careers/JobDetail/14014) — Houston, TX; NYC · posted 2026-09-08 · SWE · BS/MS/PhD
@@ -591,6 +590,13 @@ and `.nojekyll` into `docs/`, set Pages to `/docs`, and give every device a toke
 
 - [Software Engineer New Grad - Public Sector](https://job-boards.greenhouse.io/scaleai/jobs/4736426005) — SF · posted 2026-09-23 · SWE · BS
 - [Software Engineer New Grad](https://job-boards.greenhouse.io/scaleai/jobs/4730836005) — SF · posted 2026-09-04 · SWE · BS
+
+</details>
+<details open>
+<summary>ServiceNow (2)</summary>
+
+- [Associate Software Engineer](https://jobs.smartrecruiters.com/ServiceNow/744000157571919) — Santa Clara, CA · posted 2026-10-23 · SWE
+- [Software Engineer](https://jobs.smartrecruiters.com/ServiceNow/744000149338366) — West Palm Beach, FL · posted 2026-09-14 · SWE
 
 </details>
 <details open>
@@ -685,6 +691,12 @@ and `.nojekyll` into `docs/`, set Pages to `/docs`, and give every device a toke
 <summary>Marshall Wace (1)</summary>
 
 - [Quant Research - Quantitative Associate Programme](https://job-boards.greenhouse.io/mw-tech-grad/jobs/8636830002) — London, UK, NYC · posted 2026-08-26 · Quant
+
+</details>
+<details open>
+<summary>Old Mission (1)</summary>
+
+- [Floor Trader New Grad](https://jobs.ashbyhq.com/old-mission-capital/f41d3ded-526b-49e2-9cad-21223b048161/application?embed=true) — Chicago, IL · posted 2026-09-16 · Quant · BS
 
 </details>
 <details open>
