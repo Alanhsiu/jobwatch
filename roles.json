@@ -1,5 +1,75 @@
 [
  {
+  "id": "simplify:72726ef8-aae1-4aa6-835c-d5e4330af956",
+  "first_seen": 1793318366,
+  "company": "Amazon",
+  "title": "Software Privacy Engineer - Multiple Teams",
+  "location": "Bellevue, WA",
+  "url": "https://amazon.jobs/en/jobs/10592045/software-privacy-engineer-trust-platform-automation-devices-services-trust-privacy-and-accessibility-tpa",
+  "category": "SWE",
+  "posted": "2026-10-29",
+  "date_posted": 1793314209,
+  "active": true,
+  "locations": [
+   "Bellevue, WA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's"
+  ],
+  "sponsorship": "Other",
+  "group": "amazon|software privacy engineer multiple teams",
+  "in_feed": true,
+  "reason": null
+ },
+ {
+  "id": "simplify:22b41b69-61b2-4b32-88f6-61e9f4d4643d",
+  "first_seen": 1793318366,
+  "company": "Amazon",
+  "title": "Software Development Engineer",
+  "location": "Cupertino, CA",
+  "url": "https://amazon.jobs/en/jobs/10592066/software-development-engineer",
+  "category": "SWE",
+  "posted": "2026-10-29",
+  "date_posted": 1793314195,
+  "active": true,
+  "locations": [
+   "Cupertino, CA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's"
+  ],
+  "sponsorship": "Other",
+  "group": "amazon|software development engineer",
+  "in_feed": true,
+  "reason": null
+ },
+ {
+  "id": "simplify:9a3695ac-1a31-44db-b722-e95874988482",
+  "first_seen": 1793318366,
+  "company": "Amazon",
+  "title": "Applied Scientist - North America Sort Centers - Amazon Transportation Services",
+  "location": "Bellevue, WA",
+  "url": "https://amazon.jobs/en/jobs/10592906/applied-scientist-north-america-sort-centers-amazon-transportation-services-north-america-sort-centers-amazon-transportation-services",
+  "category": "ML",
+  "posted": "2026-10-29",
+  "date_posted": 1793314191,
+  "active": true,
+  "locations": [
+   "Bellevue, WA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Master's",
+   "PhD"
+  ],
+  "sponsorship": "Other",
+  "group": "amazon|applied scientist north america sort centers amazon transportation services",
+  "in_feed": true,
+  "reason": null
+ },
+ {
   "id": "simplify:4b410012-08f3-48f8-8a2a-d71ca89a4191",
   "first_seen": 1793227321,
   "company": "Amazon",
