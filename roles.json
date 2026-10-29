@@ -603,30 +603,6 @@
   "reason": null
  },
  {
-  "id": "simplify:f0af7b08-4219-47f9-bdb7-9ff2e900dcc8",
-  "first_seen": 1792670761,
-  "company": "Amazon",
-  "title": "Software Development Engineer 1 - AI/ML Network Infrastructure",
-  "location": "Cupertino, CA",
-  "url": "https://amazon.jobs/en/jobs/10490741/software-development-engineer-i-ai-ml-network-infrastructure-annapurna-labs",
-  "category": "SWE",
-  "posted": "2026-10-22",
-  "date_posted": 1792649750,
-  "active": true,
-  "locations": [
-   "Cupertino, CA"
-  ],
-  "region": "US",
-  "degrees": [
-   "Bachelor's",
-   "Master's"
-  ],
-  "sponsorship": "Other",
-  "group": "amazon|software development engineer 1 ai ml network infrastructure",
-  "in_feed": true,
-  "reason": null
- },
- {
   "id": "simplify:b13f54cd-bea8-496e-90d2-fc9e388ea1ab",
   "first_seen": 1792543267,
   "company": "AQR Capital Management",
@@ -921,6 +897,27 @@
   "degrees": [],
   "sponsorship": "Other",
   "group": "figure|data quality analyst",
+  "in_feed": true,
+  "reason": null
+ },
+ {
+  "id": "simplify:1fa2c9e1-e059-42a4-b327-8391cb6596fc",
+  "first_seen": 1793280001,
+  "company": "Cloudflare",
+  "title": "Systems Engineer - Browser Isolation",
+  "location": "United States",
+  "url": "https://boards.greenhouse.io/cloudflare/jobs/8276155",
+  "category": "SWE",
+  "posted": "2026-10-13",
+  "date_posted": 1791929196,
+  "active": true,
+  "locations": [
+   "United States"
+  ],
+  "region": "US",
+  "degrees": [],
+  "sponsorship": "Other",
+  "group": "cloudflare|systems engineer browser isolation",
   "in_feed": true,
   "reason": null
  },
@@ -2594,6 +2591,54 @@
   "group": "tiktok|machine learning engineer graduate e commerce recommendation video",
   "in_feed": true,
   "reason": null
+ },
+ {
+  "id": "simplify:2c1a920f-ed76-4384-9a74-6cf0d01a9123",
+  "company": "Bridgewater Associates",
+  "title": "Trading Associate",
+  "location": "Westport, CT",
+  "url": "https://job-boards.greenhouse.io/bridgewater89/jobs/8750718002",
+  "category": "Quant",
+  "posted": "2026-08-26",
+  "date_posted": 1787784238,
+  "active": true,
+  "first_seen": 1787804808.9766827,
+  "last_seen": 1788397308.120081,
+  "in_feed": true,
+  "reason": null,
+  "group": "bridgewater associates|trading associate",
+  "locations": [
+   "Westport, CT"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's"
+  ],
+  "sponsorship": "Other"
+ },
+ {
+  "id": "simplify:bbfd547f-84e0-4194-8f94-d9fd13af41da",
+  "company": "Bridgewater Associates",
+  "title": "Trading Associate",
+  "location": "Westport, CT",
+  "url": "https://job-boards.greenhouse.io/bwaltpostings/jobs/8750719002",
+  "category": "Quant",
+  "posted": "2026-08-26",
+  "date_posted": 1787781886,
+  "active": true,
+  "first_seen": 1787804808.9766827,
+  "last_seen": 1788397308.120081,
+  "in_feed": true,
+  "reason": null,
+  "group": "bridgewater associates|trading associate",
+  "locations": [
+   "Westport, CT"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's"
+  ],
+  "sponsorship": "Other"
  },
  {
   "id": "simplify:b9818860-8ae5-4d0d-85c4-fa881f59838a",
@@ -7646,6 +7691,32 @@
   "last_seen": 1792840603
  },
  {
+  "id": "simplify:f0af7b08-4219-47f9-bdb7-9ff2e900dcc8",
+  "first_seen": 1792670761,
+  "company": "Amazon",
+  "title": "Software Development Engineer 1 - AI/ML Network Infrastructure",
+  "location": "Cupertino, CA",
+  "url": "https://amazon.jobs/en/jobs/10490741/software-development-engineer-i-ai-ml-network-infrastructure-annapurna-labs",
+  "category": "SWE",
+  "posted": "2026-10-22",
+  "date_posted": 1792649750,
+  "active": false,
+  "locations": [
+   "Cupertino, CA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "amazon|software development engineer 1 ai ml network infrastructure",
+  "in_feed": false,
+  "reason": "closed",
+  "closed_at": 1793280001,
+  "last_seen": 1793280001
+ },
+ {
   "id": "simplify:26d84509-a16b-4556-99f7-18329fa61191",
   "first_seen": 1792568912,
   "company": "Amazon",
@@ -9439,23 +9510,6 @@
   "closed_at": 1791964053
  },
  {
-  "id": "simplify:2c1a920f-ed76-4384-9a74-6cf0d01a9123",
-  "company": "Bridgewater Associates",
-  "title": "Trading Associate",
-  "location": "Westport, CT",
-  "url": "https://job-boards.greenhouse.io/bridgewater89/jobs/8750718002",
-  "category": "Quant",
-  "posted": "2026-08-26",
-  "date_posted": 1787784238,
-  "active": false,
-  "first_seen": 1787804808.9766827,
-  "last_seen": 1788397308.120081,
-  "in_feed": false,
-  "closed_at": 1788397308,
-  "reason": "closed",
-  "group": "bridgewater associates|trading associate"
- },
- {
   "id": "simplify:ad7fc6cf-4649-4523-8f4a-2b113297ea41",
   "company": "Anduril",
   "title": "Agentic AI Engineer - Automation",
@@ -9480,23 +9534,6 @@
   "in_feed": false,
   "reason": "closed",
   "closed_at": 1792197331
- },
- {
-  "id": "simplify:bbfd547f-84e0-4194-8f94-d9fd13af41da",
-  "company": "Bridgewater Associates",
-  "title": "Trading Associate",
-  "location": "Westport, CT",
-  "url": "https://job-boards.greenhouse.io/bwaltpostings/jobs/8750719002",
-  "category": "Quant",
-  "posted": "2026-08-26",
-  "date_posted": 1787781886,
-  "active": false,
-  "first_seen": 1787804808.9766827,
-  "last_seen": 1788397308.120081,
-  "in_feed": false,
-  "closed_at": 1788397308,
-  "reason": "closed",
-  "group": "bridgewater associates|trading associate"
  },
  {
   "id": "simplify:143cf8b4-9bbc-484e-b9c2-cbebf98d57e9",
