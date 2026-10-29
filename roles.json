@@ -220,6 +220,30 @@
   "reason": null
  },
  {
+  "id": "simplify:fcd88c67-d6d6-41a6-9f32-1b0db5954dd6",
+  "first_seen": 1793302965,
+  "company": "Salesforce",
+  "title": "Software Engineer New Grad",
+  "location": "Indianapolis, IN, Dallas, TX",
+  "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Indiana---Indianapolis/Software-Engineering-MTS_JR363598",
+  "category": "SWE",
+  "posted": "2026-10-27",
+  "date_posted": 1793059200,
+  "active": true,
+  "locations": [
+   "Indianapolis, IN",
+   "Dallas, TX"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's"
+  ],
+  "sponsorship": "Other",
+  "group": "salesforce|software engineer new grad",
+  "in_feed": true,
+  "reason": null
+ },
+ {
   "id": "simplify:d08ceabe-f3ba-46d0-ac76-e4809c9fe1e9",
   "first_seen": 1793177023,
   "company": "Shield AI",

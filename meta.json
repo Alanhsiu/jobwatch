@@ -4,31 +4,31 @@
  "repo": "Alanhsiu/jobwatch",
  "branch": "main",
  "pages_url": "https://alanhsiu.github.io/jobwatch/",
- "last_run": 1793280001,
- "last_change": 1793280001,
+ "last_run": 1793302965,
+ "last_change": 1793302965,
  "last_result": "ok",
  "feed": {
-  "records": 19143,
-  "active": 3058,
-  "fetched_at": 1793280001,
+  "records": 19152,
+  "active": 3068,
+  "fetched_at": 1793302965,
   "attempts": 1
  },
  "counts": {
-  "active": 310,
+  "active": 311,
   "closed": 294,
   "untracked": 58,
-  "groups": 268,
+  "groups": 269,
   "companies": 57,
   "new_this_run": 1,
   "silent_known_this_run": 0,
-  "closed_this_run": 1,
+  "closed_this_run": 0,
   "untracked_this_run": 0
  },
  "rejects": {
-  "category": 139,
+  "category": 140,
   "phd": 175,
   "title": 22,
-  "region": 38,
+  "region": 36,
   "sponsorship": 0,
   "age": 33
  },
@@ -743,8 +743,8 @@
    "denied": 0
   },
   "salesforce": {
-   "active": 3,
-   "all_time": 8,
+   "active": 4,
+   "all_time": 9,
    "names": [
     "Salesforce"
    ],
