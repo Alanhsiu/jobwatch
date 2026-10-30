@@ -8,7 +8,7 @@ sync between devices through this repo. No servers, no database, no cost — a p
 bot token. This repo's tracker: **[alanhsiu.github.io/jobwatch](https://alanhsiu.github.io/jobwatch/)** (a fork gets its own at `https://<owner>.github.io/<repo>/`).
 
 <!-- JOBS:HEAD:START -->
-_314 open new-grad roles at 57 companies · list last changed 2026-10-29 · scans every ~2 h_ · **[Open the tracker](https://alanhsiu.github.io/jobwatch/)** · [Full list ↓](#current-roles) · TikTok 108 · ByteDance 34 · Amazon 20 · Shield AI 13 · Palantir 12 · Apple 9 · Anduril 8 · Microsoft 7 · …
+_312 open new-grad roles at 55 companies · list last changed 2026-10-30 · scans every ~2 h_ · **[Open the tracker](https://alanhsiu.github.io/jobwatch/)** · [Full list ↓](#current-roles) · TikTok 108 · ByteDance 34 · Amazon 20 · Shield AI 13 · Palantir 12 · Apple 9 · Anduril 8 · Microsoft 7 · …
 <!-- JOBS:HEAD:END -->
 
 ## How it works
@@ -685,18 +685,6 @@ and `.nojekyll` into `docs/`, set Pages to `/docs`, and give every device a toke
 <summary>Fireworks AI (1)</summary>
 
 - [Member of Technical Staff New Grad](https://jobs.ashbyhq.com/fireworks/0c78aede-7c21-4d1e-88f1-f309deb9819e/application?embed=true) — San Mateo, CA, NYC · posted 2026-10-06 · SWE · BS/MS
-
-</details>
-<details open>
-<summary>Flow Traders (1)</summary>
-
-- [Graduate Quantitative Trader](https://job-boards.greenhouse.io/flowtraders/jobs/8094581) — NYC · posted 2026-07-29 · Quant · BS
-
-</details>
-<details open>
-<summary>Glean (1)</summary>
-
-- [Software Engineer](https://job-boards.greenhouse.io/gleanwork/jobs/4748567005) — Mountain View, CA · posted 2026-10-28 · SWE · BS
 
 </details>
 <details open>

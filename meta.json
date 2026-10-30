@@ -4,24 +4,24 @@
  "repo": "Alanhsiu/jobwatch",
  "branch": "main",
  "pages_url": "https://alanhsiu.github.io/jobwatch/",
- "last_run": 1793318366,
- "last_change": 1793318366,
+ "last_run": 1793340096,
+ "last_change": 1793340096,
  "last_result": "ok",
  "feed": {
-  "records": 19225,
-  "active": 3153,
-  "fetched_at": 1793318366,
+  "records": 19182,
+  "active": 3130,
+  "fetched_at": 1793340096,
   "attempts": 1
  },
  "counts": {
-  "active": 314,
-  "closed": 294,
+  "active": 312,
+  "closed": 296,
   "untracked": 58,
-  "groups": 270,
-  "companies": 57,
-  "new_this_run": 3,
+  "groups": 268,
+  "companies": 55,
+  "new_this_run": 0,
   "silent_known_this_run": 0,
-  "closed_this_run": 0,
+  "closed_this_run": 2,
   "untracked_this_run": 0
  },
  "rejects": {
@@ -375,11 +375,9 @@
    "denied": 0
   },
   "flow traders": {
-   "active": 1,
+   "active": 0,
    "all_time": 1,
-   "names": [
-    "Flow Traders"
-   ],
+   "names": [],
    "denied": 0
   },
   "gatik": {
@@ -407,11 +405,9 @@
    "denied": 0
   },
   "glean": {
-   "active": 1,
+   "active": 0,
    "all_time": 3,
-   "names": [
-    "Glean"
-   ],
+   "names": [],
    "denied": 0
   },
   "google": {
@@ -1006,8 +1002,8 @@
   }
  },
  "telegram": {
-  "mode": "sent",
-  "delivered": 3,
+  "mode": "none",
+  "delivered": 0,
   "failed_chunks": 0,
   "creds": true
  },

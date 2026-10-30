@@ -94,30 +94,6 @@
   "reason": null
  },
  {
-  "id": "simplify:d60a7b28-15b3-470d-b806-5a0f00d2746b",
-  "first_seen": 1793227321,
-  "company": "Glean",
-  "title": "Software Engineer",
-  "location": "Mountain View, CA",
-  "url": "https://job-boards.greenhouse.io/gleanwork/jobs/4748567005",
-  "category": "SWE",
-  "posted": "2026-10-28",
-  "date_posted": 1793208146,
-  "active": true,
-  "locations": [
-   "Mountain View, CA"
-  ],
-  "region": "US",
-  "degrees": [
-   "Bachelor's",
-   "Bachelor's"
-  ],
-  "sponsorship": "Other",
-  "group": "glean|software engineer",
-  "in_feed": true,
-  "reason": null
- },
- {
   "id": "simplify:6229e804-43a5-47a4-882c-c7bf3dc4968f",
   "first_seen": 1793150869,
   "company": "Databricks",
@@ -6504,30 +6480,6 @@
   "reason": null
  },
  {
-  "id": "simplify:a7801247-e97d-4b93-a90e-e5706b8a7c25",
-  "company": "Flow Traders",
-  "title": "Graduate Quantitative Trader",
-  "location": "NYC",
-  "url": "https://job-boards.greenhouse.io/flowtraders/jobs/8094581",
-  "category": "Quant",
-  "posted": "2026-07-29",
-  "date_posted": 1785363963,
-  "active": true,
-  "first_seen": 1785369846.1362014,
-  "last_seen": 1789521191.4314806,
-  "locations": [
-   "NYC"
-  ],
-  "region": "US",
-  "degrees": [
-   "Bachelor's"
-  ],
-  "sponsorship": "Other",
-  "group": "flow traders|graduate quantitative trader",
-  "in_feed": true,
-  "reason": null
- },
- {
   "id": "simplify:202582b8-f2ba-49d1-a082-3974fba7627a",
   "company": "Citadel",
   "title": "Sector Data Scientist - Central Team",
@@ -7681,6 +7633,32 @@
   "group": "figma|data scientist core data",
   "in_feed": true,
   "reason": null
+ },
+ {
+  "id": "simplify:d60a7b28-15b3-470d-b806-5a0f00d2746b",
+  "first_seen": 1793227321,
+  "company": "Glean",
+  "title": "Software Engineer",
+  "location": "Mountain View, CA",
+  "url": "https://job-boards.greenhouse.io/gleanwork/jobs/4748567005",
+  "category": "SWE",
+  "posted": "2026-10-28",
+  "date_posted": 1793208146,
+  "active": false,
+  "locations": [
+   "Mountain View, CA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Bachelor's"
+  ],
+  "sponsorship": "Other",
+  "group": "glean|software engineer",
+  "in_feed": false,
+  "reason": "closed",
+  "closed_at": 1793340096,
+  "last_seen": 1793340096
  },
  {
   "id": "simplify:ffedf0e5-2d73-47af-aa9d-0ef0ae4b42d6",
@@ -12218,6 +12196,31 @@
   "closed_at": 1785599856,
   "reason": "closed",
   "group": "the voleon group|associate quantitative trader voleon securities"
+ },
+ {
+  "id": "simplify:a7801247-e97d-4b93-a90e-e5706b8a7c25",
+  "company": "Flow Traders",
+  "title": "Graduate Quantitative Trader",
+  "location": "NYC",
+  "url": "https://job-boards.greenhouse.io/flowtraders/jobs/8094581",
+  "category": "Quant",
+  "posted": "2026-07-29",
+  "date_posted": 1785363963,
+  "active": false,
+  "first_seen": 1785369846.1362014,
+  "last_seen": 1793340096,
+  "locations": [
+   "NYC"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's"
+  ],
+  "sponsorship": "Other",
+  "group": "flow traders|graduate quantitative trader",
+  "in_feed": false,
+  "reason": "closed",
+  "closed_at": 1793340096
  },
  {
   "id": "simplify:d6ad51e0-366b-4b13-b829-8c5dacf13565",
