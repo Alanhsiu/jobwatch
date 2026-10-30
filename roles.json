@@ -1,5 +1,30 @@
 [
  {
+  "id": "simplify:744cbad0-fb7b-4d61-bd7e-98bb423c0513",
+  "first_seen": 1793365922,
+  "company": "Microsoft",
+  "title": "Firmware Engineer",
+  "location": "Redmond, WA, Mountain View, CA",
+  "url": "https://apply.careers.microsoft.com/careers/job/1970393557039426",
+  "category": "HW",
+  "posted": "2026-10-30",
+  "date_posted": 1793342000,
+  "active": true,
+  "locations": [
+   "Redmond, WA",
+   "Mountain View, CA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "microsoft|firmware engineer",
+  "in_feed": true,
+  "reason": null
+ },
+ {
   "id": "simplify:72726ef8-aae1-4aa6-835c-d5e4330af956",
   "first_seen": 1793318366,
   "company": "Amazon",
@@ -402,6 +427,54 @@
   "degrees": [],
   "sponsorship": "Other",
   "group": "tesla|data collection coordinator optimus",
+  "in_feed": true,
+  "reason": null
+ },
+ {
+  "id": "simplify:1a4a719d-1af6-4e2d-b468-5929d8a8611a",
+  "first_seen": 1793365922,
+  "company": "xAI",
+  "title": "AI Tutor – Oromo",
+  "location": "Remote in USA, Remote in UK, Remote in Australia",
+  "url": "https://job-boards.greenhouse.io/xai/jobs/5270907007",
+  "category": "ML",
+  "posted": "2026-10-26",
+  "date_posted": 1793007990,
+  "active": true,
+  "locations": [
+   "Remote in USA",
+   "Remote in UK",
+   "Remote in Australia",
+   "Remote in Canada"
+  ],
+  "region": "US",
+  "degrees": [],
+  "sponsorship": "Other",
+  "group": "xai|ai tutor oromo",
+  "in_feed": true,
+  "reason": null
+ },
+ {
+  "id": "simplify:02ac8a2d-f366-4013-9348-467a4d1a5e6a",
+  "first_seen": 1793365922,
+  "company": "xAI",
+  "title": "AI Tutor – Estonian",
+  "location": "Remote in USA, Remote in UK, Remote in Australia",
+  "url": "https://job-boards.greenhouse.io/xai/jobs/5270902007",
+  "category": "ML",
+  "posted": "2026-10-26",
+  "date_posted": 1793007968,
+  "active": true,
+  "locations": [
+   "Remote in USA",
+   "Remote in UK",
+   "Remote in Australia",
+   "Remote in Canada"
+  ],
+  "region": "US",
+  "degrees": [],
+  "sponsorship": "Other",
+  "group": "xai|ai tutor estonian",
   "in_feed": true,
   "reason": null
  },
@@ -971,27 +1044,6 @@
   "reason": null
  },
  {
-  "id": "simplify:1fa2c9e1-e059-42a4-b327-8391cb6596fc",
-  "first_seen": 1793280001,
-  "company": "Cloudflare",
-  "title": "Systems Engineer - Browser Isolation",
-  "location": "United States",
-  "url": "https://boards.greenhouse.io/cloudflare/jobs/8276155",
-  "category": "SWE",
-  "posted": "2026-10-13",
-  "date_posted": 1791929196,
-  "active": true,
-  "locations": [
-   "United States"
-  ],
-  "region": "US",
-  "degrees": [],
-  "sponsorship": "Other",
-  "group": "cloudflare|systems engineer browser isolation",
-  "in_feed": true,
-  "reason": null
- },
- {
   "id": "simplify:22b439fe-1f57-4be3-b47f-046920ffad7a",
   "first_seen": 1791874429,
   "company": "TikTok",
@@ -1200,6 +1252,30 @@
   ],
   "sponsorship": "Other",
   "group": "tiktok|machine learning engineer new grad e commerce user growth",
+  "in_feed": true,
+  "reason": null
+ },
+ {
+  "id": "simplify:67f581ee-ba46-4d73-915e-8eb8377bf155",
+  "first_seen": 1793365922,
+  "company": "xAI",
+  "title": "AI Tutor – German",
+  "location": "Remote in USA, Remote in UK, Remote in Australia",
+  "url": "https://job-boards.greenhouse.io/xai/jobs/5090120007",
+  "category": "ML",
+  "posted": "2026-10-08",
+  "date_posted": 1791440152,
+  "active": true,
+  "locations": [
+   "Remote in USA",
+   "Remote in UK",
+   "Remote in Australia",
+   "Remote in Canada"
+  ],
+  "region": "US",
+  "degrees": [],
+  "sponsorship": "Other",
+  "group": "xai|ai tutor german",
   "in_feed": true,
   "reason": null
  },
@@ -8047,6 +8123,29 @@
   "reason": "closed",
   "closed_at": 1792670761,
   "last_seen": 1792670761
+ },
+ {
+  "id": "simplify:1fa2c9e1-e059-42a4-b327-8391cb6596fc",
+  "first_seen": 1793280001,
+  "company": "Cloudflare",
+  "title": "Systems Engineer - Browser Isolation",
+  "location": "United States",
+  "url": "https://boards.greenhouse.io/cloudflare/jobs/8276155",
+  "category": "SWE",
+  "posted": "2026-10-13",
+  "date_posted": 1791929196,
+  "active": false,
+  "locations": [
+   "United States"
+  ],
+  "region": "US",
+  "degrees": [],
+  "sponsorship": "Other",
+  "group": "cloudflare|systems engineer browser isolation",
+  "in_feed": false,
+  "reason": "closed",
+  "closed_at": 1793365922,
+  "last_seen": 1793365922
  },
  {
   "id": "simplify:b1fd26e3-db3d-4f5c-8677-163fd6d481c6",
