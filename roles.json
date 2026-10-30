@@ -1,5 +1,57 @@
 [
  {
+  "id": "simplify:49ac054d-6120-45f3-9704-30823f0c902f",
+  "first_seen": 1793404436,
+  "company": "Amazon",
+  "title": "Software Development Engineer - Database",
+  "location": "Boston, MA, Seattle, WA, Austin, TX",
+  "url": "https://amazon.jobs/en/jobs/10593902/software-development-engineer-database-early-career-2027-us",
+  "category": "SWE",
+  "posted": "2026-10-30",
+  "date_posted": 1793399898,
+  "active": true,
+  "locations": [
+   "Boston, MA",
+   "Seattle, WA",
+   "Austin, TX",
+   "Redmond, WA",
+   "East Palo Alto, CA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "amazon|software development engineer database",
+  "in_feed": true,
+  "reason": null
+ },
+ {
+  "id": "simplify:6f52487e-12cd-4596-910d-b86917451347",
+  "first_seen": 1793404436,
+  "company": "Chicago Trading Company",
+  "title": "Quant Trading Associate - Options Theory Intensive",
+  "location": "Chicago, IL",
+  "url": "https://job-boards.greenhouse.io/ctccampusboard/jobs/4749020005",
+  "category": "Quant",
+  "posted": "2026-10-30",
+  "date_posted": 1793385621,
+  "active": true,
+  "locations": [
+   "Chicago, IL"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "chicago trading company|quant trading associate options theory intensive",
+  "in_feed": true,
+  "reason": null
+ },
+ {
   "id": "simplify:744cbad0-fb7b-4d61-bd7e-98bb423c0513",
   "first_seen": 1793365922,
   "company": "Microsoft",
@@ -44,29 +96,6 @@
   ],
   "sponsorship": "Other",
   "group": "amazon|software privacy engineer multiple teams",
-  "in_feed": true,
-  "reason": null
- },
- {
-  "id": "simplify:22b41b69-61b2-4b32-88f6-61e9f4d4643d",
-  "first_seen": 1793318366,
-  "company": "Amazon",
-  "title": "Software Development Engineer",
-  "location": "Cupertino, CA",
-  "url": "https://amazon.jobs/en/jobs/10592066/software-development-engineer",
-  "category": "SWE",
-  "posted": "2026-10-29",
-  "date_posted": 1793314195,
-  "active": true,
-  "locations": [
-   "Cupertino, CA"
-  ],
-  "region": "US",
-  "degrees": [
-   "Bachelor's"
-  ],
-  "sponsorship": "Other",
-  "group": "amazon|software development engineer",
   "in_feed": true,
   "reason": null
  },
@@ -5536,31 +5565,6 @@
   "reason": null
  },
  {
-  "id": "simplify:44338cb8-5c1c-42f3-a069-f9cf9ff68436",
-  "company": "Chicago Trading Company",
-  "title": "Quant Trading Associate",
-  "location": "Chicago, IL",
-  "url": "https://job-boards.greenhouse.io/chicagotradingcampus/jobs/4716507005",
-  "category": "Quant",
-  "posted": "2026-08-03",
-  "date_posted": 1785795332,
-  "active": true,
-  "first_seen": 1785802354.870796,
-  "last_seen": 1789521191.4314806,
-  "locations": [
-   "Chicago, IL"
-  ],
-  "region": "US",
-  "degrees": [
-   "Bachelor's",
-   "Master's"
-  ],
-  "sponsorship": "Other",
-  "group": "chicago trading company|quant trading associate",
-  "in_feed": true,
-  "reason": null
- },
- {
   "id": "simplify:6877141a-26a2-42c6-affa-8795287920b8",
   "company": "TikTok",
   "title": "Machine Learning Engineer New Grad - Recommendation",
@@ -6503,31 +6507,6 @@
   ],
   "sponsorship": "Other",
   "group": "chicago trading company|associate engineer",
-  "in_feed": true,
-  "reason": null
- },
- {
-  "id": "simplify:1ea84bed-f524-4362-a619-d1e3b98d2e7c",
-  "company": "Chicago Trading Company",
-  "title": "Quantitative Trading Associate",
-  "location": "Chicago, IL",
-  "url": "https://job-boards.greenhouse.io/ctccampusboard/jobs/4708724005",
-  "category": "Quant",
-  "posted": "2026-07-31",
-  "date_posted": 1785536244,
-  "active": true,
-  "first_seen": 1785542706.685228,
-  "last_seen": 1789521191.4314806,
-  "locations": [
-   "Chicago, IL"
-  ],
-  "region": "US",
-  "degrees": [
-   "Bachelor's",
-   "Master's"
-  ],
-  "sponsorship": "Other",
-  "group": "chicago trading company|quantitative trading associate",
   "in_feed": true,
   "reason": null
  },
@@ -7709,6 +7688,31 @@
   "group": "figma|data scientist core data",
   "in_feed": true,
   "reason": null
+ },
+ {
+  "id": "simplify:22b41b69-61b2-4b32-88f6-61e9f4d4643d",
+  "first_seen": 1793318366,
+  "company": "Amazon",
+  "title": "Software Development Engineer",
+  "location": "Cupertino, CA",
+  "url": "https://amazon.jobs/en/jobs/10592066/software-development-engineer",
+  "category": "SWE",
+  "posted": "2026-10-29",
+  "date_posted": 1793314195,
+  "active": false,
+  "locations": [
+   "Cupertino, CA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's"
+  ],
+  "sponsorship": "Other",
+  "group": "amazon|software development engineer",
+  "in_feed": false,
+  "reason": "closed",
+  "closed_at": 1793404436,
+  "last_seen": 1793404436
  },
  {
   "id": "simplify:d60a7b28-15b3-470d-b806-5a0f00d2746b",
@@ -11699,6 +11703,32 @@
   "group": "apple|software engineer front end"
  },
  {
+  "id": "simplify:44338cb8-5c1c-42f3-a069-f9cf9ff68436",
+  "company": "Chicago Trading Company",
+  "title": "Quant Trading Associate",
+  "location": "Chicago, IL",
+  "url": "https://job-boards.greenhouse.io/chicagotradingcampus/jobs/4716507005",
+  "category": "Quant",
+  "posted": "2026-08-03",
+  "date_posted": 1785795332,
+  "active": false,
+  "first_seen": 1785802354.870796,
+  "last_seen": 1793404436,
+  "locations": [
+   "Chicago, IL"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "chicago trading company|quant trading associate",
+  "in_feed": false,
+  "reason": "closed",
+  "closed_at": 1793404436
+ },
+ {
   "id": "simplify:1e93d3f9-f99a-4fad-89d9-68c176cd5b89",
   "company": "TikTok",
   "title": "Machine Learning Scientist New Grad - Recommendation",
@@ -12238,6 +12268,32 @@
   "closed_at": 1785715362,
   "reason": "closed",
   "group": "wolverine trading|entry level c software engineer"
+ },
+ {
+  "id": "simplify:1ea84bed-f524-4362-a619-d1e3b98d2e7c",
+  "company": "Chicago Trading Company",
+  "title": "Quantitative Trading Associate",
+  "location": "Chicago, IL",
+  "url": "https://job-boards.greenhouse.io/ctccampusboard/jobs/4708724005",
+  "category": "Quant",
+  "posted": "2026-07-31",
+  "date_posted": 1785536244,
+  "active": false,
+  "first_seen": 1785542706.685228,
+  "last_seen": 1793404436,
+  "locations": [
+   "Chicago, IL"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "chicago trading company|quantitative trading associate",
+  "in_feed": false,
+  "reason": "closed",
+  "closed_at": 1793404436
  },
  {
   "id": "simplify:2869e42a-aa24-4c96-a6af-93fc142804cd",
