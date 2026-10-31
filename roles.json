@@ -6587,28 +6587,6 @@
   "reason": null
  },
  {
-  "id": "simplify:8035433a-5a4c-497b-92a1-2440c1b386d6",
-  "company": "xAI",
-  "title": "Software Engineer - Evals",
-  "location": "Palo Alto, CA",
-  "url": "https://job-boards.greenhouse.io/xai/jobs/5188230007",
-  "category": "SWE",
-  "posted": "2026-07-22",
-  "date_posted": 1784759779,
-  "active": true,
-  "first_seen": 1786145900.8493967,
-  "last_seen": 1789521191.4314806,
-  "locations": [
-   "Palo Alto, CA"
-  ],
-  "region": "US",
-  "degrees": [],
-  "sponsorship": "Other",
-  "group": "xai|software engineer evals",
-  "in_feed": true,
-  "reason": null
- },
- {
   "id": "simplify:f2abc99e-93ba-424e-8d7c-0e3382978e05",
   "company": "Citadel Securities",
   "title": "Quantitative AI Technical Staff",
@@ -11065,10 +11043,9 @@
   "region": "US",
   "degrees": [],
   "sponsorship": "Other",
-  "in_feed": true,
+  "in_feed": false,
   "closed_at": 1789570473,
-  "reason": "untracked",
-  "why": "title",
+  "reason": "closed",
   "group": "tesla|data collection operator optimus"
  },
  {
@@ -12247,10 +12224,11 @@
   "region": "US",
   "degrees": [],
   "sponsorship": "Other",
-  "in_feed": false,
+  "in_feed": true,
   "closed_at": 1789570473,
-  "reason": "closed",
-  "group": "tesla|data collection operator optimus"
+  "reason": "untracked",
+  "group": "tesla|data collection operator optimus",
+  "why": "title"
  },
  {
   "id": "simplify:f6bb2b02-e42b-41a6-9f90-35a28fcb0708",
@@ -12604,6 +12582,29 @@
   "closed_at": 1785256688,
   "reason": "closed",
   "group": "nvidia|software engineer new grad physical design infrastructure"
+ },
+ {
+  "id": "simplify:8035433a-5a4c-497b-92a1-2440c1b386d6",
+  "company": "xAI",
+  "title": "Software Engineer - Evals",
+  "location": "Palo Alto, CA",
+  "url": "https://job-boards.greenhouse.io/xai/jobs/5188230007",
+  "category": "SWE",
+  "posted": "2026-07-22",
+  "date_posted": 1784759779,
+  "active": false,
+  "first_seen": 1786145900.8493967,
+  "last_seen": 1793450849,
+  "locations": [
+   "Palo Alto, CA"
+  ],
+  "region": "US",
+  "degrees": [],
+  "sponsorship": "Other",
+  "group": "xai|software engineer evals",
+  "in_feed": false,
+  "reason": "closed",
+  "closed_at": 1793450849
  },
  {
   "id": "simplify:30612f5b-226b-4ab8-9610-ae2ae82ca2a0",

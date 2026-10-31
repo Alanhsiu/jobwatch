@@ -8,7 +8,7 @@ sync between devices through this repo. No servers, no database, no cost — a p
 bot token. This repo's tracker: **[alanhsiu.github.io/jobwatch](https://alanhsiu.github.io/jobwatch/)** (a fork gets its own at `https://<owner>.github.io/<repo>/`).
 
 <!-- JOBS:HEAD:START -->
-_314 open new-grad roles at 54 companies · list last changed 2026-10-30 · scans every ~2 h_ · **[Open the tracker](https://alanhsiu.github.io/jobwatch/)** · [Full list ↓](#current-roles) · TikTok 108 · ByteDance 34 · Amazon 20 · Shield AI 13 · Palantir 12 · Apple 9 · Anduril 8 · Microsoft 8 · …
+_313 open new-grad roles at 54 companies · list last changed 2026-10-31 · scans every ~2 h_ · **[Open the tracker](https://alanhsiu.github.io/jobwatch/)** · [Full list ↓](#current-roles) · TikTok 108 · ByteDance 34 · Amazon 20 · Shield AI 13 · Palantir 12 · Apple 9 · Anduril 8 · Microsoft 8 · …
 <!-- JOBS:HEAD:END -->
 
 ## How it works
@@ -452,16 +452,6 @@ and `.nojekyll` into `docs/`, set Pages to `/docs`, and give every device a toke
 
 </details>
 <details open>
-<summary>xAI (5)</summary>
-
-- [AI Tutor – Oromo](https://job-boards.greenhouse.io/xai/jobs/5270907007) — Remote in USA, Remote in UK, Remote in Australia · posted 2026-10-26 · ML
-- [AI Tutor – Estonian](https://job-boards.greenhouse.io/xai/jobs/5270902007) — Remote in USA, Remote in UK, Remote in Australia · posted 2026-10-26 · ML
-- [AI Tutor – German](https://job-boards.greenhouse.io/xai/jobs/5090120007) — Remote in USA, Remote in UK, Remote in Australia · posted 2026-10-08 · ML
-- [Software Engineer - Evals](https://job-boards.greenhouse.io/xai/jobs/5188230007) — Palo Alto, CA · posted 2026-07-22 · SWE
-- [Software Engineer - Ads Product](https://job-boards.greenhouse.io/xai/jobs/5152408007) — Palo Alto, CA · posted 2026-06-02 · SWE
-
-</details>
-<details open>
 <summary>Citadel (4)</summary>
 
 - [Sector Data Scientist - Central Team](https://www.citadel.com/careers/details/sector-data-scientist-central-team/) — NYC · posted 2026-07-27 · ML · BS/MS
@@ -509,6 +499,15 @@ and `.nojekyll` into `docs/`, set Pages to `/docs`, and give every device a toke
 
 - [Early Career C++ Software Engineer](https://wolve.pinpointhq.com/en/postings/4b0e86a1-db36-4490-9a98-17782ffcc648?ats=pinpointhq) — Chicago, IL · posted 2026-10-12 · SWE · BS/MS
 - [Entry Level C++ Software Engineer](https://wolve.pinpointhq.com/en/postings/2b2e514b-4709-4897-960d-77909fe33ab8?ats=pinpointhq) · [2](https://wolve.pinpointhq.com/en/postings/1f33c89b-2592-498d-b45a-1b2092cf944e?ats=pinpointhq) · [3](https://wolve.pinpointhq.com/en/postings/e03d9864-a128-40ff-91b5-dfc9fd1b59d6?ats=pinpointhq) — Chicago, IL · posted 2026-09-18 · SWE · BS/MS
+
+</details>
+<details open>
+<summary>xAI (4)</summary>
+
+- [AI Tutor – Oromo](https://job-boards.greenhouse.io/xai/jobs/5270907007) — Remote in USA, Remote in UK, Remote in Australia · posted 2026-10-26 · ML
+- [AI Tutor – Estonian](https://job-boards.greenhouse.io/xai/jobs/5270902007) — Remote in USA, Remote in UK, Remote in Australia · posted 2026-10-26 · ML
+- [AI Tutor – German](https://job-boards.greenhouse.io/xai/jobs/5090120007) — Remote in USA, Remote in UK, Remote in Australia · posted 2026-10-08 · ML
+- [Software Engineer - Ads Product](https://job-boards.greenhouse.io/xai/jobs/5152408007) — Palo Alto, CA · posted 2026-06-02 · SWE
 
 </details>
 <details open>
