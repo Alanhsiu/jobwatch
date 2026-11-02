@@ -3685,32 +3685,6 @@
   "reason": null
  },
  {
-  "id": "simplify:203b29e3-691b-4bd0-b6b9-67ee0cd10daf",
-  "company": "WorldQuant",
-  "title": "Quantitative Developer - Portfolio Management Solutions",
-  "location": "Connecticut, NYC",
-  "url": "https://job-boards.greenhouse.io/worldquant/jobs/4700347006",
-  "category": "Quant",
-  "posted": "2026-08-13",
-  "date_posted": 1786659311,
-  "active": true,
-  "first_seen": 1786664949.9905443,
-  "last_seen": 1789521191.4314806,
-  "locations": [
-   "Connecticut",
-   "NYC"
-  ],
-  "region": "US",
-  "degrees": [
-   "Bachelor's",
-   "Master's"
-  ],
-  "sponsorship": "Other",
-  "group": "worldquant|quantitative developer portfolio management solutions",
-  "in_feed": true,
-  "reason": null
- },
- {
   "id": "simplify:823dc91a-f895-469a-b516-b3be2e1894e7",
   "company": "TikTok",
   "title": "Software Engineer Graduate - Recommendation Infrastructure",
@@ -6542,30 +6516,6 @@
   ],
   "sponsorship": "Other",
   "group": "chicago trading company|associate engineer",
-  "in_feed": true,
-  "reason": null
- },
- {
-  "id": "simplify:75e9fee1-d55a-4025-b42d-c45a49be336f",
-  "first_seen": 1789570473,
-  "company": "Apple",
-  "title": "Cellular Power Optimization Software Engineer - Wireless Technologies & Ecosystems",
-  "location": "San Diego, CA",
-  "url": "https://jobs.apple.com/en-us/details/200657382",
-  "category": "HW",
-  "posted": "2026-07-31",
-  "date_posted": 1785478480,
-  "active": true,
-  "locations": [
-   "San Diego, CA"
-  ],
-  "region": "US",
-  "degrees": [
-   "Bachelor's",
-   "Master's"
-  ],
-  "sponsorship": "Other",
-  "group": "apple|cellular power optimization software engineer wireless technologies ecosystems",
   "in_feed": true,
   "reason": null
  },
@@ -10487,6 +10437,33 @@
   "group": "microsoft|software engineer"
  },
  {
+  "id": "simplify:203b29e3-691b-4bd0-b6b9-67ee0cd10daf",
+  "company": "WorldQuant",
+  "title": "Quantitative Developer - Portfolio Management Solutions",
+  "location": "Connecticut, NYC",
+  "url": "https://job-boards.greenhouse.io/worldquant/jobs/4700347006",
+  "category": "Quant",
+  "posted": "2026-08-13",
+  "date_posted": 1786659311,
+  "active": false,
+  "first_seen": 1786664949.9905443,
+  "last_seen": 1793651068,
+  "locations": [
+   "Connecticut",
+   "NYC"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "worldquant|quantitative developer portfolio management solutions",
+  "in_feed": false,
+  "reason": "closed",
+  "closed_at": 1793651068
+ },
+ {
   "id": "simplify:fd2da7af-12c7-411b-8654-f9d2404b96af",
   "company": "TikTok",
   "title": "Data Science Graduate - Advertisement Team",
@@ -12330,6 +12307,32 @@
   "in_feed": false,
   "reason": "closed",
   "closed_at": 1790772428
+ },
+ {
+  "id": "simplify:75e9fee1-d55a-4025-b42d-c45a49be336f",
+  "first_seen": 1789570473,
+  "company": "Apple",
+  "title": "Cellular Power Optimization Software Engineer - Wireless Technologies & Ecosystems",
+  "location": "San Diego, CA",
+  "url": "https://jobs.apple.com/en-us/details/200657382",
+  "category": "HW",
+  "posted": "2026-07-31",
+  "date_posted": 1785478480,
+  "active": false,
+  "locations": [
+   "San Diego, CA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "apple|cellular power optimization software engineer wireless technologies ecosystems",
+  "in_feed": false,
+  "reason": "closed",
+  "closed_at": 1793651068,
+  "last_seen": 1793651068
  },
  {
   "id": "simplify:949d8a95-4a05-4773-abf0-ef1ba68de79d",

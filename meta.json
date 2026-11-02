@@ -4,33 +4,33 @@
  "repo": "Alanhsiu/jobwatch",
  "branch": "main",
  "pages_url": "https://alanhsiu.github.io/jobwatch/",
- "last_run": 1793612341,
- "last_change": 1793612341,
+ "last_run": 1793651068,
+ "last_change": 1793651068,
  "last_result": "ok",
  "feed": {
-  "records": 18922,
-  "active": 3105,
-  "fetched_at": 1793612341,
+  "records": 18938,
+  "active": 3095,
+  "fetched_at": 1793651068,
   "attempts": 1
  },
  "counts": {
-  "active": 314,
-  "closed": 301,
+  "active": 312,
+  "closed": 303,
   "untracked": 58,
-  "groups": 271,
-  "companies": 54,
-  "new_this_run": 1,
+  "groups": 269,
+  "companies": 53,
+  "new_this_run": 0,
   "silent_known_this_run": 0,
-  "closed_this_run": 0,
+  "closed_this_run": 2,
   "untracked_this_run": 0
  },
  "rejects": {
-  "category": 143,
+  "category": 138,
   "phd": 178,
   "title": 23,
   "region": 36,
   "sponsorship": 0,
-  "age": 37
+  "age": 36
  },
  "keywords": {
   "adobe": {
@@ -88,7 +88,7 @@
    "denied": 0
   },
   "apple": {
-   "active": 9,
+   "active": 8,
    "all_time": 35,
    "names": [
     "Apple"
@@ -969,11 +969,9 @@
    "denied": 0
   },
   "worldquant": {
-   "active": 1,
+   "active": 0,
    "all_time": 1,
-   "names": [
-    "WorldQuant"
-   ],
+   "names": [],
    "denied": 0
   },
   "xai": {
@@ -1000,8 +998,8 @@
   }
  },
  "telegram": {
-  "mode": "sent",
-  "delivered": 1,
+  "mode": "none",
+  "delivered": 0,
   "failed_chunks": 0,
   "creds": true
  },
