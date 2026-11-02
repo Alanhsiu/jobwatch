@@ -1,5 +1,40 @@
 [
  {
+  "id": "simplify:da1ac264-d20e-4ad8-b630-709c0ae8cd5e",
+  "first_seen": 1793612341,
+  "company": "Google",
+  "title": "Software Engineer 2 – Early Career",
+  "location": "Palo Alto, CA, Madison, WI, Seattle, WA",
+  "url": "https://www.google.com/about/careers/applications/jobs/results/109116638069957318",
+  "category": "SWE",
+  "posted": "2026-11-02",
+  "date_posted": 1793603487,
+  "active": true,
+  "locations": [
+   "Palo Alto, CA",
+   "Madison, WI",
+   "Seattle, WA",
+   "LA",
+   "Raleigh, NC",
+   "San Bruno, CA",
+   "Durham, NC",
+   "Pittsburgh, PA",
+   "Kirkland, WA",
+   "NYC",
+   "Sunnyvale, CA",
+   "Mountain View, CA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "google|software engineer 2 early career",
+  "in_feed": true,
+  "reason": null
+ },
+ {
   "id": "simplify:49ac054d-6120-45f3-9704-30823f0c902f",
   "first_seen": 1793404436,
   "company": "Amazon",
