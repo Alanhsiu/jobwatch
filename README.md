@@ -8,7 +8,7 @@ sync between devices through this repo. No servers, no database, no cost — a p
 bot token. This repo's tracker: **[alanhsiu.github.io/jobwatch](https://alanhsiu.github.io/jobwatch/)** (a fork gets its own at `https://<owner>.github.io/<repo>/`).
 
 <!-- JOBS:HEAD:START -->
-_315 open new-grad roles at 53 companies · list last changed 2026-11-03 · scans every ~2 h_ · **[Open the tracker](https://alanhsiu.github.io/jobwatch/)** · [Full list ↓](#current-roles) · TikTok 108 · ByteDance 34 · Amazon 20 · Shield AI 13 · Palantir 12 · Apple 10 · Anduril 9 · Microsoft 9 · …
+_310 open new-grad roles at 52 companies · list last changed 2026-11-03 · scans every ~2 h_ · **[Open the tracker](https://alanhsiu.github.io/jobwatch/)** · [Full list ↓](#current-roles) · TikTok 108 · ByteDance 34 · Amazon 20 · Shield AI 13 · Palantir 12 · Apple 10 · Anduril 9 · Microsoft 9 · …
 <!-- JOBS:HEAD:END -->
 
 ## How it works
@@ -497,15 +497,6 @@ and `.nojekyll` into `docs/`, set Pages to `/docs`, and give every device a toke
 
 </details>
 <details open>
-<summary>xAI (4)</summary>
-
-- [AI Tutor – Oromo](https://job-boards.greenhouse.io/xai/jobs/5270907007) — Remote in USA, Remote in UK, Remote in Australia · posted 2026-10-26 · ML
-- [AI Tutor – Estonian](https://job-boards.greenhouse.io/xai/jobs/5270902007) — Remote in USA, Remote in UK, Remote in Australia · posted 2026-10-26 · ML
-- [AI Tutor – German](https://job-boards.greenhouse.io/xai/jobs/5090120007) — Remote in USA, Remote in UK, Remote in Australia · posted 2026-10-08 · ML
-- [Software Engineer - Ads Product](https://job-boards.greenhouse.io/xai/jobs/5152408007) — Palo Alto, CA · posted 2026-06-02 · SWE
-
-</details>
-<details open>
 <summary>Akuna Capital University (3)</summary>
 
 - [Junior Trader](https://www.akunacapital.com/careers/job/7773141/?gh_jid=7773141) — Chicago, IL · posted 2026-07-13 · Quant · BS/MS/PhD
@@ -574,12 +565,6 @@ and `.nojekyll` into `docs/`, set Pages to `/docs`, and give every device a toke
 
 - [Software Engineer 2 – Early Career](https://www.google.com/about/careers/applications/jobs/results/109116638069957318) — Palo Alto, CA, Madison, WI, Seattle, WA · posted 2026-11-02 · SWE · BS/MS
 - [Research Engineer](https://www.google.com/about/careers/applications/jobs/results/114077679900074694) — Mountain View, CA · posted 2026-09-11 · ML
-
-</details>
-<details open>
-<summary>Harvey (2)</summary>
-
-- [Software Engineer New Grad](https://jobs.ashbyhq.com/harvey/b0996df6-6b6e-42be-a4f9-0084536068f5/application?embed=true) · [2](https://jobs.ashbyhq.com/harvey/4d8dc9ba-eb86-4d88-af7d-65d2fdaf3fdc/application?embed=true) — SF; SF, NYC · posted 2026-10-02 · SWE · BS/MS
 
 </details>
 <details open>
@@ -733,6 +718,12 @@ and `.nojekyll` into `docs/`, set Pages to `/docs`, and give every device a toke
 <summary>Virtu Financial (1)</summary>
 
 - [Software Engineer - Desktop Frontend Developer - C#/Winforms](https://job-boards.greenhouse.io/virtu/jobs/8516902002) — NYC · posted 2026-05-04 · SWE · BS
+
+</details>
+<details open>
+<summary>xAI (1)</summary>
+
+- [Software Engineer - Ads Product](https://job-boards.greenhouse.io/xai/jobs/5152408007) — Palo Alto, CA · posted 2026-06-02 · SWE
 
 </details>
 <details open>

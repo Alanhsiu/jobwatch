@@ -542,54 +542,6 @@
   "reason": null
  },
  {
-  "id": "simplify:1a4a719d-1af6-4e2d-b468-5929d8a8611a",
-  "first_seen": 1793365922,
-  "company": "xAI",
-  "title": "AI Tutor – Oromo",
-  "location": "Remote in USA, Remote in UK, Remote in Australia",
-  "url": "https://job-boards.greenhouse.io/xai/jobs/5270907007",
-  "category": "ML",
-  "posted": "2026-10-26",
-  "date_posted": 1793007990,
-  "active": true,
-  "locations": [
-   "Remote in USA",
-   "Remote in UK",
-   "Remote in Australia",
-   "Remote in Canada"
-  ],
-  "region": "US",
-  "degrees": [],
-  "sponsorship": "Other",
-  "group": "xai|ai tutor oromo",
-  "in_feed": true,
-  "reason": null
- },
- {
-  "id": "simplify:02ac8a2d-f366-4013-9348-467a4d1a5e6a",
-  "first_seen": 1793365922,
-  "company": "xAI",
-  "title": "AI Tutor – Estonian",
-  "location": "Remote in USA, Remote in UK, Remote in Australia",
-  "url": "https://job-boards.greenhouse.io/xai/jobs/5270902007",
-  "category": "ML",
-  "posted": "2026-10-26",
-  "date_posted": 1793007968,
-  "active": true,
-  "locations": [
-   "Remote in USA",
-   "Remote in UK",
-   "Remote in Australia",
-   "Remote in Canada"
-  ],
-  "region": "US",
-  "degrees": [],
-  "sponsorship": "Other",
-  "group": "xai|ai tutor estonian",
-  "in_feed": true,
-  "reason": null
- },
- {
   "id": "simplify:78e650dd-5e32-4200-83e1-7ef0d9d92b0a",
   "first_seen": 1792840603,
   "company": "Perplexity AI",
@@ -1367,30 +1319,6 @@
   "reason": null
  },
  {
-  "id": "simplify:67f581ee-ba46-4d73-915e-8eb8377bf155",
-  "first_seen": 1793365922,
-  "company": "xAI",
-  "title": "AI Tutor – German",
-  "location": "Remote in USA, Remote in UK, Remote in Australia",
-  "url": "https://job-boards.greenhouse.io/xai/jobs/5090120007",
-  "category": "ML",
-  "posted": "2026-10-08",
-  "date_posted": 1791440152,
-  "active": true,
-  "locations": [
-   "Remote in USA",
-   "Remote in UK",
-   "Remote in Australia",
-   "Remote in Canada"
-  ],
-  "region": "US",
-  "degrees": [],
-  "sponsorship": "Other",
-  "group": "xai|ai tutor german",
-  "in_feed": true,
-  "reason": null
- },
- {
   "id": "simplify:edc4278f-b222-4879-adc6-0a1a97a007a6",
   "first_seen": 1791440320,
   "company": "TikTok",
@@ -1603,55 +1531,6 @@
   ],
   "sponsorship": "Other",
   "group": "fireworks ai|member of technical staff new grad",
-  "in_feed": true,
-  "reason": null
- },
- {
-  "id": "simplify:867c063f-636d-4f77-bf08-decee4955762",
-  "first_seen": 1790985089,
-  "company": "Harvey",
-  "title": "Software Engineer New Grad",
-  "location": "SF",
-  "url": "https://jobs.ashbyhq.com/harvey/b0996df6-6b6e-42be-a4f9-0084536068f5/application?embed=true",
-  "category": "SWE",
-  "posted": "2026-10-02",
-  "date_posted": 1790979923,
-  "active": true,
-  "locations": [
-   "SF"
-  ],
-  "region": "US",
-  "degrees": [
-   "Bachelor's",
-   "Master's"
-  ],
-  "sponsorship": "Other",
-  "group": "harvey|software engineer new grad",
-  "in_feed": true,
-  "reason": null
- },
- {
-  "id": "simplify:5993eb6e-3414-429f-86b9-dd467b9ddd1d",
-  "first_seen": 1790985089,
-  "company": "Harvey",
-  "title": "Software Engineer New Grad",
-  "location": "SF, NYC",
-  "url": "https://jobs.ashbyhq.com/harvey/4d8dc9ba-eb86-4d88-af7d-65d2fdaf3fdc/application?embed=true",
-  "category": "SWE",
-  "posted": "2026-10-02",
-  "date_posted": 1790979915,
-  "active": true,
-  "locations": [
-   "SF",
-   "NYC"
-  ],
-  "region": "US",
-  "degrees": [
-   "Bachelor's",
-   "Master's"
-  ],
-  "sponsorship": "Other",
-  "group": "harvey|software engineer new grad",
   "in_feed": true,
   "reason": null
  },
@@ -7881,6 +7760,58 @@
   "last_seen": 1793134036
  },
  {
+  "id": "simplify:1a4a719d-1af6-4e2d-b468-5929d8a8611a",
+  "first_seen": 1793365922,
+  "company": "xAI",
+  "title": "AI Tutor – Oromo",
+  "location": "Remote in USA, Remote in UK, Remote in Australia",
+  "url": "https://job-boards.greenhouse.io/xai/jobs/5270907007",
+  "category": "ML",
+  "posted": "2026-10-26",
+  "date_posted": 1793007990,
+  "active": false,
+  "locations": [
+   "Remote in USA",
+   "Remote in UK",
+   "Remote in Australia",
+   "Remote in Canada"
+  ],
+  "region": "US",
+  "degrees": [],
+  "sponsorship": "Other",
+  "group": "xai|ai tutor oromo",
+  "in_feed": false,
+  "reason": "closed",
+  "closed_at": 1793734701,
+  "last_seen": 1793734701
+ },
+ {
+  "id": "simplify:02ac8a2d-f366-4013-9348-467a4d1a5e6a",
+  "first_seen": 1793365922,
+  "company": "xAI",
+  "title": "AI Tutor – Estonian",
+  "location": "Remote in USA, Remote in UK, Remote in Australia",
+  "url": "https://job-boards.greenhouse.io/xai/jobs/5270902007",
+  "category": "ML",
+  "posted": "2026-10-26",
+  "date_posted": 1793007968,
+  "active": false,
+  "locations": [
+   "Remote in USA",
+   "Remote in UK",
+   "Remote in Australia",
+   "Remote in Canada"
+  ],
+  "region": "US",
+  "degrees": [],
+  "sponsorship": "Other",
+  "group": "xai|ai tutor estonian",
+  "in_feed": false,
+  "reason": "closed",
+  "closed_at": 1793734701,
+  "last_seen": 1793734701
+ },
+ {
   "id": "simplify:9d5e6f80-ce26-4d6c-9b38-e69626426496",
   "first_seen": 1792797228,
   "company": "Microsoft",
@@ -8500,6 +8431,32 @@
   "last_seen": 1792064612
  },
  {
+  "id": "simplify:67f581ee-ba46-4d73-915e-8eb8377bf155",
+  "first_seen": 1793365922,
+  "company": "xAI",
+  "title": "AI Tutor – German",
+  "location": "Remote in USA, Remote in UK, Remote in Australia",
+  "url": "https://job-boards.greenhouse.io/xai/jobs/5090120007",
+  "category": "ML",
+  "posted": "2026-10-08",
+  "date_posted": 1791440152,
+  "active": false,
+  "locations": [
+   "Remote in USA",
+   "Remote in UK",
+   "Remote in Australia",
+   "Remote in Canada"
+  ],
+  "region": "US",
+  "degrees": [],
+  "sponsorship": "Other",
+  "group": "xai|ai tutor german",
+  "in_feed": false,
+  "reason": "closed",
+  "closed_at": 1793734701,
+  "last_seen": 1793734701
+ },
+ {
   "id": "simplify:57799ea2-a163-43b4-a26c-1a91102d737e",
   "first_seen": 1791414691,
   "company": "Microsoft",
@@ -8652,6 +8609,59 @@
   "reason": "closed",
   "closed_at": 1792867864,
   "last_seen": 1792867864
+ },
+ {
+  "id": "simplify:867c063f-636d-4f77-bf08-decee4955762",
+  "first_seen": 1790985089,
+  "company": "Harvey",
+  "title": "Software Engineer New Grad",
+  "location": "SF",
+  "url": "https://jobs.ashbyhq.com/harvey/b0996df6-6b6e-42be-a4f9-0084536068f5/application?embed=true",
+  "category": "SWE",
+  "posted": "2026-10-02",
+  "date_posted": 1790979923,
+  "active": false,
+  "locations": [
+   "SF"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "harvey|software engineer new grad",
+  "in_feed": false,
+  "reason": "closed",
+  "closed_at": 1793734701,
+  "last_seen": 1793734701
+ },
+ {
+  "id": "simplify:5993eb6e-3414-429f-86b9-dd467b9ddd1d",
+  "first_seen": 1790985089,
+  "company": "Harvey",
+  "title": "Software Engineer New Grad",
+  "location": "SF, NYC",
+  "url": "https://jobs.ashbyhq.com/harvey/4d8dc9ba-eb86-4d88-af7d-65d2fdaf3fdc/application?embed=true",
+  "category": "SWE",
+  "posted": "2026-10-02",
+  "date_posted": 1790979915,
+  "active": false,
+  "locations": [
+   "SF",
+   "NYC"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "harvey|software engineer new grad",
+  "in_feed": false,
+  "reason": "closed",
+  "closed_at": 1793734701,
+  "last_seen": 1793734701
  },
  {
   "id": "simplify:0523ccf9-780c-4410-bcbb-60c3ebfa059b",
