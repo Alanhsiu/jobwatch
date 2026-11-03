@@ -1,5 +1,100 @@
 [
  {
+  "id": "simplify:04b02353-a9e6-4727-b867-58601de9c53b",
+  "first_seen": 1793676619,
+  "company": "Microsoft",
+  "title": "Software Engineer IC2",
+  "location": "Redmond, WA",
+  "url": "https://apply.careers.microsoft.com/careers/job/1970393557050639",
+  "category": "SWE",
+  "posted": "2026-11-02",
+  "date_posted": 1793663300,
+  "active": true,
+  "locations": [
+   "Redmond, WA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's"
+  ],
+  "sponsorship": "Other",
+  "group": "microsoft|software engineer ic2",
+  "in_feed": true,
+  "reason": null
+ },
+ {
+  "id": "simplify:19b3d525-634e-4bc7-ad38-d92a4b53531d",
+  "first_seen": 1793676619,
+  "company": "Anduril",
+  "title": "Space Orbital Software Engineer",
+  "location": "Costa Mesa, CA",
+  "url": "https://boards.greenhouse.io/andurilindustries/jobs/5236290007",
+  "category": "SWE",
+  "posted": "2026-11-02",
+  "date_posted": 1793662588,
+  "active": true,
+  "locations": [
+   "Costa Mesa, CA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "anduril|space orbital software engineer",
+  "in_feed": true,
+  "reason": null
+ },
+ {
+  "id": "simplify:de9a9ad9-6f04-4abe-91d6-e8d89c552e48",
+  "first_seen": 1793676619,
+  "company": "Apple",
+  "title": "Cellular Power Optimization Software Engineer - Wireless Technologies & Ecosystems",
+  "location": "San Diego, CA",
+  "url": "https://jobs.apple.com/en-us/details/200692894",
+  "category": "SWE",
+  "posted": "2026-11-02",
+  "date_posted": 1793661712,
+  "active": true,
+  "locations": [
+   "San Diego, CA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "apple|cellular power optimization software engineer wireless technologies ecosystems",
+  "in_feed": true,
+  "reason": null
+ },
+ {
+  "id": "simplify:56ba1ae9-168d-4c3c-b927-eb6184efcd76",
+  "first_seen": 1793676619,
+  "company": "Apple",
+  "title": "Cellular Power Optimization Software Engineer - Wireless Technologies & Ecosystems",
+  "location": "San Diego, CA",
+  "url": "https://jobs.apple.com/en-us/details/200692907",
+  "category": "HW",
+  "posted": "2026-11-02",
+  "date_posted": 1793661709,
+  "active": true,
+  "locations": [
+   "San Diego, CA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "apple|cellular power optimization software engineer wireless technologies ecosystems",
+  "in_feed": true,
+  "reason": null
+ },
+ {
   "id": "simplify:da1ac264-d20e-4ad8-b630-709c0ae8cd5e",
   "first_seen": 1793612341,
   "company": "Google",
@@ -351,30 +446,6 @@
   ],
   "sponsorship": "Other",
   "group": "microsoft|software engineer",
-  "in_feed": true,
-  "reason": null
- },
- {
-  "id": "simplify:fcd88c67-d6d6-41a6-9f32-1b0db5954dd6",
-  "first_seen": 1793302965,
-  "company": "Salesforce",
-  "title": "Software Engineer New Grad",
-  "location": "Indianapolis, IN, Dallas, TX",
-  "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Indiana---Indianapolis/Software-Engineering-MTS_JR363598",
-  "category": "SWE",
-  "posted": "2026-10-27",
-  "date_posted": 1793059200,
-  "active": true,
-  "locations": [
-   "Indianapolis, IN",
-   "Dallas, TX"
-  ],
-  "region": "US",
-  "degrees": [
-   "Bachelor's"
-  ],
-  "sponsorship": "Other",
-  "group": "salesforce|software engineer new grad",
   "in_feed": true,
   "reason": null
  },
@@ -2288,6 +2359,31 @@
   "degrees": [],
   "sponsorship": "Other",
   "group": "google|research engineer",
+  "in_feed": true,
+  "reason": null
+ },
+ {
+  "id": "simplify:a9b5356a-b658-407e-858e-29e74df5f581",
+  "company": "Microsoft",
+  "title": "Software Engineer - CoreAI",
+  "location": "Redmond, WA",
+  "url": "https://apply.careers.microsoft.com/careers/job/1970393556989020",
+  "category": "SWE",
+  "posted": "2026-09-11",
+  "date_posted": 1789109816,
+  "active": true,
+  "first_seen": 1789150052.113976,
+  "last_seen": 1791467023,
+  "locations": [
+   "Redmond, WA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "microsoft|software engineer coreai",
   "in_feed": true,
   "reason": null
  },
@@ -7704,6 +7800,32 @@
   "last_seen": 1793340096
  },
  {
+  "id": "simplify:fcd88c67-d6d6-41a6-9f32-1b0db5954dd6",
+  "first_seen": 1793302965,
+  "company": "Salesforce",
+  "title": "Software Engineer New Grad",
+  "location": "Indianapolis, IN, Dallas, TX",
+  "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Indiana---Indianapolis/Software-Engineering-MTS_JR363598",
+  "category": "SWE",
+  "posted": "2026-10-27",
+  "date_posted": 1793059200,
+  "active": false,
+  "locations": [
+   "Indianapolis, IN",
+   "Dallas, TX"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's"
+  ],
+  "sponsorship": "Other",
+  "group": "salesforce|software engineer new grad",
+  "in_feed": false,
+  "reason": "closed",
+  "closed_at": 1793676619,
+  "last_seen": 1793676619
+ },
+ {
   "id": "simplify:ffedf0e5-2d73-47af-aa9d-0ef0ae4b42d6",
   "first_seen": 1793150869,
   "company": "ServiceNow",
@@ -9256,32 +9378,6 @@
   "in_feed": false,
   "reason": "closed",
   "closed_at": 1792762544
- },
- {
-  "id": "simplify:a9b5356a-b658-407e-858e-29e74df5f581",
-  "company": "Microsoft",
-  "title": "Software Engineer - CoreAI",
-  "location": "Redmond, WA",
-  "url": "https://apply.careers.microsoft.com/careers/job/1970393556989020",
-  "category": "SWE",
-  "posted": "2026-09-11",
-  "date_posted": 1789109816,
-  "active": false,
-  "first_seen": 1789150052.113976,
-  "last_seen": 1791467023,
-  "locations": [
-   "Redmond, WA"
-  ],
-  "region": "US",
-  "degrees": [
-   "Bachelor's",
-   "Master's"
-  ],
-  "sponsorship": "Other",
-  "group": "microsoft|software engineer coreai",
-  "in_feed": false,
-  "reason": "closed",
-  "closed_at": 1791467023
  },
  {
   "id": "simplify:4e247e53-0b37-4a1a-a541-dbeed089bfe1",
