@@ -426,30 +426,6 @@
   "reason": null
  },
  {
-  "id": "simplify:12b37514-55d3-4d2b-889d-499ef0584772",
-  "first_seen": 1793088099,
-  "company": "Microsoft",
-  "title": "Software Engineer",
-  "location": "Mountain View, CA",
-  "url": "https://apply.careers.microsoft.com/careers/job/1970393557045516",
-  "category": "SWE",
-  "posted": "2026-10-27",
-  "date_posted": 1793082825,
-  "active": true,
-  "locations": [
-   "Mountain View, CA"
-  ],
-  "region": "US",
-  "degrees": [
-   "Bachelor's",
-   "Master's"
-  ],
-  "sponsorship": "Other",
-  "group": "microsoft|software engineer",
-  "in_feed": true,
-  "reason": null
- },
- {
   "id": "simplify:d08ceabe-f3ba-46d0-ac76-e4809c9fe1e9",
   "first_seen": 1793177023,
   "company": "Shield AI",
@@ -7798,6 +7774,32 @@
   "reason": "closed",
   "closed_at": 1793340096,
   "last_seen": 1793340096
+ },
+ {
+  "id": "simplify:12b37514-55d3-4d2b-889d-499ef0584772",
+  "first_seen": 1793088099,
+  "company": "Microsoft",
+  "title": "Software Engineer",
+  "location": "Mountain View, CA",
+  "url": "https://apply.careers.microsoft.com/careers/job/1970393557045516",
+  "category": "SWE",
+  "posted": "2026-10-27",
+  "date_posted": 1793082825,
+  "active": false,
+  "locations": [
+   "Mountain View, CA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "microsoft|software engineer",
+  "in_feed": false,
+  "reason": "closed",
+  "closed_at": 1793707450,
+  "last_seen": 1793707450
  },
  {
   "id": "simplify:fcd88c67-d6d6-41a6-9f32-1b0db5954dd6",
