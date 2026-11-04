@@ -4,24 +4,24 @@
  "repo": "Alanhsiu/jobwatch",
  "branch": "main",
  "pages_url": "https://alanhsiu.github.io/jobwatch/",
- "last_run": 1793752918,
- "last_change": 1793752918,
+ "last_run": 1793815461,
+ "last_change": 1793815461,
  "last_result": "ok",
  "feed": {
-  "records": 19044,
-  "active": 3115,
-  "fetched_at": 1793752918,
+  "records": 19065,
+  "active": 3090,
+  "fetched_at": 1793815461,
   "attempts": 1
  },
  "counts": {
-  "active": 313,
+  "active": 314,
   "closed": 310,
   "untracked": 58,
-  "groups": 271,
+  "groups": 272,
   "companies": 53,
-  "new_this_run": 4,
+  "new_this_run": 1,
   "silent_known_this_run": 0,
-  "closed_this_run": 1,
+  "closed_this_run": 0,
   "untracked_this_run": 0
  },
  "rejects": {
@@ -775,8 +775,8 @@
    "denied": 0
   },
   "shield ai": {
-   "active": 13,
-   "all_time": 13,
+   "active": 14,
+   "all_time": 14,
    "names": [
     "Shield AI"
    ],
@@ -999,7 +999,7 @@
  },
  "telegram": {
   "mode": "sent",
-  "delivered": 4,
+  "delivered": 1,
   "failed_chunks": 0,
   "creds": true
  },

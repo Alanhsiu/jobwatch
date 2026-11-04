@@ -8,7 +8,7 @@ sync between devices through this repo. No servers, no database, no cost — a p
 bot token. This repo's tracker: **[alanhsiu.github.io/jobwatch](https://alanhsiu.github.io/jobwatch/)** (a fork gets its own at `https://<owner>.github.io/<repo>/`).
 
 <!-- JOBS:HEAD:START -->
-_313 open new-grad roles at 53 companies · list last changed 2026-11-04 · scans every ~2 h_ · **[Open the tracker](https://alanhsiu.github.io/jobwatch/)** · [Full list ↓](#current-roles) · TikTok 108 · ByteDance 34 · Amazon 21 · Shield AI 13 · Palantir 12 · Apple 10 · Microsoft 9 · Anduril 8 · …
+_314 open new-grad roles at 53 companies · list last changed 2026-11-04 · scans every ~2 h_ · **[Open the tracker](https://alanhsiu.github.io/jobwatch/)** · [Full list ↓](#current-roles) · TikTok 108 · ByteDance 34 · Amazon 21 · Shield AI 14 · Palantir 12 · Apple 10 · Microsoft 9 · Anduril 8 · …
 <!-- JOBS:HEAD:END -->
 
 ## How it works
@@ -360,13 +360,14 @@ and `.nojekyll` into `docs/`, set Pages to `/docs`, and give every device a toke
 
 </details>
 <details open>
-<summary>Shield AI (13)</summary>
+<summary>Shield AI (14)</summary>
 
 - [Autonomous Software Engineer New Grad](https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/c0735824-2b3c-46a2-a888-99e7376a9606/application?embed=true) — San Diego, CA · posted 2026-10-27 · HW · BS/MS/PhD
 - [Software Engineer 2 New Grad](https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/0e7ecf76-b4f6-4159-aa44-4814af263c86/application?embed=true) — Washington, DC · posted 2026-10-27 · SWE · MS
 - [Software Integration Engineer 1 New Grad - Software Integration](https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/bffebf59-65b7-4f4f-805e-a9cdf0d2b252/application?embed=true) — Washington, DC · posted 2026-10-27 · SWE · BS
 - [Software Engineer 1 New Grad](https://jobs.lever.co/shieldai/633a3038-574c-45ff-babb-7e1b8b7c6196/apply) — Seattle, WA · posted 2026-10-23 · SWE · BS
 - [Software Engineer New Grad](https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/986a26e9-0597-4402-85ee-0f05a6012902/application?embed=true) — Seattle, WA · posted 2026-10-23 · SWE · BS
+- [Software Engineer 1 New Grad - Software - Factory Team](https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/6b5da15b-b34e-4771-bc6c-a05892ae87e9/application?embed=true) — Washington, DC · posted 2026-10-12 · SWE · BS
 - [Software Engineer 1 - Factory Team](https://jobs.lever.co/shieldai/59e0cf9b-04d7-43c0-8a65-9d411fe56c68/apply) — Washington, DC · posted 2026-10-10 · SWE · BS
 - [Software Integration Engineer 1 - Software Integration](https://jobs.lever.co/shieldai/7c8aaf63-ab92-4c0f-8a54-9cf1ce07ca69/apply) — Washington, DC · posted 2026-10-09 · HW · BS
 - [Simulation Framework Engineer 1](https://jobs.lever.co/shieldai/71a4617f-c917-4536-bbf1-8d11d04d8cba/apply) — Washington, DC · posted 2026-10-07 · SWE · BS

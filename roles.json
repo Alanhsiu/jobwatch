@@ -1253,6 +1253,29 @@
   "reason": null
  },
  {
+  "id": "simplify:23f1c2c3-62c7-4b59-ad95-85d0505c58dc",
+  "first_seen": 1793815461,
+  "company": "Shield AI",
+  "title": "Software Engineer 1 New Grad - Software - Factory Team",
+  "location": "Washington, DC",
+  "url": "https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/6b5da15b-b34e-4771-bc6c-a05892ae87e9/application?embed=true",
+  "category": "SWE",
+  "posted": "2026-10-12",
+  "date_posted": 1791763200,
+  "active": true,
+  "locations": [
+   "Washington, DC"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's"
+  ],
+  "sponsorship": "Other",
+  "group": "shield ai|software engineer 1 new grad software factory team",
+  "in_feed": true,
+  "reason": null
+ },
+ {
   "id": "simplify:c0e68386-5f91-485f-86a7-c92db1919740",
   "first_seen": 1791636223,
   "company": "Shield AI",
