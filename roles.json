@@ -1,5 +1,103 @@
 [
  {
+  "id": "simplify:9276c377-0f8e-47c4-b813-b5d5be35a978",
+  "first_seen": 1793752918,
+  "company": "Amazon",
+  "title": "Software Development Engineer – Early Career - Embedded Systems",
+  "location": "Seattle, WA, Cupertino, CA, United States",
+  "url": "https://amazon.jobs/en/jobs/10595839/software-development-engineer-embedded-systems-early-career-2027-us",
+  "category": "HW",
+  "posted": "2026-11-03",
+  "date_posted": 1793747158,
+  "active": true,
+  "locations": [
+   "Seattle, WA",
+   "Cupertino, CA",
+   "United States"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "amazon|software development engineer early career embedded systems",
+  "in_feed": true,
+  "reason": null
+ },
+ {
+  "id": "simplify:c9942f0a-e3da-4b00-9ee2-be611a85daca",
+  "first_seen": 1793752918,
+  "company": "LinkedIn",
+  "title": "Data Scientist",
+  "location": "Mountain View, CA",
+  "url": "https://jobs.smartrecruiters.com/LinkedIn3/744000159509679",
+  "category": "ML",
+  "posted": "2026-11-03",
+  "date_posted": 1793745192,
+  "active": true,
+  "locations": [
+   "Mountain View, CA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's",
+   "PhD"
+  ],
+  "sponsorship": "Other",
+  "group": "linkedin|data scientist",
+  "in_feed": true,
+  "reason": null
+ },
+ {
+  "id": "simplify:ad7ee672-286b-4929-9c20-6a5cdab58d98",
+  "first_seen": 1793752918,
+  "company": "ServiceNow",
+  "title": "Software Engineer - Agent Eval Platform",
+  "location": "Mountain View, CA",
+  "url": "https://jobs.smartrecruiters.com/ServiceNow/744000159509479",
+  "category": "SWE",
+  "posted": "2026-11-03",
+  "date_posted": 1793744959,
+  "active": true,
+  "locations": [
+   "Mountain View, CA"
+  ],
+  "region": "US",
+  "degrees": [],
+  "sponsorship": "Other",
+  "group": "servicenow|software engineer agent eval platform",
+  "in_feed": true,
+  "reason": null
+ },
+ {
+  "id": "simplify:20eef2b5-2b76-436c-be94-9a14b28c9a90",
+  "first_seen": 1793752918,
+  "company": "SambaNova Systems",
+  "title": "Machine Learning Engineer New Grad",
+  "location": "Austin, TX, San Jose, CA",
+  "url": "https://sambanova.ai/sambanova-available-positions/?gh_jid=6240725004",
+  "category": "ML",
+  "posted": "2026-11-03",
+  "date_posted": 1793726490,
+  "active": true,
+  "locations": [
+   "Austin, TX",
+   "San Jose, CA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's",
+   "PhD"
+  ],
+  "sponsorship": "Other",
+  "group": "sambanova systems|machine learning engineer new grad",
+  "in_feed": true,
+  "reason": null
+ },
+ {
   "id": "simplify:04b02353-a9e6-4727-b867-58601de9c53b",
   "first_seen": 1793676619,
   "company": "Microsoft",
@@ -19,30 +117,6 @@
   ],
   "sponsorship": "Other",
   "group": "microsoft|software engineer ic2",
-  "in_feed": true,
-  "reason": null
- },
- {
-  "id": "simplify:19b3d525-634e-4bc7-ad38-d92a4b53531d",
-  "first_seen": 1793676619,
-  "company": "Anduril",
-  "title": "Space Orbital Software Engineer",
-  "location": "Costa Mesa, CA",
-  "url": "https://boards.greenhouse.io/andurilindustries/jobs/5236290007",
-  "category": "SWE",
-  "posted": "2026-11-02",
-  "date_posted": 1793662588,
-  "active": true,
-  "locations": [
-   "Costa Mesa, CA"
-  ],
-  "region": "US",
-  "degrees": [
-   "Bachelor's",
-   "Master's"
-  ],
-  "sponsorship": "Other",
-  "group": "anduril|space orbital software engineer",
   "in_feed": true,
   "reason": null
  },
@@ -7602,6 +7676,32 @@
   "group": "figma|data scientist core data",
   "in_feed": true,
   "reason": null
+ },
+ {
+  "id": "simplify:19b3d525-634e-4bc7-ad38-d92a4b53531d",
+  "first_seen": 1793676619,
+  "company": "Anduril",
+  "title": "Space Orbital Software Engineer",
+  "location": "Costa Mesa, CA",
+  "url": "https://boards.greenhouse.io/andurilindustries/jobs/5236290007",
+  "category": "SWE",
+  "posted": "2026-11-02",
+  "date_posted": 1793662588,
+  "active": false,
+  "locations": [
+   "Costa Mesa, CA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "anduril|space orbital software engineer",
+  "in_feed": false,
+  "reason": "closed",
+  "closed_at": 1793752918,
+  "last_seen": 1793752918
  },
  {
   "id": "simplify:22b41b69-61b2-4b32-88f6-61e9f4d4643d",
