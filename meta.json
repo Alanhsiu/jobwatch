@@ -4,33 +4,33 @@
  "repo": "Alanhsiu/jobwatch",
  "branch": "main",
  "pages_url": "https://alanhsiu.github.io/jobwatch/",
- "last_run": 1793862012,
- "last_change": 1793862012,
+ "last_run": 1793896389,
+ "last_change": 1793896389,
  "last_result": "ok",
  "feed": {
-  "records": 19003,
-  "active": 3107,
-  "fetched_at": 1793862012,
+  "records": 19063,
+  "active": 3244,
+  "fetched_at": 1793896389,
   "attempts": 1
  },
  "counts": {
-  "active": 315,
-  "closed": 311,
-  "untracked": 58,
-  "groups": 272,
-  "companies": 53,
-  "new_this_run": 2,
+  "active": 327,
+  "closed": 301,
+  "untracked": 60,
+  "groups": 283,
+  "companies": 56,
+  "new_this_run": 4,
   "silent_known_this_run": 0,
-  "closed_this_run": 1,
+  "closed_this_run": 2,
   "untracked_this_run": 0
  },
  "rejects": {
-  "category": 143,
-  "phd": 178,
+  "category": 145,
+  "phd": 179,
   "title": 23,
-  "region": 35,
+  "region": 41,
   "sponsorship": 0,
-  "age": 33
+  "age": 34
  },
  "keywords": {
   "adobe": {
@@ -112,9 +112,11 @@
    "denied": 0
   },
   "atlassian": {
-   "active": 0,
+   "active": 4,
    "all_time": 5,
-   "names": [],
+   "names": [
+    "Atlassian"
+   ],
    "denied": 0
   },
   "aurora": {
@@ -162,7 +164,7 @@
    "denied": 0
   },
   "bridgewater": {
-   "active": 2,
+   "active": 1,
    "all_time": 2,
    "names": [
     "Bridgewater Associates"
@@ -170,7 +172,7 @@
    "denied": 0
   },
   "bytedance": {
-   "active": 34,
+   "active": 33,
    "all_time": 75,
    "names": [
     "ByteDance"
@@ -783,9 +785,11 @@
    "denied": 0
   },
   "sig": {
-   "active": 0,
+   "active": 4,
    "all_time": 10,
-   "names": [],
+   "names": [
+    "Susquehanna International Group (SIG)"
+   ],
    "denied": 0
   },
   "skild": {
@@ -821,9 +825,11 @@
    "denied": 0
   },
   "susquehanna": {
-   "active": 0,
-   "all_time": 2,
-   "names": [],
+   "active": 5,
+   "all_time": 5,
+   "names": [
+    "Susquehanna International Group"
+   ],
    "denied": 0
   },
   "tenstorrent": {
@@ -875,8 +881,8 @@
    "denied": 0
   },
   "two sigma": {
-   "active": 3,
-   "all_time": 4,
+   "active": 4,
+   "all_time": 5,
    "names": [
     "Two Sigma"
    ],
@@ -999,7 +1005,7 @@
  },
  "telegram": {
   "mode": "sent",
-  "delivered": 2,
+  "delivered": 4,
   "failed_chunks": 0,
   "creds": true
  },

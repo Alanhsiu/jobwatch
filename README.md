@@ -8,7 +8,7 @@ sync between devices through this repo. No servers, no database, no cost — a p
 bot token. This repo's tracker: **[alanhsiu.github.io/jobwatch](https://alanhsiu.github.io/jobwatch/)** (a fork gets its own at `https://<owner>.github.io/<repo>/`).
 
 <!-- JOBS:HEAD:START -->
-_315 open new-grad roles at 53 companies · list last changed 2026-11-05 · scans every ~2 h_ · **[Open the tracker](https://alanhsiu.github.io/jobwatch/)** · [Full list ↓](#current-roles) · TikTok 108 · ByteDance 34 · Amazon 22 · Shield AI 14 · Palantir 12 · Apple 10 · Microsoft 10 · Anduril 8 · …
+_327 open new-grad roles at 56 companies · list last changed 2026-11-05 · scans every ~2 h_ · **[Open the tracker](https://alanhsiu.github.io/jobwatch/)** · [Full list ↓](#current-roles) · TikTok 108 · ByteDance 33 · Amazon 22 · Shield AI 14 · Palantir 12 · Apple 10 · Microsoft 10 · Anduril 8 · …
 <!-- JOBS:HEAD:END -->
 
 ## How it works
@@ -300,7 +300,7 @@ and `.nojekyll` into `docs/`, set Pages to `/docs`, and give every device a toke
 
 </details>
 <details>
-<summary>ByteDance (34)</summary>
+<summary>ByteDance (33)</summary>
 
 - [Software Engineer Graduate](https://jobs.bytedance.com/en/position/7689561253011097909/detail) — San Jose, CA · posted 2026-10-01 · SWE · BS
 - [Machine Learning Engineer Graduate - E-Commerce Risk Control](https://jobs.bytedance.com/en/position/7675477660855781637/detail) · [2](https://jobs.bytedance.com/en/position/7675477254315428149/detail) — San Jose, CA; Seattle, WA · posted 2026-08-19 · ML · BS/MS
@@ -322,7 +322,6 @@ and `.nojekyll` into `docs/`, set Pages to `/docs`, and give every device a toke
 - [Backend Inference Runtime Engineer New Grad - AML Inference](https://jobs.bytedance.com/en/position/7669789046777940229/detail) — San Jose, CA · posted 2026-08-06 · SWE · BS/MS
 - [Machine Learning Backend Engineer Graduate - AML MLDev](https://jobs.bytedance.com/en/position/7669791940490168629/detail) — San Jose, CA · posted 2026-08-06 · ML · BS/MS
 - [Backend Inference Framework Engineer - AML Inference](https://jobs.bytedance.com/en/position/7669670735275526453/detail) — San Jose, CA · posted 2026-08-06 · SWE · BS/MS
-- [Graduate Software Engineer - Data-Intelligent Creation-AI Platform-Global Vision Engineering](https://jobs.bytedance.com/en/position/7669859743775000885/detail) — San Jose, CA · posted 2026-08-06 · SWE · BS/MS
 - [Operating System Engineer Graduate - Operating System-System Technologies and Engineering](https://jobs.bytedance.com/en/position/7668461589331642677/detail) — San Jose, CA · posted 2026-08-06 · SWE · BS
 - [Backend Development Engineer Graduate - Infrastructure Platform Delivery](https://jobs.bytedance.com/en/position/7668484998475663621/detail) — San Jose, CA · posted 2026-08-06 · SWE · BS/MS
 - [Graduate AI Model Optimization Engineer - Data Speech Product R&D Engineering](https://jobs.bytedance.com/en/position/7669899962768165173/detail) — San Jose, CA · posted 2026-08-05 · SWE · BS/MS
@@ -457,6 +456,25 @@ and `.nojekyll` into `docs/`, set Pages to `/docs`, and give every device a toke
 
 </details>
 <details open>
+<summary>Susquehanna International Group (5)</summary>
+
+- [Software Developer - Core Order Management System - C++](https://careers-sig.icims.com/jobs/11068/job?mobile=true&needsRedirect=false) — Chicago, IL · posted 2026-11-05 · SWE
+- [Faculty Fellow](https://careers-sig.icims.com/jobs/9584/job?mobile=true&needsRedirect=false) — Bala Cynwyd, PA · posted 2026-11-05 · ML
+- [Quantitative Sports Researcher – Graduate Hire](https://careers-sig.icims.com/jobs/4454/job?mobile=true&needsRedirect=false) — Bala Cynwyd, PA · posted 2026-11-05 · Quant · MS/PhD
+- [Trading System Engineer New Grad](https://careers-sig.icims.com/jobs/11349/job?mobile=true&needsRedirect=false) — Bala Cynwyd, PA · posted 2026-08-21 · Quant · BS/MS
+- [Quantitative Strategy Developer New Grad](https://careers-sig.icims.com/jobs/11321/job?mobile=true&needsRedirect=false) — Bala Cynwyd, PA · posted 2026-08-19 · Quant · BS/MS
+
+</details>
+<details open>
+<summary>Atlassian (4)</summary>
+
+- [Data Engineer New Grad](https://campus-americas.icims.com/jobs/25998/data-engineer%2c-2027-graduate-u.s/job) — Seattle, WA · posted 2026-10-05 · ML · BS/MS
+- [Data Scientist Graduate](https://campus-americas.icims.com/jobs/26000/data-scientist%2c-2027-graduate-u.s./job) — Seattle, WA · posted 2026-09-30 · ML · MS
+- [Machine Learning Engineer - 2027 Graduate](https://campus-americas.icims.com/jobs/25999/machine-learning-engineer%2c-2027-graduate-u.s./job) — Seattle, WA · posted 2026-09-24 · ML · BS/MS
+- [Software Engineer](https://campus-americas.icims.com/jobs/25813/software-engineer%2c-2027-graduate-u.s./job) — Seattle, WA · posted 2026-09-15 · SWE · BS/MS
+
+</details>
+<details open>
 <summary>Citadel (4)</summary>
 
 - [Sector Data Scientist - Central Team](https://www.citadel.com/careers/details/sector-data-scientist-central-team/) — NYC · posted 2026-07-27 · ML · BS/MS
@@ -483,12 +501,27 @@ and `.nojekyll` into `docs/`, set Pages to `/docs`, and give every device a toke
 
 </details>
 <details open>
+<summary>Susquehanna International Group (SIG) (4)</summary>
+
+- [Quantitative Researcher](https://careers-sig.icims.com/jobs/11016/job?mobile=true&needsRedirect=false) · [2](https://careers-sig.icims.com/jobs/11018/job?mobile=true&needsRedirect=false) — Ardmore, PA; Philadelphia, PA, NYC · posted 2026-06-29 · Quant · MS
+- [Quantitative Systematic Trader](https://careers-sig.icims.com/jobs/11022/job?mobile=true&needsRedirect=false) · [2](https://careers-sig.icims.com/jobs/11020/job?mobile=true&needsRedirect=false) — Philadelphia, PA, NYC; Ardmore, PA · posted 2026-06-29 · Quant · MS
+
+</details>
+<details open>
 <summary>Tesla (4)</summary>
 
 - [Data Collection Coordinator - Optimus](https://www.tesla.com/careers/search/job/257533) — Fremont, CA · posted 2026-10-26 · ML
 - [Data Statistician](https://www.tesla.com/careers/search/job/282286) — Fremont, CA · posted 2026-09-09 · ML · BS
 - [AI Engineer - Whole Body Controls - Optimus](https://www.tesla.com/careers/search/job/275999) — Palo Alto, CA · posted 2026-07-06 · ML
 - [Applied Reinforcement Learning Engineer - Whole Body Controls - Optimus](https://www.tesla.com/careers/search/job/276000) — Palo Alto, CA · posted 2026-07-06 · ML
+
+</details>
+<details open>
+<summary>Two Sigma (4)</summary>
+
+- [Systematic Strategies Oversight Analyst](https://twosigma.avature.net/careers/JobDetail/14405) — NYC · posted 2026-11-05 · Quant · BS
+- [Software Engineer](https://twosigma.avature.net/careers/JobDetail/14018) · [2](https://twosigma.avature.net/careers/JobDetail/14014) — Houston, TX; NYC · posted 2026-09-08 · SWE · BS/MS/PhD
+- [Quantitative Researcher - Full-Time Campus Hire](https://twosigma.avature.net/careers/JobDetail/13946) — NYC · posted 2026-08-02 · Quant · BS/MS/PhD
 
 </details>
 <details open>
@@ -537,23 +570,10 @@ and `.nojekyll` into `docs/`, set Pages to `/docs`, and give every device a toke
 
 </details>
 <details open>
-<summary>Two Sigma (3)</summary>
-
-- [Software Engineer](https://twosigma.avature.net/careers/JobDetail/14018) · [2](https://twosigma.avature.net/careers/JobDetail/14014) — Houston, TX; NYC · posted 2026-09-08 · SWE · BS/MS/PhD
-- [Quantitative Researcher - Full-Time Campus Hire](https://twosigma.avature.net/careers/JobDetail/13946) — NYC · posted 2026-08-02 · Quant · BS/MS/PhD
-
-</details>
-<details open>
 <summary>Adobe (2)</summary>
 
 - [Machine Learning Engineer New Grad](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-University-Graduate---Machine-Learning-Engineer_R172085) — Seattle, WA, SF, Austin, TX · posted 2026-09-24 · ML · MS/PhD
 - [Software Engineer New Grad](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-University-Graduate---Software-Engineer_R172083) — Seattle, WA, SF, Austin, TX · posted 2026-09-24 · SWE · BS/MS
-
-</details>
-<details open>
-<summary>Bridgewater Associates (2)</summary>
-
-- [Trading Associate](https://job-boards.greenhouse.io/bridgewater89/jobs/8750718002) · [2](https://job-boards.greenhouse.io/bwaltpostings/jobs/8750719002) — Westport, CT · posted 2026-08-26 · Quant · BS
 
 </details>
 <details open>
@@ -655,6 +675,12 @@ and `.nojekyll` into `docs/`, set Pages to `/docs`, and give every device a toke
 <summary>Belvedere Trading (1)</summary>
 
 - [Quantitative Trader](https://jobs.lever.co/belvederetrading/34369a5c-55c0-4e9f-9d2e-4f21b9418bee/apply) — Chicago, IL · posted 2026-08-07 · Quant
+
+</details>
+<details open>
+<summary>Bridgewater Associates (1)</summary>
+
+- [Trading Associate](https://job-boards.greenhouse.io/bridgewater89/jobs/8750718002) — Westport, CT · posted 2026-08-26 · Quant · BS
 
 </details>
 <details open>
