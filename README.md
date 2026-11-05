@@ -8,7 +8,7 @@ sync between devices through this repo. No servers, no database, no cost — a p
 bot token. This repo's tracker: **[alanhsiu.github.io/jobwatch](https://alanhsiu.github.io/jobwatch/)** (a fork gets its own at `https://<owner>.github.io/<repo>/`).
 
 <!-- JOBS:HEAD:START -->
-_327 open new-grad roles at 56 companies · list last changed 2026-11-05 · scans every ~2 h_ · **[Open the tracker](https://alanhsiu.github.io/jobwatch/)** · [Full list ↓](#current-roles) · TikTok 108 · ByteDance 33 · Amazon 22 · Shield AI 14 · Palantir 12 · Apple 10 · Microsoft 10 · Anduril 8 · …
+_329 open new-grad roles at 56 companies · list last changed 2026-11-05 · scans every ~2 h_ · **[Open the tracker](https://alanhsiu.github.io/jobwatch/)** · [Full list ↓](#current-roles) · TikTok 108 · ByteDance 33 · Amazon 24 · Shield AI 14 · Palantir 12 · Apple 10 · Microsoft 10 · Anduril 8 · …
 <!-- JOBS:HEAD:END -->
 
 ## How it works
@@ -335,10 +335,11 @@ and `.nojekyll` into `docs/`, set Pages to `/docs`, and give every device a toke
 
 </details>
 <details>
-<summary>Amazon (22)</summary>
+<summary>Amazon (24)</summary>
 
+- [Software Development Engineer – Early Career](https://amazon.jobs/en/jobs/10597803/software-development-engineer-amazon-leo-early-career-2027-us) — Redmond, WA · posted 2026-11-05 · SWE · BS/MS
+- [Software Development Engineer – Early Career - Embedded Systems](https://amazon.jobs/en/jobs/10598021/software-development-engineer-embedded-systems-amazon-leo-early-career-2027-us) · [2](https://amazon.jobs/en/jobs/10595839/software-development-engineer-embedded-systems-early-career-2027-us) — Redmond, WA, Northridge, LA; Seattle, WA, Cupertino, CA, United States · posted 2026-11-05 · HW · BS/MS
 - [Software Developer Engineer 1 - Security Platform](https://amazon.jobs/en/jobs/10597112/software-dev-engineer-i-security-platform) — Seattle, WA, SF, Irvine, CA · posted 2026-11-05 · SWE · BS
-- [Software Development Engineer – Early Career - Embedded Systems](https://amazon.jobs/en/jobs/10595839/software-development-engineer-embedded-systems-early-career-2027-us) — Seattle, WA, Cupertino, CA, United States · posted 2026-11-03 · HW · BS/MS
 - [Software Development Engineer - Database](https://amazon.jobs/en/jobs/10593902/software-development-engineer-database-early-career-2027-us) — Boston, MA, Seattle, WA, Austin, TX · posted 2026-10-30 · SWE · BS/MS
 - [Software Privacy Engineer - Multiple Teams](https://amazon.jobs/en/jobs/10592045/software-privacy-engineer-trust-platform-automation-devices-services-trust-privacy-and-accessibility-tpa) · [2](https://amazon.jobs/en/jobs/10538147/software-privacy-engineer-trust-platform-automation-devices-services-trust-privacy-and-accessibility-tpa) — Bellevue, WA · posted 2026-10-29 · SWE · BS
 - [Applied Scientist - North America Sort Centers - Amazon Transportation Services](https://amazon.jobs/en/jobs/10592906/applied-scientist-north-america-sort-centers-amazon-transportation-services-north-america-sort-centers-amazon-transportation-services) — Bellevue, WA · posted 2026-10-29 · ML · MS/PhD
