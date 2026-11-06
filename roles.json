@@ -1674,31 +1674,6 @@
   "reason": null
  },
  {
-  "id": "simplify:8b5d1879-5003-4cf0-aaf6-4a45fdf0a007",
-  "first_seen": 1791337144,
-  "company": "Microsoft",
-  "title": "Software Engineer",
-  "location": "Redmond, WA, Reston, VA",
-  "url": "https://apply.careers.microsoft.com/careers/job/1970393557022487",
-  "category": "SWE",
-  "posted": "2026-10-07",
-  "date_posted": 1791335266,
-  "active": true,
-  "locations": [
-   "Redmond, WA",
-   "Reston, VA"
-  ],
-  "region": "US",
-  "degrees": [
-   "Bachelor's",
-   "Master's"
-  ],
-  "sponsorship": "Other",
-  "group": "microsoft|software engineer",
-  "in_feed": true,
-  "reason": null
- },
- {
   "id": "simplify:9c20706d-1c36-49c7-a6d2-07c92520bf94",
   "first_seen": 1793177023,
   "company": "Shield AI",
@@ -9069,6 +9044,33 @@
   "reason": "closed",
   "closed_at": 1791874429,
   "last_seen": 1791874429
+ },
+ {
+  "id": "simplify:8b5d1879-5003-4cf0-aaf6-4a45fdf0a007",
+  "first_seen": 1791337144,
+  "company": "Microsoft",
+  "title": "Software Engineer",
+  "location": "Redmond, WA, Reston, VA",
+  "url": "https://apply.careers.microsoft.com/careers/job/1970393557022487",
+  "category": "SWE",
+  "posted": "2026-10-07",
+  "date_posted": 1791335266,
+  "active": false,
+  "locations": [
+   "Redmond, WA",
+   "Reston, VA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "microsoft|software engineer",
+  "in_feed": false,
+  "reason": "closed",
+  "closed_at": 1794001041,
+  "last_seen": 1794001041
  },
  {
   "id": "simplify:ccb8858f-f999-4876-80d4-80def8494834",
