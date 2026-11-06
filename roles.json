@@ -2510,6 +2510,31 @@
   "reason": null
  },
  {
+  "id": "simplify:b4e7a187-9537-4e72-8b27-c8d54faf0118",
+  "first_seen": 1791127536,
+  "company": "Microsoft",
+  "title": "Software Engineering - Commercial Engineering & AI - Ceai",
+  "location": "Redmond, WA",
+  "url": "https://apply.careers.microsoft.com/careers/job/1970393556914839",
+  "category": "SWE",
+  "posted": "2026-09-14",
+  "date_posted": 1789425238,
+  "active": true,
+  "locations": [
+   "Redmond, WA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "microsoft|software engineering commercial engineering ai ceai",
+  "in_feed": true,
+  "reason": null,
+  "last_seen": 1791985864
+ },
+ {
   "id": "simplify:13ed523b-577a-4fbe-a3da-032a28eb0207",
   "company": "ServiceNow",
   "title": "Software Engineer",
@@ -9741,32 +9766,6 @@
   "reason": "closed",
   "closed_at": 1790149819,
   "last_seen": 1790149819
- },
- {
-  "id": "simplify:b4e7a187-9537-4e72-8b27-c8d54faf0118",
-  "first_seen": 1791127536,
-  "company": "Microsoft",
-  "title": "Software Engineering - Commercial Engineering & AI - Ceai",
-  "location": "Redmond, WA",
-  "url": "https://apply.careers.microsoft.com/careers/job/1970393556914839",
-  "category": "SWE",
-  "posted": "2026-09-14",
-  "date_posted": 1789425238,
-  "active": false,
-  "locations": [
-   "Redmond, WA"
-  ],
-  "region": "US",
-  "degrees": [
-   "Bachelor's",
-   "Master's"
-  ],
-  "sponsorship": "Other",
-  "group": "microsoft|software engineering commercial engineering ai ceai",
-  "in_feed": false,
-  "reason": "closed",
-  "last_seen": 1791985864,
-  "closed_at": 1791985864
  },
  {
   "id": "simplify:a5015239-b0f5-4194-ba7b-fc8c2eac8c28",
