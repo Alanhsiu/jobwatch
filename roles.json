@@ -1,5 +1,53 @@
 [
  {
+  "id": "simplify:8d9f37dc-7e91-4b54-8583-f266af7d0c8a",
+  "first_seen": 1793980806,
+  "company": "TikTok",
+  "title": "Research Engineer - Agentic Video Editing",
+  "location": "San Jose, CA",
+  "url": "https://lifeattiktok.com/search/7704036750285867269",
+  "category": "SWE",
+  "posted": "2026-11-06",
+  "date_posted": 1793950131,
+  "active": true,
+  "locations": [
+   "San Jose, CA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "tiktok|research engineer agentic video editing",
+  "in_feed": true,
+  "reason": null
+ },
+ {
+  "id": "simplify:0559e77e-4693-4e8a-a1c3-177e65abdd9a",
+  "first_seen": 1793980806,
+  "company": "Amazon",
+  "title": "Software Development Engineer - SoC Hardware Abstraction Layer",
+  "location": "Cupertino, CA",
+  "url": "https://amazon.jobs/en/jobs/10598432/software-development-engineer-soc-hal",
+  "category": "SWE",
+  "posted": "2026-11-06",
+  "date_posted": 1793950073,
+  "active": true,
+  "locations": [
+   "Cupertino, CA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "amazon|software development engineer soc hardware abstraction layer",
+  "in_feed": true,
+  "reason": null
+ },
+ {
   "id": "simplify:02f41834-2a2e-4964-8780-2ad1148d6a18",
   "first_seen": 1793922169,
   "company": "Amazon",
@@ -1276,29 +1324,6 @@
   "reason": null
  },
  {
-  "id": "simplify:f3c27242-85bc-4d24-acb5-70028e2c09c2",
-  "first_seen": 1792064612,
-  "company": "TikTok",
-  "title": "Backend Engineer Graduate - Social Foundation",
-  "location": "San Jose, CA",
-  "url": "https://lifeattiktok.com/search/7696782198126545157",
-  "category": "SWE",
-  "posted": "2026-10-15",
-  "date_posted": 1792058086,
-  "active": true,
-  "locations": [
-   "San Jose, CA"
-  ],
-  "region": "US",
-  "degrees": [
-   "Bachelor's"
-  ],
-  "sponsorship": "Other",
-  "group": "tiktok|backend engineer graduate social foundation",
-  "in_feed": true,
-  "reason": null
- },
- {
   "id": "simplify:c440c071-0612-4db0-b149-50dcb1876b45",
   "first_seen": 1792019929,
   "company": "TikTok",
@@ -1670,31 +1695,6 @@
   ],
   "sponsorship": "Other",
   "group": "microsoft|software engineer",
-  "in_feed": true,
-  "reason": null
- },
- {
-  "id": "simplify:ccb8858f-f999-4876-80d4-80def8494834",
-  "first_seen": 1793177023,
-  "company": "Shield AI",
-  "title": "Autonomy Engineer-Behavior and Motion Planning",
-  "location": "San Diego, CA",
-  "url": "https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/f3b10e8f-51b7-42e6-94d1-075934eeb716/application?embed=true",
-  "category": "ML",
-  "posted": "2026-10-07",
-  "date_posted": 1791331200,
-  "active": true,
-  "locations": [
-   "San Diego, CA"
-  ],
-  "region": "US",
-  "degrees": [
-   "Bachelor's",
-   "Master's",
-   "PhD"
-  ],
-  "sponsorship": "Other",
-  "group": "shield ai|autonomy engineer behavior and motion planning",
   "in_feed": true,
   "reason": null
  },
@@ -7970,28 +7970,6 @@
   "reason": null
  },
  {
-  "id": "simplify:b3876b2d-c196-46fb-96c4-bbb3e767c0b0",
-  "company": "xAI",
-  "title": "Software Engineer - Ads Product",
-  "location": "Palo Alto, CA",
-  "url": "https://job-boards.greenhouse.io/xai/jobs/5152408007",
-  "category": "SWE",
-  "posted": "2026-06-02",
-  "date_posted": 1780363118,
-  "active": true,
-  "first_seen": 1784014543.6740808,
-  "last_seen": 1786836326.9891248,
-  "locations": [
-   "Palo Alto, CA"
-  ],
-  "region": "US",
-  "degrees": [],
-  "sponsorship": "Other",
-  "group": "xai|software engineer ads product",
-  "in_feed": true,
-  "reason": null
- },
- {
   "id": "simplify:8673e698-fd13-4dcc-aef5-1ccc0e8dff9b",
   "company": "Apple",
   "title": "Software Engineer Silicon Engineering Documentation Tools",
@@ -8656,6 +8634,31 @@
   "last_seen": 1793112003
  },
  {
+  "id": "simplify:f3c27242-85bc-4d24-acb5-70028e2c09c2",
+  "first_seen": 1792064612,
+  "company": "TikTok",
+  "title": "Backend Engineer Graduate - Social Foundation",
+  "location": "San Jose, CA",
+  "url": "https://lifeattiktok.com/search/7696782198126545157",
+  "category": "SWE",
+  "posted": "2026-10-15",
+  "date_posted": 1792058086,
+  "active": false,
+  "locations": [
+   "San Jose, CA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's"
+  ],
+  "sponsorship": "Other",
+  "group": "tiktok|backend engineer graduate social foundation",
+  "in_feed": false,
+  "reason": "closed",
+  "closed_at": 1793980806,
+  "last_seen": 1793980806
+ },
+ {
   "id": "simplify:19107d15-9629-4efe-b0f5-7e1cc38dd47d",
   "first_seen": 1792064612,
   "company": "Microsoft",
@@ -9066,6 +9069,33 @@
   "reason": "closed",
   "closed_at": 1791874429,
   "last_seen": 1791874429
+ },
+ {
+  "id": "simplify:ccb8858f-f999-4876-80d4-80def8494834",
+  "first_seen": 1793177023,
+  "company": "Shield AI",
+  "title": "Autonomy Engineer-Behavior and Motion Planning",
+  "location": "San Diego, CA",
+  "url": "https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/f3b10e8f-51b7-42e6-94d1-075934eeb716/application?embed=true",
+  "category": "ML",
+  "posted": "2026-10-07",
+  "date_posted": 1791331200,
+  "active": false,
+  "locations": [
+   "San Diego, CA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's",
+   "PhD"
+  ],
+  "sponsorship": "Other",
+  "group": "shield ai|autonomy engineer behavior and motion planning",
+  "in_feed": false,
+  "reason": "closed",
+  "closed_at": 1793980806,
+  "last_seen": 1793980806
  },
  {
   "id": "simplify:2e77fdb4-933b-41b1-8fe2-253cdec7bb57",
@@ -15669,6 +15699,29 @@
   "closed_at": 1786836326,
   "reason": "closed",
   "group": "jane street|quantitative trader"
+ },
+ {
+  "id": "simplify:b3876b2d-c196-46fb-96c4-bbb3e767c0b0",
+  "company": "xAI",
+  "title": "Software Engineer - Ads Product",
+  "location": "Palo Alto, CA",
+  "url": "https://job-boards.greenhouse.io/xai/jobs/5152408007",
+  "category": "SWE",
+  "posted": "2026-06-02",
+  "date_posted": 1780363118,
+  "active": false,
+  "first_seen": 1784014543.6740808,
+  "last_seen": 1793980806,
+  "locations": [
+   "Palo Alto, CA"
+  ],
+  "region": "US",
+  "degrees": [],
+  "sponsorship": "Other",
+  "group": "xai|software engineer ads product",
+  "in_feed": false,
+  "reason": "closed",
+  "closed_at": 1793980806
  },
  {
   "id": "simplify:acbc4b8d-0115-4cb4-aac8-da1952d07302",

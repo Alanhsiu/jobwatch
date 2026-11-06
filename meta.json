@@ -4,28 +4,28 @@
  "repo": "Alanhsiu/jobwatch",
  "branch": "main",
  "pages_url": "https://alanhsiu.github.io/jobwatch/",
- "last_run": 1793948397,
- "last_change": 1793948397,
+ "last_run": 1793980806,
+ "last_change": 1793980806,
  "last_result": "ok",
  "feed": {
-  "records": 19010,
-  "active": 3239,
-  "fetched_at": 1793948397,
+  "records": 18988,
+  "active": 3219,
+  "fetched_at": 1793980806,
   "attempts": 1
  },
  "counts": {
-  "active": 330,
-  "closed": 302,
+  "active": 329,
+  "closed": 305,
   "untracked": 58,
-  "groups": 285,
-  "companies": 56,
-  "new_this_run": 0,
+  "groups": 284,
+  "companies": 55,
+  "new_this_run": 2,
   "silent_known_this_run": 0,
-  "closed_this_run": 0,
+  "closed_this_run": 3,
   "untracked_this_run": 0
  },
  "rejects": {
-  "category": 145,
+  "category": 144,
   "phd": 178,
   "title": 21,
   "region": 41,
@@ -56,8 +56,8 @@
    "denied": 0
   },
   "amazon": {
-   "active": 24,
-   "all_time": 41,
+   "active": 25,
+   "all_time": 42,
    "names": [
     "Amazon"
    ],
@@ -777,7 +777,7 @@
    "denied": 0
   },
   "shield ai": {
-   "active": 14,
+   "active": 13,
    "all_time": 14,
    "names": [
     "Shield AI"
@@ -854,7 +854,7 @@
   },
   "tiktok": {
    "active": 108,
-   "all_time": 161,
+   "all_time": 162,
    "names": [
     "TikTok"
    ],
@@ -981,11 +981,9 @@
    "denied": 0
   },
   "xai": {
-   "active": 1,
+   "active": 0,
    "all_time": 7,
-   "names": [
-    "xAI"
-   ],
+   "names": [],
    "denied": 0
   },
   "xtx": {
@@ -1004,8 +1002,8 @@
   }
  },
  "telegram": {
-  "mode": "none",
-  "delivered": 0,
+  "mode": "sent",
+  "delivered": 2,
   "failed_chunks": 0,
   "creds": true
  },
