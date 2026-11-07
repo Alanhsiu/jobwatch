@@ -408,29 +408,6 @@
   "reason": null
  },
  {
-  "id": "simplify:04b02353-a9e6-4727-b867-58601de9c53b",
-  "first_seen": 1793676619,
-  "company": "Microsoft",
-  "title": "Software Engineer IC2",
-  "location": "Redmond, WA",
-  "url": "https://apply.careers.microsoft.com/careers/job/1970393557050639",
-  "category": "SWE",
-  "posted": "2026-11-02",
-  "date_posted": 1793663300,
-  "active": true,
-  "locations": [
-   "Redmond, WA"
-  ],
-  "region": "US",
-  "degrees": [
-   "Bachelor's"
-  ],
-  "sponsorship": "Other",
-  "group": "microsoft|software engineer ic2",
-  "in_feed": true,
-  "reason": null
- },
- {
   "id": "simplify:de9a9ad9-6f04-4abe-91d6-e8d89c552e48",
   "first_seen": 1793676619,
   "company": "Apple",
@@ -562,31 +539,6 @@
   ],
   "sponsorship": "Other",
   "group": "chicago trading company|quant trading associate options theory intensive",
-  "in_feed": true,
-  "reason": null
- },
- {
-  "id": "simplify:744cbad0-fb7b-4d61-bd7e-98bb423c0513",
-  "first_seen": 1793365922,
-  "company": "Microsoft",
-  "title": "Firmware Engineer",
-  "location": "Redmond, WA, Mountain View, CA",
-  "url": "https://apply.careers.microsoft.com/careers/job/1970393557039426",
-  "category": "HW",
-  "posted": "2026-10-30",
-  "date_posted": 1793342000,
-  "active": true,
-  "locations": [
-   "Redmond, WA",
-   "Mountain View, CA"
-  ],
-  "region": "US",
-  "degrees": [
-   "Bachelor's",
-   "Master's"
-  ],
-  "sponsorship": "Other",
-  "group": "microsoft|firmware engineer",
   "in_feed": true,
   "reason": null
  },
@@ -2558,31 +2510,6 @@
   "group": "atlassian|software engineer",
   "in_feed": true,
   "reason": null
- },
- {
-  "id": "simplify:b4e7a187-9537-4e72-8b27-c8d54faf0118",
-  "first_seen": 1791127536,
-  "company": "Microsoft",
-  "title": "Software Engineering - Commercial Engineering & AI - Ceai",
-  "location": "Redmond, WA",
-  "url": "https://apply.careers.microsoft.com/careers/job/1970393556914839",
-  "category": "SWE",
-  "posted": "2026-09-14",
-  "date_posted": 1789425238,
-  "active": true,
-  "locations": [
-   "Redmond, WA"
-  ],
-  "region": "US",
-  "degrees": [
-   "Bachelor's",
-   "Master's"
-  ],
-  "sponsorship": "Other",
-  "group": "microsoft|software engineering commercial engineering ai ceai",
-  "in_feed": true,
-  "reason": null,
-  "last_seen": 1791985864
  },
  {
   "id": "simplify:02ca659d-9ee1-4e08-a05b-2ddce897fa74",
@@ -8093,6 +8020,31 @@
   "reason": null
  },
  {
+  "id": "simplify:04b02353-a9e6-4727-b867-58601de9c53b",
+  "first_seen": 1793676619,
+  "company": "Microsoft",
+  "title": "Software Engineer IC2",
+  "location": "Redmond, WA",
+  "url": "https://apply.careers.microsoft.com/careers/job/1970393557050639",
+  "category": "SWE",
+  "posted": "2026-11-02",
+  "date_posted": 1793663300,
+  "active": false,
+  "locations": [
+   "Redmond, WA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's"
+  ],
+  "sponsorship": "Other",
+  "group": "microsoft|software engineer ic2",
+  "in_feed": false,
+  "reason": "closed",
+  "closed_at": 1794069087,
+  "last_seen": 1794069087
+ },
+ {
   "id": "simplify:19b3d525-634e-4bc7-ad38-d92a4b53531d",
   "first_seen": 1793676619,
   "company": "Anduril",
@@ -8117,6 +8069,33 @@
   "reason": "closed",
   "closed_at": 1793752918,
   "last_seen": 1793752918
+ },
+ {
+  "id": "simplify:744cbad0-fb7b-4d61-bd7e-98bb423c0513",
+  "first_seen": 1793365922,
+  "company": "Microsoft",
+  "title": "Firmware Engineer",
+  "location": "Redmond, WA, Mountain View, CA",
+  "url": "https://apply.careers.microsoft.com/careers/job/1970393557039426",
+  "category": "HW",
+  "posted": "2026-10-30",
+  "date_posted": 1793342000,
+  "active": false,
+  "locations": [
+   "Redmond, WA",
+   "Mountain View, CA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "microsoft|firmware engineer",
+  "in_feed": false,
+  "reason": "closed",
+  "closed_at": 1794069087,
+  "last_seen": 1794069087
  },
  {
   "id": "simplify:22b41b69-61b2-4b32-88f6-61e9f4d4643d",
@@ -9851,6 +9830,32 @@
   "reason": "closed",
   "closed_at": 1790149819,
   "last_seen": 1790149819
+ },
+ {
+  "id": "simplify:b4e7a187-9537-4e72-8b27-c8d54faf0118",
+  "first_seen": 1791127536,
+  "company": "Microsoft",
+  "title": "Software Engineering - Commercial Engineering & AI - Ceai",
+  "location": "Redmond, WA",
+  "url": "https://apply.careers.microsoft.com/careers/job/1970393556914839",
+  "category": "SWE",
+  "posted": "2026-09-14",
+  "date_posted": 1789425238,
+  "active": false,
+  "locations": [
+   "Redmond, WA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "microsoft|software engineering commercial engineering ai ceai",
+  "in_feed": false,
+  "reason": "closed",
+  "last_seen": 1794069087,
+  "closed_at": 1794069087
  },
  {
   "id": "simplify:a5015239-b0f5-4194-ba7b-fc8c2eac8c28",
