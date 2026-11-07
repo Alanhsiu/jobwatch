@@ -1,5 +1,80 @@
 [
  {
+  "id": "simplify:ae0259f6-a081-4a42-8a14-c855b03e92f6",
+  "first_seen": 1794016884,
+  "company": "Tesla",
+  "title": "Associate Data Engineer - Manufacturing Planning Systems - Semi",
+  "location": "Sparks, NV",
+  "url": "https://www.tesla.com/careers/search/job/289265",
+  "category": "ML",
+  "posted": "2026-11-06",
+  "date_posted": 1794008807,
+  "active": true,
+  "locations": [
+   "Sparks, NV"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's"
+  ],
+  "sponsorship": "Other",
+  "group": "tesla|associate data engineer manufacturing planning systems semi",
+  "in_feed": true,
+  "reason": null
+ },
+ {
+  "id": "simplify:e7b2cc70-862f-4045-bc00-627e408d80b1",
+  "first_seen": 1794016884,
+  "company": "Amazon",
+  "title": "Systems Development Engineer - AWS Commerce Platform-ADC",
+  "location": "Denver, CO",
+  "url": "https://amazon.jobs/en/jobs/10598815/systems-development-engineer-aws-commerce-platform-adc",
+  "category": "SWE",
+  "posted": "2026-11-06",
+  "date_posted": 1794008658,
+  "active": true,
+  "locations": [
+   "Denver, CO"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's",
+   "MBA",
+   "PharmD",
+   "PhD",
+   "Associate's"
+  ],
+  "sponsorship": "Other",
+  "group": "amazon|systems development engineer aws commerce platform adc",
+  "in_feed": true,
+  "reason": null
+ },
+ {
+  "id": "simplify:5b152919-6dd2-49e1-9338-9bec77d7fdd3",
+  "first_seen": 1794016884,
+  "company": "Microsoft",
+  "title": "Software Engineer",
+  "location": "Reston, VA",
+  "url": "https://apply.careers.microsoft.com/careers/job/1970393557053350",
+  "category": "SWE",
+  "posted": "2026-11-06",
+  "date_posted": 1794008282,
+  "active": true,
+  "locations": [
+   "Reston, VA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "microsoft|software engineer",
+  "in_feed": true,
+  "reason": null
+ },
+ {
   "id": "simplify:8d9f37dc-7e91-4b54-8583-f266af7d0c8a",
   "first_seen": 1793980806,
   "company": "TikTok",
@@ -2508,28 +2583,6 @@
   "in_feed": true,
   "reason": null,
   "last_seen": 1791985864
- },
- {
-  "id": "simplify:13ed523b-577a-4fbe-a3da-032a28eb0207",
-  "company": "ServiceNow",
-  "title": "Software Engineer",
-  "location": "West Palm Beach, FL",
-  "url": "https://jobs.smartrecruiters.com/ServiceNow/744000149338366",
-  "category": "SWE",
-  "posted": "2026-09-14",
-  "date_posted": 1789394635,
-  "active": true,
-  "first_seen": 1789414950.7806032,
-  "last_seen": 1789521191.4314806,
-  "locations": [
-   "West Palm Beach, FL"
-  ],
-  "region": "US",
-  "degrees": [],
-  "sponsorship": "Other",
-  "group": "servicenow|software engineer",
-  "in_feed": true,
-  "reason": null
  },
  {
   "id": "simplify:02ca659d-9ee1-4e08-a05b-2ddce897fa74",
@@ -9828,6 +9881,29 @@
   "in_feed": false,
   "reason": "closed",
   "closed_at": 1792762544
+ },
+ {
+  "id": "simplify:13ed523b-577a-4fbe-a3da-032a28eb0207",
+  "company": "ServiceNow",
+  "title": "Software Engineer",
+  "location": "West Palm Beach, FL",
+  "url": "https://jobs.smartrecruiters.com/ServiceNow/744000149338366",
+  "category": "SWE",
+  "posted": "2026-09-14",
+  "date_posted": 1789394635,
+  "active": false,
+  "first_seen": 1789414950.7806032,
+  "last_seen": 1794016884,
+  "locations": [
+   "West Palm Beach, FL"
+  ],
+  "region": "US",
+  "degrees": [],
+  "sponsorship": "Other",
+  "group": "servicenow|software engineer",
+  "in_feed": false,
+  "reason": "closed",
+  "closed_at": 1794016884
  },
  {
   "id": "simplify:4e247e53-0b37-4a1a-a541-dbeed089bfe1",

@@ -4,28 +4,28 @@
  "repo": "Alanhsiu/jobwatch",
  "branch": "main",
  "pages_url": "https://alanhsiu.github.io/jobwatch/",
- "last_run": 1794001041,
- "last_change": 1794001041,
+ "last_run": 1794016884,
+ "last_change": 1794016884,
  "last_result": "ok",
  "feed": {
-  "records": 18992,
-  "active": 3206,
-  "fetched_at": 1794001041,
+  "records": 18974,
+  "active": 3255,
+  "fetched_at": 1794016884,
   "attempts": 1
  },
  "counts": {
-  "active": 328,
-  "closed": 306,
+  "active": 330,
+  "closed": 307,
   "untracked": 58,
-  "groups": 284,
+  "groups": 285,
   "companies": 55,
-  "new_this_run": 0,
+  "new_this_run": 3,
   "silent_known_this_run": 0,
   "closed_this_run": 1,
   "untracked_this_run": 0
  },
  "rejects": {
-  "category": 144,
+  "category": 146,
   "phd": 178,
   "title": 21,
   "region": 41,
@@ -56,8 +56,8 @@
    "denied": 0
   },
   "amazon": {
-   "active": 25,
-   "all_time": 42,
+   "active": 26,
+   "all_time": 43,
    "names": [
     "Amazon"
    ],
@@ -549,8 +549,8 @@
    "denied": 0
   },
   "microsoft": {
-   "active": 10,
-   "all_time": 38,
+   "active": 11,
+   "all_time": 39,
    "names": [
     "Microsoft"
    ],
@@ -769,7 +769,7 @@
    "denied": 0
   },
   "servicenow": {
-   "active": 3,
+   "active": 2,
    "all_time": 13,
    "names": [
     "ServiceNow"
@@ -839,8 +839,8 @@
    "denied": 0
   },
   "tesla": {
-   "active": 4,
-   "all_time": 29,
+   "active": 5,
+   "all_time": 30,
    "names": [
     "Tesla"
    ],
@@ -1002,8 +1002,8 @@
   }
  },
  "telegram": {
-  "mode": "none",
-  "delivered": 0,
+  "mode": "sent",
+  "delivered": 3,
   "failed_chunks": 0,
   "creds": true
  },
