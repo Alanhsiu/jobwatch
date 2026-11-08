@@ -8,7 +8,7 @@ sync between devices through this repo. No servers, no database, no cost — a p
 bot token. This repo's tracker: **[alanhsiu.github.io/jobwatch](https://alanhsiu.github.io/jobwatch/)** (a fork gets its own at `https://<owner>.github.io/<repo>/`).
 
 <!-- JOBS:HEAD:START -->
-_326 open new-grad roles at 54 companies · list last changed 2026-11-07 · scans every ~2 h_ · **[Open the tracker](https://alanhsiu.github.io/jobwatch/)** · [Full list ↓](#current-roles) · TikTok 108 · ByteDance 33 · Amazon 26 · Shield AI 13 · Palantir 12 · Apple 10 · Anduril 8 · Microsoft 8 · …
+_327 open new-grad roles at 55 companies · list last changed 2026-11-08 · scans every ~2 h_ · **[Open the tracker](https://alanhsiu.github.io/jobwatch/)** · [Full list ↓](#current-roles) · TikTok 108 · ByteDance 33 · Amazon 26 · Shield AI 13 · Palantir 12 · Apple 10 · Anduril 8 · Microsoft 8 · …
 <!-- JOBS:HEAD:END -->
 
 ## How it works
@@ -729,6 +729,12 @@ and `.nojekyll` into `docs/`, set Pages to `/docs`, and give every device a toke
 <summary>OpenAI (1)</summary>
 
 - [Software Engineer - Applied Emerging Talent](https://jobs.ashbyhq.com/openai/55150071-fce8-48f5-aea4-14ed78b83511/application?embed=true) — SF · posted 2026-09-15 · SWE · BS/MS
+
+</details>
+<details open>
+<summary>Perplexity AI (1)</summary>
+
+- [Member of Technical Staff - Software Engineer - AI Policy and Strategic Initiatives](https://jobs.ashbyhq.com/perplexity/1056951e-8a42-4330-b72c-90162b3cd1c9/application?embed=true) — Washington, DC, SF · posted 2026-11-07 · SWE
 
 </details>
 <details open>

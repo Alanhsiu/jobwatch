@@ -1,5 +1,27 @@
 [
  {
+  "id": "simplify:72f871b3-7dc6-4dd8-9772-c6e0268eb857",
+  "first_seen": 1794101471,
+  "company": "Perplexity AI",
+  "title": "Member of Technical Staff - Software Engineer - AI Policy and Strategic Initiatives",
+  "location": "Washington, DC, SF",
+  "url": "https://jobs.ashbyhq.com/perplexity/1056951e-8a42-4330-b72c-90162b3cd1c9/application?embed=true",
+  "category": "SWE",
+  "posted": "2026-11-07",
+  "date_posted": 1794009600,
+  "active": true,
+  "locations": [
+   "Washington, DC",
+   "SF"
+  ],
+  "region": "US",
+  "degrees": [],
+  "sponsorship": "Other",
+  "group": "perplexity ai|member of technical staff software engineer ai policy and strategic initiatives",
+  "in_feed": true,
+  "reason": null
+ },
+ {
   "id": "simplify:ae0259f6-a081-4a42-8a14-c855b03e92f6",
   "first_seen": 1794016884,
   "company": "Tesla",
