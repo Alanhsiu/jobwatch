@@ -8,7 +8,7 @@ sync between devices through this repo. No servers, no database, no cost — a p
 bot token. This repo's tracker: **[alanhsiu.github.io/jobwatch](https://alanhsiu.github.io/jobwatch/)** (a fork gets its own at `https://<owner>.github.io/<repo>/`).
 
 <!-- JOBS:HEAD:START -->
-_332 open new-grad roles at 55 companies · list last changed 2026-11-09 · scans every ~2 h_ · **[Open the tracker](https://alanhsiu.github.io/jobwatch/)** · [Full list ↓](#current-roles) · TikTok 108 · ByteDance 33 · Amazon 26 · Shield AI 18 · Palantir 12 · Apple 10 · Anduril 8 · Microsoft 8 · …
+_331 open new-grad roles at 55 companies · list last changed 2026-11-09 · scans every ~2 h_ · **[Open the tracker](https://alanhsiu.github.io/jobwatch/)** · [Full list ↓](#current-roles) · TikTok 108 · ByteDance 33 · Amazon 26 · Shield AI 18 · Palantir 12 · Apple 10 · Anduril 8 · Microsoft 8 · …
 <!-- JOBS:HEAD:END -->
 
 ## How it works
@@ -545,13 +545,6 @@ and `.nojekyll` into `docs/`, set Pages to `/docs`, and give every device a toke
 
 </details>
 <details open>
-<summary>Chicago Trading Company (3)</summary>
-
-- [Quant Trading Associate - Options Theory Intensive](https://job-boards.greenhouse.io/ctccampusboard/jobs/4749020005) — Chicago, IL · posted 2026-10-30 · Quant · BS/MS
-- [Associate Engineer](https://job-boards.greenhouse.io/chicagotradingcampus/jobs/4716937005) · [2](https://job-boards.greenhouse.io/ctccampusboard/jobs/4709991005) — Chicago, IL, NYC · posted 2026-08-03 · SWE · BS/MS
-
-</details>
-<details open>
 <summary>DRW (3)</summary>
 
 - [Floor Trader](https://job-boards.greenhouse.io/drweng/jobs/8207750) — Chicago, IL · posted 2026-09-16 · Quant · BS
@@ -571,6 +564,12 @@ and `.nojekyll` into `docs/`, set Pages to `/docs`, and give every device a toke
 
 - [Machine Learning Engineer New Grad](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-University-Graduate---Machine-Learning-Engineer_R172085) — Seattle, WA, SF, Austin, TX · posted 2026-09-24 · ML · MS/PhD
 - [Software Engineer New Grad](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-University-Graduate---Software-Engineer_R172083) — Seattle, WA, SF, Austin, TX · posted 2026-09-24 · SWE · BS/MS
+
+</details>
+<details open>
+<summary>Chicago Trading Company (2)</summary>
+
+- [Associate Engineer](https://job-boards.greenhouse.io/chicagotradingcampus/jobs/4716937005) · [2](https://job-boards.greenhouse.io/ctccampusboard/jobs/4709991005) — Chicago, IL, NYC · posted 2026-08-03 · SWE · BS/MS
 
 </details>
 <details open>

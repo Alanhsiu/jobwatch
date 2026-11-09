@@ -666,30 +666,6 @@
   "reason": null
  },
  {
-  "id": "simplify:6f52487e-12cd-4596-910d-b86917451347",
-  "first_seen": 1793404436,
-  "company": "Chicago Trading Company",
-  "title": "Quant Trading Associate - Options Theory Intensive",
-  "location": "Chicago, IL",
-  "url": "https://job-boards.greenhouse.io/ctccampusboard/jobs/4749020005",
-  "category": "Quant",
-  "posted": "2026-10-30",
-  "date_posted": 1793385621,
-  "active": true,
-  "locations": [
-   "Chicago, IL"
-  ],
-  "region": "US",
-  "degrees": [
-   "Bachelor's",
-   "Master's"
-  ],
-  "sponsorship": "Other",
-  "group": "chicago trading company|quant trading associate options theory intensive",
-  "in_feed": true,
-  "reason": null
- },
- {
   "id": "simplify:72726ef8-aae1-4aa6-835c-d5e4330af956",
   "first_seen": 1793318366,
   "company": "Amazon",
@@ -8194,6 +8170,32 @@
   "reason": "closed",
   "closed_at": 1793752918,
   "last_seen": 1793752918
+ },
+ {
+  "id": "simplify:6f52487e-12cd-4596-910d-b86917451347",
+  "first_seen": 1793404436,
+  "company": "Chicago Trading Company",
+  "title": "Quant Trading Associate - Options Theory Intensive",
+  "location": "Chicago, IL",
+  "url": "https://job-boards.greenhouse.io/ctccampusboard/jobs/4749020005",
+  "category": "Quant",
+  "posted": "2026-10-30",
+  "date_posted": 1793385621,
+  "active": false,
+  "locations": [
+   "Chicago, IL"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "chicago trading company|quant trading associate options theory intensive",
+  "in_feed": false,
+  "reason": "closed",
+  "closed_at": 1794218196,
+  "last_seen": 1794218196
  },
  {
   "id": "simplify:744cbad0-fb7b-4d61-bd7e-98bb423c0513",

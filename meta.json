@@ -4,24 +4,24 @@
  "repo": "Alanhsiu/jobwatch",
  "branch": "main",
  "pages_url": "https://alanhsiu.github.io/jobwatch/",
- "last_run": 1794188766,
- "last_change": 1794188766,
+ "last_run": 1794218196,
+ "last_change": 1794218196,
  "last_result": "ok",
  "feed": {
   "records": 18764,
-  "active": 3230,
-  "fetched_at": 1794188766,
+  "active": 3217,
+  "fetched_at": 1794218196,
   "attempts": 1
  },
  "counts": {
-  "active": 332,
-  "closed": 311,
+  "active": 331,
+  "closed": 312,
   "untracked": 58,
-  "groups": 286,
+  "groups": 285,
   "companies": 55,
-  "new_this_run": 5,
+  "new_this_run": 0,
   "silent_known_this_run": 0,
-  "closed_this_run": 0,
+  "closed_this_run": 1,
   "untracked_this_run": 0
  },
  "rejects": {
@@ -200,7 +200,7 @@
    "denied": 0
   },
   "chicago trading": {
-   "active": 3,
+   "active": 2,
    "all_time": 8,
    "names": [
     "Chicago Trading Company"
@@ -1002,8 +1002,8 @@
   }
  },
  "telegram": {
-  "mode": "sent",
-  "delivered": 5,
+  "mode": "none",
+  "delivered": 0,
   "failed_chunks": 0,
   "creds": true
  },
