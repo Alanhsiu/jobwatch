@@ -1,5 +1,101 @@
 [
  {
+  "id": "simplify:f8dff735-83eb-4c12-bafc-e9568cf30001",
+  "first_seen": 1794283899,
+  "company": "Microsoft",
+  "title": "Software Engineer",
+  "location": "Redmond, WA",
+  "url": "https://apply.careers.microsoft.com/careers/job/1970393557053863",
+  "category": "SWE",
+  "posted": "2026-11-09",
+  "date_posted": 1794267495,
+  "active": true,
+  "locations": [
+   "Redmond, WA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "microsoft|software engineer",
+  "in_feed": true,
+  "reason": null
+ },
+ {
+  "id": "simplify:4d117eb5-e4cd-4625-bc89-63338bb2dd70",
+  "first_seen": 1794283899,
+  "company": "Microsoft",
+  "title": "Software Engineering",
+  "location": "Redmond, WA",
+  "url": "https://apply.careers.microsoft.com/careers/job/1970393557039397",
+  "category": "SWE",
+  "posted": "2026-11-09",
+  "date_posted": 1794267493,
+  "active": true,
+  "locations": [
+   "Redmond, WA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "microsoft|software engineering",
+  "in_feed": true,
+  "reason": null
+ },
+ {
+  "id": "simplify:3dbb6972-d6ac-421f-a585-0e73f702f92a",
+  "first_seen": 1794283899,
+  "company": "Wolverine Trading",
+  "title": "C++ Software Engineer New Grad",
+  "location": "Chicago, IL",
+  "url": "https://wolve.pinpointhq.com/en/postings/33228344-bcc7-4bcd-b3cb-22b60aaee82c?ats=pinpointhq",
+  "category": "SWE",
+  "posted": "2026-11-09",
+  "date_posted": 1794242819,
+  "active": true,
+  "locations": [
+   "Chicago, IL"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "wolverine trading|c software engineer new grad",
+  "in_feed": true,
+  "reason": null
+ },
+ {
+  "id": "simplify:f9c96d74-4f89-49f5-be99-d5de96d70502",
+  "first_seen": 1794283899,
+  "company": "Adobe",
+  "title": "Data Science Engineer New Grad",
+  "location": "San Jose, CA",
+  "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-University-Graduate---Data-Engineer_R173455",
+  "category": "ML",
+  "posted": "2026-11-09",
+  "date_posted": 1794182400,
+  "active": true,
+  "locations": [
+   "San Jose, CA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "adobe|data science engineer new grad",
+  "in_feed": true,
+  "reason": null
+ },
+ {
   "id": "simplify:cbd9ea2f-0c98-4c65-b81a-72290dca5c9c",
   "first_seen": 1794188766,
   "company": "Shield AI",
@@ -479,31 +575,6 @@
   ],
   "sponsorship": "Other",
   "group": "amazon|software development engineer early career embedded systems",
-  "in_feed": true,
-  "reason": null
- },
- {
-  "id": "simplify:c9942f0a-e3da-4b00-9ee2-be611a85daca",
-  "first_seen": 1793752918,
-  "company": "LinkedIn",
-  "title": "Data Scientist",
-  "location": "Mountain View, CA",
-  "url": "https://jobs.smartrecruiters.com/LinkedIn3/744000159509679",
-  "category": "ML",
-  "posted": "2026-11-03",
-  "date_posted": 1793745192,
-  "active": true,
-  "locations": [
-   "Mountain View, CA"
-  ],
-  "region": "US",
-  "degrees": [
-   "Bachelor's",
-   "Master's",
-   "PhD"
-  ],
-  "sponsorship": "Other",
-  "group": "linkedin|data scientist",
   "in_feed": true,
   "reason": null
  },
@@ -1899,6 +1970,57 @@
   "last_seen": 1792867864
  },
  {
+  "id": "simplify:867c063f-636d-4f77-bf08-decee4955762",
+  "first_seen": 1790985089,
+  "company": "Harvey",
+  "title": "Software Engineer New Grad",
+  "location": "SF",
+  "url": "https://jobs.ashbyhq.com/harvey/b0996df6-6b6e-42be-a4f9-0084536068f5/application?embed=true",
+  "category": "SWE",
+  "posted": "2026-10-02",
+  "date_posted": 1790979923,
+  "active": true,
+  "locations": [
+   "SF"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "harvey|software engineer new grad",
+  "in_feed": true,
+  "reason": null,
+  "last_seen": 1793734701
+ },
+ {
+  "id": "simplify:5993eb6e-3414-429f-86b9-dd467b9ddd1d",
+  "first_seen": 1790985089,
+  "company": "Harvey",
+  "title": "Software Engineer New Grad",
+  "location": "SF, NYC",
+  "url": "https://jobs.ashbyhq.com/harvey/4d8dc9ba-eb86-4d88-af7d-65d2fdaf3fdc/application?embed=true",
+  "category": "SWE",
+  "posted": "2026-10-02",
+  "date_posted": 1790979915,
+  "active": true,
+  "locations": [
+   "SF",
+   "NYC"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "harvey|software engineer new grad",
+  "in_feed": true,
+  "reason": null,
+  "last_seen": 1793734701
+ },
+ {
   "id": "simplify:169846aa-cf8c-463a-9721-b9826b79a129",
   "first_seen": 1790945452,
   "company": "Amazon",
@@ -2589,6 +2711,31 @@
   "reason": null
  },
  {
+  "id": "simplify:b4e7a187-9537-4e72-8b27-c8d54faf0118",
+  "first_seen": 1791127536,
+  "company": "Microsoft",
+  "title": "Software Engineering - Commercial Engineering & AI - Ceai",
+  "location": "Redmond, WA",
+  "url": "https://apply.careers.microsoft.com/careers/job/1970393556914839",
+  "category": "SWE",
+  "posted": "2026-09-14",
+  "date_posted": 1789425238,
+  "active": true,
+  "locations": [
+   "Redmond, WA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "microsoft|software engineering commercial engineering ai ceai",
+  "in_feed": true,
+  "reason": null,
+  "last_seen": 1794069087
+ },
+ {
   "id": "simplify:02ca659d-9ee1-4e08-a05b-2ddce897fa74",
   "company": "Amazon",
   "title": "Software Privacy Engineer - Multiple Teams",
@@ -2630,56 +2777,6 @@
   "degrees": [],
   "sponsorship": "Other",
   "group": "google|research engineer",
-  "in_feed": true,
-  "reason": null
- },
- {
-  "id": "simplify:8f1666d8-5267-460a-9e6f-0b622ef9f60d",
-  "company": "Anysphere",
-  "title": "Software Engineer New Grad - 2027",
-  "location": "SF, NYC",
-  "url": "https://jobs.ashbyhq.com/cursor/d0e5b41d-84ab-4887-bd3a-55589b11dd7b/application?embed=true",
-  "category": "SWE",
-  "posted": "2026-09-10",
-  "date_posted": 1789003401,
-  "active": true,
-  "first_seen": 1789063213.8064475,
-  "last_seen": 1789521191.4314806,
-  "locations": [
-   "SF",
-   "NYC"
-  ],
-  "region": "US",
-  "degrees": [
-   "Bachelor's"
-  ],
-  "sponsorship": "Other",
-  "group": "anysphere|software engineer new grad 2027",
-  "in_feed": true,
-  "reason": null
- },
- {
-  "id": "simplify:765bfb9d-9f78-412c-8357-d831024c3885",
-  "company": "Zoox",
-  "title": "Data Analyst - Hrs/wk",
-  "location": "Seattle, WA",
-  "url": "https://jobs.lever.co/zoox/ae2785ae-dfee-484b-8add-3cf32ca2d10e/apply",
-  "category": "ML",
-  "posted": "2026-09-10",
-  "date_posted": 1789002250,
-  "active": true,
-  "first_seen": 1789063213.8064475,
-  "last_seen": 1789521191.4314806,
-  "locations": [
-   "Seattle, WA"
-  ],
-  "region": "US",
-  "degrees": [
-   "Bachelor's",
-   "Master's"
-  ],
-  "sponsorship": "Other",
-  "group": "zoox|data analyst hrs wk",
   "in_feed": true,
   "reason": null
  },
@@ -8072,6 +8169,33 @@
   "reason": null
  },
  {
+  "id": "simplify:c9942f0a-e3da-4b00-9ee2-be611a85daca",
+  "first_seen": 1793752918,
+  "company": "LinkedIn",
+  "title": "Data Scientist",
+  "location": "Mountain View, CA",
+  "url": "https://jobs.smartrecruiters.com/LinkedIn3/744000159509679",
+  "category": "ML",
+  "posted": "2026-11-03",
+  "date_posted": 1793745192,
+  "active": false,
+  "locations": [
+   "Mountain View, CA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's",
+   "PhD"
+  ],
+  "sponsorship": "Other",
+  "group": "linkedin|data scientist",
+  "in_feed": false,
+  "reason": "closed",
+  "closed_at": 1794283899,
+  "last_seen": 1794283899
+ },
+ {
   "id": "simplify:04b02353-a9e6-4727-b867-58601de9c53b",
   "first_seen": 1793676619,
   "company": "Microsoft",
@@ -9312,59 +9436,6 @@
   "last_seen": 1791940614
  },
  {
-  "id": "simplify:867c063f-636d-4f77-bf08-decee4955762",
-  "first_seen": 1790985089,
-  "company": "Harvey",
-  "title": "Software Engineer New Grad",
-  "location": "SF",
-  "url": "https://jobs.ashbyhq.com/harvey/b0996df6-6b6e-42be-a4f9-0084536068f5/application?embed=true",
-  "category": "SWE",
-  "posted": "2026-10-02",
-  "date_posted": 1790979923,
-  "active": false,
-  "locations": [
-   "SF"
-  ],
-  "region": "US",
-  "degrees": [
-   "Bachelor's",
-   "Master's"
-  ],
-  "sponsorship": "Other",
-  "group": "harvey|software engineer new grad",
-  "in_feed": false,
-  "reason": "closed",
-  "closed_at": 1793734701,
-  "last_seen": 1793734701
- },
- {
-  "id": "simplify:5993eb6e-3414-429f-86b9-dd467b9ddd1d",
-  "first_seen": 1790985089,
-  "company": "Harvey",
-  "title": "Software Engineer New Grad",
-  "location": "SF, NYC",
-  "url": "https://jobs.ashbyhq.com/harvey/4d8dc9ba-eb86-4d88-af7d-65d2fdaf3fdc/application?embed=true",
-  "category": "SWE",
-  "posted": "2026-10-02",
-  "date_posted": 1790979915,
-  "active": false,
-  "locations": [
-   "SF",
-   "NYC"
-  ],
-  "region": "US",
-  "degrees": [
-   "Bachelor's",
-   "Master's"
-  ],
-  "sponsorship": "Other",
-  "group": "harvey|software engineer new grad",
-  "in_feed": false,
-  "reason": "closed",
-  "closed_at": 1793734701,
-  "last_seen": 1793734701
- },
- {
   "id": "simplify:0523ccf9-780c-4410-bcbb-60c3ebfa059b",
   "first_seen": 1791127536,
   "company": "Microsoft",
@@ -9960,32 +10031,6 @@
   "last_seen": 1790149819
  },
  {
-  "id": "simplify:b4e7a187-9537-4e72-8b27-c8d54faf0118",
-  "first_seen": 1791127536,
-  "company": "Microsoft",
-  "title": "Software Engineering - Commercial Engineering & AI - Ceai",
-  "location": "Redmond, WA",
-  "url": "https://apply.careers.microsoft.com/careers/job/1970393556914839",
-  "category": "SWE",
-  "posted": "2026-09-14",
-  "date_posted": 1789425238,
-  "active": false,
-  "locations": [
-   "Redmond, WA"
-  ],
-  "region": "US",
-  "degrees": [
-   "Bachelor's",
-   "Master's"
-  ],
-  "sponsorship": "Other",
-  "group": "microsoft|software engineering commercial engineering ai ceai",
-  "in_feed": false,
-  "reason": "closed",
-  "last_seen": 1794069087,
-  "closed_at": 1794069087
- },
- {
   "id": "simplify:a5015239-b0f5-4194-ba7b-fc8c2eac8c28",
   "company": "Motional",
   "title": "Motion Planning Engineer - Trajectory Generation",
@@ -10088,6 +10133,58 @@
   "closed_at": 1789570473,
   "reason": "closed",
   "group": "tesla|senior data engineer datawarehouse service tools"
+ },
+ {
+  "id": "simplify:8f1666d8-5267-460a-9e6f-0b622ef9f60d",
+  "company": "Anysphere",
+  "title": "Software Engineer New Grad - 2027",
+  "location": "SF, NYC",
+  "url": "https://jobs.ashbyhq.com/cursor/d0e5b41d-84ab-4887-bd3a-55589b11dd7b/application?embed=true",
+  "category": "SWE",
+  "posted": "2026-09-10",
+  "date_posted": 1789003401,
+  "active": false,
+  "first_seen": 1789063213.8064475,
+  "last_seen": 1794283899,
+  "locations": [
+   "SF",
+   "NYC"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's"
+  ],
+  "sponsorship": "Other",
+  "group": "anysphere|software engineer new grad 2027",
+  "in_feed": false,
+  "reason": "closed",
+  "closed_at": 1794283899
+ },
+ {
+  "id": "simplify:765bfb9d-9f78-412c-8357-d831024c3885",
+  "company": "Zoox",
+  "title": "Data Analyst - Hrs/wk",
+  "location": "Seattle, WA",
+  "url": "https://jobs.lever.co/zoox/ae2785ae-dfee-484b-8add-3cf32ca2d10e/apply",
+  "category": "ML",
+  "posted": "2026-09-10",
+  "date_posted": 1789002250,
+  "active": false,
+  "first_seen": 1789063213.8064475,
+  "last_seen": 1794283899,
+  "locations": [
+   "Seattle, WA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "zoox|data analyst hrs wk",
+  "in_feed": false,
+  "reason": "closed",
+  "closed_at": 1794283899
  },
  {
   "id": "simplify:ccea935e-1055-419a-834c-8b52c01b71bc",

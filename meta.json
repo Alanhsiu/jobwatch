@@ -4,28 +4,28 @@
  "repo": "Alanhsiu/jobwatch",
  "branch": "main",
  "pages_url": "https://alanhsiu.github.io/jobwatch/",
- "last_run": 1794257460,
- "last_change": 1794257460,
+ "last_run": 1794283899,
+ "last_change": 1794283899,
  "last_result": "ok",
  "feed": {
-  "records": 18703,
-  "active": 3175,
-  "fetched_at": 1794257460,
+  "records": 18753,
+  "active": 3214,
+  "fetched_at": 1794283899,
   "attempts": 1
  },
  "counts": {
-  "active": 329,
+  "active": 333,
   "closed": 314,
   "untracked": 58,
-  "groups": 283,
-  "companies": 55,
-  "new_this_run": 0,
+  "groups": 285,
+  "companies": 53,
+  "new_this_run": 4,
   "silent_known_this_run": 0,
-  "closed_this_run": 2,
+  "closed_this_run": 3,
   "untracked_this_run": 0
  },
  "rejects": {
-  "category": 145,
+  "category": 144,
   "phd": 179,
   "title": 23,
   "region": 41,
@@ -34,8 +34,8 @@
  },
  "keywords": {
   "adobe": {
-   "active": 2,
-   "all_time": 10,
+   "active": 3,
+   "all_time": 11,
    "names": [
     "Adobe"
    ],
@@ -80,11 +80,9 @@
    "denied": 0
   },
   "anysphere": {
-   "active": 1,
+   "active": 0,
    "all_time": 1,
-   "names": [
-    "Anysphere"
-   ],
+   "names": [],
    "denied": 0
   },
   "apple": {
@@ -431,9 +429,11 @@
    "denied": 0
   },
   "harvey": {
-   "active": 0,
+   "active": 2,
    "all_time": 2,
-   "names": [],
+   "names": [
+    "Harvey"
+   ],
    "denied": 0
   },
   "headlands": {
@@ -509,11 +509,9 @@
    "denied": 0
   },
   "linkedin": {
-   "active": 1,
+   "active": 0,
    "all_time": 2,
-   "names": [
-    "LinkedIn"
-   ],
+   "names": [],
    "denied": 0
   },
   "luma": {
@@ -549,8 +547,8 @@
    "denied": 0
   },
   "microsoft": {
-   "active": 7,
-   "all_time": 39,
+   "active": 10,
+   "all_time": 41,
    "names": [
     "Microsoft"
    ],
@@ -961,8 +959,8 @@
    "denied": 0
   },
   "wolverine": {
-   "active": 3,
-   "all_time": 5,
+   "active": 4,
+   "all_time": 6,
    "names": [
     "Wolverine Trading"
    ],
@@ -993,17 +991,15 @@
    "denied": 0
   },
   "zoox": {
-   "active": 1,
+   "active": 0,
    "all_time": 4,
-   "names": [
-    "Zoox"
-   ],
+   "names": [],
    "denied": 0
   }
  },
  "telegram": {
-  "mode": "none",
-  "delivered": 0,
+  "mode": "sent",
+  "delivered": 4,
   "failed_chunks": 0,
   "creds": true
  },
