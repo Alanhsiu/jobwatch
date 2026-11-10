@@ -4,24 +4,24 @@
  "repo": "Alanhsiu/jobwatch",
  "branch": "main",
  "pages_url": "https://alanhsiu.github.io/jobwatch/",
- "last_run": 1794314795,
- "last_change": 1794314795,
+ "last_run": 1794344043,
+ "last_change": 1794344043,
  "last_result": "ok",
  "feed": {
-  "records": 18777,
-  "active": 3224,
-  "fetched_at": 1794314795,
+  "records": 18789,
+  "active": 3201,
+  "fetched_at": 1794344043,
   "attempts": 1
  },
  "counts": {
-  "active": 337,
-  "closed": 313,
+  "active": 331,
+  "closed": 319,
   "untracked": 58,
-  "groups": 289,
+  "groups": 284,
   "companies": 55,
-  "new_this_run": 3,
+  "new_this_run": 0,
   "silent_known_this_run": 0,
-  "closed_this_run": 0,
+  "closed_this_run": 6,
   "untracked_this_run": 0
  },
  "rejects": {
@@ -34,7 +34,7 @@
  },
  "keywords": {
   "adobe": {
-   "active": 3,
+   "active": 2,
    "all_time": 11,
    "names": [
     "Adobe"
@@ -88,7 +88,7 @@
    "denied": 0
   },
   "apple": {
-   "active": 10,
+   "active": 9,
    "all_time": 37,
    "names": [
     "Apple"
@@ -739,7 +739,7 @@
    "denied": 0
   },
   "salesforce": {
-   "active": 3,
+   "active": 1,
    "all_time": 9,
    "names": [
     "Salesforce"
@@ -839,7 +839,7 @@
    "denied": 0
   },
   "tesla": {
-   "active": 5,
+   "active": 4,
    "all_time": 30,
    "names": [
     "Tesla"
@@ -953,7 +953,7 @@
    "denied": 0
   },
   "wintermute": {
-   "active": 2,
+   "active": 1,
    "all_time": 3,
    "names": [
     "Wintermute"
@@ -1002,8 +1002,8 @@
   }
  },
  "telegram": {
-  "mode": "sent",
-  "delivered": 3,
+  "mode": "none",
+  "delivered": 0,
   "failed_chunks": 0,
   "creds": true
  },

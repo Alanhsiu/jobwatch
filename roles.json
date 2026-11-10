@@ -97,30 +97,6 @@
   "reason": null
  },
  {
-  "id": "simplify:f9c96d74-4f89-49f5-be99-d5de96d70502",
-  "first_seen": 1794283899,
-  "company": "Adobe",
-  "title": "Data Science Engineer New Grad",
-  "location": "San Jose, CA",
-  "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-University-Graduate---Data-Engineer_R173455",
-  "category": "ML",
-  "posted": "2026-11-09",
-  "date_posted": 1794182400,
-  "active": true,
-  "locations": [
-   "San Jose, CA"
-  ],
-  "region": "US",
-  "degrees": [
-   "Bachelor's",
-   "Master's"
-  ],
-  "sponsorship": "Other",
-  "group": "adobe|data science engineer new grad",
-  "in_feed": true,
-  "reason": null
- },
- {
   "id": "simplify:cbd9ea2f-0c98-4c65-b81a-72290dca5c9c",
   "first_seen": 1794188766,
   "company": "Shield AI",
@@ -264,29 +240,6 @@
   "degrees": [],
   "sponsorship": "Other",
   "group": "perplexity ai|member of technical staff software engineer ai policy and strategic initiatives",
-  "in_feed": true,
-  "reason": null
- },
- {
-  "id": "simplify:ae0259f6-a081-4a42-8a14-c855b03e92f6",
-  "first_seen": 1794016884,
-  "company": "Tesla",
-  "title": "Associate Data Engineer - Manufacturing Planning Systems - Semi",
-  "location": "Sparks, NV",
-  "url": "https://www.tesla.com/careers/search/job/289265",
-  "category": "ML",
-  "posted": "2026-11-06",
-  "date_posted": 1794008807,
-  "active": true,
-  "locations": [
-   "Sparks, NV"
-  ],
-  "region": "US",
-  "degrees": [
-   "Bachelor's"
-  ],
-  "sponsorship": "Other",
-  "group": "tesla|associate data engineer manufacturing planning systems semi",
   "in_feed": true,
   "reason": null
  },
@@ -1546,58 +1499,6 @@
   "reason": null
  },
  {
-  "id": "simplify:6e0e49d7-3f42-454e-9884-85f4bdf8c139",
-  "first_seen": 1792197331,
-  "company": "Salesforce",
-  "title": "AI Labs Rotational Fellow - Emerging Talent",
-  "location": "Seattle, WA, SF, NYC",
-  "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/AI-Labs-Rotational-Fellowship--Emerging-Talent_JR363678-1",
-  "category": "SWE",
-  "posted": "2026-10-16",
-  "date_posted": 1792108800,
-  "active": true,
-  "locations": [
-   "Seattle, WA",
-   "SF",
-   "NYC"
-  ],
-  "region": "US",
-  "degrees": [
-   "Bachelor's",
-   "Master's"
-  ],
-  "sponsorship": "Other",
-  "group": "salesforce|ai labs rotational fellow emerging talent",
-  "in_feed": true,
-  "reason": null
- },
- {
-  "id": "simplify:8c732701-b682-414e-8968-708f8b132ff0",
-  "first_seen": 1792197331,
-  "company": "Salesforce",
-  "title": "AI Labs Rotational Fellow - Emerging Talent",
-  "location": "Seattle, WA, SF, NYC",
-  "url": "https://salesforce.wd12.myworkdayjobs.com/Futureforce_NewGradRoles/job/California---San-Francisco/AI-Labs-Rotational-Fellowship--Emerging-Talent_JR363678",
-  "category": "SWE",
-  "posted": "2026-10-16",
-  "date_posted": 1792108800,
-  "active": true,
-  "locations": [
-   "Seattle, WA",
-   "SF",
-   "NYC"
-  ],
-  "region": "US",
-  "degrees": [
-   "Bachelor's",
-   "Master's"
-  ],
-  "sponsorship": "Other",
-  "group": "salesforce|ai labs rotational fellow emerging talent",
-  "in_feed": true,
-  "reason": null
- },
- {
   "id": "simplify:86c9474f-6e5a-412d-86b0-43966e80038a",
   "first_seen": 1792110549,
   "company": "Apple",
@@ -2317,30 +2218,6 @@
   "in_feed": true,
   "reason": null,
   "last_seen": 1792780150
- },
- {
-  "id": "simplify:72f6e435-1060-4700-9b90-48d82c3b1972",
-  "first_seen": 1790399376,
-  "company": "Apple",
-  "title": "CAD Engineer - Signoff Infrastructure",
-  "location": "Austin, TX, San Jose, CA",
-  "url": "https://jobs.apple.com/en-us/details/200685871",
-  "category": "SWE",
-  "posted": "2026-09-26",
-  "date_posted": 1790384785,
-  "active": true,
-  "locations": [
-   "Austin, TX",
-   "San Jose, CA"
-  ],
-  "region": "US",
-  "degrees": [
-   "Bachelor's"
-  ],
-  "sponsorship": "Other",
-  "group": "apple|cad engineer signoff infrastructure",
-  "in_feed": true,
-  "reason": null
  },
  {
   "id": "simplify:0d1c69d1-e147-4307-a0d9-73744bf4a2cd",
@@ -3124,28 +3001,6 @@
   ],
   "sponsorship": "Other",
   "group": "apple|cellular layer 1 control software development engineer wireless technologies ecosystems",
-  "in_feed": true,
-  "reason": null
- },
- {
-  "id": "simplify:2aaa1a15-920f-4253-b75b-54b3cb438dbe",
-  "company": "Wintermute",
-  "title": "Graduate Algorithmic Trader",
-  "location": "NYC",
-  "url": "https://jobs.lever.co/wintermute-trading/d962dc39-8839-4e13-a37a-baba49e52b44/apply",
-  "category": "Quant",
-  "posted": "2026-09-01",
-  "date_posted": 1788283928,
-  "active": true,
-  "first_seen": 1788286002.979027,
-  "last_seen": 1789521191.4314806,
-  "locations": [
-   "NYC"
-  ],
-  "region": "US",
-  "degrees": [],
-  "sponsorship": "Other",
-  "group": "wintermute|graduate algorithmic trader",
   "in_feed": true,
   "reason": null
  },
@@ -8267,6 +8122,57 @@
   "reason": null
  },
  {
+  "id": "simplify:f9c96d74-4f89-49f5-be99-d5de96d70502",
+  "first_seen": 1794283899,
+  "company": "Adobe",
+  "title": "Data Science Engineer New Grad",
+  "location": "San Jose, CA",
+  "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-University-Graduate---Data-Engineer_R173455",
+  "category": "ML",
+  "posted": "2026-11-09",
+  "date_posted": 1794182400,
+  "active": false,
+  "locations": [
+   "San Jose, CA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "adobe|data science engineer new grad",
+  "in_feed": false,
+  "reason": "closed",
+  "closed_at": 1794344043,
+  "last_seen": 1794344043
+ },
+ {
+  "id": "simplify:ae0259f6-a081-4a42-8a14-c855b03e92f6",
+  "first_seen": 1794016884,
+  "company": "Tesla",
+  "title": "Associate Data Engineer - Manufacturing Planning Systems - Semi",
+  "location": "Sparks, NV",
+  "url": "https://www.tesla.com/careers/search/job/289265",
+  "category": "ML",
+  "posted": "2026-11-06",
+  "date_posted": 1794008807,
+  "active": false,
+  "locations": [
+   "Sparks, NV"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's"
+  ],
+  "sponsorship": "Other",
+  "group": "tesla|associate data engineer manufacturing planning systems semi",
+  "in_feed": false,
+  "reason": "closed",
+  "closed_at": 1794344043,
+  "last_seen": 1794344043
+ },
+ {
   "id": "simplify:c9942f0a-e3da-4b00-9ee2-be611a85daca",
   "first_seen": 1793752918,
   "company": "LinkedIn",
@@ -8937,6 +8843,62 @@
   "reason": "closed",
   "closed_at": 1793112003,
   "last_seen": 1793112003
+ },
+ {
+  "id": "simplify:6e0e49d7-3f42-454e-9884-85f4bdf8c139",
+  "first_seen": 1792197331,
+  "company": "Salesforce",
+  "title": "AI Labs Rotational Fellow - Emerging Talent",
+  "location": "Seattle, WA, SF, NYC",
+  "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/AI-Labs-Rotational-Fellowship--Emerging-Talent_JR363678-1",
+  "category": "SWE",
+  "posted": "2026-10-16",
+  "date_posted": 1792108800,
+  "active": false,
+  "locations": [
+   "Seattle, WA",
+   "SF",
+   "NYC"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "salesforce|ai labs rotational fellow emerging talent",
+  "in_feed": false,
+  "reason": "closed",
+  "closed_at": 1794344043,
+  "last_seen": 1794344043
+ },
+ {
+  "id": "simplify:8c732701-b682-414e-8968-708f8b132ff0",
+  "first_seen": 1792197331,
+  "company": "Salesforce",
+  "title": "AI Labs Rotational Fellow - Emerging Talent",
+  "location": "Seattle, WA, SF, NYC",
+  "url": "https://salesforce.wd12.myworkdayjobs.com/Futureforce_NewGradRoles/job/California---San-Francisco/AI-Labs-Rotational-Fellowship--Emerging-Talent_JR363678",
+  "category": "SWE",
+  "posted": "2026-10-16",
+  "date_posted": 1792108800,
+  "active": false,
+  "locations": [
+   "Seattle, WA",
+   "SF",
+   "NYC"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "salesforce|ai labs rotational fellow emerging talent",
+  "in_feed": false,
+  "reason": "closed",
+  "closed_at": 1794344043,
+  "last_seen": 1794344043
  },
  {
   "id": "simplify:f3c27242-85bc-4d24-acb5-70028e2c09c2",
@@ -9740,6 +9702,32 @@
   "last_seen": 1791940614
  },
  {
+  "id": "simplify:72f6e435-1060-4700-9b90-48d82c3b1972",
+  "first_seen": 1790399376,
+  "company": "Apple",
+  "title": "CAD Engineer - Signoff Infrastructure",
+  "location": "Austin, TX, San Jose, CA",
+  "url": "https://jobs.apple.com/en-us/details/200685871",
+  "category": "SWE",
+  "posted": "2026-09-26",
+  "date_posted": 1790384785,
+  "active": false,
+  "locations": [
+   "Austin, TX",
+   "San Jose, CA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's"
+  ],
+  "sponsorship": "Other",
+  "group": "apple|cad engineer signoff infrastructure",
+  "in_feed": false,
+  "reason": "closed",
+  "closed_at": 1794344043,
+  "last_seen": 1794344043
+ },
+ {
   "id": "simplify:d3c2d57b-c7ea-4194-ac33-731c72f64420",
   "first_seen": 1790323085,
   "company": "Apple",
@@ -10442,6 +10430,29 @@
   "in_feed": false,
   "reason": "closed",
   "closed_at": 1791414691
+ },
+ {
+  "id": "simplify:2aaa1a15-920f-4253-b75b-54b3cb438dbe",
+  "company": "Wintermute",
+  "title": "Graduate Algorithmic Trader",
+  "location": "NYC",
+  "url": "https://jobs.lever.co/wintermute-trading/d962dc39-8839-4e13-a37a-baba49e52b44/apply",
+  "category": "Quant",
+  "posted": "2026-09-01",
+  "date_posted": 1788283928,
+  "active": false,
+  "first_seen": 1788286002.979027,
+  "last_seen": 1794344043,
+  "locations": [
+   "NYC"
+  ],
+  "region": "US",
+  "degrees": [],
+  "sponsorship": "Other",
+  "group": "wintermute|graduate algorithmic trader",
+  "in_feed": false,
+  "reason": "closed",
+  "closed_at": 1794344043
  },
  {
   "id": "simplify:7c00bd35-b4d2-47d6-aa55-d4f4d70f9b5e",
