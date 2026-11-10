@@ -1,5 +1,30 @@
 [
  {
+  "id": "simplify:1d0612f6-6b43-47c4-9a7f-65017afa789c",
+  "first_seen": 1794314795,
+  "company": "Anysphere",
+  "title": "Software Engineer New Grad",
+  "location": "Palo Alto, CA, SF, NYC",
+  "url": "https://jobs.ashbyhq.com/cursor/164e27cd-289e-4bcd-8aaf-5280e75c5ed6/application?embed=true",
+  "category": "SWE",
+  "posted": "2026-11-10",
+  "date_posted": 1794268800,
+  "active": true,
+  "locations": [
+   "Palo Alto, CA",
+   "SF",
+   "NYC"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's"
+  ],
+  "sponsorship": "Other",
+  "group": "anysphere|software engineer new grad",
+  "in_feed": true,
+  "reason": null
+ },
+ {
   "id": "simplify:f8dff735-83eb-4c12-bafc-e9568cf30001",
   "first_seen": 1794283899,
   "company": "Microsoft",
@@ -1068,6 +1093,79 @@
   "degrees": [],
   "sponsorship": "Other",
   "group": "tesla|data collection coordinator optimus",
+  "in_feed": true,
+  "reason": null
+ },
+ {
+  "id": "simplify:264dcc23-f8cc-4727-878c-256ca9b41d00",
+  "first_seen": 1794314795,
+  "company": "xAI",
+  "title": "AI Tutor – Uzbek",
+  "location": "Remote in USA, Remote in UK, Remote in Australia",
+  "url": "https://job-boards.greenhouse.io/xai/jobs/5270905007",
+  "category": "ML",
+  "posted": "2026-10-26",
+  "date_posted": 1793008046,
+  "active": true,
+  "locations": [
+   "Remote in USA",
+   "Remote in UK",
+   "Remote in Australia",
+   "Remote in Canada"
+  ],
+  "region": "US",
+  "degrees": [],
+  "sponsorship": "Other",
+  "group": "xai|ai tutor uzbek",
+  "in_feed": true,
+  "reason": null
+ },
+ {
+  "id": "simplify:02ac8a2d-f366-4013-9348-467a4d1a5e6a",
+  "first_seen": 1793365922,
+  "company": "xAI",
+  "title": "AI Tutor – Estonian",
+  "location": "Remote in USA, Remote in UK, Remote in Australia",
+  "url": "https://job-boards.greenhouse.io/xai/jobs/5270902007",
+  "category": "ML",
+  "posted": "2026-10-26",
+  "date_posted": 1793007968,
+  "active": true,
+  "locations": [
+   "Remote in USA",
+   "Remote in UK",
+   "Remote in Australia",
+   "Remote in Canada"
+  ],
+  "region": "US",
+  "degrees": [],
+  "sponsorship": "Other",
+  "group": "xai|ai tutor estonian",
+  "in_feed": true,
+  "reason": null,
+  "last_seen": 1793734701
+ },
+ {
+  "id": "simplify:220072b1-824c-49db-a6f5-d64e018448a5",
+  "first_seen": 1794314795,
+  "company": "xAI",
+  "title": "AI Tutor – Amharic",
+  "location": "Remote in USA, Remote in UK, Remote in Australia",
+  "url": "https://job-boards.greenhouse.io/xai/jobs/5270906007",
+  "category": "ML",
+  "posted": "2026-10-26",
+  "date_posted": 1793007955,
+  "active": true,
+  "locations": [
+   "Remote in USA",
+   "Remote in UK",
+   "Remote in Australia",
+   "Remote in Canada"
+  ],
+  "region": "US",
+  "degrees": [],
+  "sponsorship": "Other",
+  "group": "xai|ai tutor amharic",
   "in_feed": true,
   "reason": null
  },
@@ -8476,32 +8574,6 @@
   "degrees": [],
   "sponsorship": "Other",
   "group": "xai|ai tutor oromo",
-  "in_feed": false,
-  "reason": "closed",
-  "closed_at": 1793734701,
-  "last_seen": 1793734701
- },
- {
-  "id": "simplify:02ac8a2d-f366-4013-9348-467a4d1a5e6a",
-  "first_seen": 1793365922,
-  "company": "xAI",
-  "title": "AI Tutor – Estonian",
-  "location": "Remote in USA, Remote in UK, Remote in Australia",
-  "url": "https://job-boards.greenhouse.io/xai/jobs/5270902007",
-  "category": "ML",
-  "posted": "2026-10-26",
-  "date_posted": 1793007968,
-  "active": false,
-  "locations": [
-   "Remote in USA",
-   "Remote in UK",
-   "Remote in Australia",
-   "Remote in Canada"
-  ],
-  "region": "US",
-  "degrees": [],
-  "sponsorship": "Other",
-  "group": "xai|ai tutor estonian",
   "in_feed": false,
   "reason": "closed",
   "closed_at": 1793734701,

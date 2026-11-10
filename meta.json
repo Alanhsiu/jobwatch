@@ -4,24 +4,24 @@
  "repo": "Alanhsiu/jobwatch",
  "branch": "main",
  "pages_url": "https://alanhsiu.github.io/jobwatch/",
- "last_run": 1794283899,
- "last_change": 1794283899,
+ "last_run": 1794314795,
+ "last_change": 1794314795,
  "last_result": "ok",
  "feed": {
-  "records": 18753,
-  "active": 3214,
-  "fetched_at": 1794283899,
+  "records": 18777,
+  "active": 3224,
+  "fetched_at": 1794314795,
   "attempts": 1
  },
  "counts": {
-  "active": 333,
-  "closed": 314,
+  "active": 337,
+  "closed": 313,
   "untracked": 58,
-  "groups": 285,
-  "companies": 53,
-  "new_this_run": 4,
+  "groups": 289,
+  "companies": 55,
+  "new_this_run": 3,
   "silent_known_this_run": 0,
-  "closed_this_run": 3,
+  "closed_this_run": 0,
   "untracked_this_run": 0
  },
  "rejects": {
@@ -80,9 +80,11 @@
    "denied": 0
   },
   "anysphere": {
-   "active": 0,
-   "all_time": 1,
-   "names": [],
+   "active": 1,
+   "all_time": 2,
+   "names": [
+    "Anysphere"
+   ],
    "denied": 0
   },
   "apple": {
@@ -979,9 +981,11 @@
    "denied": 0
   },
   "xai": {
-   "active": 0,
-   "all_time": 7,
-   "names": [],
+   "active": 3,
+   "all_time": 9,
+   "names": [
+    "xAI"
+   ],
    "denied": 0
   },
   "xtx": {
@@ -999,7 +1003,7 @@
  },
  "telegram": {
   "mode": "sent",
-  "delivered": 4,
+  "delivered": 3,
   "failed_chunks": 0,
   "creds": true
  },
