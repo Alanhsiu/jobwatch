@@ -8,7 +8,7 @@ sync between devices through this repo. No servers, no database, no cost — a p
 bot token. This repo's tracker: **[alanhsiu.github.io/jobwatch](https://alanhsiu.github.io/jobwatch/)** (a fork gets its own at `https://<owner>.github.io/<repo>/`).
 
 <!-- JOBS:HEAD:START -->
-_342 open new-grad roles at 55 companies · list last changed 2026-11-11 · scans every ~2 h_ · **[Open the tracker](https://alanhsiu.github.io/jobwatch/)** · [Full list ↓](#current-roles) · TikTok 108 · ByteDance 33 · Amazon 27 · Shield AI 23 · Palantir 12 · Microsoft 11 · Apple 10 · Anduril 9 · …
+_335 open new-grad roles at 55 companies · list last changed 2026-11-11 · scans every ~2 h_ · **[Open the tracker](https://alanhsiu.github.io/jobwatch/)** · [Full list ↓](#current-roles) · TikTok 108 · ByteDance 33 · Amazon 27 · Shield AI 14 · Palantir 12 · Microsoft 11 · Apple 10 · Anduril 9 · …
 <!-- JOBS:HEAD:END -->
 
 ## How it works
@@ -363,26 +363,17 @@ and `.nojekyll` into `docs/`, set Pages to `/docs`, and give every device a toke
 - [Software Development Engineer](https://amazon.jobs/en/jobs/3177934/software-development-engineer-2026-us) — Seattle, WA · posted 2026-05-04 · SWE · BS
 
 </details>
-<details>
-<summary>Shield AI (23)</summary>
+<details open>
+<summary>Shield AI (14)</summary>
 
 - [Engineer 1 New Grad - Software - Autonomy Capabilities](https://jobs.lever.co/shieldai/f8e0f87f-0e12-4e05-a491-4e8272494896/apply) — United States · posted 2026-11-08 · SWE · BS/MS/PhD
 - [Engineer 1 New Grad - Software - Perception](https://jobs.lever.co/shieldai/cd641bcb-f613-44dd-b66d-2df360067319/apply) · [2](https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/e4ac2482-6da7-4ab9-bab8-7bccbf3f6ae7/application?embed=true) · [3](https://jobs.ashbyhq.com/shield/e4ac2482-6da7-4ab9-bab8-7bccbf3f6ae7/application?embed=true) — Washington, DC · posted 2026-11-08 · ML · BS/MS/PhD
 - [Engineer 2 New Grad - Multiple Teams](https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/e7cb113f-9656-452c-a214-40241dfc04b0/application?embed=true) · [2](https://jobs.ashbyhq.com/shield/e7cb113f-9656-452c-a214-40241dfc04b0/application?embed=true) — Washington, DC · posted 2026-11-08 · SWE · BS/MS/PhD
 - [Software Engineer 1 New Grad - Software - Autonomy Capabilities](https://jobs.ashbyhq.com/shield/955d48ad-9380-4621-91f4-51f3f093ac10/application?embed=true) · [2](https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/955d48ad-9380-4621-91f4-51f3f093ac10/application?embed=true) — United States · posted 2026-11-08 · SWE · BS/MS/PhD
 - [Software Engineer 1 New Grad - Internal Tools](https://jobs.ashbyhq.com/shield/986a26e9-0597-4402-85ee-0f05a6012902/application?embed=true) — Seattle, WA · posted 2026-11-07 · SWE · BS
-- [Engineer 2 New Grad - Simulation Framework](https://jobs.ashbyhq.com/shield/a9e2509c-fa35-4bf7-b50d-a557666b629d/application?embed=true) — San Diego, CA · posted 2026-11-04 · SWE · MS
-- [Simulation Framework Engineer 1 New Grad - Simulation Framework](https://jobs.ashbyhq.com/shield/f5ea96c5-7d70-4058-adec-16be606f5ad3/application?embed=true) — Washington, DC · posted 2026-11-04 · SWE · BS
 - [Autonomous Software Engineer New Grad](https://jobs.ashbyhq.com/shield/c0735824-2b3c-46a2-a888-99e7376a9606/application?embed=true) · [2](https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/c0735824-2b3c-46a2-a888-99e7376a9606/application?embed=true) — San Diego, CA · posted 2026-11-03 · HW · BS/MS/PhD
-- [Software Engineer 2 New Grad](https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/0e7ecf76-b4f6-4159-aa44-4814af263c86/application?embed=true) — Washington, DC · posted 2026-10-27 · SWE · MS
-- [Software Integration Engineer 1 New Grad - Software Integration](https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/bffebf59-65b7-4f4f-805e-a9cdf0d2b252/application?embed=true) — Washington, DC · posted 2026-10-27 · SWE · BS
 - [Software Engineer 1 New Grad](https://jobs.lever.co/shieldai/633a3038-574c-45ff-babb-7e1b8b7c6196/apply) — Seattle, WA · posted 2026-10-23 · SWE · BS
 - [Software Engineer New Grad](https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/986a26e9-0597-4402-85ee-0f05a6012902/application?embed=true) — Seattle, WA · posted 2026-10-23 · SWE · BS
-- [Software Engineer 1 - Factory Team](https://jobs.lever.co/shieldai/59e0cf9b-04d7-43c0-8a65-9d411fe56c68/apply) — Washington, DC · posted 2026-10-10 · SWE · BS
-- [Software Integration Engineer 1 - Software Integration](https://jobs.lever.co/shieldai/7c8aaf63-ab92-4c0f-8a54-9cf1ce07ca69/apply) — Washington, DC · posted 2026-10-09 · HW · BS
-- [Simulation Framework Engineer 2 - Simulation Framework](https://jobs.lever.co/shieldai/39a7aa1b-9988-4ac7-ade9-12dd16cbae62/apply) — San Diego, CA · posted 2026-10-07 · SWE · MS
-- [Simulation Framework Engineer - Simulation Framework](https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/f5ea96c5-7d70-4058-adec-16be606f5ad3/application?embed=true) — Washington, DC · posted 2026-10-07 · SWE · BS
-- [Simulation Framework Engineer 2](https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/a9e2509c-fa35-4bf7-b50d-a557666b629d/application?embed=true) — San Diego, CA · posted 2026-10-07 · SWE · MS
 - [Software Development Engineer New Grad](https://jobs.lever.co/shieldai/79c3b65f-ce0c-4868-bedf-4ddcc4cfe583/apply) — San Diego, CA · posted 2026-10-06 · ML · BS/MS/PhD
 
 </details>
@@ -451,6 +442,15 @@ and `.nojekyll` into `docs/`, set Pages to `/docs`, and give every device a toke
 - [Kernel Engineer New Grad](https://jobs.ashbyhq.com/cerebras/9c7da4b8-446b-4bf2-8d07-23241590bf2e/application?embed=true) — Canada, United States · posted 2026-07-23 · SWE · BS/MS/PhD
 - [Software Engineer New Grad](https://jobs.ashbyhq.com/cerebras/99c289fa-8fc6-49f7-b7e8-78ac4e9d99ac/application) · [2](https://jobs.ashbyhq.com/cerebras/987d7f64-c957-4c8f-b89d-2f9d64738507/application) — Toronto, ON, Canada, Sunnyvale, CA; Sunnyvale, CA · posted 2026-07-07 · SWE · BS/MS
 - [Software Integration Engineer - AI Inference Core](https://jobs.ashbyhq.com/cerebras/90879967-1071-4d05-9180-6e18023ed887/application?embed=true) — Toronto, ON, Canada, Sunnyvale, CA · posted 2026-07-07 · SWE
+
+</details>
+<details open>
+<summary>Salesforce (5)</summary>
+
+- [Software Engineer New Grad](https://salesforce.wd12.myworkdayjobs.com/Futureforce_NewGradRoles/job/California---San-Francisco/Software-Engineering-AMTS--College-Grad-_JR368047) — Palo Alto, CA, Seattle, WA, Indianapolis, IN · posted 2026-11-11 · SWE
+- [Software Engineering AMTS New Grad](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Software-Engineering-AMTS--College-Grad-_JR368047-1) — Palo Alto, CA, Seattle, WA, Indianapolis, IN · posted 2026-11-11 · SWE
+- [AI Labs Rotational Fellow](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/AI-Labs-Rotational-Fellowship--Emerging-Talent_JR367643-1) · [2](https://salesforce.wd12.myworkdayjobs.com/Futureforce_NewGradRoles/job/California---San-Francisco/AI-Labs-Rotational-Fellowship--Emerging-Talent_JR367643) — Seattle, WA, SF, NYC · posted 2026-11-10 · SWE · BS/MS
+- [Software Engineer College Grad](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Software-Engineering-AMTS--College-Grad-_JR355250-1) — Palo Alto, CA, Seattle, WA, Indianapolis, IN · posted 2026-08-06 · SWE
 
 </details>
 <details open>
@@ -553,13 +553,6 @@ and `.nojekyll` into `docs/`, set Pages to `/docs`, and give every device a toke
 - [Floor Trader](https://job-boards.greenhouse.io/drweng/jobs/8207750) — Chicago, IL · posted 2026-09-16 · Quant · BS
 - [Software Developer](https://job-boards.greenhouse.io/drweng/jobs/7980165) — Chicago, IL · posted 2026-07-13 · SWE · BS/MS/PhD
 - [Quantitative Researcher](https://job-boards.greenhouse.io/drweng/jobs/8030406) — Chicago, IL, NYC · posted 2026-07-13 · Quant · BS/MS/PhD
-
-</details>
-<details open>
-<summary>Salesforce (3)</summary>
-
-- [AI Labs Rotational Fellow](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/AI-Labs-Rotational-Fellowship--Emerging-Talent_JR367643-1) · [2](https://salesforce.wd12.myworkdayjobs.com/Futureforce_NewGradRoles/job/California---San-Francisco/AI-Labs-Rotational-Fellowship--Emerging-Talent_JR367643) — Seattle, WA, SF, NYC · posted 2026-11-10 · SWE · BS/MS
-- [Software Engineer College Grad](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Software-Engineering-AMTS--College-Grad-_JR355250-1) — Palo Alto, CA, Seattle, WA, Indianapolis, IN · posted 2026-08-06 · SWE
 
 </details>
 <details open>

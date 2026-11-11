@@ -53,6 +53,60 @@
   "reason": null
  },
  {
+  "id": "simplify:5d1a3f0e-ab9b-430a-affb-25361ff9d644",
+  "first_seen": 1794419782,
+  "company": "Salesforce",
+  "title": "Software Engineer New Grad",
+  "location": "Palo Alto, CA, Seattle, WA, Indianapolis, IN",
+  "url": "https://salesforce.wd12.myworkdayjobs.com/Futureforce_NewGradRoles/job/California---San-Francisco/Software-Engineering-AMTS--College-Grad-_JR368047",
+  "category": "SWE",
+  "posted": "2026-11-11",
+  "date_posted": 1794355200,
+  "active": true,
+  "locations": [
+   "Palo Alto, CA",
+   "Seattle, WA",
+   "Indianapolis, IN",
+   "SF",
+   "Dallas, TX",
+   "NYC",
+   "Bellevue, WA"
+  ],
+  "region": "US",
+  "degrees": [],
+  "sponsorship": "Other",
+  "group": "salesforce|software engineer new grad",
+  "in_feed": true,
+  "reason": null
+ },
+ {
+  "id": "simplify:c274d687-71f7-4484-8ae0-52884c72e8f8",
+  "first_seen": 1794419782,
+  "company": "Salesforce",
+  "title": "Software Engineering AMTS New Grad",
+  "location": "Palo Alto, CA, Seattle, WA, Indianapolis, IN",
+  "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Software-Engineering-AMTS--College-Grad-_JR368047-1",
+  "category": "SWE",
+  "posted": "2026-11-11",
+  "date_posted": 1794355200,
+  "active": true,
+  "locations": [
+   "Palo Alto, CA",
+   "Seattle, WA",
+   "Indianapolis, IN",
+   "SF",
+   "Dallas, TX",
+   "NYC",
+   "Bellevue, WA"
+  ],
+  "region": "US",
+  "degrees": [],
+  "sponsorship": "Other",
+  "group": "salesforce|software engineering amts new grad",
+  "in_feed": true,
+  "reason": null
+ },
+ {
   "id": "simplify:1d0612f6-6b43-47c4-9a7f-65017afa789c",
   "first_seen": 1794314795,
   "company": "Anysphere",
@@ -734,52 +788,6 @@
   "reason": null
  },
  {
-  "id": "simplify:89561c7a-b727-412e-8723-030904cc22f3",
-  "first_seen": 1794389746,
-  "company": "Shield AI",
-  "title": "Engineer 2 New Grad - Simulation Framework",
-  "location": "San Diego, CA",
-  "url": "https://jobs.ashbyhq.com/shield/a9e2509c-fa35-4bf7-b50d-a557666b629d/application?embed=true",
-  "category": "SWE",
-  "posted": "2026-11-04",
-  "date_posted": 1793750400,
-  "active": true,
-  "locations": [
-   "San Diego, CA"
-  ],
-  "region": "US",
-  "degrees": [
-   "Master's"
-  ],
-  "sponsorship": "Other",
-  "group": "shield ai|engineer 2 new grad simulation framework",
-  "in_feed": true,
-  "reason": null
- },
- {
-  "id": "simplify:d4f6b336-d307-427a-a31d-155f8fabb6c0",
-  "first_seen": 1794389746,
-  "company": "Shield AI",
-  "title": "Simulation Framework Engineer 1 New Grad - Simulation Framework",
-  "location": "Washington, DC",
-  "url": "https://jobs.ashbyhq.com/shield/f5ea96c5-7d70-4058-adec-16be606f5ad3/application?embed=true",
-  "category": "SWE",
-  "posted": "2026-11-04",
-  "date_posted": 1793750400,
-  "active": true,
-  "locations": [
-   "Washington, DC"
-  ],
-  "region": "US",
-  "degrees": [
-   "Bachelor's"
-  ],
-  "sponsorship": "Other",
-  "group": "shield ai|simulation framework engineer 1 new grad simulation framework",
-  "in_feed": true,
-  "reason": null
- },
- {
   "id": "simplify:9276c377-0f8e-47c4-b813-b5d5be35a978",
   "first_seen": 1793752918,
   "company": "Amazon",
@@ -1229,52 +1237,6 @@
   ],
   "sponsorship": "Other",
   "group": "shield ai|autonomous software engineer new grad",
-  "in_feed": true,
-  "reason": null
- },
- {
-  "id": "simplify:b3968d77-3489-4bef-9ff3-acd12708ba23",
-  "first_seen": 1793177023,
-  "company": "Shield AI",
-  "title": "Software Engineer 2 New Grad",
-  "location": "Washington, DC",
-  "url": "https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/0e7ecf76-b4f6-4159-aa44-4814af263c86/application?embed=true",
-  "category": "SWE",
-  "posted": "2026-10-27",
-  "date_posted": 1793059200,
-  "active": true,
-  "locations": [
-   "Washington, DC"
-  ],
-  "region": "US",
-  "degrees": [
-   "Master's"
-  ],
-  "sponsorship": "Other",
-  "group": "shield ai|software engineer 2 new grad",
-  "in_feed": true,
-  "reason": null
- },
- {
-  "id": "simplify:50363c94-1c17-4034-909d-b4b47a67fe3f",
-  "first_seen": 1793177023,
-  "company": "Shield AI",
-  "title": "Software Integration Engineer 1 New Grad - Software Integration",
-  "location": "Washington, DC",
-  "url": "https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/bffebf59-65b7-4f4f-805e-a9cdf0d2b252/application?embed=true",
-  "category": "SWE",
-  "posted": "2026-10-27",
-  "date_posted": 1793059200,
-  "active": true,
-  "locations": [
-   "Washington, DC"
-  ],
-  "region": "US",
-  "degrees": [
-   "Bachelor's"
-  ],
-  "sponsorship": "Other",
-  "group": "shield ai|software integration engineer 1 new grad software integration",
   "in_feed": true,
   "reason": null
  },
@@ -1914,29 +1876,6 @@
   "last_seen": 1792497071
  },
  {
-  "id": "simplify:c0e68386-5f91-485f-86a7-c92db1919740",
-  "first_seen": 1791636223,
-  "company": "Shield AI",
-  "title": "Software Engineer 1 - Factory Team",
-  "location": "Washington, DC",
-  "url": "https://jobs.lever.co/shieldai/59e0cf9b-04d7-43c0-8a65-9d411fe56c68/apply",
-  "category": "SWE",
-  "posted": "2026-10-10",
-  "date_posted": 1791612416,
-  "active": true,
-  "locations": [
-   "Washington, DC"
-  ],
-  "region": "US",
-  "degrees": [
-   "Bachelor's"
-  ],
-  "sponsorship": "Other",
-  "group": "shield ai|software engineer 1 factory team",
-  "in_feed": true,
-  "reason": null
- },
- {
   "id": "simplify:9f92b24f-ac56-4f00-9aa8-355eb21841bd",
   "first_seen": 1791585887,
   "company": "TikTok",
@@ -1979,29 +1918,6 @@
   ],
   "sponsorship": "Other",
   "group": "tiktok|machine learning engineer graduate conversational ai",
-  "in_feed": true,
-  "reason": null
- },
- {
-  "id": "simplify:c2037c76-5c4e-47ec-bef7-a975a226c4a1",
-  "first_seen": 1791612160,
-  "company": "Shield AI",
-  "title": "Software Integration Engineer 1 - Software Integration",
-  "location": "Washington, DC",
-  "url": "https://jobs.lever.co/shieldai/7c8aaf63-ab92-4c0f-8a54-9cf1ce07ca69/apply",
-  "category": "HW",
-  "posted": "2026-10-09",
-  "date_posted": 1791584047,
-  "active": true,
-  "locations": [
-   "Washington, DC"
-  ],
-  "region": "US",
-  "degrees": [
-   "Bachelor's"
-  ],
-  "sponsorship": "Other",
-  "group": "shield ai|software integration engineer 1 software integration",
   "in_feed": true,
   "reason": null
  },
@@ -2074,75 +1990,6 @@
   ],
   "sponsorship": "Other",
   "group": "tiktok|machine learning engineer graduate e commerce knowledge graph",
-  "in_feed": true,
-  "reason": null
- },
- {
-  "id": "simplify:b2bf950b-bf97-4b9c-8ab7-e96bfd87276a",
-  "first_seen": 1791414691,
-  "company": "Shield AI",
-  "title": "Simulation Framework Engineer 2 - Simulation Framework",
-  "location": "San Diego, CA",
-  "url": "https://jobs.lever.co/shieldai/39a7aa1b-9988-4ac7-ade9-12dd16cbae62/apply",
-  "category": "SWE",
-  "posted": "2026-10-07",
-  "date_posted": 1791411064,
-  "active": true,
-  "locations": [
-   "San Diego, CA"
-  ],
-  "region": "US",
-  "degrees": [
-   "Master's"
-  ],
-  "sponsorship": "Other",
-  "group": "shield ai|simulation framework engineer 2 simulation framework",
-  "in_feed": true,
-  "reason": null
- },
- {
-  "id": "simplify:9c20706d-1c36-49c7-a6d2-07c92520bf94",
-  "first_seen": 1793177023,
-  "company": "Shield AI",
-  "title": "Simulation Framework Engineer - Simulation Framework",
-  "location": "Washington, DC",
-  "url": "https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/f5ea96c5-7d70-4058-adec-16be606f5ad3/application?embed=true",
-  "category": "SWE",
-  "posted": "2026-10-07",
-  "date_posted": 1791331200,
-  "active": true,
-  "locations": [
-   "Washington, DC"
-  ],
-  "region": "US",
-  "degrees": [
-   "Bachelor's"
-  ],
-  "sponsorship": "Other",
-  "group": "shield ai|simulation framework engineer simulation framework",
-  "in_feed": true,
-  "reason": null
- },
- {
-  "id": "simplify:4be638e1-80b0-4aa7-ac1f-416839d623c1",
-  "first_seen": 1793177023,
-  "company": "Shield AI",
-  "title": "Simulation Framework Engineer 2",
-  "location": "San Diego, CA",
-  "url": "https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/a9e2509c-fa35-4bf7-b50d-a557666b629d/application?embed=true",
-  "category": "SWE",
-  "posted": "2026-10-07",
-  "date_posted": 1791331200,
-  "active": true,
-  "locations": [
-   "San Diego, CA"
-  ],
-  "region": "US",
-  "degrees": [
-   "Master's"
-  ],
-  "sponsorship": "Other",
-  "group": "shield ai|simulation framework engineer 2",
   "in_feed": true,
   "reason": null
  },
@@ -8450,6 +8297,56 @@
   "last_seen": 1794344043
  },
  {
+  "id": "simplify:89561c7a-b727-412e-8723-030904cc22f3",
+  "first_seen": 1794389746,
+  "company": "Shield AI",
+  "title": "Engineer 2 New Grad - Simulation Framework",
+  "location": "San Diego, CA",
+  "url": "https://jobs.ashbyhq.com/shield/a9e2509c-fa35-4bf7-b50d-a557666b629d/application?embed=true",
+  "category": "SWE",
+  "posted": "2026-11-04",
+  "date_posted": 1793750400,
+  "active": false,
+  "locations": [
+   "San Diego, CA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "shield ai|engineer 2 new grad simulation framework",
+  "in_feed": false,
+  "reason": "closed",
+  "closed_at": 1794419782,
+  "last_seen": 1794419782
+ },
+ {
+  "id": "simplify:d4f6b336-d307-427a-a31d-155f8fabb6c0",
+  "first_seen": 1794389746,
+  "company": "Shield AI",
+  "title": "Simulation Framework Engineer 1 New Grad - Simulation Framework",
+  "location": "Washington, DC",
+  "url": "https://jobs.ashbyhq.com/shield/f5ea96c5-7d70-4058-adec-16be606f5ad3/application?embed=true",
+  "category": "SWE",
+  "posted": "2026-11-04",
+  "date_posted": 1793750400,
+  "active": false,
+  "locations": [
+   "Washington, DC"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's"
+  ],
+  "sponsorship": "Other",
+  "group": "shield ai|simulation framework engineer 1 new grad simulation framework",
+  "in_feed": false,
+  "reason": "closed",
+  "closed_at": 1794419782,
+  "last_seen": 1794419782
+ },
+ {
   "id": "simplify:c9942f0a-e3da-4b00-9ee2-be611a85daca",
   "first_seen": 1793752918,
   "company": "LinkedIn",
@@ -8682,6 +8579,56 @@
   "reason": "closed",
   "closed_at": 1793676619,
   "last_seen": 1793676619
+ },
+ {
+  "id": "simplify:b3968d77-3489-4bef-9ff3-acd12708ba23",
+  "first_seen": 1793177023,
+  "company": "Shield AI",
+  "title": "Software Engineer 2 New Grad",
+  "location": "Washington, DC",
+  "url": "https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/0e7ecf76-b4f6-4159-aa44-4814af263c86/application?embed=true",
+  "category": "SWE",
+  "posted": "2026-10-27",
+  "date_posted": 1793059200,
+  "active": false,
+  "locations": [
+   "Washington, DC"
+  ],
+  "region": "US",
+  "degrees": [
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "shield ai|software engineer 2 new grad",
+  "in_feed": false,
+  "reason": "closed",
+  "closed_at": 1794419782,
+  "last_seen": 1794419782
+ },
+ {
+  "id": "simplify:50363c94-1c17-4034-909d-b4b47a67fe3f",
+  "first_seen": 1793177023,
+  "company": "Shield AI",
+  "title": "Software Integration Engineer 1 New Grad - Software Integration",
+  "location": "Washington, DC",
+  "url": "https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/bffebf59-65b7-4f4f-805e-a9cdf0d2b252/application?embed=true",
+  "category": "SWE",
+  "posted": "2026-10-27",
+  "date_posted": 1793059200,
+  "active": false,
+  "locations": [
+   "Washington, DC"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's"
+  ],
+  "sponsorship": "Other",
+  "group": "shield ai|software integration engineer 1 new grad software integration",
+  "in_feed": false,
+  "reason": "closed",
+  "closed_at": 1794419782,
+  "last_seen": 1794419782
  },
  {
   "id": "simplify:ffedf0e5-2d73-47af-aa9d-0ef0ae4b42d6",
@@ -9461,6 +9408,31 @@
   "last_seen": 1792099916
  },
  {
+  "id": "simplify:c0e68386-5f91-485f-86a7-c92db1919740",
+  "first_seen": 1791636223,
+  "company": "Shield AI",
+  "title": "Software Engineer 1 - Factory Team",
+  "location": "Washington, DC",
+  "url": "https://jobs.lever.co/shieldai/59e0cf9b-04d7-43c0-8a65-9d411fe56c68/apply",
+  "category": "SWE",
+  "posted": "2026-10-10",
+  "date_posted": 1791612416,
+  "active": false,
+  "locations": [
+   "Washington, DC"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's"
+  ],
+  "sponsorship": "Other",
+  "group": "shield ai|software engineer 1 factory team",
+  "in_feed": false,
+  "reason": "closed",
+  "closed_at": 1794419782,
+  "last_seen": 1794419782
+ },
+ {
   "id": "simplify:6f15290e-1c49-44ed-a47d-5d3d58c890ae",
   "first_seen": 1791612160,
   "company": "Microsoft",
@@ -9485,6 +9457,31 @@
   "reason": "closed",
   "closed_at": 1792019929,
   "last_seen": 1792019929
+ },
+ {
+  "id": "simplify:c2037c76-5c4e-47ec-bef7-a975a226c4a1",
+  "first_seen": 1791612160,
+  "company": "Shield AI",
+  "title": "Software Integration Engineer 1 - Software Integration",
+  "location": "Washington, DC",
+  "url": "https://jobs.lever.co/shieldai/7c8aaf63-ab92-4c0f-8a54-9cf1ce07ca69/apply",
+  "category": "HW",
+  "posted": "2026-10-09",
+  "date_posted": 1791584047,
+  "active": false,
+  "locations": [
+   "Washington, DC"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's"
+  ],
+  "sponsorship": "Other",
+  "group": "shield ai|software integration engineer 1 software integration",
+  "in_feed": false,
+  "reason": "closed",
+  "closed_at": 1794419782,
+  "last_seen": 1794419782
  },
  {
   "id": "simplify:07705204-70be-436b-85af-c48fd1f5e63d",
@@ -9614,6 +9611,31 @@
   "last_seen": 1794389746
  },
  {
+  "id": "simplify:b2bf950b-bf97-4b9c-8ab7-e96bfd87276a",
+  "first_seen": 1791414691,
+  "company": "Shield AI",
+  "title": "Simulation Framework Engineer 2 - Simulation Framework",
+  "location": "San Diego, CA",
+  "url": "https://jobs.lever.co/shieldai/39a7aa1b-9988-4ac7-ade9-12dd16cbae62/apply",
+  "category": "SWE",
+  "posted": "2026-10-07",
+  "date_posted": 1791411064,
+  "active": false,
+  "locations": [
+   "San Diego, CA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "shield ai|simulation framework engineer 2 simulation framework",
+  "in_feed": false,
+  "reason": "closed",
+  "closed_at": 1794419782,
+  "last_seen": 1794419782
+ },
+ {
   "id": "simplify:26312bf9-da72-4a4d-bd0d-d68bbce60496",
   "first_seen": 1791414691,
   "company": "Apple",
@@ -9717,6 +9739,56 @@
   "reason": "closed",
   "closed_at": 1793980806,
   "last_seen": 1793980806
+ },
+ {
+  "id": "simplify:9c20706d-1c36-49c7-a6d2-07c92520bf94",
+  "first_seen": 1793177023,
+  "company": "Shield AI",
+  "title": "Simulation Framework Engineer - Simulation Framework",
+  "location": "Washington, DC",
+  "url": "https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/f5ea96c5-7d70-4058-adec-16be606f5ad3/application?embed=true",
+  "category": "SWE",
+  "posted": "2026-10-07",
+  "date_posted": 1791331200,
+  "active": false,
+  "locations": [
+   "Washington, DC"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's"
+  ],
+  "sponsorship": "Other",
+  "group": "shield ai|simulation framework engineer simulation framework",
+  "in_feed": false,
+  "reason": "closed",
+  "closed_at": 1794419782,
+  "last_seen": 1794419782
+ },
+ {
+  "id": "simplify:4be638e1-80b0-4aa7-ac1f-416839d623c1",
+  "first_seen": 1793177023,
+  "company": "Shield AI",
+  "title": "Simulation Framework Engineer 2",
+  "location": "San Diego, CA",
+  "url": "https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/a9e2509c-fa35-4bf7-b50d-a557666b629d/application?embed=true",
+  "category": "SWE",
+  "posted": "2026-10-07",
+  "date_posted": 1791331200,
+  "active": false,
+  "locations": [
+   "San Diego, CA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "shield ai|simulation framework engineer 2",
+  "in_feed": false,
+  "reason": "closed",
+  "closed_at": 1794419782,
+  "last_seen": 1794419782
  },
  {
   "id": "simplify:2e77fdb4-933b-41b1-8fe2-253cdec7bb57",
@@ -11553,10 +11625,9 @@
   "region": "US",
   "degrees": [],
   "sponsorship": "Other",
-  "in_feed": true,
+  "in_feed": false,
   "closed_at": 1789570473,
-  "reason": "untracked",
-  "why": "title",
+  "reason": "closed",
   "group": "tesla|data collection operator optimus"
  },
  {
@@ -12286,11 +12357,10 @@
   "region": "US",
   "degrees": [],
   "sponsorship": "Other",
-  "in_feed": true,
+  "in_feed": false,
   "closed_at": 1789570473,
-  "reason": "untracked",
-  "group": "tesla|data collection operator optimus",
-  "why": "title"
+  "reason": "closed",
+  "group": "tesla|data collection operator optimus"
  },
  {
   "id": "simplify:cfe4e5c9-9477-44a4-80c5-eaeebe0656f1",
@@ -12310,11 +12380,10 @@
   "region": "US",
   "degrees": [],
   "sponsorship": "Other",
-  "in_feed": true,
+  "in_feed": false,
   "closed_at": 1789570473,
-  "reason": "untracked",
-  "group": "tesla|data collection operator",
-  "why": "title"
+  "reason": "closed",
+  "group": "tesla|data collection operator"
  },
  {
   "id": "simplify:1ffbd441-9fea-43f5-819f-f097b8702aaf",
@@ -13470,11 +13539,10 @@
   "region": "US",
   "degrees": [],
   "sponsorship": "Other",
-  "in_feed": true,
+  "in_feed": false,
   "closed_at": 1789570473,
-  "reason": "untracked",
-  "group": "tesla|data collection operator optimus",
-  "why": "title"
+  "reason": "closed",
+  "group": "tesla|data collection operator optimus"
  },
  {
   "id": "simplify:f6bb2b02-e42b-41a6-9f90-35a28fcb0708",
@@ -14292,10 +14360,9 @@
   "region": "US",
   "degrees": [],
   "sponsorship": "Other",
-  "in_feed": true,
+  "in_feed": false,
   "closed_at": 1789570473,
-  "reason": "untracked",
-  "why": "title",
+  "reason": "closed",
   "group": "tesla|data collection operator optimus afternoon shift"
  },
  {
@@ -15941,17 +16008,16 @@
   "active": false,
   "first_seen": 1784014543.6740808,
   "last_seen": 1784851514.9686809,
-  "in_feed": true,
+  "in_feed": false,
   "closed_at": 1784851514,
-  "reason": "untracked",
+  "reason": "closed",
   "group": "tesla|data collection operator optimus",
   "locations": [
    "Dallas, TX"
   ],
   "region": "US",
   "degrees": [],
-  "sponsorship": "Other",
-  "why": "title"
+  "sponsorship": "Other"
  },
  {
   "id": "simplify:cd77dcd5-5398-4e0e-933c-9a0d9ec1ddc0",
@@ -16011,10 +16077,9 @@
   "region": "US",
   "degrees": [],
   "sponsorship": "Other",
-  "in_feed": true,
+  "in_feed": false,
   "closed_at": 1787268658,
-  "reason": "untracked",
-  "why": "title",
+  "reason": "closed",
   "group": "tesla|data collection operator optimus"
  },
  {
