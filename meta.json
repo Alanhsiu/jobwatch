@@ -4,30 +4,30 @@
  "repo": "Alanhsiu/jobwatch",
  "branch": "main",
  "pages_url": "https://alanhsiu.github.io/jobwatch/",
- "last_run": 1794362350,
- "last_change": 1794362350,
+ "last_run": 1794389746,
+ "last_change": 1794389746,
  "last_result": "ok",
  "feed": {
-  "records": 18823,
-  "active": 3239,
-  "fetched_at": 1794362350,
+  "records": 18841,
+  "active": 3250,
+  "fetched_at": 1794389746,
   "attempts": 1
  },
  "counts": {
-  "active": 335,
-  "closed": 317,
+  "active": 342,
+  "closed": 319,
   "untracked": 58,
-  "groups": 286,
+  "groups": 289,
   "companies": 55,
-  "new_this_run": 2,
+  "new_this_run": 9,
   "silent_known_this_run": 0,
-  "closed_this_run": 0,
+  "closed_this_run": 2,
   "untracked_this_run": 0
  },
  "rejects": {
-  "category": 142,
-  "phd": 178,
-  "title": 22,
+  "category": 149,
+  "phd": 179,
+  "title": 23,
   "region": 41,
   "sponsorship": 0,
   "age": 32
@@ -56,8 +56,8 @@
    "denied": 0
   },
   "amazon": {
-   "active": 26,
-   "all_time": 43,
+   "active": 27,
+   "all_time": 44,
    "names": [
     "Amazon"
    ],
@@ -88,8 +88,8 @@
    "denied": 0
   },
   "apple": {
-   "active": 9,
-   "all_time": 37,
+   "active": 10,
+   "all_time": 38,
    "names": [
     "Apple"
    ],
@@ -777,8 +777,8 @@
    "denied": 0
   },
   "shield ai": {
-   "active": 18,
-   "all_time": 19,
+   "active": 23,
+   "all_time": 26,
    "names": [
     "Shield AI"
    ],
@@ -1003,7 +1003,7 @@
  },
  "telegram": {
   "mode": "sent",
-  "delivered": 2,
+  "delivered": 9,
   "failed_chunks": 0,
   "creds": true
  },
