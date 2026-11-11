@@ -4,30 +4,30 @@
  "repo": "Alanhsiu/jobwatch",
  "branch": "main",
  "pages_url": "https://alanhsiu.github.io/jobwatch/",
- "last_run": 1794344043,
- "last_change": 1794344043,
+ "last_run": 1794362350,
+ "last_change": 1794362350,
  "last_result": "ok",
  "feed": {
-  "records": 18789,
-  "active": 3201,
-  "fetched_at": 1794344043,
+  "records": 18823,
+  "active": 3239,
+  "fetched_at": 1794362350,
   "attempts": 1
  },
  "counts": {
-  "active": 331,
-  "closed": 319,
+  "active": 335,
+  "closed": 317,
   "untracked": 58,
-  "groups": 284,
+  "groups": 286,
   "companies": 55,
-  "new_this_run": 0,
+  "new_this_run": 2,
   "silent_known_this_run": 0,
-  "closed_this_run": 6,
+  "closed_this_run": 0,
   "untracked_this_run": 0
  },
  "rejects": {
-  "category": 144,
-  "phd": 179,
-  "title": 23,
+  "category": 142,
+  "phd": 178,
+  "title": 22,
   "region": 41,
   "sponsorship": 0,
   "age": 32
@@ -64,7 +64,7 @@
    "denied": 0
   },
   "anduril": {
-   "active": 8,
+   "active": 9,
    "all_time": 17,
    "names": [
     "Anduril"
@@ -549,7 +549,7 @@
    "denied": 0
   },
   "microsoft": {
-   "active": 10,
+   "active": 11,
    "all_time": 41,
    "names": [
     "Microsoft"
@@ -739,8 +739,8 @@
    "denied": 0
   },
   "salesforce": {
-   "active": 1,
-   "all_time": 9,
+   "active": 3,
+   "all_time": 11,
    "names": [
     "Salesforce"
    ],
@@ -1002,8 +1002,8 @@
   }
  },
  "telegram": {
-  "mode": "none",
-  "delivered": 0,
+  "mode": "sent",
+  "delivered": 2,
   "failed_chunks": 0,
   "creds": true
  },
