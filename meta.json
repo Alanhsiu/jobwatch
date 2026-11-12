@@ -4,30 +4,30 @@
  "repo": "Alanhsiu/jobwatch",
  "branch": "main",
  "pages_url": "https://alanhsiu.github.io/jobwatch/",
- "last_run": 1794444664,
- "last_change": 1794444664,
+ "last_run": 1794477423,
+ "last_change": 1794477423,
  "last_result": "ok",
  "feed": {
-  "records": 18844,
+  "records": 18827,
   "active": 3254,
-  "fetched_at": 1794444664,
+  "fetched_at": 1794477423,
   "attempts": 1
  },
  "counts": {
-  "active": 336,
-  "closed": 339,
+  "active": 338,
+  "closed": 341,
   "untracked": 51,
-  "groups": 284,
+  "groups": 285,
   "companies": 55,
-  "new_this_run": 5,
+  "new_this_run": 4,
   "silent_known_this_run": 0,
-  "closed_this_run": 4,
+  "closed_this_run": 2,
   "untracked_this_run": 0
  },
  "rejects": {
-  "category": 147,
+  "category": 148,
   "phd": 179,
-  "title": 15,
+  "title": 17,
   "region": 43,
   "sponsorship": 0,
   "age": 33
@@ -549,7 +549,7 @@
    "denied": 0
   },
   "microsoft": {
-   "active": 11,
+   "active": 10,
    "all_time": 42,
    "names": [
     "Microsoft"
@@ -739,7 +739,7 @@
    "denied": 0
   },
   "salesforce": {
-   "active": 3,
+   "active": 2,
    "all_time": 13,
    "names": [
     "Salesforce"
@@ -777,8 +777,8 @@
    "denied": 0
   },
   "shield ai": {
-   "active": 15,
-   "all_time": 27,
+   "active": 18,
+   "all_time": 30,
    "names": [
     "Shield AI"
    ],
@@ -981,8 +981,8 @@
    "denied": 0
   },
   "xai": {
-   "active": 4,
-   "all_time": 10,
+   "active": 5,
+   "all_time": 11,
    "names": [
     "xAI"
    ],
@@ -1003,7 +1003,7 @@
  },
  "telegram": {
   "mode": "sent",
-  "delivered": 5,
+  "delivered": 4,
   "failed_chunks": 0,
   "creds": true
  },

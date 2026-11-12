@@ -1,5 +1,30 @@
 [
  {
+  "id": "simplify:8b2fa733-e2e8-4637-a9d8-504975db947c",
+  "first_seen": 1794477423,
+  "company": "Shield AI",
+  "title": "Engineer 2 New Grad - Software - Perception",
+  "location": "United States",
+  "url": "https://jobs.lever.co/shieldai/9017c8c2-2668-45d6-aff5-a7e348107c12/apply",
+  "category": "ML",
+  "posted": "2026-11-12",
+  "date_posted": 1794449241,
+  "active": true,
+  "locations": [
+   "United States"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's",
+   "PhD"
+  ],
+  "sponsorship": "Other",
+  "group": "shield ai|engineer 2 new grad software perception",
+  "in_feed": true,
+  "reason": null
+ },
+ {
   "id": "simplify:5b83878d-7d81-44e4-89ea-10b040471cb7",
   "first_seen": 1794444664,
   "company": "Microsoft",
@@ -202,6 +227,56 @@
   "reason": null
  },
  {
+  "id": "simplify:735965af-ac15-473a-a2ef-8a15ab46f590",
+  "first_seen": 1794477423,
+  "company": "Shield AI",
+  "title": "Engineer 2 New Grad - Software - Perception",
+  "location": "United States",
+  "url": "https://jobs.ashbyhq.com/shield/2aa92f37-7e2f-4c12-9f2c-1316e1a743a7/application?embed=true",
+  "category": "SWE",
+  "posted": "2026-11-11",
+  "date_posted": 1794355200,
+  "active": true,
+  "locations": [
+   "United States"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's",
+   "PhD"
+  ],
+  "sponsorship": "Other",
+  "group": "shield ai|engineer 2 new grad software perception",
+  "in_feed": true,
+  "reason": null
+ },
+ {
+  "id": "simplify:8317de49-cf07-44e3-9ff1-0de4a824662a",
+  "first_seen": 1794477423,
+  "company": "Shield AI",
+  "title": "Engineer 2 New Grad - Software - Perception",
+  "location": "United States",
+  "url": "https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/2aa92f37-7e2f-4c12-9f2c-1316e1a743a7/application?embed=true",
+  "category": "SWE",
+  "posted": "2026-11-11",
+  "date_posted": 1794355200,
+  "active": true,
+  "locations": [
+   "United States"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's",
+   "PhD"
+  ],
+  "sponsorship": "Other",
+  "group": "shield ai|engineer 2 new grad software perception",
+  "in_feed": true,
+  "reason": null
+ },
+ {
   "id": "simplify:1d0612f6-6b43-47c4-9a7f-65017afa789c",
   "first_seen": 1794314795,
   "company": "Anysphere",
@@ -223,32 +298,6 @@
   ],
   "sponsorship": "Other",
   "group": "anysphere|software engineer new grad",
-  "in_feed": true,
-  "reason": null
- },
- {
-  "id": "simplify:0120e440-b745-4397-ba25-12ed4f87430c",
-  "first_seen": 1794362350,
-  "company": "Salesforce",
-  "title": "AI Labs Rotational Fellow",
-  "location": "Seattle, WA, SF, NYC",
-  "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/AI-Labs-Rotational-Fellowship--Emerging-Talent_JR367643-1",
-  "category": "SWE",
-  "posted": "2026-11-10",
-  "date_posted": 1794268800,
-  "active": true,
-  "locations": [
-   "Seattle, WA",
-   "SF",
-   "NYC"
-  ],
-  "region": "US",
-  "degrees": [
-   "Bachelor's",
-   "Master's"
-  ],
-  "sponsorship": "Other",
-  "group": "salesforce|ai labs rotational fellow",
   "in_feed": true,
   "reason": null
  },
@@ -829,30 +878,6 @@
   ],
   "sponsorship": "Other",
   "group": "amazon|software developer engineer 1 security platform",
-  "in_feed": true,
-  "reason": null
- },
- {
-  "id": "simplify:ec527e6a-082e-4155-a7f4-a114d18663c0",
-  "first_seen": 1793862012,
-  "company": "Microsoft",
-  "title": "Software Engineer",
-  "location": "Redmond, WA",
-  "url": "https://apply.careers.microsoft.com/careers/job/1970393556982635",
-  "category": "SWE",
-  "posted": "2026-11-05",
-  "date_posted": 1793844575,
-  "active": true,
-  "locations": [
-   "Redmond, WA"
-  ],
-  "region": "US",
-  "degrees": [
-   "Bachelor's",
-   "Master's"
-  ],
-  "sponsorship": "Other",
-  "group": "microsoft|software engineer",
   "in_feed": true,
   "reason": null
  },
@@ -1448,6 +1473,30 @@
   "degrees": [],
   "sponsorship": "Other",
   "group": "xai|ai tutor irish",
+  "in_feed": true,
+  "reason": null
+ },
+ {
+  "id": "simplify:059704a5-f335-42e5-b0ff-fe4aa9031cf5",
+  "first_seen": 1794477423,
+  "company": "xAI",
+  "title": "AI Tutor – Maltese",
+  "location": "Remote in USA, Remote in UK, Remote in Australia",
+  "url": "https://job-boards.greenhouse.io/xai/jobs/5292793007",
+  "category": "ML",
+  "posted": "2026-10-26",
+  "date_posted": 1793007955,
+  "active": true,
+  "locations": [
+   "Remote in USA",
+   "Remote in UK",
+   "Remote in Australia",
+   "Remote in Canada"
+  ],
+  "region": "US",
+  "degrees": [],
+  "sponsorship": "Other",
+  "group": "xai|ai tutor maltese",
   "in_feed": true,
   "reason": null
  },
@@ -8264,6 +8313,34 @@
   "reason": null
  },
  {
+  "id": "simplify:0120e440-b745-4397-ba25-12ed4f87430c",
+  "first_seen": 1794362350,
+  "company": "Salesforce",
+  "title": "AI Labs Rotational Fellow",
+  "location": "Seattle, WA, SF, NYC",
+  "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/AI-Labs-Rotational-Fellowship--Emerging-Talent_JR367643-1",
+  "category": "SWE",
+  "posted": "2026-11-10",
+  "date_posted": 1794268800,
+  "active": false,
+  "locations": [
+   "Seattle, WA",
+   "SF",
+   "NYC"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "salesforce|ai labs rotational fellow",
+  "in_feed": false,
+  "reason": "closed",
+  "closed_at": 1794477423,
+  "last_seen": 1794477423
+ },
+ {
   "id": "simplify:c188f749-5cdc-4a4f-b434-fde546dd23ed",
   "first_seen": 1794362350,
   "company": "Salesforce",
@@ -8341,6 +8418,32 @@
   "reason": "closed",
   "closed_at": 1794344043,
   "last_seen": 1794344043
+ },
+ {
+  "id": "simplify:ec527e6a-082e-4155-a7f4-a114d18663c0",
+  "first_seen": 1793862012,
+  "company": "Microsoft",
+  "title": "Software Engineer",
+  "location": "Redmond, WA",
+  "url": "https://apply.careers.microsoft.com/careers/job/1970393556982635",
+  "category": "SWE",
+  "posted": "2026-11-05",
+  "date_posted": 1793844575,
+  "active": false,
+  "locations": [
+   "Redmond, WA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "microsoft|software engineer",
+  "in_feed": false,
+  "reason": "closed",
+  "closed_at": 1794477423,
+  "last_seen": 1794477423
  },
  {
   "id": "simplify:89561c7a-b727-412e-8723-030904cc22f3",
