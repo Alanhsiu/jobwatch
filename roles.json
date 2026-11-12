@@ -302,6 +302,60 @@
   "reason": null
  },
  {
+  "id": "simplify:0120e440-b745-4397-ba25-12ed4f87430c",
+  "first_seen": 1794362350,
+  "company": "Salesforce",
+  "title": "AI Labs Rotational Fellow",
+  "location": "Seattle, WA, SF, NYC",
+  "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/AI-Labs-Rotational-Fellowship--Emerging-Talent_JR367643-1",
+  "category": "SWE",
+  "posted": "2026-11-10",
+  "date_posted": 1794268800,
+  "active": true,
+  "locations": [
+   "Seattle, WA",
+   "SF",
+   "NYC"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "salesforce|ai labs rotational fellow",
+  "in_feed": true,
+  "reason": null,
+  "last_seen": 1794477423
+ },
+ {
+  "id": "simplify:c188f749-5cdc-4a4f-b434-fde546dd23ed",
+  "first_seen": 1794362350,
+  "company": "Salesforce",
+  "title": "AI Labs Rotational Fellow",
+  "location": "Seattle, WA, SF, NYC",
+  "url": "https://salesforce.wd12.myworkdayjobs.com/Futureforce_NewGradRoles/job/California---San-Francisco/AI-Labs-Rotational-Fellowship--Emerging-Talent_JR367643",
+  "category": "SWE",
+  "posted": "2026-11-10",
+  "date_posted": 1794268800,
+  "active": true,
+  "locations": [
+   "Seattle, WA",
+   "SF",
+   "NYC"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "salesforce|ai labs rotational fellow",
+  "in_feed": true,
+  "reason": null,
+  "last_seen": 1794444664
+ },
+ {
   "id": "simplify:f8dff735-83eb-4c12-bafc-e9568cf30001",
   "first_seen": 1794283899,
   "company": "Microsoft",
@@ -8311,62 +8365,6 @@
   "group": "figma|data scientist core data",
   "in_feed": true,
   "reason": null
- },
- {
-  "id": "simplify:0120e440-b745-4397-ba25-12ed4f87430c",
-  "first_seen": 1794362350,
-  "company": "Salesforce",
-  "title": "AI Labs Rotational Fellow",
-  "location": "Seattle, WA, SF, NYC",
-  "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/AI-Labs-Rotational-Fellowship--Emerging-Talent_JR367643-1",
-  "category": "SWE",
-  "posted": "2026-11-10",
-  "date_posted": 1794268800,
-  "active": false,
-  "locations": [
-   "Seattle, WA",
-   "SF",
-   "NYC"
-  ],
-  "region": "US",
-  "degrees": [
-   "Bachelor's",
-   "Master's"
-  ],
-  "sponsorship": "Other",
-  "group": "salesforce|ai labs rotational fellow",
-  "in_feed": false,
-  "reason": "closed",
-  "closed_at": 1794477423,
-  "last_seen": 1794477423
- },
- {
-  "id": "simplify:c188f749-5cdc-4a4f-b434-fde546dd23ed",
-  "first_seen": 1794362350,
-  "company": "Salesforce",
-  "title": "AI Labs Rotational Fellow",
-  "location": "Seattle, WA, SF, NYC",
-  "url": "https://salesforce.wd12.myworkdayjobs.com/Futureforce_NewGradRoles/job/California---San-Francisco/AI-Labs-Rotational-Fellowship--Emerging-Talent_JR367643",
-  "category": "SWE",
-  "posted": "2026-11-10",
-  "date_posted": 1794268800,
-  "active": false,
-  "locations": [
-   "Seattle, WA",
-   "SF",
-   "NYC"
-  ],
-  "region": "US",
-  "degrees": [
-   "Bachelor's",
-   "Master's"
-  ],
-  "sponsorship": "Other",
-  "group": "salesforce|ai labs rotational fellow",
-  "in_feed": false,
-  "reason": "closed",
-  "closed_at": 1794444664,
-  "last_seen": 1794444664
  },
  {
   "id": "simplify:f9c96d74-4f89-49f5-be99-d5de96d70502",

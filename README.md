@@ -8,7 +8,7 @@ sync between devices through this repo. No servers, no database, no cost — a p
 bot token. This repo's tracker: **[alanhsiu.github.io/jobwatch](https://alanhsiu.github.io/jobwatch/)** (a fork gets its own at `https://<owner>.github.io/<repo>/`).
 
 <!-- JOBS:HEAD:START -->
-_338 open new-grad roles at 55 companies · list last changed 2026-11-12 · scans every ~2 h_ · **[Open the tracker](https://alanhsiu.github.io/jobwatch/)** · [Full list ↓](#current-roles) · TikTok 108 · ByteDance 33 · Amazon 27 · Shield AI 18 · Palantir 12 · Apple 10 · Microsoft 10 · Anduril 9 · …
+_340 open new-grad roles at 55 companies · list last changed 2026-11-12 · scans every ~2 h_ · **[Open the tracker](https://alanhsiu.github.io/jobwatch/)** · [Full list ↓](#current-roles) · TikTok 108 · ByteDance 33 · Amazon 27 · Shield AI 18 · Palantir 12 · Apple 10 · Microsoft 10 · Anduril 9 · …
 <!-- JOBS:HEAD:END -->
 
 ## How it works
@@ -512,6 +512,14 @@ and `.nojekyll` into `docs/`, set Pages to `/docs`, and give every device a toke
 
 </details>
 <details open>
+<summary>Salesforce (4)</summary>
+
+- [Software Engineer New Grad](https://salesforce.wd12.myworkdayjobs.com/Futureforce_NewGradRoles/job/California---San-Francisco/Software-Engineering-AMTS--College-Grad-_JR368047) — Palo Alto, CA, Seattle, WA, Indianapolis, IN · posted 2026-11-11 · SWE
+- [Software Engineering AMTS New Grad](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Software-Engineering-AMTS--College-Grad-_JR368047-1) — Palo Alto, CA, Seattle, WA, Indianapolis, IN · posted 2026-11-11 · SWE
+- [AI Labs Rotational Fellow](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/AI-Labs-Rotational-Fellowship--Emerging-Talent_JR367643-1) · [2](https://salesforce.wd12.myworkdayjobs.com/Futureforce_NewGradRoles/job/California---San-Francisco/AI-Labs-Rotational-Fellowship--Emerging-Talent_JR367643) — Seattle, WA, SF, NYC · posted 2026-11-10 · SWE · BS/MS
+
+</details>
+<details open>
 <summary>Susquehanna International Group (SIG) (4)</summary>
 
 - [Quantitative Researcher](https://careers-sig.icims.com/jobs/11016/job?mobile=true&needsRedirect=false) · [2](https://careers-sig.icims.com/jobs/11018/job?mobile=true&needsRedirect=false) — Ardmore, PA; Philadelphia, PA, NYC · posted 2026-06-29 · Quant · MS
@@ -625,13 +633,6 @@ and `.nojekyll` into `docs/`, set Pages to `/docs`, and give every device a toke
 
 - [Master's University Graduate Data Scientist](https://www.pinterestcareers.com/jobs/?gh_jid=8140389) — Palo Alto, CA, Seattle, WA, SF · posted 2026-10-01 · ML · MS
 - [University Grad Software Engineer](https://www.pinterestcareers.com/jobs/?gh_jid=7838591) — SF, Remote in USA · posted 2026-10-01 · SWE · BS/MS
-
-</details>
-<details open>
-<summary>Salesforce (2)</summary>
-
-- [Software Engineer New Grad](https://salesforce.wd12.myworkdayjobs.com/Futureforce_NewGradRoles/job/California---San-Francisco/Software-Engineering-AMTS--College-Grad-_JR368047) — Palo Alto, CA, Seattle, WA, Indianapolis, IN · posted 2026-11-11 · SWE
-- [Software Engineering AMTS New Grad](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Software-Engineering-AMTS--College-Grad-_JR368047-1) — Palo Alto, CA, Seattle, WA, Indianapolis, IN · posted 2026-11-11 · SWE
 
 </details>
 <details open>
