@@ -4,38 +4,38 @@
  "repo": "Alanhsiu/jobwatch",
  "branch": "main",
  "pages_url": "https://alanhsiu.github.io/jobwatch/",
- "last_run": 1794419782,
- "last_change": 1794419782,
+ "last_run": 1794444664,
+ "last_change": 1794444664,
  "last_result": "ok",
  "feed": {
-  "records": 18841,
-  "active": 3240,
-  "fetched_at": 1794419782,
+  "records": 18844,
+  "active": 3254,
+  "fetched_at": 1794444664,
   "attempts": 1
  },
  "counts": {
-  "active": 335,
-  "closed": 335,
+  "active": 336,
+  "closed": 339,
   "untracked": 51,
-  "groups": 282,
+  "groups": 284,
   "companies": 55,
-  "new_this_run": 2,
+  "new_this_run": 5,
   "silent_known_this_run": 0,
-  "closed_this_run": 9,
+  "closed_this_run": 4,
   "untracked_this_run": 0
  },
  "rejects": {
-  "category": 148,
+  "category": 147,
   "phd": 179,
-  "title": 14,
-  "region": 42,
+  "title": 15,
+  "region": 43,
   "sponsorship": 0,
-  "age": 32
+  "age": 33
  },
  "keywords": {
   "adobe": {
-   "active": 2,
-   "all_time": 11,
+   "active": 3,
+   "all_time": 12,
    "names": [
     "Adobe"
    ],
@@ -57,7 +57,7 @@
   },
   "amazon": {
    "active": 27,
-   "all_time": 44,
+   "all_time": 45,
    "names": [
     "Amazon"
    ],
@@ -550,7 +550,7 @@
   },
   "microsoft": {
    "active": 11,
-   "all_time": 41,
+   "all_time": 42,
    "names": [
     "Microsoft"
    ],
@@ -739,7 +739,7 @@
    "denied": 0
   },
   "salesforce": {
-   "active": 5,
+   "active": 3,
    "all_time": 13,
    "names": [
     "Salesforce"
@@ -777,8 +777,8 @@
    "denied": 0
   },
   "shield ai": {
-   "active": 14,
-   "all_time": 26,
+   "active": 15,
+   "all_time": 27,
    "names": [
     "Shield AI"
    ],
@@ -981,8 +981,8 @@
    "denied": 0
   },
   "xai": {
-   "active": 3,
-   "all_time": 9,
+   "active": 4,
+   "all_time": 10,
    "names": [
     "xAI"
    ],
@@ -1003,7 +1003,7 @@
  },
  "telegram": {
   "mode": "sent",
-  "delivered": 2,
+  "delivered": 5,
   "failed_chunks": 0,
   "creds": true
  },
