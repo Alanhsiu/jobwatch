@@ -1,30 +1,5 @@
 [
  {
-  "id": "simplify:2ed6f5ef-9ec5-455f-b7df-59d3272f49fd",
-  "first_seen": 1794592374,
-  "company": "Shield AI",
-  "title": "Engineer 1 New Grad - Software",
-  "location": "Washington, DC",
-  "url": "https://jobs.lever.co/shieldai/c33ab680-2625-4da1-a96c-41bea441b98b/apply",
-  "category": "SWE",
-  "posted": "2026-11-13",
-  "date_posted": 1794566944,
-  "active": true,
-  "locations": [
-   "Washington, DC"
-  ],
-  "region": "US",
-  "degrees": [
-   "Bachelor's",
-   "Master's",
-   "PhD"
-  ],
-  "sponsorship": "Other",
-  "group": "shield ai|engineer 1 new grad software",
-  "in_feed": true,
-  "reason": null
- },
- {
   "id": "simplify:8b086459-985c-4225-b509-facb2dce5e94",
   "first_seen": 1794563046,
   "company": "Shield AI",
@@ -99,31 +74,6 @@
   "reason": null
  },
  {
-  "id": "simplify:8b2fa733-e2e8-4637-a9d8-504975db947c",
-  "first_seen": 1794477423,
-  "company": "Shield AI",
-  "title": "Engineer 2 New Grad - Software - Perception",
-  "location": "United States",
-  "url": "https://jobs.lever.co/shieldai/9017c8c2-2668-45d6-aff5-a7e348107c12/apply",
-  "category": "ML",
-  "posted": "2026-11-12",
-  "date_posted": 1794449241,
-  "active": true,
-  "locations": [
-   "United States"
-  ],
-  "region": "US",
-  "degrees": [
-   "Bachelor's",
-   "Master's",
-   "PhD"
-  ],
-  "sponsorship": "Other",
-  "group": "shield ai|engineer 2 new grad software perception",
-  "in_feed": true,
-  "reason": null
- },
- {
   "id": "simplify:5b83878d-7d81-44e4-89ea-10b040471cb7",
   "first_seen": 1794444664,
   "company": "Microsoft",
@@ -143,31 +93,6 @@
   ],
   "sponsorship": "Other",
   "group": "microsoft|software development engineer",
-  "in_feed": true,
-  "reason": null
- },
- {
-  "id": "simplify:f626c3a1-0755-4d04-aa67-00c39408902e",
-  "first_seen": 1794444664,
-  "company": "Shield AI",
-  "title": "Engineer 2 New Grad - Software - Autonomy Capabilities",
-  "location": "United States",
-  "url": "https://jobs.lever.co/shieldai/d2050861-fd48-4ac6-9606-e1e502a817af/apply",
-  "category": "HW",
-  "posted": "2026-11-11",
-  "date_posted": 1794439281,
-  "active": true,
-  "locations": [
-   "United States"
-  ],
-  "region": "US",
-  "degrees": [
-   "Bachelor's",
-   "Master's",
-   "PhD"
-  ],
-  "sponsorship": "Other",
-  "group": "shield ai|engineer 2 new grad software autonomy capabilities",
   "in_feed": true,
   "reason": null
  },
@@ -523,56 +448,6 @@
   ],
   "sponsorship": "Other",
   "group": "wolverine trading|c software engineer new grad",
-  "in_feed": true,
-  "reason": null
- },
- {
-  "id": "simplify:cbd9ea2f-0c98-4c65-b81a-72290dca5c9c",
-  "first_seen": 1794188766,
-  "company": "Shield AI",
-  "title": "Engineer 1 New Grad - Software - Autonomy Capabilities",
-  "location": "United States",
-  "url": "https://jobs.lever.co/shieldai/f8e0f87f-0e12-4e05-a491-4e8272494896/apply",
-  "category": "SWE",
-  "posted": "2026-11-08",
-  "date_posted": 1794179352,
-  "active": true,
-  "locations": [
-   "United States"
-  ],
-  "region": "US",
-  "degrees": [
-   "Bachelor's",
-   "Master's",
-   "PhD"
-  ],
-  "sponsorship": "Other",
-  "group": "shield ai|engineer 1 new grad software autonomy capabilities",
-  "in_feed": true,
-  "reason": null
- },
- {
-  "id": "simplify:4ec3d85d-62a9-4b10-8936-7508a8f35bac",
-  "first_seen": 1794188766,
-  "company": "Shield AI",
-  "title": "Engineer 1 New Grad - Software - Perception",
-  "location": "Washington, DC",
-  "url": "https://jobs.lever.co/shieldai/cd641bcb-f613-44dd-b66d-2df360067319/apply",
-  "category": "ML",
-  "posted": "2026-11-08",
-  "date_posted": 1794179352,
-  "active": true,
-  "locations": [
-   "Washington, DC"
-  ],
-  "region": "US",
-  "degrees": [
-   "Bachelor's",
-   "Master's",
-   "PhD"
-  ],
-  "sponsorship": "Other",
-  "group": "shield ai|engineer 1 new grad software perception",
   "in_feed": true,
   "reason": null
  },
@@ -1675,29 +1550,6 @@
   "reason": null
  },
  {
-  "id": "simplify:b29c852f-50f9-42bc-a4b6-65ef06b990be",
-  "first_seen": 1792780150,
-  "company": "Shield AI",
-  "title": "Software Engineer 1 New Grad",
-  "location": "Seattle, WA",
-  "url": "https://jobs.lever.co/shieldai/633a3038-574c-45ff-babb-7e1b8b7c6196/apply",
-  "category": "SWE",
-  "posted": "2026-10-23",
-  "date_posted": 1792765162,
-  "active": true,
-  "locations": [
-   "Seattle, WA"
-  ],
-  "region": "US",
-  "degrees": [
-   "Bachelor's"
-  ],
-  "sponsorship": "Other",
-  "group": "shield ai|software engineer 1 new grad",
-  "in_feed": true,
-  "reason": null
- },
- {
   "id": "simplify:312b7b27-dc1b-4ccc-a582-f20be014c2e9",
   "first_seen": 1792741310,
   "company": "Amazon",
@@ -2261,31 +2113,6 @@
   ],
   "sponsorship": "Other",
   "group": "tiktok|machine learning engineer graduate e commerce knowledge graph",
-  "in_feed": true,
-  "reason": null
- },
- {
-  "id": "simplify:f28161fe-bd49-4abe-9430-703600ec69d6",
-  "first_seen": 1791337144,
-  "company": "Shield AI",
-  "title": "Software Development Engineer New Grad",
-  "location": "San Diego, CA",
-  "url": "https://jobs.lever.co/shieldai/79c3b65f-ce0c-4868-bedf-4ddcc4cfe583/apply",
-  "category": "ML",
-  "posted": "2026-10-06",
-  "date_posted": 1791325522,
-  "active": true,
-  "locations": [
-   "San Diego, CA"
-  ],
-  "region": "US",
-  "degrees": [
-   "Bachelor's",
-   "Master's",
-   "PhD"
-  ],
-  "sponsorship": "Other",
-  "group": "shield ai|software development engineer new grad",
   "in_feed": true,
   "reason": null
  },
@@ -8417,6 +8244,87 @@
   "reason": null
  },
  {
+  "id": "simplify:2ed6f5ef-9ec5-455f-b7df-59d3272f49fd",
+  "first_seen": 1794592374,
+  "company": "Shield AI",
+  "title": "Engineer 1 New Grad - Software",
+  "location": "Washington, DC",
+  "url": "https://jobs.lever.co/shieldai/c33ab680-2625-4da1-a96c-41bea441b98b/apply",
+  "category": "SWE",
+  "posted": "2026-11-13",
+  "date_posted": 1794566944,
+  "active": false,
+  "locations": [
+   "Washington, DC"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's",
+   "PhD"
+  ],
+  "sponsorship": "Other",
+  "group": "shield ai|engineer 1 new grad software",
+  "in_feed": false,
+  "reason": "closed",
+  "closed_at": 1794613302,
+  "last_seen": 1794613302
+ },
+ {
+  "id": "simplify:8b2fa733-e2e8-4637-a9d8-504975db947c",
+  "first_seen": 1794477423,
+  "company": "Shield AI",
+  "title": "Engineer 2 New Grad - Software - Perception",
+  "location": "United States",
+  "url": "https://jobs.lever.co/shieldai/9017c8c2-2668-45d6-aff5-a7e348107c12/apply",
+  "category": "ML",
+  "posted": "2026-11-12",
+  "date_posted": 1794449241,
+  "active": false,
+  "locations": [
+   "United States"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's",
+   "PhD"
+  ],
+  "sponsorship": "Other",
+  "group": "shield ai|engineer 2 new grad software perception",
+  "in_feed": false,
+  "reason": "closed",
+  "closed_at": 1794613302,
+  "last_seen": 1794613302
+ },
+ {
+  "id": "simplify:f626c3a1-0755-4d04-aa67-00c39408902e",
+  "first_seen": 1794444664,
+  "company": "Shield AI",
+  "title": "Engineer 2 New Grad - Software - Autonomy Capabilities",
+  "location": "United States",
+  "url": "https://jobs.lever.co/shieldai/d2050861-fd48-4ac6-9606-e1e502a817af/apply",
+  "category": "HW",
+  "posted": "2026-11-11",
+  "date_posted": 1794439281,
+  "active": false,
+  "locations": [
+   "United States"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's",
+   "PhD"
+  ],
+  "sponsorship": "Other",
+  "group": "shield ai|engineer 2 new grad software autonomy capabilities",
+  "in_feed": false,
+  "reason": "closed",
+  "closed_at": 1794613302,
+  "last_seen": 1794613302
+ },
+ {
   "id": "simplify:f9c96d74-4f89-49f5-be99-d5de96d70502",
   "first_seen": 1794283899,
   "company": "Adobe",
@@ -8441,6 +8349,60 @@
   "reason": "closed",
   "closed_at": 1794344043,
   "last_seen": 1794344043
+ },
+ {
+  "id": "simplify:cbd9ea2f-0c98-4c65-b81a-72290dca5c9c",
+  "first_seen": 1794188766,
+  "company": "Shield AI",
+  "title": "Engineer 1 New Grad - Software - Autonomy Capabilities",
+  "location": "United States",
+  "url": "https://jobs.lever.co/shieldai/f8e0f87f-0e12-4e05-a491-4e8272494896/apply",
+  "category": "SWE",
+  "posted": "2026-11-08",
+  "date_posted": 1794179352,
+  "active": false,
+  "locations": [
+   "United States"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's",
+   "PhD"
+  ],
+  "sponsorship": "Other",
+  "group": "shield ai|engineer 1 new grad software autonomy capabilities",
+  "in_feed": false,
+  "reason": "closed",
+  "closed_at": 1794613302,
+  "last_seen": 1794613302
+ },
+ {
+  "id": "simplify:4ec3d85d-62a9-4b10-8936-7508a8f35bac",
+  "first_seen": 1794188766,
+  "company": "Shield AI",
+  "title": "Engineer 1 New Grad - Software - Perception",
+  "location": "Washington, DC",
+  "url": "https://jobs.lever.co/shieldai/cd641bcb-f613-44dd-b66d-2df360067319/apply",
+  "category": "ML",
+  "posted": "2026-11-08",
+  "date_posted": 1794179352,
+  "active": false,
+  "locations": [
+   "Washington, DC"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's",
+   "PhD"
+  ],
+  "sponsorship": "Other",
+  "group": "shield ai|engineer 1 new grad software perception",
+  "in_feed": false,
+  "reason": "closed",
+  "closed_at": 1794613302,
+  "last_seen": 1794613302
  },
  {
   "id": "simplify:ae0259f6-a081-4a42-8a14-c855b03e92f6",
@@ -8954,6 +8916,31 @@
   "reason": "closed",
   "closed_at": 1793205763,
   "last_seen": 1793205763
+ },
+ {
+  "id": "simplify:b29c852f-50f9-42bc-a4b6-65ef06b990be",
+  "first_seen": 1792780150,
+  "company": "Shield AI",
+  "title": "Software Engineer 1 New Grad",
+  "location": "Seattle, WA",
+  "url": "https://jobs.lever.co/shieldai/633a3038-574c-45ff-babb-7e1b8b7c6196/apply",
+  "category": "SWE",
+  "posted": "2026-10-23",
+  "date_posted": 1792765162,
+  "active": false,
+  "locations": [
+   "Seattle, WA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's"
+  ],
+  "sponsorship": "Other",
+  "group": "shield ai|software engineer 1 new grad",
+  "in_feed": false,
+  "reason": "closed",
+  "closed_at": 1794613302,
+  "last_seen": 1794613302
  },
  {
   "id": "simplify:3557be68-fc43-4f36-88de-aeddac816ec2",
@@ -10012,6 +9999,33 @@
   "reason": "closed",
   "closed_at": 1794419782,
   "last_seen": 1794419782
+ },
+ {
+  "id": "simplify:f28161fe-bd49-4abe-9430-703600ec69d6",
+  "first_seen": 1791337144,
+  "company": "Shield AI",
+  "title": "Software Development Engineer New Grad",
+  "location": "San Diego, CA",
+  "url": "https://jobs.lever.co/shieldai/79c3b65f-ce0c-4868-bedf-4ddcc4cfe583/apply",
+  "category": "ML",
+  "posted": "2026-10-06",
+  "date_posted": 1791325522,
+  "active": false,
+  "locations": [
+   "San Diego, CA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's",
+   "PhD"
+  ],
+  "sponsorship": "Other",
+  "group": "shield ai|software development engineer new grad",
+  "in_feed": false,
+  "reason": "closed",
+  "closed_at": 1794613302,
+  "last_seen": 1794613302
  },
  {
   "id": "simplify:2e77fdb4-933b-41b1-8fe2-253cdec7bb57",
