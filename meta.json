@@ -4,31 +4,31 @@
  "repo": "Alanhsiu/jobwatch",
  "branch": "main",
  "pages_url": "https://alanhsiu.github.io/jobwatch/",
- "last_run": 1794507892,
- "last_change": 1794507892,
+ "last_run": 1794532353,
+ "last_change": 1794532353,
  "last_result": "ok",
  "feed": {
-  "records": 18852,
-  "active": 3259,
-  "fetched_at": 1794507892,
+  "records": 18846,
+  "active": 3263,
+  "fetched_at": 1794532353,
   "attempts": 1
  },
  "counts": {
   "active": 340,
-  "closed": 339,
-  "untracked": 51,
+  "closed": 341,
+  "untracked": 50,
   "groups": 286,
   "companies": 55,
-  "new_this_run": 0,
+  "new_this_run": 1,
   "silent_known_this_run": 0,
-  "closed_this_run": 0,
+  "closed_this_run": 1,
   "untracked_this_run": 0
  },
  "rejects": {
   "category": 148,
-  "phd": 178,
+  "phd": 177,
   "title": 17,
-  "region": 43,
+  "region": 42,
   "sponsorship": 0,
   "age": 33
  },
@@ -88,8 +88,8 @@
    "denied": 0
   },
   "apple": {
-   "active": 10,
-   "all_time": 38,
+   "active": 11,
+   "all_time": 39,
    "names": [
     "Apple"
    ],
@@ -853,7 +853,7 @@
    "denied": 0
   },
   "tiktok": {
-   "active": 108,
+   "active": 107,
    "all_time": 162,
    "names": [
     "TikTok"
@@ -1002,8 +1002,8 @@
   }
  },
  "telegram": {
-  "mode": "none",
-  "delivered": 0,
+  "mode": "sent",
+  "delivered": 1,
   "failed_chunks": 0,
   "creds": true
  },
