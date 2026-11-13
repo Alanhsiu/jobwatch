@@ -1,5 +1,30 @@
 [
  {
+  "id": "simplify:8b086459-985c-4225-b509-facb2dce5e94",
+  "first_seen": 1794563046,
+  "company": "Shield AI",
+  "title": "Software Engineer 1 New Grad",
+  "location": "Washington, DC",
+  "url": "https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/7e0ae8a3-4872-431c-a04a-2f2b8988b527/application?embed=true",
+  "category": "SWE",
+  "posted": "2026-11-13",
+  "date_posted": 1794528000,
+  "active": true,
+  "locations": [
+   "Washington, DC"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's",
+   "PhD"
+  ],
+  "sponsorship": "Other",
+  "group": "shield ai|software engineer 1 new grad",
+  "in_feed": true,
+  "reason": null
+ },
+ {
   "id": "simplify:a3642769-8b21-4778-b06c-fa2122acc55a",
   "first_seen": 1794532353,
   "company": "Apple",
