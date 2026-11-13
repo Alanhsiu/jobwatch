@@ -8,7 +8,7 @@ sync between devices through this repo. No servers, no database, no cost — a p
 bot token. This repo's tracker: **[alanhsiu.github.io/jobwatch](https://alanhsiu.github.io/jobwatch/)** (a fork gets its own at `https://<owner>.github.io/<repo>/`).
 
 <!-- JOBS:HEAD:START -->
-_341 open new-grad roles at 55 companies · list last changed 2026-11-13 · scans every ~2 h_ · **[Open the tracker](https://alanhsiu.github.io/jobwatch/)** · [Full list ↓](#current-roles) · TikTok 107 · ByteDance 33 · Amazon 27 · Shield AI 19 · Palantir 12 · Apple 11 · Microsoft 10 · Anduril 9 · …
+_342 open new-grad roles at 55 companies · list last changed 2026-11-13 · scans every ~2 h_ · **[Open the tracker](https://alanhsiu.github.io/jobwatch/)** · [Full list ↓](#current-roles) · TikTok 106 · ByteDance 33 · Amazon 27 · Shield AI 21 · Palantir 12 · Apple 11 · Microsoft 10 · Anduril 9 · …
 <!-- JOBS:HEAD:END -->
 
 ## How it works
@@ -205,7 +205,7 @@ and `.nojekyll` into `docs/`, set Pages to `/docs`, and give every device a toke
 ## Current roles
 <!-- JOBS:START -->
 <details>
-<summary>TikTok (107)</summary>
+<summary>TikTok (106)</summary>
 
 - [Research Engineer - Agentic Video Editing](https://lifeattiktok.com/search/7704036750285867269) — San Jose, CA · posted 2026-11-06 · SWE · BS/MS
 - [Software Engineer Graduate - Data Ecosystem - 2027 Start](https://lifeattiktok.com/search/7685769994391832837) — San Jose, CA · posted 2026-10-14 · SWE · BS/MS
@@ -288,7 +288,6 @@ and `.nojekyll` into `docs/`, set Pages to `/docs`, and give every device a toke
 - [Machine Learning Engineer Graduate - Ads Delivery](https://lifeattiktok.com/search/7668660365135808821) — San Jose, CA · posted 2026-08-03 · ML · BS/MS
 - [Machine Learning Engineer Graduate - Monetization Technology - Ads Core Global](https://lifeattiktok.com/search/7668592348941273349) — San Jose, CA · posted 2026-08-03 · ML · BS/MS
 - [Software Engineer New Grad - Business Integrity](https://lifeattiktok.com/search/7668592494649690421) — San Jose, CA · posted 2026-08-03 · SWE · BS/MS
-- [Machine Learning Engineer Graduate - Ads Creative](https://lifeattiktok.com/search/7668669015051405573) — San Jose, CA · posted 2026-08-03 · ML · MS
 - [Machine Learning Engineer Graduate - Ads Targeting](https://lifeattiktok.com/search/7668629846058223877) — San Jose, CA · posted 2026-08-03 · ML · BS/MS
 - [Machine Learning Infrastructure Engineer New Grad - Ads Infra](https://lifeattiktok.com/search/7668693662561634613) — San Jose, CA · posted 2026-08-03 · ML · BS/MS
 - [Software Engineer Graduate - Ads Delivery](https://lifeattiktok.com/search/7668662545059023157) — San Jose, CA · posted 2026-08-03 · SWE · BS/MS
@@ -362,10 +361,11 @@ and `.nojekyll` into `docs/`, set Pages to `/docs`, and give every device a toke
 - [Software Development Engineer - Military Veterans](https://amazon.jobs/en/jobs/3179205/software-development-engineer-military-veterans) — Seattle, WA, Redmond, WA, Arlington, VA · posted 2026-07-14 · SWE · BS
 
 </details>
-<details open>
-<summary>Shield AI (19)</summary>
+<details>
+<summary>Shield AI (21)</summary>
 
-- [Software Engineer 1 New Grad](https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/7e0ae8a3-4872-431c-a04a-2f2b8988b527/application?embed=true) · [2](https://jobs.lever.co/shieldai/633a3038-574c-45ff-babb-7e1b8b7c6196/apply) — Washington, DC; Seattle, WA · posted 2026-11-13 · SWE · BS/MS/PhD
+- [Engineer 1 New Grad - Software](https://jobs.lever.co/shieldai/c33ab680-2625-4da1-a96c-41bea441b98b/apply) — Washington, DC · posted 2026-11-13 · SWE · BS/MS/PhD
+- [Software Engineer 1 New Grad](https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/7e0ae8a3-4872-431c-a04a-2f2b8988b527/application?embed=true) · [2](https://jobs.ashbyhq.com/shield/7e0ae8a3-4872-431c-a04a-2f2b8988b527/application?embed=true) · [3](https://jobs.lever.co/shieldai/633a3038-574c-45ff-babb-7e1b8b7c6196/apply) — Washington, DC; Seattle, WA · posted 2026-11-13 · SWE · BS/MS/PhD
 - [Engineer 2 New Grad - Software - Perception](https://jobs.lever.co/shieldai/9017c8c2-2668-45d6-aff5-a7e348107c12/apply) · [2](https://jobs.ashbyhq.com/shield/2aa92f37-7e2f-4c12-9f2c-1316e1a743a7/application?embed=true) · [3](https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/2aa92f37-7e2f-4c12-9f2c-1316e1a743a7/application?embed=true) — United States · posted 2026-11-12 · ML · BS/MS/PhD
 - [Engineer 2 New Grad - Software - Autonomy Capabilities](https://jobs.lever.co/shieldai/d2050861-fd48-4ac6-9606-e1e502a817af/apply) — United States · posted 2026-11-11 · HW · BS/MS/PhD
 - [Engineer 1 New Grad - Software - Autonomy Capabilities](https://jobs.lever.co/shieldai/f8e0f87f-0e12-4e05-a491-4e8272494896/apply) — United States · posted 2026-11-08 · SWE · BS/MS/PhD

@@ -1,11 +1,61 @@
 [
  {
+  "id": "simplify:2ed6f5ef-9ec5-455f-b7df-59d3272f49fd",
+  "first_seen": 1794592374,
+  "company": "Shield AI",
+  "title": "Engineer 1 New Grad - Software",
+  "location": "Washington, DC",
+  "url": "https://jobs.lever.co/shieldai/c33ab680-2625-4da1-a96c-41bea441b98b/apply",
+  "category": "SWE",
+  "posted": "2026-11-13",
+  "date_posted": 1794566944,
+  "active": true,
+  "locations": [
+   "Washington, DC"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's",
+   "PhD"
+  ],
+  "sponsorship": "Other",
+  "group": "shield ai|engineer 1 new grad software",
+  "in_feed": true,
+  "reason": null
+ },
+ {
   "id": "simplify:8b086459-985c-4225-b509-facb2dce5e94",
   "first_seen": 1794563046,
   "company": "Shield AI",
   "title": "Software Engineer 1 New Grad",
   "location": "Washington, DC",
   "url": "https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/7e0ae8a3-4872-431c-a04a-2f2b8988b527/application?embed=true",
+  "category": "SWE",
+  "posted": "2026-11-13",
+  "date_posted": 1794528000,
+  "active": true,
+  "locations": [
+   "Washington, DC"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's",
+   "PhD"
+  ],
+  "sponsorship": "Other",
+  "group": "shield ai|software engineer 1 new grad",
+  "in_feed": true,
+  "reason": null
+ },
+ {
+  "id": "simplify:dcad63ca-676a-4159-a102-8c42f2d872c5",
+  "first_seen": 1794592374,
+  "company": "Shield AI",
+  "title": "Software Engineer 1 New Grad",
+  "location": "Washington, DC",
+  "url": "https://jobs.ashbyhq.com/shield/7e0ae8a3-4872-431c-a04a-2f2b8988b527/application?embed=true",
   "category": "SWE",
   "posted": "2026-11-13",
   "date_posted": 1794528000,
@@ -6955,30 +7005,6 @@
   "reason": null
  },
  {
-  "id": "simplify:2e5c1d58-b0ed-49e8-9544-80f758fb517a",
-  "company": "TikTok",
-  "title": "Machine Learning Engineer Graduate - Ads Creative",
-  "location": "San Jose, CA",
-  "url": "https://lifeattiktok.com/search/7668669015051405573",
-  "category": "ML",
-  "posted": "2026-08-03",
-  "date_posted": 1785737699,
-  "active": true,
-  "first_seen": 1785776785.3406992,
-  "last_seen": 1789521191.4314806,
-  "locations": [
-   "San Jose, CA"
-  ],
-  "region": "US",
-  "degrees": [
-   "Master's"
-  ],
-  "sponsorship": "Other",
-  "group": "tiktok|machine learning engineer graduate ads creative",
-  "in_feed": true,
-  "reason": null
- },
- {
   "id": "simplify:234d00c7-54f5-4ec4-b8c2-ad6ae52fd01e",
   "company": "TikTok",
   "title": "Machine Learning Engineer Graduate - Ads Targeting",
@@ -13343,10 +13369,9 @@
    "PhD"
   ],
   "sponsorship": "Other",
-  "in_feed": true,
+  "in_feed": false,
   "closed_at": 1789570473,
-  "reason": "untracked",
-  "why": "phd",
+  "reason": "closed",
   "group": "tiktok|machine learning engineer graduate ads creative"
  },
  {
@@ -13675,6 +13700,31 @@
   "in_feed": false,
   "reason": "closed",
   "closed_at": 1794532353
+ },
+ {
+  "id": "simplify:2e5c1d58-b0ed-49e8-9544-80f758fb517a",
+  "company": "TikTok",
+  "title": "Machine Learning Engineer Graduate - Ads Creative",
+  "location": "San Jose, CA",
+  "url": "https://lifeattiktok.com/search/7668669015051405573",
+  "category": "ML",
+  "posted": "2026-08-03",
+  "date_posted": 1785737699,
+  "active": false,
+  "first_seen": 1785776785.3406992,
+  "last_seen": 1794592374,
+  "locations": [
+   "San Jose, CA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "tiktok|machine learning engineer graduate ads creative",
+  "in_feed": false,
+  "reason": "closed",
+  "closed_at": 1794592374
  },
  {
   "id": "simplify:2e854092-b1ff-4691-a581-23d94da76a5b",
@@ -14025,17 +14075,16 @@
   "active": false,
   "first_seen": 1785081481.2181506,
   "last_seen": 1788139056.5271337,
-  "in_feed": true,
+  "in_feed": false,
   "closed_at": 1788139056,
-  "reason": "untracked",
+  "reason": "closed",
   "group": "tesla|data labeler",
   "locations": [
    "Dallas, TX"
   ],
   "region": "US",
   "degrees": [],
-  "sponsorship": "Other",
-  "why": "title"
+  "sponsorship": "Other"
  },
  {
   "id": "simplify:d18bc1a4-16e1-4dad-9fb3-8dcae83337fe",
