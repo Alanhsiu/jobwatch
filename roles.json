@@ -48,56 +48,6 @@
   "reason": null
  },
  {
-  "id": "simplify:8b086459-985c-4225-b509-facb2dce5e94",
-  "first_seen": 1794563046,
-  "company": "Shield AI",
-  "title": "Software Engineer 1 New Grad",
-  "location": "Washington, DC",
-  "url": "https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/7e0ae8a3-4872-431c-a04a-2f2b8988b527/application?embed=true",
-  "category": "SWE",
-  "posted": "2026-11-13",
-  "date_posted": 1794528000,
-  "active": true,
-  "locations": [
-   "Washington, DC"
-  ],
-  "region": "US",
-  "degrees": [
-   "Bachelor's",
-   "Master's",
-   "PhD"
-  ],
-  "sponsorship": "Other",
-  "group": "shield ai|software engineer 1 new grad",
-  "in_feed": true,
-  "reason": null
- },
- {
-  "id": "simplify:dcad63ca-676a-4159-a102-8c42f2d872c5",
-  "first_seen": 1794592374,
-  "company": "Shield AI",
-  "title": "Software Engineer 1 New Grad",
-  "location": "Washington, DC",
-  "url": "https://jobs.ashbyhq.com/shield/7e0ae8a3-4872-431c-a04a-2f2b8988b527/application?embed=true",
-  "category": "SWE",
-  "posted": "2026-11-13",
-  "date_posted": 1794528000,
-  "active": true,
-  "locations": [
-   "Washington, DC"
-  ],
-  "region": "US",
-  "degrees": [
-   "Bachelor's",
-   "Master's",
-   "PhD"
-  ],
-  "sponsorship": "Other",
-  "group": "shield ai|software engineer 1 new grad",
-  "in_feed": true,
-  "reason": null
- },
- {
   "id": "simplify:a3642769-8b21-4778-b06c-fa2122acc55a",
   "first_seen": 1794532353,
   "company": "Apple",
@@ -403,30 +353,6 @@
   "last_seen": 1794444664
  },
  {
-  "id": "simplify:f8dff735-83eb-4c12-bafc-e9568cf30001",
-  "first_seen": 1794283899,
-  "company": "Microsoft",
-  "title": "Software Engineer",
-  "location": "Redmond, WA",
-  "url": "https://apply.careers.microsoft.com/careers/job/1970393557053863",
-  "category": "SWE",
-  "posted": "2026-11-09",
-  "date_posted": 1794267495,
-  "active": true,
-  "locations": [
-   "Redmond, WA"
-  ],
-  "region": "US",
-  "degrees": [
-   "Bachelor's",
-   "Master's"
-  ],
-  "sponsorship": "Other",
-  "group": "microsoft|software engineer",
-  "in_feed": true,
-  "reason": null
- },
- {
   "id": "simplify:4d117eb5-e4cd-4625-bc89-63338bb2dd70",
   "first_seen": 1794283899,
   "company": "Microsoft",
@@ -694,30 +620,6 @@
   ],
   "sponsorship": "Other",
   "group": "amazon|systems development engineer aws commerce platform adc",
-  "in_feed": true,
-  "reason": null
- },
- {
-  "id": "simplify:5b152919-6dd2-49e1-9338-9bec77d7fdd3",
-  "first_seen": 1794016884,
-  "company": "Microsoft",
-  "title": "Software Engineer",
-  "location": "Reston, VA",
-  "url": "https://apply.careers.microsoft.com/careers/job/1970393557053350",
-  "category": "SWE",
-  "posted": "2026-11-06",
-  "date_posted": 1794008282,
-  "active": true,
-  "locations": [
-   "Reston, VA"
-  ],
-  "region": "US",
-  "degrees": [
-   "Bachelor's",
-   "Master's"
-  ],
-  "sponsorship": "Other",
-  "group": "microsoft|software engineer",
   "in_feed": true,
   "reason": null
  },
@@ -8294,6 +8196,60 @@
   "last_seen": 1794613302
  },
  {
+  "id": "simplify:8b086459-985c-4225-b509-facb2dce5e94",
+  "first_seen": 1794563046,
+  "company": "Shield AI",
+  "title": "Software Engineer 1 New Grad",
+  "location": "Washington, DC",
+  "url": "https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/7e0ae8a3-4872-431c-a04a-2f2b8988b527/application?embed=true",
+  "category": "SWE",
+  "posted": "2026-11-13",
+  "date_posted": 1794528000,
+  "active": false,
+  "locations": [
+   "Washington, DC"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's",
+   "PhD"
+  ],
+  "sponsorship": "Other",
+  "group": "shield ai|software engineer 1 new grad",
+  "in_feed": false,
+  "reason": "closed",
+  "closed_at": 1794669102,
+  "last_seen": 1794669102
+ },
+ {
+  "id": "simplify:dcad63ca-676a-4159-a102-8c42f2d872c5",
+  "first_seen": 1794592374,
+  "company": "Shield AI",
+  "title": "Software Engineer 1 New Grad",
+  "location": "Washington, DC",
+  "url": "https://jobs.ashbyhq.com/shield/7e0ae8a3-4872-431c-a04a-2f2b8988b527/application?embed=true",
+  "category": "SWE",
+  "posted": "2026-11-13",
+  "date_posted": 1794528000,
+  "active": false,
+  "locations": [
+   "Washington, DC"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's",
+   "PhD"
+  ],
+  "sponsorship": "Other",
+  "group": "shield ai|software engineer 1 new grad",
+  "in_feed": false,
+  "reason": "closed",
+  "closed_at": 1794669102,
+  "last_seen": 1794669102
+ },
+ {
   "id": "simplify:8b2fa733-e2e8-4637-a9d8-504975db947c",
   "first_seen": 1794477423,
   "company": "Shield AI",
@@ -8373,6 +8329,32 @@
   "reason": "closed",
   "closed_at": 1794638653,
   "last_seen": 1794638653
+ },
+ {
+  "id": "simplify:f8dff735-83eb-4c12-bafc-e9568cf30001",
+  "first_seen": 1794283899,
+  "company": "Microsoft",
+  "title": "Software Engineer",
+  "location": "Redmond, WA",
+  "url": "https://apply.careers.microsoft.com/careers/job/1970393557053863",
+  "category": "SWE",
+  "posted": "2026-11-09",
+  "date_posted": 1794267495,
+  "active": false,
+  "locations": [
+   "Redmond, WA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "microsoft|software engineer",
+  "in_feed": false,
+  "reason": "closed",
+  "closed_at": 1794669102,
+  "last_seen": 1794669102
  },
  {
   "id": "simplify:f9c96d74-4f89-49f5-be99-d5de96d70502",
@@ -8478,6 +8460,32 @@
   "reason": "closed",
   "closed_at": 1794344043,
   "last_seen": 1794344043
+ },
+ {
+  "id": "simplify:5b152919-6dd2-49e1-9338-9bec77d7fdd3",
+  "first_seen": 1794016884,
+  "company": "Microsoft",
+  "title": "Software Engineer",
+  "location": "Reston, VA",
+  "url": "https://apply.careers.microsoft.com/careers/job/1970393557053350",
+  "category": "SWE",
+  "posted": "2026-11-06",
+  "date_posted": 1794008282,
+  "active": false,
+  "locations": [
+   "Reston, VA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "microsoft|software engineer",
+  "in_feed": false,
+  "reason": "closed",
+  "closed_at": 1794669102,
+  "last_seen": 1794669102
  },
  {
   "id": "simplify:ec527e6a-082e-4155-a7f4-a114d18663c0",
