@@ -1,5 +1,53 @@
 [
  {
+  "id": "simplify:970abbb2-7906-4686-914b-09bd6d622dd5",
+  "first_seen": 1794638653,
+  "company": "Microsoft",
+  "title": "Software Engineer - Microsoft Business Operations",
+  "location": "Redmond, WA",
+  "url": "https://apply.careers.microsoft.com/careers/job/1970393557073410",
+  "category": "SWE",
+  "posted": "2026-11-14",
+  "date_posted": 1794623047,
+  "active": true,
+  "locations": [
+   "Redmond, WA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "microsoft|software engineer microsoft business operations",
+  "in_feed": true,
+  "reason": null
+ },
+ {
+  "id": "simplify:3aee7711-aa7b-4592-8a52-0ad74d7c0fba",
+  "first_seen": 1794638653,
+  "company": "Microsoft",
+  "title": "Software Engineer",
+  "location": "Redmond, WA",
+  "url": "https://apply.careers.microsoft.com/careers/job/1970393557072925",
+  "category": "SWE",
+  "posted": "2026-11-13",
+  "date_posted": 1794613657,
+  "active": true,
+  "locations": [
+   "Redmond, WA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "microsoft|software engineer",
+  "in_feed": true,
+  "reason": null
+ },
+ {
   "id": "simplify:8b086459-985c-4225-b509-facb2dce5e94",
   "first_seen": 1794563046,
   "company": "Shield AI",
@@ -297,31 +345,6 @@
   ],
   "sponsorship": "Other",
   "group": "shield ai|engineer 2 new grad software perception",
-  "in_feed": true,
-  "reason": null
- },
- {
-  "id": "simplify:1d0612f6-6b43-47c4-9a7f-65017afa789c",
-  "first_seen": 1794314795,
-  "company": "Anysphere",
-  "title": "Software Engineer New Grad",
-  "location": "Palo Alto, CA, SF, NYC",
-  "url": "https://jobs.ashbyhq.com/cursor/164e27cd-289e-4bcd-8aaf-5280e75c5ed6/application?embed=true",
-  "category": "SWE",
-  "posted": "2026-11-10",
-  "date_posted": 1794268800,
-  "active": true,
-  "locations": [
-   "Palo Alto, CA",
-   "SF",
-   "NYC"
-  ],
-  "region": "US",
-  "degrees": [
-   "Bachelor's"
-  ],
-  "sponsorship": "Other",
-  "group": "anysphere|software engineer new grad",
   "in_feed": true,
   "reason": null
  },
@@ -8323,6 +8346,33 @@
   "reason": "closed",
   "closed_at": 1794613302,
   "last_seen": 1794613302
+ },
+ {
+  "id": "simplify:1d0612f6-6b43-47c4-9a7f-65017afa789c",
+  "first_seen": 1794314795,
+  "company": "Anysphere",
+  "title": "Software Engineer New Grad",
+  "location": "Palo Alto, CA, SF, NYC",
+  "url": "https://jobs.ashbyhq.com/cursor/164e27cd-289e-4bcd-8aaf-5280e75c5ed6/application?embed=true",
+  "category": "SWE",
+  "posted": "2026-11-10",
+  "date_posted": 1794268800,
+  "active": false,
+  "locations": [
+   "Palo Alto, CA",
+   "SF",
+   "NYC"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's"
+  ],
+  "sponsorship": "Other",
+  "group": "anysphere|software engineer new grad",
+  "in_feed": false,
+  "reason": "closed",
+  "closed_at": 1794638653,
+  "last_seen": 1794638653
  },
  {
   "id": "simplify:f9c96d74-4f89-49f5-be99-d5de96d70502",

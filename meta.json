@@ -4,28 +4,28 @@
  "repo": "Alanhsiu/jobwatch",
  "branch": "main",
  "pages_url": "https://alanhsiu.github.io/jobwatch/",
- "last_run": 1794613302,
- "last_change": 1794613302,
+ "last_run": 1794638653,
+ "last_change": 1794638653,
  "last_result": "ok",
  "feed": {
-  "records": 18790,
-  "active": 3216,
-  "fetched_at": 1794613302,
+  "records": 18795,
+  "active": 3217,
+  "fetched_at": 1794638653,
   "attempts": 1
  },
  "counts": {
-  "active": 335,
-  "closed": 351,
+  "active": 336,
+  "closed": 352,
   "untracked": 48,
   "groups": 282,
-  "companies": 55,
-  "new_this_run": 0,
+  "companies": 54,
+  "new_this_run": 2,
   "silent_known_this_run": 0,
-  "closed_this_run": 7,
+  "closed_this_run": 1,
   "untracked_this_run": 0
  },
  "rejects": {
-  "category": 141,
+  "category": 140,
   "phd": 175,
   "title": 16,
   "region": 42,
@@ -80,11 +80,9 @@
    "denied": 0
   },
   "anysphere": {
-   "active": 1,
+   "active": 0,
    "all_time": 2,
-   "names": [
-    "Anysphere"
-   ],
+   "names": [],
    "denied": 0
   },
   "apple": {
@@ -549,8 +547,8 @@
    "denied": 0
   },
   "microsoft": {
-   "active": 10,
-   "all_time": 42,
+   "active": 12,
+   "all_time": 44,
    "names": [
     "Microsoft"
    ],
@@ -1002,8 +1000,8 @@
   }
  },
  "telegram": {
-  "mode": "none",
-  "delivered": 0,
+  "mode": "sent",
+  "delivered": 2,
   "failed_chunks": 0,
   "creds": true
  },
