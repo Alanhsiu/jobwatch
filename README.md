@@ -8,7 +8,7 @@ sync between devices through this repo. No servers, no database, no cost — a p
 bot token. This repo's tracker: **[alanhsiu.github.io/jobwatch](https://alanhsiu.github.io/jobwatch/)** (a fork gets its own at `https://<owner>.github.io/<repo>/`).
 
 <!-- JOBS:HEAD:START -->
-_332 open new-grad roles at 54 companies · list last changed 2026-11-14 · scans every ~2 h_ · **[Open the tracker](https://alanhsiu.github.io/jobwatch/)** · [Full list ↓](#current-roles) · TikTok 106 · ByteDance 33 · Amazon 27 · Palantir 12 · Shield AI 12 · Apple 11 · Microsoft 10 · Anduril 9 · …
+_333 open new-grad roles at 54 companies · list last changed 2026-11-15 · scans every ~2 h_ · **[Open the tracker](https://alanhsiu.github.io/jobwatch/)** · [Full list ↓](#current-roles) · TikTok 106 · ByteDance 33 · Amazon 27 · Palantir 12 · Shield AI 12 · Apple 11 · Microsoft 10 · Anduril 9 · …
 <!-- JOBS:HEAD:END -->
 
 ## How it works
@@ -443,6 +443,16 @@ and `.nojekyll` into `docs/`, set Pages to `/docs`, and give every device a toke
 
 </details>
 <details open>
+<summary>NVIDIA (5)</summary>
+
+- [Deep Learning Framework Communications Engineer New Grad](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Deep-Learning-Framework-Communications-Engineer---New-College-Grad-2026_JR2026129-1) — United States · posted 2026-11-14 · SWE · BS/MS/PhD
+- [SoC Software Engineer New Grad](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/SoC-Software-Engineer---New-College-Graduate-2026_JR2027552-1) — Santa Clara, CA · posted 2026-10-13 · SWE · BS/MS
+- [Applied Machine Learning Engineer - AI for VLSI Design](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Applied-Machine-Learning-Engineer--AI-for-VLSI-Design---New-College-Grad-2026_JR2026576) — Santa Clara, CA · posted 2026-09-29 · ML · MS/PhD
+- [Architecture Energy Modeling Engineer - Power Modeling, Methodology and Analysis](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Architecture-Energy-Modeling-Engineer---New-College-Grad-2026_JR2023398) — Santa Clara, CA · posted 2026-08-21 · ML · MS/PhD
+- [Software Engineer New Grad - Hardware Tools and Methodology](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--Hardware-Tools-and-Methodology---New-College-Grad-2026_JR2018659) — Santa Clara, CA · posted 2026-06-03 · SWE · MS/PhD
+
+</details>
+<details open>
 <summary>SambaNova Systems (5)</summary>
 
 - [Machine Learning Engineer New Grad](https://sambanova.ai/sambanova-available-positions/?gh_jid=6240725004) — Austin, TX, San Jose, CA · posted 2026-11-03 · ML · BS/MS/PhD
@@ -496,15 +506,6 @@ and `.nojekyll` into `docs/`, set Pages to `/docs`, and give every device a toke
 - [Quantitative AI Technical Staff](https://www.citadelsecurities.com/careers/details/quantitative-ai-technical-staff/) — Miami, FL · posted 2026-07-22 · ML · BS/MS/PhD
 - [Graduate Software Engineer](https://www.citadelsecurities.com/careers/details/software-engineer-university-graduate-us/) — Miami, FL, NYC · posted 2026-07-06 · SWE · BS/MS/PhD
 - [Quantitative Trader – University Graduate](https://www.citadelsecurities.com/careers/details/quantitative-trader-university-graduate-us-miami/) · [2](https://www.citadelsecurities.com/careers/details/quantitative-trader-university-graduate-us-new-york/) — Miami, FL; NYC · posted 2026-07-06 · Quant · BS/MS/PhD
-
-</details>
-<details open>
-<summary>NVIDIA (4)</summary>
-
-- [SoC Software Engineer New Grad](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/SoC-Software-Engineer---New-College-Graduate-2026_JR2027552-1) — Santa Clara, CA · posted 2026-10-13 · SWE · BS/MS
-- [Applied Machine Learning Engineer - AI for VLSI Design](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Applied-Machine-Learning-Engineer--AI-for-VLSI-Design---New-College-Grad-2026_JR2026576) — Santa Clara, CA · posted 2026-09-29 · ML · MS/PhD
-- [Architecture Energy Modeling Engineer - Power Modeling, Methodology and Analysis](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Architecture-Energy-Modeling-Engineer---New-College-Grad-2026_JR2023398) — Santa Clara, CA · posted 2026-08-21 · ML · MS/PhD
-- [Software Engineer New Grad - Hardware Tools and Methodology](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--Hardware-Tools-and-Methodology---New-College-Grad-2026_JR2018659) — Santa Clara, CA · posted 2026-06-03 · SWE · MS/PhD
 
 </details>
 <details open>
