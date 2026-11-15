@@ -274,56 +274,6 @@
   "reason": null
  },
  {
-  "id": "simplify:735965af-ac15-473a-a2ef-8a15ab46f590",
-  "first_seen": 1794477423,
-  "company": "Shield AI",
-  "title": "Engineer 2 New Grad - Software - Perception",
-  "location": "United States",
-  "url": "https://jobs.ashbyhq.com/shield/2aa92f37-7e2f-4c12-9f2c-1316e1a743a7/application?embed=true",
-  "category": "SWE",
-  "posted": "2026-11-11",
-  "date_posted": 1794355200,
-  "active": true,
-  "locations": [
-   "United States"
-  ],
-  "region": "US",
-  "degrees": [
-   "Bachelor's",
-   "Master's",
-   "PhD"
-  ],
-  "sponsorship": "Other",
-  "group": "shield ai|engineer 2 new grad software perception",
-  "in_feed": true,
-  "reason": null
- },
- {
-  "id": "simplify:8317de49-cf07-44e3-9ff1-0de4a824662a",
-  "first_seen": 1794477423,
-  "company": "Shield AI",
-  "title": "Engineer 2 New Grad - Software - Perception",
-  "location": "United States",
-  "url": "https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/2aa92f37-7e2f-4c12-9f2c-1316e1a743a7/application?embed=true",
-  "category": "SWE",
-  "posted": "2026-11-11",
-  "date_posted": 1794355200,
-  "active": true,
-  "locations": [
-   "United States"
-  ],
-  "region": "US",
-  "degrees": [
-   "Bachelor's",
-   "Master's",
-   "PhD"
-  ],
-  "sponsorship": "Other",
-  "group": "shield ai|engineer 2 new grad software perception",
-  "in_feed": true,
-  "reason": null
- },
- {
   "id": "simplify:0120e440-b745-4397-ba25-12ed4f87430c",
   "first_seen": 1794362350,
   "company": "Salesforce",
@@ -522,56 +472,6 @@
   ],
   "sponsorship": "Other",
   "group": "shield ai|engineer 2 new grad multiple teams",
-  "in_feed": true,
-  "reason": null
- },
- {
-  "id": "simplify:b66fea62-a88a-49b8-b4b3-8a1e383f3a74",
-  "first_seen": 1794389746,
-  "company": "Shield AI",
-  "title": "Software Engineer 1 New Grad - Software - Autonomy Capabilities",
-  "location": "United States",
-  "url": "https://jobs.ashbyhq.com/shield/955d48ad-9380-4621-91f4-51f3f093ac10/application?embed=true",
-  "category": "SWE",
-  "posted": "2026-11-08",
-  "date_posted": 1794096000,
-  "active": true,
-  "locations": [
-   "United States"
-  ],
-  "region": "US",
-  "degrees": [
-   "Bachelor's",
-   "Master's",
-   "PhD"
-  ],
-  "sponsorship": "Other",
-  "group": "shield ai|software engineer 1 new grad software autonomy capabilities",
-  "in_feed": true,
-  "reason": null
- },
- {
-  "id": "simplify:cb9057c1-ead7-42d2-8535-e6ee376a8005",
-  "first_seen": 1794188766,
-  "company": "Shield AI",
-  "title": "Software Engineer 1 New Grad - Software - Autonomy Capabilities",
-  "location": "United States",
-  "url": "https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/955d48ad-9380-4621-91f4-51f3f093ac10/application?embed=true",
-  "category": "SWE",
-  "posted": "2026-11-08",
-  "date_posted": 1794096000,
-  "active": true,
-  "locations": [
-   "United States"
-  ],
-  "region": "US",
-  "degrees": [
-   "Bachelor's",
-   "Master's",
-   "PhD"
-  ],
-  "sponsorship": "Other",
-  "group": "shield ai|software engineer 1 new grad software autonomy capabilities",
   "in_feed": true,
   "reason": null
  },
@@ -8329,6 +8229,60 @@
   "last_seen": 1794613302
  },
  {
+  "id": "simplify:735965af-ac15-473a-a2ef-8a15ab46f590",
+  "first_seen": 1794477423,
+  "company": "Shield AI",
+  "title": "Engineer 2 New Grad - Software - Perception",
+  "location": "United States",
+  "url": "https://jobs.ashbyhq.com/shield/2aa92f37-7e2f-4c12-9f2c-1316e1a743a7/application?embed=true",
+  "category": "SWE",
+  "posted": "2026-11-11",
+  "date_posted": 1794355200,
+  "active": false,
+  "locations": [
+   "United States"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's",
+   "PhD"
+  ],
+  "sponsorship": "Other",
+  "group": "shield ai|engineer 2 new grad software perception",
+  "in_feed": false,
+  "reason": "closed",
+  "closed_at": 1794762967,
+  "last_seen": 1794762967
+ },
+ {
+  "id": "simplify:8317de49-cf07-44e3-9ff1-0de4a824662a",
+  "first_seen": 1794477423,
+  "company": "Shield AI",
+  "title": "Engineer 2 New Grad - Software - Perception",
+  "location": "United States",
+  "url": "https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/2aa92f37-7e2f-4c12-9f2c-1316e1a743a7/application?embed=true",
+  "category": "SWE",
+  "posted": "2026-11-11",
+  "date_posted": 1794355200,
+  "active": false,
+  "locations": [
+   "United States"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's",
+   "PhD"
+  ],
+  "sponsorship": "Other",
+  "group": "shield ai|engineer 2 new grad software perception",
+  "in_feed": false,
+  "reason": "closed",
+  "closed_at": 1794762967,
+  "last_seen": 1794762967
+ },
+ {
   "id": "simplify:1d0612f6-6b43-47c4-9a7f-65017afa789c",
   "first_seen": 1794314795,
   "company": "Anysphere",
@@ -8460,6 +8414,60 @@
   "reason": "closed",
   "closed_at": 1794613302,
   "last_seen": 1794613302
+ },
+ {
+  "id": "simplify:b66fea62-a88a-49b8-b4b3-8a1e383f3a74",
+  "first_seen": 1794389746,
+  "company": "Shield AI",
+  "title": "Software Engineer 1 New Grad - Software - Autonomy Capabilities",
+  "location": "United States",
+  "url": "https://jobs.ashbyhq.com/shield/955d48ad-9380-4621-91f4-51f3f093ac10/application?embed=true",
+  "category": "SWE",
+  "posted": "2026-11-08",
+  "date_posted": 1794096000,
+  "active": false,
+  "locations": [
+   "United States"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's",
+   "PhD"
+  ],
+  "sponsorship": "Other",
+  "group": "shield ai|software engineer 1 new grad software autonomy capabilities",
+  "in_feed": false,
+  "reason": "closed",
+  "closed_at": 1794762967,
+  "last_seen": 1794762967
+ },
+ {
+  "id": "simplify:cb9057c1-ead7-42d2-8535-e6ee376a8005",
+  "first_seen": 1794188766,
+  "company": "Shield AI",
+  "title": "Software Engineer 1 New Grad - Software - Autonomy Capabilities",
+  "location": "United States",
+  "url": "https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/955d48ad-9380-4621-91f4-51f3f093ac10/application?embed=true",
+  "category": "SWE",
+  "posted": "2026-11-08",
+  "date_posted": 1794096000,
+  "active": false,
+  "locations": [
+   "United States"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's",
+   "PhD"
+  ],
+  "sponsorship": "Other",
+  "group": "shield ai|software engineer 1 new grad software autonomy capabilities",
+  "in_feed": false,
+  "reason": "closed",
+  "closed_at": 1794762967,
+  "last_seen": 1794762967
  },
  {
   "id": "simplify:ae0259f6-a081-4a42-8a14-c855b03e92f6",
