@@ -2639,6 +2639,31 @@
   "reason": null
  },
  {
+  "id": "simplify:3f12b8ac-a406-4397-9458-ea07e6d144b3",
+  "first_seen": 1794811734,
+  "company": "Stripe",
+  "title": "Product Manager New Grad",
+  "location": "Seattle, WA, SF, NYC",
+  "url": "https://stripe.com/jobs/search?gh_jid=7737124",
+  "category": "SWE",
+  "posted": "2026-09-16",
+  "date_posted": 1789522300,
+  "active": true,
+  "locations": [
+   "Seattle, WA",
+   "SF",
+   "NYC"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's"
+  ],
+  "sponsorship": "Other",
+  "group": "stripe|product manager new grad",
+  "in_feed": true,
+  "reason": null
+ },
+ {
   "id": "simplify:0af222fe-d297-4bd0-b4d2-f9bdfb0708ac",
   "first_seen": 1793177023,
   "company": "Old Mission",

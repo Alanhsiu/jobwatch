@@ -8,7 +8,7 @@ sync between devices through this repo. No servers, no database, no cost — a p
 bot token. This repo's tracker: **[alanhsiu.github.io/jobwatch](https://alanhsiu.github.io/jobwatch/)** (a fork gets its own at `https://<owner>.github.io/<repo>/`).
 
 <!-- JOBS:HEAD:START -->
-_329 open new-grad roles at 54 companies · list last changed 2026-11-15 · scans every ~2 h_ · **[Open the tracker](https://alanhsiu.github.io/jobwatch/)** · [Full list ↓](#current-roles) · TikTok 106 · ByteDance 33 · Amazon 27 · Palantir 12 · Apple 11 · Microsoft 10 · Anduril 9 · Shield AI 8 · …
+_330 open new-grad roles at 54 companies · list last changed 2026-11-16 · scans every ~2 h_ · **[Open the tracker](https://alanhsiu.github.io/jobwatch/)** · [Full list ↓](#current-roles) · TikTok 106 · ByteDance 33 · Amazon 27 · Palantir 12 · Apple 11 · Microsoft 10 · Anduril 9 · Shield AI 8 · …
 <!-- JOBS:HEAD:END -->
 
 ## How it works
@@ -570,6 +570,14 @@ and `.nojekyll` into `docs/`, set Pages to `/docs`, and give every device a toke
 
 </details>
 <details open>
+<summary>Stripe (3)</summary>
+
+- [Software Engineer - Early Career - Immediate Start](https://stripe.com/jobs/search?gh_jid=8212508) — Seattle, WA, SF, NYC · posted 2026-09-18 · SWE · BS/MS
+- [Product Manager New Grad](https://stripe.com/jobs/search?gh_jid=7737124) — Seattle, WA, SF, NYC · posted 2026-09-16 · SWE · BS
+- [Software Engineer New Grad](https://stripe.com/jobs/search?gh_jid=8128744) — Seattle, WA, SF, NYC · posted 2026-09-01 · SWE · BS/MS
+
+</details>
+<details open>
 <summary>Chicago Trading Company (2)</summary>
 
 - [Associate Engineer](https://job-boards.greenhouse.io/chicagotradingcampus/jobs/4716937005) · [2](https://job-boards.greenhouse.io/ctccampusboard/jobs/4709991005) — Chicago, IL, NYC · posted 2026-08-03 · SWE · BS/MS
@@ -642,13 +650,6 @@ and `.nojekyll` into `docs/`, set Pages to `/docs`, and give every device a toke
 
 - [Software Engineer - Agent Eval Platform](https://jobs.smartrecruiters.com/ServiceNow/744000159509479) — Mountain View, CA · posted 2026-11-03 · SWE
 - [Associate Software Engineer](https://jobs.smartrecruiters.com/ServiceNow/744000157571919) — Santa Clara, CA · posted 2026-10-23 · SWE
-
-</details>
-<details open>
-<summary>Stripe (2)</summary>
-
-- [Software Engineer - Early Career - Immediate Start](https://stripe.com/jobs/search?gh_jid=8212508) — Seattle, WA, SF, NYC · posted 2026-09-18 · SWE · BS/MS
-- [Software Engineer New Grad](https://stripe.com/jobs/search?gh_jid=8128744) — Seattle, WA, SF, NYC · posted 2026-09-01 · SWE · BS/MS
 
 </details>
 <details open>
