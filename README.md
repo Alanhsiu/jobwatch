@@ -8,7 +8,7 @@ sync between devices through this repo. No servers, no database, no cost — a p
 bot token. This repo's tracker: **[alanhsiu.github.io/jobwatch](https://alanhsiu.github.io/jobwatch/)** (a fork gets its own at `https://<owner>.github.io/<repo>/`).
 
 <!-- JOBS:HEAD:START -->
-_331 open new-grad roles at 52 companies · list last changed 2026-11-17 · scans every ~2 h_ · **[Open the tracker](https://alanhsiu.github.io/jobwatch/)** · [Full list ↓](#current-roles) · TikTok 106 · ByteDance 33 · Amazon 27 · Palantir 12 · Shield AI 12 · Apple 11 · Microsoft 11 · Anduril 9 · …
+_330 open new-grad roles at 52 companies · list last changed 2026-11-17 · scans every ~2 h_ · **[Open the tracker](https://alanhsiu.github.io/jobwatch/)** · [Full list ↓](#current-roles) · TikTok 105 · ByteDance 33 · Amazon 27 · Palantir 12 · Shield AI 12 · Apple 11 · Microsoft 11 · Anduril 9 · …
 <!-- JOBS:HEAD:END -->
 
 ## How it works
@@ -205,7 +205,7 @@ and `.nojekyll` into `docs/`, set Pages to `/docs`, and give every device a toke
 ## Current roles
 <!-- JOBS:START -->
 <details>
-<summary>TikTok (106)</summary>
+<summary>TikTok (105)</summary>
 
 - [Research Engineer - Agentic Video Editing](https://lifeattiktok.com/search/7704036750285867269) — San Jose, CA · posted 2026-11-06 · SWE · BS/MS
 - [Software Engineer Graduate - Data Ecosystem - 2027 Start](https://lifeattiktok.com/search/7685769994391832837) — San Jose, CA · posted 2026-10-14 · SWE · BS/MS
@@ -252,7 +252,6 @@ and `.nojekyll` into `docs/`, set Pages to `/docs`, and give every device a toke
 - [AI Engineer Graduate - Client Architecture - 2027 Start](https://lifeattiktok.com/search/7664978367107713333) — San Jose, CA · posted 2026-08-04 · ML · BS
 - [Frontend Software Engineer Graduate - Global E-commerce](https://lifeattiktok.com/search/7668828193675036981) — Seattle, WA · posted 2026-08-04 · SWE · BS
 - [Data Engineer Graduate - Monetization Data](https://lifeattiktok.com/search/7668550561096665397) — San Jose, CA · posted 2026-08-04 · ML · BS/MS
-- [Backend Engineer Graduate - User Growth](https://lifeattiktok.com/search/7665986019233958197) — San Jose, CA · posted 2026-08-04 · SWE · BS
 - [Backend Software Engineer Graduate - Global E-commerce](https://lifeattiktok.com/search/7668827379083823413) · [2](https://lifeattiktok.com/search/7668824169648097541) — Seattle, WA; San Jose, CA · posted 2026-08-04 · SWE · BS
 - [Graduate Software Engineer](https://lifeattiktok.com/search/7668566347702569269) — San Jose, CA · posted 2026-08-04 · SWE · BS/MS
 - [Machine Learning Engineer Graduate - Commerce Ads - 2027 Start](https://lifeattiktok.com/search/7669711968024430853) — San Jose, CA · posted 2026-08-04 · ML · BS
