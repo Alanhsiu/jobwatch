@@ -1,5 +1,29 @@
 [
  {
+  "id": "simplify:542753ed-5d89-4aa7-855f-a20530ae5084",
+  "first_seen": 1794922692,
+  "company": "Microsoft",
+  "title": "Software Engineer Agentic Security",
+  "location": "Redmond, WA",
+  "url": "https://apply.careers.microsoft.com/careers/job/1970393557074643",
+  "category": "SWE",
+  "posted": "2026-11-17",
+  "date_posted": 1794883795,
+  "active": true,
+  "locations": [
+   "Redmond, WA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "microsoft|software engineer agentic security",
+  "in_feed": true,
+  "reason": null
+ },
+ {
   "id": "simplify:e225362a-3608-44aa-ae93-8c06b023ccd7",
   "first_seen": 1794884347,
   "company": "Microsoft",
@@ -299,6 +323,58 @@
   "reason": null
  },
  {
+  "id": "simplify:735965af-ac15-473a-a2ef-8a15ab46f590",
+  "first_seen": 1794477423,
+  "company": "Shield AI",
+  "title": "Engineer 2 New Grad - Software - Perception",
+  "location": "United States",
+  "url": "https://jobs.ashbyhq.com/shield/2aa92f37-7e2f-4c12-9f2c-1316e1a743a7/application?embed=true",
+  "category": "SWE",
+  "posted": "2026-11-11",
+  "date_posted": 1794355200,
+  "active": true,
+  "locations": [
+   "United States"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's",
+   "PhD"
+  ],
+  "sponsorship": "Other",
+  "group": "shield ai|engineer 2 new grad software perception",
+  "in_feed": true,
+  "reason": null,
+  "last_seen": 1794762967
+ },
+ {
+  "id": "simplify:8317de49-cf07-44e3-9ff1-0de4a824662a",
+  "first_seen": 1794477423,
+  "company": "Shield AI",
+  "title": "Engineer 2 New Grad - Software - Perception",
+  "location": "United States",
+  "url": "https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/2aa92f37-7e2f-4c12-9f2c-1316e1a743a7/application?embed=true",
+  "category": "SWE",
+  "posted": "2026-11-11",
+  "date_posted": 1794355200,
+  "active": true,
+  "locations": [
+   "United States"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's",
+   "PhD"
+  ],
+  "sponsorship": "Other",
+  "group": "shield ai|engineer 2 new grad software perception",
+  "in_feed": true,
+  "reason": null,
+  "last_seen": 1794762967
+ },
+ {
   "id": "simplify:0120e440-b745-4397-ba25-12ed4f87430c",
   "first_seen": 1794362350,
   "company": "Salesforce",
@@ -353,15 +429,15 @@
   "last_seen": 1794444664
  },
  {
-  "id": "simplify:4d117eb5-e4cd-4625-bc89-63338bb2dd70",
+  "id": "simplify:f8dff735-83eb-4c12-bafc-e9568cf30001",
   "first_seen": 1794283899,
   "company": "Microsoft",
-  "title": "Software Engineering",
+  "title": "Software Engineer",
   "location": "Redmond, WA",
-  "url": "https://apply.careers.microsoft.com/careers/job/1970393557039397",
+  "url": "https://apply.careers.microsoft.com/careers/job/1970393557053863",
   "category": "SWE",
   "posted": "2026-11-09",
-  "date_posted": 1794267493,
+  "date_posted": 1794267495,
   "active": true,
   "locations": [
    "Redmond, WA"
@@ -372,9 +448,10 @@
    "Master's"
   ],
   "sponsorship": "Other",
-  "group": "microsoft|software engineering",
+  "group": "microsoft|software engineer",
   "in_feed": true,
-  "reason": null
+  "reason": null,
+  "last_seen": 1794669102
  },
  {
   "id": "simplify:3dbb6972-d6ac-421f-a585-0e73f702f92a",
@@ -499,6 +576,58 @@
   "group": "shield ai|engineer 2 new grad multiple teams",
   "in_feed": true,
   "reason": null
+ },
+ {
+  "id": "simplify:b66fea62-a88a-49b8-b4b3-8a1e383f3a74",
+  "first_seen": 1794389746,
+  "company": "Shield AI",
+  "title": "Software Engineer 1 New Grad - Software - Autonomy Capabilities",
+  "location": "United States",
+  "url": "https://jobs.ashbyhq.com/shield/955d48ad-9380-4621-91f4-51f3f093ac10/application?embed=true",
+  "category": "SWE",
+  "posted": "2026-11-08",
+  "date_posted": 1794096000,
+  "active": true,
+  "locations": [
+   "United States"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's",
+   "PhD"
+  ],
+  "sponsorship": "Other",
+  "group": "shield ai|software engineer 1 new grad software autonomy capabilities",
+  "in_feed": true,
+  "reason": null,
+  "last_seen": 1794762967
+ },
+ {
+  "id": "simplify:cb9057c1-ead7-42d2-8535-e6ee376a8005",
+  "first_seen": 1794188766,
+  "company": "Shield AI",
+  "title": "Software Engineer 1 New Grad - Software - Autonomy Capabilities",
+  "location": "United States",
+  "url": "https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/955d48ad-9380-4621-91f4-51f3f093ac10/application?embed=true",
+  "category": "SWE",
+  "posted": "2026-11-08",
+  "date_posted": 1794096000,
+  "active": true,
+  "locations": [
+   "United States"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's",
+   "PhD"
+  ],
+  "sponsorship": "Other",
+  "group": "shield ai|software engineer 1 new grad software autonomy capabilities",
+  "in_feed": true,
+  "reason": null,
+  "last_seen": 1794762967
  },
  {
   "id": "simplify:72f871b3-7dc6-4dd8-9772-c6e0268eb857",
@@ -2017,31 +2146,6 @@
   "last_seen": 1792867864
  },
  {
-  "id": "simplify:867c063f-636d-4f77-bf08-decee4955762",
-  "first_seen": 1790985089,
-  "company": "Harvey",
-  "title": "Software Engineer New Grad",
-  "location": "SF",
-  "url": "https://jobs.ashbyhq.com/harvey/b0996df6-6b6e-42be-a4f9-0084536068f5/application?embed=true",
-  "category": "SWE",
-  "posted": "2026-10-02",
-  "date_posted": 1790979923,
-  "active": true,
-  "locations": [
-   "SF"
-  ],
-  "region": "US",
-  "degrees": [
-   "Bachelor's",
-   "Master's"
-  ],
-  "sponsorship": "Other",
-  "group": "harvey|software engineer new grad",
-  "in_feed": true,
-  "reason": null,
-  "last_seen": 1793734701
- },
- {
   "id": "simplify:169846aa-cf8c-463a-9721-b9826b79a129",
   "first_seen": 1790945452,
   "company": "Amazon",
@@ -2755,31 +2859,6 @@
   "group": "atlassian|software engineer",
   "in_feed": true,
   "reason": null
- },
- {
-  "id": "simplify:b4e7a187-9537-4e72-8b27-c8d54faf0118",
-  "first_seen": 1791127536,
-  "company": "Microsoft",
-  "title": "Software Engineering - Commercial Engineering & AI - Ceai",
-  "location": "Redmond, WA",
-  "url": "https://apply.careers.microsoft.com/careers/job/1970393556914839",
-  "category": "SWE",
-  "posted": "2026-09-14",
-  "date_posted": 1789425238,
-  "active": true,
-  "locations": [
-   "Redmond, WA"
-  ],
-  "region": "US",
-  "degrees": [
-   "Bachelor's",
-   "Master's"
-  ],
-  "sponsorship": "Other",
-  "group": "microsoft|software engineering commercial engineering ai ceai",
-  "in_feed": true,
-  "reason": null,
-  "last_seen": 1794069087
  },
  {
   "id": "simplify:02ca659d-9ee1-4e08-a05b-2ddce897fa74",
@@ -8202,60 +8281,6 @@
   "last_seen": 1794613302
  },
  {
-  "id": "simplify:735965af-ac15-473a-a2ef-8a15ab46f590",
-  "first_seen": 1794477423,
-  "company": "Shield AI",
-  "title": "Engineer 2 New Grad - Software - Perception",
-  "location": "United States",
-  "url": "https://jobs.ashbyhq.com/shield/2aa92f37-7e2f-4c12-9f2c-1316e1a743a7/application?embed=true",
-  "category": "SWE",
-  "posted": "2026-11-11",
-  "date_posted": 1794355200,
-  "active": false,
-  "locations": [
-   "United States"
-  ],
-  "region": "US",
-  "degrees": [
-   "Bachelor's",
-   "Master's",
-   "PhD"
-  ],
-  "sponsorship": "Other",
-  "group": "shield ai|engineer 2 new grad software perception",
-  "in_feed": false,
-  "reason": "closed",
-  "closed_at": 1794762967,
-  "last_seen": 1794762967
- },
- {
-  "id": "simplify:8317de49-cf07-44e3-9ff1-0de4a824662a",
-  "first_seen": 1794477423,
-  "company": "Shield AI",
-  "title": "Engineer 2 New Grad - Software - Perception",
-  "location": "United States",
-  "url": "https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/2aa92f37-7e2f-4c12-9f2c-1316e1a743a7/application?embed=true",
-  "category": "SWE",
-  "posted": "2026-11-11",
-  "date_posted": 1794355200,
-  "active": false,
-  "locations": [
-   "United States"
-  ],
-  "region": "US",
-  "degrees": [
-   "Bachelor's",
-   "Master's",
-   "PhD"
-  ],
-  "sponsorship": "Other",
-  "group": "shield ai|engineer 2 new grad software perception",
-  "in_feed": false,
-  "reason": "closed",
-  "closed_at": 1794762967,
-  "last_seen": 1794762967
- },
- {
   "id": "simplify:1d0612f6-6b43-47c4-9a7f-65017afa789c",
   "first_seen": 1794314795,
   "company": "Anysphere",
@@ -8283,15 +8308,15 @@
   "last_seen": 1794638653
  },
  {
-  "id": "simplify:f8dff735-83eb-4c12-bafc-e9568cf30001",
+  "id": "simplify:4d117eb5-e4cd-4625-bc89-63338bb2dd70",
   "first_seen": 1794283899,
   "company": "Microsoft",
-  "title": "Software Engineer",
+  "title": "Software Engineering",
   "location": "Redmond, WA",
-  "url": "https://apply.careers.microsoft.com/careers/job/1970393557053863",
+  "url": "https://apply.careers.microsoft.com/careers/job/1970393557039397",
   "category": "SWE",
   "posted": "2026-11-09",
-  "date_posted": 1794267495,
+  "date_posted": 1794267493,
   "active": false,
   "locations": [
    "Redmond, WA"
@@ -8302,11 +8327,11 @@
    "Master's"
   ],
   "sponsorship": "Other",
-  "group": "microsoft|software engineer",
+  "group": "microsoft|software engineering",
   "in_feed": false,
   "reason": "closed",
-  "closed_at": 1794669102,
-  "last_seen": 1794669102
+  "closed_at": 1794922692,
+  "last_seen": 1794922692
  },
  {
   "id": "simplify:f9c96d74-4f89-49f5-be99-d5de96d70502",
@@ -8387,60 +8412,6 @@
   "reason": "closed",
   "closed_at": 1794613302,
   "last_seen": 1794613302
- },
- {
-  "id": "simplify:b66fea62-a88a-49b8-b4b3-8a1e383f3a74",
-  "first_seen": 1794389746,
-  "company": "Shield AI",
-  "title": "Software Engineer 1 New Grad - Software - Autonomy Capabilities",
-  "location": "United States",
-  "url": "https://jobs.ashbyhq.com/shield/955d48ad-9380-4621-91f4-51f3f093ac10/application?embed=true",
-  "category": "SWE",
-  "posted": "2026-11-08",
-  "date_posted": 1794096000,
-  "active": false,
-  "locations": [
-   "United States"
-  ],
-  "region": "US",
-  "degrees": [
-   "Bachelor's",
-   "Master's",
-   "PhD"
-  ],
-  "sponsorship": "Other",
-  "group": "shield ai|software engineer 1 new grad software autonomy capabilities",
-  "in_feed": false,
-  "reason": "closed",
-  "closed_at": 1794762967,
-  "last_seen": 1794762967
- },
- {
-  "id": "simplify:cb9057c1-ead7-42d2-8535-e6ee376a8005",
-  "first_seen": 1794188766,
-  "company": "Shield AI",
-  "title": "Software Engineer 1 New Grad - Software - Autonomy Capabilities",
-  "location": "United States",
-  "url": "https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/955d48ad-9380-4621-91f4-51f3f093ac10/application?embed=true",
-  "category": "SWE",
-  "posted": "2026-11-08",
-  "date_posted": 1794096000,
-  "active": false,
-  "locations": [
-   "United States"
-  ],
-  "region": "US",
-  "degrees": [
-   "Bachelor's",
-   "Master's",
-   "PhD"
-  ],
-  "sponsorship": "Other",
-  "group": "shield ai|software engineer 1 new grad software autonomy capabilities",
-  "in_feed": false,
-  "reason": "closed",
-  "closed_at": 1794762967,
-  "last_seen": 1794762967
  },
  {
   "id": "simplify:ae0259f6-a081-4a42-8a14-c855b03e92f6",
@@ -10171,6 +10142,32 @@
   "last_seen": 1791940614
  },
  {
+  "id": "simplify:867c063f-636d-4f77-bf08-decee4955762",
+  "first_seen": 1790985089,
+  "company": "Harvey",
+  "title": "Software Engineer New Grad",
+  "location": "SF",
+  "url": "https://jobs.ashbyhq.com/harvey/b0996df6-6b6e-42be-a4f9-0084536068f5/application?embed=true",
+  "category": "SWE",
+  "posted": "2026-10-02",
+  "date_posted": 1790979923,
+  "active": false,
+  "locations": [
+   "SF"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "harvey|software engineer new grad",
+  "in_feed": false,
+  "reason": "closed",
+  "last_seen": 1794922692,
+  "closed_at": 1794922692
+ },
+ {
   "id": "simplify:5993eb6e-3414-429f-86b9-dd467b9ddd1d",
   "first_seen": 1790985089,
   "company": "Harvey",
@@ -10792,6 +10789,32 @@
   "reason": "closed",
   "closed_at": 1790149819,
   "last_seen": 1790149819
+ },
+ {
+  "id": "simplify:b4e7a187-9537-4e72-8b27-c8d54faf0118",
+  "first_seen": 1791127536,
+  "company": "Microsoft",
+  "title": "Software Engineering - Commercial Engineering & AI - Ceai",
+  "location": "Redmond, WA",
+  "url": "https://apply.careers.microsoft.com/careers/job/1970393556914839",
+  "category": "SWE",
+  "posted": "2026-09-14",
+  "date_posted": 1789425238,
+  "active": false,
+  "locations": [
+   "Redmond, WA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "microsoft|software engineering commercial engineering ai ceai",
+  "in_feed": false,
+  "reason": "closed",
+  "last_seen": 1794922692,
+  "closed_at": 1794922692
  },
  {
   "id": "simplify:a5015239-b0f5-4194-ba7b-fc8c2eac8c28",
