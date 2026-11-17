@@ -1,5 +1,30 @@
 [
  {
+  "id": "simplify:e225362a-3608-44aa-ae93-8c06b023ccd7",
+  "first_seen": 1794884347,
+  "company": "Microsoft",
+  "title": "Software Engineer",
+  "location": "Remote in USA, United States",
+  "url": "https://apply.careers.microsoft.com/careers/job/1970393557074534",
+  "category": "SWE",
+  "posted": "2026-11-16",
+  "date_posted": 1794871653,
+  "active": true,
+  "locations": [
+   "Remote in USA",
+   "United States"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "microsoft|software engineer",
+  "in_feed": true,
+  "reason": null
+ },
+ {
   "id": "simplify:970abbb2-7906-4686-914b-09bd6d622dd5",
   "first_seen": 1794638653,
   "company": "Microsoft",
@@ -1967,31 +1992,6 @@
   "reason": null
  },
  {
-  "id": "simplify:52003851-c92f-4b80-85d1-0cfbfde820cd",
-  "first_seen": 1791299864,
-  "company": "Fireworks AI",
-  "title": "Member of Technical Staff New Grad",
-  "location": "San Mateo, CA, NYC",
-  "url": "https://jobs.ashbyhq.com/fireworks/0c78aede-7c21-4d1e-88f1-f309deb9819e/application?embed=true",
-  "category": "SWE",
-  "posted": "2026-10-06",
-  "date_posted": 1791267827,
-  "active": true,
-  "locations": [
-   "San Mateo, CA",
-   "NYC"
-  ],
-  "region": "US",
-  "degrees": [
-   "Bachelor's",
-   "Master's"
-  ],
-  "sponsorship": "Other",
-  "group": "fireworks ai|member of technical staff new grad",
-  "in_feed": true,
-  "reason": null
- },
- {
   "id": "simplify:eba32eeb-b7a1-4b27-b3c2-1fdaa04d3bd9",
   "first_seen": 1791240347,
   "company": "Atlassian",
@@ -2029,32 +2029,6 @@
   "active": true,
   "locations": [
    "SF"
-  ],
-  "region": "US",
-  "degrees": [
-   "Bachelor's",
-   "Master's"
-  ],
-  "sponsorship": "Other",
-  "group": "harvey|software engineer new grad",
-  "in_feed": true,
-  "reason": null,
-  "last_seen": 1793734701
- },
- {
-  "id": "simplify:5993eb6e-3414-429f-86b9-dd467b9ddd1d",
-  "first_seen": 1790985089,
-  "company": "Harvey",
-  "title": "Software Engineer New Grad",
-  "location": "SF, NYC",
-  "url": "https://jobs.ashbyhq.com/harvey/4d8dc9ba-eb86-4d88-af7d-65d2fdaf3fdc/application?embed=true",
-  "category": "SWE",
-  "posted": "2026-10-02",
-  "date_posted": 1790979915,
-  "active": true,
-  "locations": [
-   "SF",
-   "NYC"
   ],
   "region": "US",
   "degrees": [
@@ -7163,32 +7137,6 @@
   "reason": null
  },
  {
-  "id": "simplify:bdc4dc00-1451-4635-9061-5f99a7bb9c42",
-  "company": "DRW",
-  "title": "Software Developer",
-  "location": "Chicago, IL",
-  "url": "https://job-boards.greenhouse.io/drweng/jobs/7980165",
-  "category": "SWE",
-  "posted": "2026-07-13",
-  "date_posted": 1783980958,
-  "active": true,
-  "first_seen": 1784014543.6740808,
-  "last_seen": 1789521191.4314806,
-  "locations": [
-   "Chicago, IL"
-  ],
-  "region": "US",
-  "degrees": [
-   "Bachelor's",
-   "Master's",
-   "PhD"
-  ],
-  "sponsorship": "Other",
-  "group": "drw|software developer",
-  "in_feed": true,
-  "reason": null
- },
- {
   "id": "simplify:f23af277-4d3f-4466-bf58-2551a4eff09a",
   "company": "DRW",
   "title": "Quantitative Researcher",
@@ -10170,6 +10118,33 @@
   "last_seen": 1791489581
  },
  {
+  "id": "simplify:52003851-c92f-4b80-85d1-0cfbfde820cd",
+  "first_seen": 1791299864,
+  "company": "Fireworks AI",
+  "title": "Member of Technical Staff New Grad",
+  "location": "San Mateo, CA, NYC",
+  "url": "https://jobs.ashbyhq.com/fireworks/0c78aede-7c21-4d1e-88f1-f309deb9819e/application?embed=true",
+  "category": "SWE",
+  "posted": "2026-10-06",
+  "date_posted": 1791267827,
+  "active": false,
+  "locations": [
+   "San Mateo, CA",
+   "NYC"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "fireworks ai|member of technical staff new grad",
+  "in_feed": false,
+  "reason": "closed",
+  "closed_at": 1794884347,
+  "last_seen": 1794884347
+ },
+ {
   "id": "simplify:be3d4ee8-4dc8-4c20-bae9-49826174e869",
   "first_seen": 1791394067,
   "company": "NVIDIA",
@@ -10194,6 +10169,33 @@
   "reason": "closed",
   "closed_at": 1791940614,
   "last_seen": 1791940614
+ },
+ {
+  "id": "simplify:5993eb6e-3414-429f-86b9-dd467b9ddd1d",
+  "first_seen": 1790985089,
+  "company": "Harvey",
+  "title": "Software Engineer New Grad",
+  "location": "SF, NYC",
+  "url": "https://jobs.ashbyhq.com/harvey/4d8dc9ba-eb86-4d88-af7d-65d2fdaf3fdc/application?embed=true",
+  "category": "SWE",
+  "posted": "2026-10-02",
+  "date_posted": 1790979915,
+  "active": false,
+  "locations": [
+   "SF",
+   "NYC"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "harvey|software engineer new grad",
+  "in_feed": false,
+  "reason": "closed",
+  "last_seen": 1794884347,
+  "closed_at": 1794884347
  },
  {
   "id": "simplify:0523ccf9-780c-4410-bcbb-60c3ebfa059b",
@@ -15017,6 +15019,33 @@
   "in_feed": false,
   "reason": "closed",
   "closed_at": 1792961905
+ },
+ {
+  "id": "simplify:bdc4dc00-1451-4635-9061-5f99a7bb9c42",
+  "company": "DRW",
+  "title": "Software Developer",
+  "location": "Chicago, IL",
+  "url": "https://job-boards.greenhouse.io/drweng/jobs/7980165",
+  "category": "SWE",
+  "posted": "2026-07-13",
+  "date_posted": 1783980958,
+  "active": false,
+  "first_seen": 1784014543.6740808,
+  "last_seen": 1794884347,
+  "locations": [
+   "Chicago, IL"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's",
+   "PhD"
+  ],
+  "sponsorship": "Other",
+  "group": "drw|software developer",
+  "in_feed": false,
+  "reason": "closed",
+  "closed_at": 1794884347
  },
  {
   "id": "simplify:914a3b9a-ec4f-4ff5-8714-fd060a543f01",

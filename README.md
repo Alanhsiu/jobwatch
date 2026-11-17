@@ -8,7 +8,7 @@ sync between devices through this repo. No servers, no database, no cost — a p
 bot token. This repo's tracker: **[alanhsiu.github.io/jobwatch](https://alanhsiu.github.io/jobwatch/)** (a fork gets its own at `https://<owner>.github.io/<repo>/`).
 
 <!-- JOBS:HEAD:START -->
-_330 open new-grad roles at 54 companies · list last changed 2026-11-16 · scans every ~2 h_ · **[Open the tracker](https://alanhsiu.github.io/jobwatch/)** · [Full list ↓](#current-roles) · TikTok 106 · ByteDance 33 · Amazon 27 · Palantir 12 · Apple 11 · Microsoft 10 · Anduril 9 · Shield AI 8 · …
+_328 open new-grad roles at 53 companies · list last changed 2026-11-17 · scans every ~2 h_ · **[Open the tracker](https://alanhsiu.github.io/jobwatch/)** · [Full list ↓](#current-roles) · TikTok 106 · ByteDance 33 · Amazon 27 · Palantir 12 · Apple 11 · Microsoft 11 · Anduril 9 · Shield AI 8 · …
 <!-- JOBS:HEAD:END -->
 
 ## How it works
@@ -388,10 +388,10 @@ and `.nojekyll` into `docs/`, set Pages to `/docs`, and give every device a toke
 
 </details>
 <details open>
-<summary>Microsoft (10)</summary>
+<summary>Microsoft (11)</summary>
 
+- [Software Engineer](https://apply.careers.microsoft.com/careers/job/1970393557074534) · [2](https://apply.careers.microsoft.com/careers/job/1970393557072925) · [3](https://apply.careers.microsoft.com/careers/job/1970393557025694) · [4](https://apply.careers.microsoft.com/careers/job/1970393556982903) — Remote in USA, United States; Redmond, WA; Redmond, WA, Reston, VA · posted 2026-11-16 · SWE · BS/MS
 - [Software Engineer - Microsoft Business Operations](https://apply.careers.microsoft.com/careers/job/1970393557073410) — Redmond, WA · posted 2026-11-14 · SWE · BS/MS
-- [Software Engineer](https://apply.careers.microsoft.com/careers/job/1970393557072925) · [2](https://apply.careers.microsoft.com/careers/job/1970393557025694) · [3](https://apply.careers.microsoft.com/careers/job/1970393556982903) — Redmond, WA; Redmond, WA, Reston, VA · posted 2026-11-13 · SWE · BS/MS
 - [Software Development Engineer](https://apply.careers.microsoft.com/careers/job/1970393557050698) — Redmond, WA · posted 2026-11-11 · SWE · BS
 - [Software Engineering](https://apply.careers.microsoft.com/careers/job/1970393557039397) · [2](https://apply.careers.microsoft.com/careers/job/1970393556999878) — Redmond, WA · posted 2026-11-09 · SWE · BS/MS
 - [Software Engineer - Cleared](https://apply.careers.microsoft.com/careers/job/1970393556982911) — Reston, VA · posted 2026-09-23 · SWE · BS/MS
@@ -562,14 +562,6 @@ and `.nojekyll` into `docs/`, set Pages to `/docs`, and give every device a toke
 
 </details>
 <details open>
-<summary>DRW (3)</summary>
-
-- [Floor Trader](https://job-boards.greenhouse.io/drweng/jobs/8207750) — Chicago, IL · posted 2026-09-16 · Quant · BS
-- [Software Developer](https://job-boards.greenhouse.io/drweng/jobs/7980165) — Chicago, IL · posted 2026-07-13 · SWE · BS/MS/PhD
-- [Quantitative Researcher](https://job-boards.greenhouse.io/drweng/jobs/8030406) — Chicago, IL, NYC · posted 2026-07-13 · Quant · BS/MS/PhD
-
-</details>
-<details open>
 <summary>Stripe (3)</summary>
 
 - [Software Engineer - Early Career - Immediate Start](https://stripe.com/jobs/search?gh_jid=8212508) — Seattle, WA, SF, NYC · posted 2026-09-18 · SWE · BS/MS
@@ -591,6 +583,13 @@ and `.nojekyll` into `docs/`, set Pages to `/docs`, and give every device a toke
 
 </details>
 <details open>
+<summary>DRW (2)</summary>
+
+- [Floor Trader](https://job-boards.greenhouse.io/drweng/jobs/8207750) — Chicago, IL · posted 2026-09-16 · Quant · BS
+- [Quantitative Researcher](https://job-boards.greenhouse.io/drweng/jobs/8030406) — Chicago, IL, NYC · posted 2026-07-13 · Quant · BS/MS/PhD
+
+</details>
+<details open>
 <summary>Five Rings Capital (2)</summary>
 
 - [Campus Full Time - Software Developer](https://job-boards.greenhouse.io/fiveringsllc/jobs/5349839008) — NYC · posted 2026-07-14 · SWE
@@ -602,12 +601,6 @@ and `.nojekyll` into `docs/`, set Pages to `/docs`, and give every device a toke
 
 - [Software Engineer 2 – Early Career](https://www.google.com/about/careers/applications/jobs/results/109116638069957318) — Palo Alto, CA, Madison, WI, Seattle, WA · posted 2026-11-02 · SWE · BS/MS
 - [Research Engineer](https://www.google.com/about/careers/applications/jobs/results/114077679900074694) — Mountain View, CA · posted 2026-09-11 · ML
-
-</details>
-<details open>
-<summary>Harvey (2)</summary>
-
-- [Software Engineer New Grad](https://jobs.ashbyhq.com/harvey/b0996df6-6b6e-42be-a4f9-0084536068f5/application?embed=true) · [2](https://jobs.ashbyhq.com/harvey/4d8dc9ba-eb86-4d88-af7d-65d2fdaf3fdc/application?embed=true) — SF; SF, NYC · posted 2026-10-02 · SWE · BS/MS
 
 </details>
 <details open>
@@ -702,9 +695,9 @@ and `.nojekyll` into `docs/`, set Pages to `/docs`, and give every device a toke
 
 </details>
 <details open>
-<summary>Fireworks AI (1)</summary>
+<summary>Harvey (1)</summary>
 
-- [Member of Technical Staff New Grad](https://jobs.ashbyhq.com/fireworks/0c78aede-7c21-4d1e-88f1-f309deb9819e/application?embed=true) — San Mateo, CA, NYC · posted 2026-10-06 · SWE · BS/MS
+- [Software Engineer New Grad](https://jobs.ashbyhq.com/harvey/b0996df6-6b6e-42be-a4f9-0084536068f5/application?embed=true) — SF · posted 2026-10-02 · SWE · BS/MS
 
 </details>
 <details open>
