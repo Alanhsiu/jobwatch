@@ -4,24 +4,24 @@
  "repo": "Alanhsiu/jobwatch",
  "branch": "main",
  "pages_url": "https://alanhsiu.github.io/jobwatch/",
- "last_run": 1794987755,
- "last_change": 1794987755,
+ "last_run": 1795022505,
+ "last_change": 1795022505,
  "last_result": "ok",
  "feed": {
-  "records": 18715,
-  "active": 3144,
-  "fetched_at": 1794987755,
+  "records": 18709,
+  "active": 3146,
+  "fetched_at": 1795022505,
   "attempts": 1
  },
  "counts": {
-  "active": 323,
+  "active": 324,
   "closed": 371,
   "untracked": 47,
   "groups": 274,
   "companies": 52,
   "new_this_run": 1,
   "silent_known_this_run": 0,
-  "closed_this_run": 8,
+  "closed_this_run": 2,
   "untracked_this_run": 0
  },
  "rejects": {
@@ -30,7 +30,7 @@
   "title": 15,
   "region": 42,
   "sponsorship": 0,
-  "age": 33
+  "age": 32
  },
  "keywords": {
   "adobe": {
@@ -543,7 +543,7 @@
    "denied": 0
   },
   "microsoft": {
-   "active": 7,
+   "active": 6,
    "all_time": 46,
    "names": [
     "Microsoft"
@@ -819,8 +819,8 @@
    "denied": 0
   },
   "susquehanna": {
-   "active": 5,
-   "all_time": 5,
+   "active": 6,
+   "all_time": 6,
    "names": [
     "Susquehanna International Group"
    ],
@@ -847,7 +847,7 @@
    "denied": 0
   },
   "tiktok": {
-   "active": 104,
+   "active": 106,
    "all_time": 162,
    "names": [
     "TikTok"
@@ -875,7 +875,7 @@
    "denied": 0
   },
   "two sigma": {
-   "active": 4,
+   "active": 3,
    "all_time": 5,
    "names": [
     "Two Sigma"
