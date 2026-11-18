@@ -4,29 +4,29 @@
  "repo": "Alanhsiu/jobwatch",
  "branch": "main",
  "pages_url": "https://alanhsiu.github.io/jobwatch/",
- "last_run": 1794954549,
- "last_change": 1794954549,
+ "last_run": 1794987755,
+ "last_change": 1794987755,
  "last_result": "ok",
  "feed": {
-  "records": 18666,
-  "active": 3139,
-  "fetched_at": 1794954549,
+  "records": 18715,
+  "active": 3144,
+  "fetched_at": 1794987755,
   "attempts": 1
  },
  "counts": {
-  "active": 330,
-  "closed": 363,
+  "active": 323,
+  "closed": 371,
   "untracked": 47,
-  "groups": 279,
+  "groups": 274,
   "companies": 52,
-  "new_this_run": 0,
+  "new_this_run": 1,
   "silent_known_this_run": 0,
-  "closed_this_run": 1,
+  "closed_this_run": 8,
   "untracked_this_run": 0
  },
  "rejects": {
-  "category": 139,
-  "phd": 173,
+  "category": 140,
+  "phd": 172,
   "title": 15,
   "region": 42,
   "sponsorship": 0,
@@ -57,7 +57,7 @@
   },
   "amazon": {
    "active": 27,
-   "all_time": 45,
+   "all_time": 46,
    "names": [
     "Amazon"
    ],
@@ -86,7 +86,7 @@
    "denied": 0
   },
   "apple": {
-   "active": 11,
+   "active": 10,
    "all_time": 39,
    "names": [
     "Apple"
@@ -543,7 +543,7 @@
    "denied": 0
   },
   "microsoft": {
-   "active": 11,
+   "active": 7,
    "all_time": 46,
    "names": [
     "Microsoft"
@@ -581,7 +581,7 @@
    "denied": 0
   },
   "nvidia": {
-   "active": 5,
+   "active": 4,
    "all_time": 33,
    "names": [
     "NVIDIA"
@@ -847,7 +847,7 @@
    "denied": 0
   },
   "tiktok": {
-   "active": 105,
+   "active": 104,
    "all_time": 162,
    "names": [
     "TikTok"
@@ -996,8 +996,8 @@
   }
  },
  "telegram": {
-  "mode": "none",
-  "delivered": 0,
+  "mode": "sent",
+  "delivered": 1,
   "failed_chunks": 0,
   "creds": true
  },

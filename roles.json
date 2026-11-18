@@ -1,5 +1,30 @@
 [
  {
+  "id": "simplify:2ebe6dc0-7a17-40c2-a840-c58c312185d9",
+  "first_seen": 1794987755,
+  "company": "Amazon",
+  "title": "Software Development Engineer - Robotics",
+  "location": "Austin, TX, North Reading, MA, Westborough, MA",
+  "url": "https://amazon.jobs/en/jobs/10607764/software-development-engineer-robotics-2027",
+  "category": "SWE",
+  "posted": "2026-11-18",
+  "date_posted": 1794970278,
+  "active": true,
+  "locations": [
+   "Austin, TX",
+   "North Reading, MA",
+   "Westborough, MA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's"
+  ],
+  "sponsorship": "Other",
+  "group": "amazon|software development engineer robotics",
+  "in_feed": true,
+  "reason": null
+ },
+ {
   "id": "simplify:542753ed-5d89-4aa7-855f-a20530ae5084",
   "first_seen": 1794922692,
   "company": "Microsoft",
@@ -94,77 +119,6 @@
   ],
   "sponsorship": "Other",
   "group": "nvidia|deep learning framework communications engineer new grad",
-  "in_feed": true,
-  "reason": null
- },
- {
-  "id": "simplify:3aee7711-aa7b-4592-8a52-0ad74d7c0fba",
-  "first_seen": 1794638653,
-  "company": "Microsoft",
-  "title": "Software Engineer",
-  "location": "Redmond, WA",
-  "url": "https://apply.careers.microsoft.com/careers/job/1970393557072925",
-  "category": "SWE",
-  "posted": "2026-11-13",
-  "date_posted": 1794613657,
-  "active": true,
-  "locations": [
-   "Redmond, WA"
-  ],
-  "region": "US",
-  "degrees": [
-   "Bachelor's",
-   "Master's"
-  ],
-  "sponsorship": "Other",
-  "group": "microsoft|software engineer",
-  "in_feed": true,
-  "reason": null
- },
- {
-  "id": "simplify:a3642769-8b21-4778-b06c-fa2122acc55a",
-  "first_seen": 1794532353,
-  "company": "Apple",
-  "title": "Software Engineer - Ad Platforms",
-  "location": "Cupertino, CA",
-  "url": "https://jobs.apple.com/en-us/details/200694769",
-  "category": "SWE",
-  "posted": "2026-11-12",
-  "date_posted": 1794525361,
-  "active": true,
-  "locations": [
-   "Cupertino, CA"
-  ],
-  "region": "US",
-  "degrees": [
-   "Bachelor's",
-   "Master's"
-  ],
-  "sponsorship": "Other",
-  "group": "apple|software engineer ad platforms",
-  "in_feed": true,
-  "reason": null
- },
- {
-  "id": "simplify:5b83878d-7d81-44e4-89ea-10b040471cb7",
-  "first_seen": 1794444664,
-  "company": "Microsoft",
-  "title": "Software Development Engineer",
-  "location": "Redmond, WA",
-  "url": "https://apply.careers.microsoft.com/careers/job/1970393557050698",
-  "category": "SWE",
-  "posted": "2026-11-11",
-  "date_posted": 1794440956,
-  "active": true,
-  "locations": [
-   "Redmond, WA"
-  ],
-  "region": "US",
-  "degrees": [
-   "Bachelor's"
-  ],
-  "sponsorship": "Other",
-  "group": "microsoft|software development engineer",
   "in_feed": true,
   "reason": null
  },
@@ -723,30 +677,6 @@
   ],
   "sponsorship": "Other",
   "group": "tiktok|research engineer agentic video editing",
-  "in_feed": true,
-  "reason": null
- },
- {
-  "id": "simplify:0559e77e-4693-4e8a-a1c3-177e65abdd9a",
-  "first_seen": 1793980806,
-  "company": "Amazon",
-  "title": "Software Development Engineer - SoC Hardware Abstraction Layer",
-  "location": "Cupertino, CA",
-  "url": "https://amazon.jobs/en/jobs/10598432/software-development-engineer-soc-hal",
-  "category": "SWE",
-  "posted": "2026-11-06",
-  "date_posted": 1793950073,
-  "active": true,
-  "locations": [
-   "Cupertino, CA"
-  ],
-  "region": "US",
-  "degrees": [
-   "Bachelor's",
-   "Master's"
-  ],
-  "sponsorship": "Other",
-  "group": "amazon|software development engineer soc hardware abstraction layer",
   "in_feed": true,
   "reason": null
  },
@@ -1954,30 +1884,6 @@
   "reason": null
  },
  {
-  "id": "simplify:664f484e-e080-4fb3-be9b-ace5f9872240",
-  "first_seen": 1791964053,
-  "company": "NVIDIA",
-  "title": "SoC Software Engineer New Grad",
-  "location": "Santa Clara, CA",
-  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/SoC-Software-Engineer---New-College-Graduate-2026_JR2027552-1",
-  "category": "SWE",
-  "posted": "2026-10-13",
-  "date_posted": 1791849600,
-  "active": true,
-  "locations": [
-   "Santa Clara, CA"
-  ],
-  "region": "US",
-  "degrees": [
-   "Bachelor's",
-   "Master's"
-  ],
-  "sponsorship": "Other",
-  "group": "nvidia|soc software engineer new grad",
-  "in_feed": true,
-  "reason": null
- },
- {
   "id": "simplify:1d54b27d-8a8b-4037-85f3-347baff81004",
   "first_seen": 1791846268,
   "company": "Microsoft",
@@ -2473,54 +2379,6 @@
   ],
   "sponsorship": "Other",
   "group": "scale ai|software engineer new grad public sector",
-  "in_feed": true,
-  "reason": null
- },
- {
-  "id": "simplify:6753e83e-b85a-4ab7-9211-95f03794a58c",
-  "first_seen": 1791127536,
-  "company": "Microsoft",
-  "title": "Software Engineer",
-  "location": "Redmond, WA",
-  "url": "https://apply.careers.microsoft.com/careers/job/1970393556982903",
-  "category": "SWE",
-  "posted": "2026-09-23",
-  "date_posted": 1790125610,
-  "active": true,
-  "locations": [
-   "Redmond, WA"
-  ],
-  "region": "US",
-  "degrees": [
-   "Bachelor's",
-   "Master's"
-  ],
-  "sponsorship": "Other",
-  "group": "microsoft|software engineer",
-  "in_feed": true,
-  "reason": null
- },
- {
-  "id": "simplify:8afcea8a-f2ea-4939-a079-70873c2a97db",
-  "first_seen": 1790149819,
-  "company": "Microsoft",
-  "title": "Software Engineer - Cleared",
-  "location": "Reston, VA",
-  "url": "https://apply.careers.microsoft.com/careers/job/1970393556982911",
-  "category": "SWE",
-  "posted": "2026-09-23",
-  "date_posted": 1790125610,
-  "active": true,
-  "locations": [
-   "Reston, VA"
-  ],
-  "region": "US",
-  "degrees": [
-   "Bachelor's",
-   "Master's"
-  ],
-  "sponsorship": "Other",
-  "group": "microsoft|software engineer cleared",
   "in_feed": true,
   "reason": null
  },
@@ -3635,31 +3493,6 @@
   ],
   "sponsorship": "Other",
   "group": "tiktok|graduate software engineer tiktok search data infra",
-  "in_feed": true,
-  "reason": null
- },
- {
-  "id": "simplify:c9dff2be-8f4e-4123-866d-9dac43703bd2",
-  "company": "TikTok",
-  "title": "Machine Learning Engineer Graduate - E-Commerce Supply Chain & Logistics",
-  "location": "San Jose, CA",
-  "url": "https://lifeattiktok.com/search/7675844938504702213",
-  "category": "ML",
-  "posted": "2026-08-20",
-  "date_posted": 1787190346,
-  "active": true,
-  "first_seen": 1787239672.4111407,
-  "last_seen": 1789521191.4314806,
-  "locations": [
-   "San Jose, CA"
-  ],
-  "region": "US",
-  "degrees": [
-   "Bachelor's",
-   "Master's"
-  ],
-  "sponsorship": "Other",
-  "group": "tiktok|machine learning engineer graduate e commerce supply chain logistics",
   "in_feed": true,
   "reason": null
  },
@@ -8122,6 +7955,32 @@
   "reason": null
  },
  {
+  "id": "simplify:3aee7711-aa7b-4592-8a52-0ad74d7c0fba",
+  "first_seen": 1794638653,
+  "company": "Microsoft",
+  "title": "Software Engineer",
+  "location": "Redmond, WA",
+  "url": "https://apply.careers.microsoft.com/careers/job/1970393557072925",
+  "category": "SWE",
+  "posted": "2026-11-13",
+  "date_posted": 1794613657,
+  "active": false,
+  "locations": [
+   "Redmond, WA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "microsoft|software engineer",
+  "in_feed": false,
+  "reason": "closed",
+  "closed_at": 1794987755,
+  "last_seen": 1794987755
+ },
+ {
   "id": "simplify:2ed6f5ef-9ec5-455f-b7df-59d3272f49fd",
   "first_seen": 1794592374,
   "company": "Shield AI",
@@ -8203,6 +8062,32 @@
   "last_seen": 1794669102
  },
  {
+  "id": "simplify:a3642769-8b21-4778-b06c-fa2122acc55a",
+  "first_seen": 1794532353,
+  "company": "Apple",
+  "title": "Software Engineer - Ad Platforms",
+  "location": "Cupertino, CA",
+  "url": "https://jobs.apple.com/en-us/details/200694769",
+  "category": "SWE",
+  "posted": "2026-11-12",
+  "date_posted": 1794525361,
+  "active": false,
+  "locations": [
+   "Cupertino, CA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "apple|software engineer ad platforms",
+  "in_feed": false,
+  "reason": "closed",
+  "closed_at": 1794987755,
+  "last_seen": 1794987755
+ },
+ {
   "id": "simplify:8b2fa733-e2e8-4637-a9d8-504975db947c",
   "first_seen": 1794477423,
   "company": "Shield AI",
@@ -8228,6 +8113,31 @@
   "reason": "closed",
   "closed_at": 1794613302,
   "last_seen": 1794613302
+ },
+ {
+  "id": "simplify:5b83878d-7d81-44e4-89ea-10b040471cb7",
+  "first_seen": 1794444664,
+  "company": "Microsoft",
+  "title": "Software Development Engineer",
+  "location": "Redmond, WA",
+  "url": "https://apply.careers.microsoft.com/careers/job/1970393557050698",
+  "category": "SWE",
+  "posted": "2026-11-11",
+  "date_posted": 1794440956,
+  "active": false,
+  "locations": [
+   "Redmond, WA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's"
+  ],
+  "sponsorship": "Other",
+  "group": "microsoft|software development engineer",
+  "in_feed": false,
+  "reason": "closed",
+  "closed_at": 1794987755,
+  "last_seen": 1794987755
  },
  {
   "id": "simplify:f626c3a1-0755-4d04-aa67-00c39408902e",
@@ -8439,6 +8349,32 @@
   "reason": "closed",
   "closed_at": 1794669102,
   "last_seen": 1794669102
+ },
+ {
+  "id": "simplify:0559e77e-4693-4e8a-a1c3-177e65abdd9a",
+  "first_seen": 1793980806,
+  "company": "Amazon",
+  "title": "Software Development Engineer - SoC Hardware Abstraction Layer",
+  "location": "Cupertino, CA",
+  "url": "https://amazon.jobs/en/jobs/10598432/software-development-engineer-soc-hal",
+  "category": "SWE",
+  "posted": "2026-11-06",
+  "date_posted": 1793950073,
+  "active": false,
+  "locations": [
+   "Cupertino, CA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "amazon|software development engineer soc hardware abstraction layer",
+  "in_feed": false,
+  "reason": "closed",
+  "closed_at": 1794987755,
+  "last_seen": 1794987755
  },
  {
   "id": "simplify:ec527e6a-082e-4155-a7f4-a114d18663c0",
@@ -9470,6 +9406,32 @@
   "reason": "closed",
   "closed_at": 1793150869,
   "last_seen": 1793150869
+ },
+ {
+  "id": "simplify:664f484e-e080-4fb3-be9b-ace5f9872240",
+  "first_seen": 1791964053,
+  "company": "NVIDIA",
+  "title": "SoC Software Engineer New Grad",
+  "location": "Santa Clara, CA",
+  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/SoC-Software-Engineer---New-College-Graduate-2026_JR2027552-1",
+  "category": "SWE",
+  "posted": "2026-10-13",
+  "date_posted": 1791849600,
+  "active": false,
+  "locations": [
+   "Santa Clara, CA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "nvidia|soc software engineer new grad",
+  "in_feed": false,
+  "reason": "closed",
+  "closed_at": 1794987755,
+  "last_seen": 1794987755
  },
  {
   "id": "simplify:db3ca01b-bee9-4147-8df9-822f3a967e90",
@@ -10528,6 +10490,58 @@
   "reason": "closed",
   "closed_at": 1791127536,
   "last_seen": 1791127536
+ },
+ {
+  "id": "simplify:6753e83e-b85a-4ab7-9211-95f03794a58c",
+  "first_seen": 1791127536,
+  "company": "Microsoft",
+  "title": "Software Engineer",
+  "location": "Redmond, WA",
+  "url": "https://apply.careers.microsoft.com/careers/job/1970393556982903",
+  "category": "SWE",
+  "posted": "2026-09-23",
+  "date_posted": 1790125610,
+  "active": false,
+  "locations": [
+   "Redmond, WA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "microsoft|software engineer",
+  "in_feed": false,
+  "reason": "closed",
+  "closed_at": 1794987755,
+  "last_seen": 1794987755
+ },
+ {
+  "id": "simplify:8afcea8a-f2ea-4939-a079-70873c2a97db",
+  "first_seen": 1790149819,
+  "company": "Microsoft",
+  "title": "Software Engineer - Cleared",
+  "location": "Reston, VA",
+  "url": "https://apply.careers.microsoft.com/careers/job/1970393556982911",
+  "category": "SWE",
+  "posted": "2026-09-23",
+  "date_posted": 1790125610,
+  "active": false,
+  "locations": [
+   "Reston, VA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "microsoft|software engineer cleared",
+  "in_feed": false,
+  "reason": "closed",
+  "closed_at": 1794987755,
+  "last_seen": 1794987755
  },
  {
   "id": "simplify:5b6d1005-f538-4163-bdf8-2fc73e2db74e",
@@ -11695,6 +11709,32 @@
   "closed_at": 1787804808,
   "reason": "closed",
   "group": "wintermute|trading analyst"
+ },
+ {
+  "id": "simplify:c9dff2be-8f4e-4123-866d-9dac43703bd2",
+  "company": "TikTok",
+  "title": "Machine Learning Engineer Graduate - E-Commerce Supply Chain & Logistics",
+  "location": "San Jose, CA",
+  "url": "https://lifeattiktok.com/search/7675844938504702213",
+  "category": "ML",
+  "posted": "2026-08-20",
+  "date_posted": 1787190346,
+  "active": false,
+  "first_seen": 1787239672.4111407,
+  "last_seen": 1794987755,
+  "locations": [
+   "San Jose, CA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "tiktok|machine learning engineer graduate e commerce supply chain logistics",
+  "in_feed": false,
+  "reason": "closed",
+  "closed_at": 1794987755
  },
  {
   "id": "simplify:f3bdb586-bbfb-45b8-95e7-a64529d56300",
