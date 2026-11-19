@@ -98,30 +98,6 @@
   "reason": null
  },
  {
-  "id": "simplify:970abbb2-7906-4686-914b-09bd6d622dd5",
-  "first_seen": 1794638653,
-  "company": "Microsoft",
-  "title": "Software Engineer - Microsoft Business Operations",
-  "location": "Redmond, WA",
-  "url": "https://apply.careers.microsoft.com/careers/job/1970393557073410",
-  "category": "SWE",
-  "posted": "2026-11-14",
-  "date_posted": 1794623047,
-  "active": true,
-  "locations": [
-   "Redmond, WA"
-  ],
-  "region": "US",
-  "degrees": [
-   "Bachelor's",
-   "Master's"
-  ],
-  "sponsorship": "Other",
-  "group": "microsoft|software engineer microsoft business operations",
-  "in_feed": true,
-  "reason": null
- },
- {
   "id": "simplify:07af461e-da0d-4062-b7f9-8b0eafd5795f",
   "first_seen": 1794735410,
   "company": "NVIDIA",
@@ -7955,6 +7931,32 @@
   "group": "figma|data scientist core data",
   "in_feed": true,
   "reason": null
+ },
+ {
+  "id": "simplify:970abbb2-7906-4686-914b-09bd6d622dd5",
+  "first_seen": 1794638653,
+  "company": "Microsoft",
+  "title": "Software Engineer - Microsoft Business Operations",
+  "location": "Redmond, WA",
+  "url": "https://apply.careers.microsoft.com/careers/job/1970393557073410",
+  "category": "SWE",
+  "posted": "2026-11-14",
+  "date_posted": 1794623047,
+  "active": false,
+  "locations": [
+   "Redmond, WA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "microsoft|software engineer microsoft business operations",
+  "in_feed": false,
+  "reason": "closed",
+  "closed_at": 1795121325,
+  "last_seen": 1795121325
  },
  {
   "id": "simplify:3aee7711-aa7b-4592-8a52-0ad74d7c0fba",

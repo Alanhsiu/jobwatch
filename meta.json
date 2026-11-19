@@ -4,28 +4,28 @@
  "repo": "Alanhsiu/jobwatch",
  "branch": "main",
  "pages_url": "https://alanhsiu.github.io/jobwatch/",
- "last_run": 1795084181,
- "last_change": 1795084181,
+ "last_run": 1795121325,
+ "last_change": 1795121325,
  "last_result": "ok",
  "feed": {
-  "records": 18661,
-  "active": 3116,
-  "fetched_at": 1795084181,
+  "records": 18654,
+  "active": 3091,
+  "fetched_at": 1795121325,
   "attempts": 1
  },
  "counts": {
-  "active": 323,
-  "closed": 374,
+  "active": 322,
+  "closed": 375,
   "untracked": 47,
-  "groups": 273,
+  "groups": 272,
   "companies": 51,
-  "new_this_run": 1,
+  "new_this_run": 0,
   "silent_known_this_run": 0,
-  "closed_this_run": 0,
+  "closed_this_run": 1,
   "untracked_this_run": 0
  },
  "rejects": {
-  "category": 141,
+  "category": 135,
   "phd": 170,
   "title": 16,
   "region": 43,
@@ -541,7 +541,7 @@
    "denied": 0
   },
   "microsoft": {
-   "active": 6,
+   "active": 5,
    "all_time": 46,
    "names": [
     "Microsoft"
@@ -994,8 +994,8 @@
   }
  },
  "telegram": {
-  "mode": "sent",
-  "delivered": 1,
+  "mode": "none",
+  "delivered": 0,
   "failed_chunks": 0,
   "creds": true
  },
