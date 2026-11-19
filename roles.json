@@ -1861,6 +1861,30 @@
   "reason": null
  },
  {
+  "id": "simplify:07baff59-c50a-4fc1-b101-cdf0b86ff995",
+  "first_seen": 1795084181,
+  "company": "Apple",
+  "title": "OS Software Engineer - Evaluation",
+  "location": "Cupertino, CA",
+  "url": "https://jobs.apple.com/en-us/details/200688625",
+  "category": "SWE",
+  "posted": "2026-10-13",
+  "date_posted": 1791853806,
+  "active": true,
+  "locations": [
+   "Cupertino, CA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "apple|os software engineer evaluation",
+  "in_feed": true,
+  "reason": null
+ },
+ {
   "id": "simplify:9f92b24f-ac56-4f00-9aa8-355eb21841bd",
   "first_seen": 1791585887,
   "company": "TikTok",
