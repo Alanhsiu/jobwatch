@@ -1,5 +1,29 @@
 [
  {
+  "id": "simplify:26fa4e32-b501-44ab-87b3-253fe6adc3a1",
+  "first_seen": 1795048326,
+  "company": "Zoox",
+  "title": "Data Scientist",
+  "location": "Foster City, CA",
+  "url": "https://jobs.lever.co/zoox/c6d372ce-1203-4d34-bd3e-f637e7d23483/apply",
+  "category": "ML",
+  "posted": "2026-11-18",
+  "date_posted": 1795045790,
+  "active": true,
+  "locations": [
+   "Foster City, CA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "zoox|data scientist",
+  "in_feed": true,
+  "reason": null
+ },
+ {
   "id": "simplify:2ebe6dc0-7a17-40c2-a840-c58c312185d9",
   "first_seen": 1794987755,
   "company": "Amazon",
@@ -1120,53 +1144,6 @@
   ],
   "sponsorship": "Other",
   "group": "amazon|software developer engineer product knowledge store",
-  "in_feed": true,
-  "reason": null
- },
- {
-  "id": "simplify:6229e804-43a5-47a4-882c-c7bf3dc4968f",
-  "first_seen": 1793150869,
-  "company": "Databricks",
-  "title": "Software Engineer New Grad",
-  "location": "Mountain View, CA",
-  "url": "https://boards.greenhouse.io/embed/job_app?token=6865698002",
-  "category": "SWE",
-  "posted": "2026-10-27",
-  "date_posted": 1793141065,
-  "active": true,
-  "locations": [
-   "Mountain View, CA"
-  ],
-  "region": "US",
-  "degrees": [
-   "Bachelor's"
-  ],
-  "sponsorship": "Other",
-  "group": "databricks|software engineer new grad",
-  "in_feed": true,
-  "reason": null
- },
- {
-  "id": "simplify:992ceb83-2b59-4901-b82d-8ca2b8edc498",
-  "first_seen": 1793150869,
-  "company": "Databricks",
-  "title": "Software Engineer New Grad - Distributed Data Systems",
-  "location": "Bellevue, WA, Mountain View, CA",
-  "url": "https://boards.greenhouse.io/embed/job_app?token=6865704002",
-  "category": "SWE",
-  "posted": "2026-10-27",
-  "date_posted": 1793141063,
-  "active": true,
-  "locations": [
-   "Bellevue, WA",
-   "Mountain View, CA"
-  ],
-  "region": "US",
-  "degrees": [
-   "Bachelor's"
-  ],
-  "sponsorship": "Other",
-  "group": "databricks|software engineer new grad distributed data systems",
   "in_feed": true,
   "reason": null
  },
@@ -7931,30 +7908,6 @@
   "reason": null
  },
  {
-  "id": "simplify:f65657ff-9f42-4256-ac69-c3a4b36628ea",
-  "company": "Virtu Financial",
-  "title": "Software Engineer - Desktop Frontend Developer - C#/Winforms",
-  "location": "NYC",
-  "url": "https://job-boards.greenhouse.io/virtu/jobs/8516902002",
-  "category": "SWE",
-  "posted": "2026-05-04",
-  "date_posted": 1777932683,
-  "active": true,
-  "first_seen": 1784014543.6740808,
-  "last_seen": 1784014543.6740808,
-  "locations": [
-   "NYC"
-  ],
-  "region": "US",
-  "degrees": [
-   "Bachelor's"
-  ],
-  "sponsorship": "Other",
-  "group": "virtu financial|software engineer desktop frontend developer c winforms",
-  "in_feed": true,
-  "reason": null
- },
- {
   "id": "simplify:c924c806-5fa8-4f1d-9765-da6d89a05dc7",
   "company": "Figma",
   "title": "Data Scientist, Core Data",
@@ -8683,6 +8636,57 @@
   "reason": "closed",
   "closed_at": 1793340096,
   "last_seen": 1793340096
+ },
+ {
+  "id": "simplify:6229e804-43a5-47a4-882c-c7bf3dc4968f",
+  "first_seen": 1793150869,
+  "company": "Databricks",
+  "title": "Software Engineer New Grad",
+  "location": "Mountain View, CA",
+  "url": "https://boards.greenhouse.io/embed/job_app?token=6865698002",
+  "category": "SWE",
+  "posted": "2026-10-27",
+  "date_posted": 1793141065,
+  "active": false,
+  "locations": [
+   "Mountain View, CA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's"
+  ],
+  "sponsorship": "Other",
+  "group": "databricks|software engineer new grad",
+  "in_feed": false,
+  "reason": "closed",
+  "closed_at": 1795048326,
+  "last_seen": 1795048326
+ },
+ {
+  "id": "simplify:992ceb83-2b59-4901-b82d-8ca2b8edc498",
+  "first_seen": 1793150869,
+  "company": "Databricks",
+  "title": "Software Engineer New Grad - Distributed Data Systems",
+  "location": "Bellevue, WA, Mountain View, CA",
+  "url": "https://boards.greenhouse.io/embed/job_app?token=6865704002",
+  "category": "SWE",
+  "posted": "2026-10-27",
+  "date_posted": 1793141063,
+  "active": false,
+  "locations": [
+   "Bellevue, WA",
+   "Mountain View, CA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's"
+  ],
+  "sponsorship": "Other",
+  "group": "databricks|software engineer new grad distributed data systems",
+  "in_feed": false,
+  "reason": "closed",
+  "closed_at": 1795048326,
+  "last_seen": 1795048326
  },
  {
   "id": "simplify:12b37514-55d3-4d2b-889d-499ef0584772",
@@ -17332,6 +17336,31 @@
   "closed_at": 1784014543,
   "reason": "closed",
   "group": "squarepoint capital|trading infrastructure specialist"
+ },
+ {
+  "id": "simplify:f65657ff-9f42-4256-ac69-c3a4b36628ea",
+  "company": "Virtu Financial",
+  "title": "Software Engineer - Desktop Frontend Developer - C#/Winforms",
+  "location": "NYC",
+  "url": "https://job-boards.greenhouse.io/virtu/jobs/8516902002",
+  "category": "SWE",
+  "posted": "2026-05-04",
+  "date_posted": 1777932683,
+  "active": false,
+  "first_seen": 1784014543.6740808,
+  "last_seen": 1795048326,
+  "locations": [
+   "NYC"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's"
+  ],
+  "sponsorship": "Other",
+  "group": "virtu financial|software engineer desktop frontend developer c winforms",
+  "in_feed": false,
+  "reason": "closed",
+  "closed_at": 1795048326
  },
  {
   "id": "simplify:bfa6d860-85c2-4118-8d8c-e224b9e52584",

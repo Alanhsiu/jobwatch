@@ -8,7 +8,7 @@ sync between devices through this repo. No servers, no database, no cost — a p
 bot token. This repo's tracker: **[alanhsiu.github.io/jobwatch](https://alanhsiu.github.io/jobwatch/)** (a fork gets its own at `https://<owner>.github.io/<repo>/`).
 
 <!-- JOBS:HEAD:START -->
-_324 open new-grad roles at 52 companies · list last changed 2026-11-18 · scans every ~2 h_ · **[Open the tracker](https://alanhsiu.github.io/jobwatch/)** · [Full list ↓](#current-roles) · TikTok 106 · ByteDance 33 · Amazon 27 · Palantir 12 · Shield AI 12 · Apple 10 · Anduril 9 · Microsoft 6 · …
+_322 open new-grad roles at 51 companies · list last changed 2026-11-19 · scans every ~2 h_ · **[Open the tracker](https://alanhsiu.github.io/jobwatch/)** · [Full list ↓](#current-roles) · TikTok 106 · ByteDance 33 · Amazon 27 · Palantir 12 · Shield AI 12 · Apple 10 · Anduril 9 · Microsoft 6 · …
 <!-- JOBS:HEAD:END -->
 
 ## How it works
@@ -572,13 +572,6 @@ and `.nojekyll` into `docs/`, set Pages to `/docs`, and give every device a toke
 
 </details>
 <details open>
-<summary>Databricks (2)</summary>
-
-- [Software Engineer New Grad](https://boards.greenhouse.io/embed/job_app?token=6865698002) — Mountain View, CA · posted 2026-10-27 · SWE · BS
-- [Software Engineer New Grad - Distributed Data Systems](https://boards.greenhouse.io/embed/job_app?token=6865704002) — Bellevue, WA, Mountain View, CA · posted 2026-10-27 · SWE · BS
-
-</details>
-<details open>
 <summary>DRW (2)</summary>
 
 - [Floor Trader](https://job-boards.greenhouse.io/drweng/jobs/8207750) — Chicago, IL · posted 2026-09-16 · Quant · BS
@@ -727,15 +720,15 @@ and `.nojekyll` into `docs/`, set Pages to `/docs`, and give every device a toke
 
 </details>
 <details open>
-<summary>Virtu Financial (1)</summary>
-
-- [Software Engineer - Desktop Frontend Developer - C#/Winforms](https://job-boards.greenhouse.io/virtu/jobs/8516902002) — NYC · posted 2026-05-04 · SWE · BS
-
-</details>
-<details open>
 <summary>Wintermute (1)</summary>
 
 - [Algorithmic Trader](https://jobs.lever.co/wintermute-trading/28c7e15f-b3a0-48c6-8322-2e9f25371fd0/apply) — London, UK, NYC · posted 2026-09-03 · Quant
+
+</details>
+<details open>
+<summary>Zoox (1)</summary>
+
+- [Data Scientist](https://jobs.lever.co/zoox/c6d372ce-1203-4d34-bd3e-f637e7d23483/apply) — Foster City, CA · posted 2026-11-18 · ML · BS/MS
 
 </details>
 <!-- JOBS:END -->
