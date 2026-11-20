@@ -1,5 +1,29 @@
 [
  {
+  "id": "simplify:b3468972-56ab-4076-a1ee-c523f1a719cd",
+  "first_seen": 1795180337,
+  "company": "Apple",
+  "title": "AR/VR Software Engineer - Spatial System UI - Vision Products Software",
+  "location": "Sunnyvale, CA, Boulder, CO",
+  "url": "https://jobs.apple.com/en-us/details/200696147",
+  "category": "SWE",
+  "posted": "2026-11-20",
+  "date_posted": 1795159460,
+  "active": true,
+  "locations": [
+   "Sunnyvale, CA",
+   "Boulder, CO"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's"
+  ],
+  "sponsorship": "Other",
+  "group": "apple|ar vr software engineer spatial system ui vision products software",
+  "in_feed": true,
+  "reason": null
+ },
+ {
   "id": "simplify:71d51955-83c3-40f4-b49d-17df92603b43",
   "first_seen": 1795145507,
   "company": "Microsoft",
