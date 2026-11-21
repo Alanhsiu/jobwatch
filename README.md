@@ -8,7 +8,7 @@ sync between devices through this repo. No servers, no database, no cost — a p
 bot token. This repo's tracker: **[alanhsiu.github.io/jobwatch](https://alanhsiu.github.io/jobwatch/)** (a fork gets its own at `https://<owner>.github.io/<repo>/`).
 
 <!-- JOBS:HEAD:START -->
-_323 open new-grad roles at 51 companies · list last changed 2026-11-20 · scans every ~2 h_ · **[Open the tracker](https://alanhsiu.github.io/jobwatch/)** · [Full list ↓](#current-roles) · TikTok 106 · ByteDance 33 · Amazon 27 · Apple 12 · Palantir 12 · Shield AI 12 · Anduril 9 · Microsoft 6 · …
+_323 open new-grad roles at 51 companies · list last changed 2026-11-21 · scans every ~2 h_ · **[Open the tracker](https://alanhsiu.github.io/jobwatch/)** · [Full list ↓](#current-roles) · TikTok 106 · ByteDance 33 · Amazon 26 · Apple 13 · Palantir 12 · Shield AI 12 · Anduril 9 · Microsoft 6 · …
 <!-- JOBS:HEAD:END -->
 
 ## How it works
@@ -333,7 +333,7 @@ and `.nojekyll` into `docs/`, set Pages to `/docs`, and give every device a toke
 
 </details>
 <details>
-<summary>Amazon (27)</summary>
+<summary>Amazon (26)</summary>
 
 - [Software Development Engineer - Robotics](https://amazon.jobs/en/jobs/10607764/software-development-engineer-robotics-2027) · [2](https://amazon.jobs/en/jobs/10567489/software-development-engineer-robotics-early-career-2027) — Austin, TX, North Reading, MA, Westborough, MA; Seattle, WA, Nashville, TN, Austin, TX · posted 2026-11-18 · SWE · BS
 - [Software Development Engineer 1 - Inference models optimization - AWS Neuron Inference](https://amazon.jobs/en/jobs/10598223/software-development-engineer-i-inference-models-optimization-aws-neuron-inference) — Cupertino, CA · posted 2026-11-11 · ML · BS
@@ -350,7 +350,6 @@ and `.nojekyll` into `docs/`, set Pages to `/docs`, and give every device a toke
 - [Software Development Engineer - Prime Video Personalization & Discovery](https://amazon.jobs/en/jobs/10412948/software-dev-engineer-prime-video-personalization-discovery) · [2](https://amazon.jobs/en/jobs/10576161/software-dev-engineer-prime-video-personalization-discovery) — Seattle, WA; Seattle, WA, NYC, Sunnyvale, CA · posted 2026-10-23 · SWE · BS/MS
 - [Software Development Engineer 1 Early Career - Annapurna Labs](https://amazon.jobs/en/jobs/10558915/software-development-engineer-i-annapurna-labs-early-career-2027) — Seattle, WA, Austin, TX, NYC · posted 2026-10-23 · SWE · BS/MS
 - [System Development Engineer - Region Reliability Engineering](https://amazon.jobs/en/jobs/10550753/system-development-engineer-region-reliability-engineering) — Denver, CO · posted 2026-10-23 · SWE
-- [Software Development Engineer - Embedded Systems](https://amazon.jobs/en/jobs/3183020/software-development-engineer-embedded-systems-2026-us) — Seattle, WA, Austin, TX, Redmond, WA · posted 2026-10-23 · HW · BS
 - [Robotics Embedded Software Development Engineer](https://amazon.jobs/en/jobs/10522935/robotics-embedded-software-development-engineer) — North Reading, MA, Westborough, MA · posted 2026-10-22 · HW · BS
 - [Software Engineer – Early Career](https://amazon.jobs/en/jobs/10583340/software-development-engineer-early-career-2027-us) — Madison, WI, Boston, MA, Seattle, WA · posted 2026-10-19 · SWE · BS/MS
 - [Software Development Engineer – Early Career - Amazon Dedicated Cloud - ADC](https://amazon.jobs/en/jobs/10529546/software-development-engineer-amazon-dedicated-cloud-early-career-2026-amazon-dedicated-cloud-adc) — Seattle, WA, Jessup, MD, Arlington County, Arlington, VA · posted 2026-10-02 · SWE · BS
@@ -361,8 +360,9 @@ and `.nojekyll` into `docs/`, set Pages to `/docs`, and give every device a toke
 
 </details>
 <details open>
-<summary>Apple (12)</summary>
+<summary>Apple (13)</summary>
 
+- [Engineer New Grad - Evolve - An Apple Services Rotation Program](https://jobs.apple.com/en-us/details/200695965) — Seattle, WA, NYC, Cupertino, CA · posted 2026-11-20 · SWE · BS/MS
 - [AR/VR Software Engineer - Spatial System UI - Vision Products Software](https://jobs.apple.com/en-us/details/200696147) — Sunnyvale, CA, Boulder, CO · posted 2026-11-20 · SWE · BS
 - [Darwin Runtime Engineer - Core OS](https://jobs.apple.com/en-us/details/200678840) — Cupertino, CA · posted 2026-11-11 · SWE · BS/MS
 - [Cellular Power Optimization Software Engineer - Wireless Technologies & Ecosystems](https://jobs.apple.com/en-us/details/200692894) · [2](https://jobs.apple.com/en-us/details/200692907) — San Diego, CA · posted 2026-11-02 · SWE · BS/MS
@@ -414,7 +414,7 @@ and `.nojekyll` into `docs/`, set Pages to `/docs`, and give every device a toke
 <details open>
 <summary>Microsoft (6)</summary>
 
-- [Software Engineer](https://apply.careers.microsoft.com/careers/job/1970393557075456) · [2](https://apply.careers.microsoft.com/careers/job/1970393557074534) · [3](https://apply.careers.microsoft.com/careers/job/1970393557053863) · [4](https://apply.careers.microsoft.com/careers/job/1970393557025694) — United States; Remote in USA, United States; Redmond, WA; Redmond, WA, Reston, VA · posted 2026-11-19 · SWE · BS/MS
+- [Software Engineer](https://apply.careers.microsoft.com/careers/job/1970393557075456) · [2](https://apply.careers.microsoft.com/careers/job/1970393557053863) · [3](https://apply.careers.microsoft.com/careers/job/1970393557053350) · [4](https://apply.careers.microsoft.com/careers/job/1970393557025694) — United States; Redmond, WA; Reston, VA; Redmond, WA, Reston, VA · posted 2026-11-19 · SWE · BS/MS
 - [Software Engineer Agentic Security](https://apply.careers.microsoft.com/careers/job/1970393557074643) — Redmond, WA · posted 2026-11-17 · SWE · BS/MS
 - [Software Engineer - Ctj - Poly](https://apply.careers.microsoft.com/careers/job/1970393556860973) — Annapolis Junction, MD, Reston, VA · posted 2026-06-18 · SWE · BS
 

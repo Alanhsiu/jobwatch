@@ -1,5 +1,31 @@
 [
  {
+  "id": "simplify:eeb8a3d8-a05a-4abf-b269-e5682537a216",
+  "first_seen": 1795231009,
+  "company": "Apple",
+  "title": "Engineer New Grad - Evolve - An Apple Services Rotation Program",
+  "location": "Seattle, WA, NYC, Cupertino, CA",
+  "url": "https://jobs.apple.com/en-us/details/200695965",
+  "category": "SWE",
+  "posted": "2026-11-20",
+  "date_posted": 1795216305,
+  "active": true,
+  "locations": [
+   "Seattle, WA",
+   "NYC",
+   "Cupertino, CA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "apple|engineer new grad evolve an apple services rotation program",
+  "in_feed": true,
+  "reason": null
+ },
+ {
   "id": "simplify:b3468972-56ab-4076-a1ee-c523f1a719cd",
   "first_seen": 1795180337,
   "company": "Apple",
@@ -117,31 +143,6 @@
   ],
   "sponsorship": "Other",
   "group": "microsoft|software engineer agentic security",
-  "in_feed": true,
-  "reason": null
- },
- {
-  "id": "simplify:e225362a-3608-44aa-ae93-8c06b023ccd7",
-  "first_seen": 1794884347,
-  "company": "Microsoft",
-  "title": "Software Engineer",
-  "location": "Remote in USA, United States",
-  "url": "https://apply.careers.microsoft.com/careers/job/1970393557074534",
-  "category": "SWE",
-  "posted": "2026-11-16",
-  "date_posted": 1794871653,
-  "active": true,
-  "locations": [
-   "Remote in USA",
-   "United States"
-  ],
-  "region": "US",
-  "degrees": [
-   "Bachelor's",
-   "Master's"
-  ],
-  "sponsorship": "Other",
-  "group": "microsoft|software engineer",
   "in_feed": true,
   "reason": null
  },
@@ -703,6 +704,31 @@
   "group": "amazon|systems development engineer aws commerce platform adc",
   "in_feed": true,
   "reason": null
+ },
+ {
+  "id": "simplify:5b152919-6dd2-49e1-9338-9bec77d7fdd3",
+  "first_seen": 1794016884,
+  "company": "Microsoft",
+  "title": "Software Engineer",
+  "location": "Reston, VA",
+  "url": "https://apply.careers.microsoft.com/careers/job/1970393557053350",
+  "category": "SWE",
+  "posted": "2026-11-06",
+  "date_posted": 1794008282,
+  "active": true,
+  "locations": [
+   "Reston, VA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "microsoft|software engineer",
+  "in_feed": true,
+  "reason": null,
+  "last_seen": 1794669102
  },
  {
   "id": "simplify:8d9f37dc-7e91-4b54-8583-f266af7d0c8a",
@@ -1560,37 +1586,6 @@
   ],
   "sponsorship": "Other",
   "group": "amazon|system development engineer region reliability engineering",
-  "in_feed": true,
-  "reason": null
- },
- {
-  "id": "simplify:99e8b672-5e35-4fbe-a857-fa9a8fece7a5",
-  "first_seen": 1792741310,
-  "company": "Amazon",
-  "title": "Software Development Engineer - Embedded Systems",
-  "location": "Seattle, WA, Austin, TX, Redmond, WA",
-  "url": "https://amazon.jobs/en/jobs/3183020/software-development-engineer-embedded-systems-2026-us",
-  "category": "HW",
-  "posted": "2026-10-23",
-  "date_posted": 1792719944,
-  "active": true,
-  "locations": [
-   "Seattle, WA",
-   "Austin, TX",
-   "Redmond, WA",
-   "Santa Clara, CA",
-   "Northridge, LA",
-   "Hudson, MA",
-   "Cupertino, CA",
-   "Sunnyvale, CA",
-   "Herndon, VA"
-  ],
-  "region": "US",
-  "degrees": [
-   "Bachelor's"
-  ],
-  "sponsorship": "Other",
-  "group": "amazon|software development engineer embedded systems",
   "in_feed": true,
   "reason": null
  },
@@ -7960,6 +7955,33 @@
   "reason": null
  },
  {
+  "id": "simplify:e225362a-3608-44aa-ae93-8c06b023ccd7",
+  "first_seen": 1794884347,
+  "company": "Microsoft",
+  "title": "Software Engineer",
+  "location": "Remote in USA, United States",
+  "url": "https://apply.careers.microsoft.com/careers/job/1970393557074534",
+  "category": "SWE",
+  "posted": "2026-11-16",
+  "date_posted": 1794871653,
+  "active": false,
+  "locations": [
+   "Remote in USA",
+   "United States"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "microsoft|software engineer",
+  "in_feed": false,
+  "reason": "closed",
+  "closed_at": 1795231009,
+  "last_seen": 1795231009
+ },
+ {
   "id": "simplify:970abbb2-7906-4686-914b-09bd6d622dd5",
   "first_seen": 1794638653,
   "company": "Microsoft",
@@ -8354,32 +8376,6 @@
   "reason": "closed",
   "closed_at": 1794344043,
   "last_seen": 1794344043
- },
- {
-  "id": "simplify:5b152919-6dd2-49e1-9338-9bec77d7fdd3",
-  "first_seen": 1794016884,
-  "company": "Microsoft",
-  "title": "Software Engineer",
-  "location": "Reston, VA",
-  "url": "https://apply.careers.microsoft.com/careers/job/1970393557053350",
-  "category": "SWE",
-  "posted": "2026-11-06",
-  "date_posted": 1794008282,
-  "active": false,
-  "locations": [
-   "Reston, VA"
-  ],
-  "region": "US",
-  "degrees": [
-   "Bachelor's",
-   "Master's"
-  ],
-  "sponsorship": "Other",
-  "group": "microsoft|software engineer",
-  "in_feed": false,
-  "reason": "closed",
-  "closed_at": 1794669102,
-  "last_seen": 1794669102
  },
  {
   "id": "simplify:0559e77e-4693-4e8a-a1c3-177e65abdd9a",
@@ -9018,6 +9014,39 @@
   "reason": "closed",
   "closed_at": 1794613302,
   "last_seen": 1794613302
+ },
+ {
+  "id": "simplify:99e8b672-5e35-4fbe-a857-fa9a8fece7a5",
+  "first_seen": 1792741310,
+  "company": "Amazon",
+  "title": "Software Development Engineer - Embedded Systems",
+  "location": "Seattle, WA, Austin, TX, Redmond, WA",
+  "url": "https://amazon.jobs/en/jobs/3183020/software-development-engineer-embedded-systems-2026-us",
+  "category": "HW",
+  "posted": "2026-10-23",
+  "date_posted": 1792719944,
+  "active": false,
+  "locations": [
+   "Seattle, WA",
+   "Austin, TX",
+   "Redmond, WA",
+   "Santa Clara, CA",
+   "Northridge, LA",
+   "Hudson, MA",
+   "Cupertino, CA",
+   "Sunnyvale, CA",
+   "Herndon, VA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's"
+  ],
+  "sponsorship": "Other",
+  "group": "amazon|software development engineer embedded systems",
+  "in_feed": false,
+  "reason": "closed",
+  "closed_at": 1795231009,
+  "last_seen": 1795231009
  },
  {
   "id": "simplify:3557be68-fc43-4f36-88de-aeddac816ec2",
