@@ -678,34 +678,6 @@
   "reason": null
  },
  {
-  "id": "simplify:e7b2cc70-862f-4045-bc00-627e408d80b1",
-  "first_seen": 1794016884,
-  "company": "Amazon",
-  "title": "Systems Development Engineer - AWS Commerce Platform-ADC",
-  "location": "Denver, CO",
-  "url": "https://amazon.jobs/en/jobs/10598815/systems-development-engineer-aws-commerce-platform-adc",
-  "category": "SWE",
-  "posted": "2026-11-06",
-  "date_posted": 1794008658,
-  "active": true,
-  "locations": [
-   "Denver, CO"
-  ],
-  "region": "US",
-  "degrees": [
-   "Bachelor's",
-   "Master's",
-   "MBA",
-   "PharmD",
-   "PhD",
-   "Associate's"
-  ],
-  "sponsorship": "Other",
-  "group": "amazon|systems development engineer aws commerce platform adc",
-  "in_feed": true,
-  "reason": null
- },
- {
   "id": "simplify:5b152919-6dd2-49e1-9338-9bec77d7fdd3",
   "first_seen": 1794016884,
   "company": "Microsoft",
@@ -8376,6 +8348,36 @@
   "reason": "closed",
   "closed_at": 1794344043,
   "last_seen": 1794344043
+ },
+ {
+  "id": "simplify:e7b2cc70-862f-4045-bc00-627e408d80b1",
+  "first_seen": 1794016884,
+  "company": "Amazon",
+  "title": "Systems Development Engineer - AWS Commerce Platform-ADC",
+  "location": "Denver, CO",
+  "url": "https://amazon.jobs/en/jobs/10598815/systems-development-engineer-aws-commerce-platform-adc",
+  "category": "SWE",
+  "posted": "2026-11-06",
+  "date_posted": 1794008658,
+  "active": false,
+  "locations": [
+   "Denver, CO"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's",
+   "MBA",
+   "PharmD",
+   "PhD",
+   "Associate's"
+  ],
+  "sponsorship": "Other",
+  "group": "amazon|systems development engineer aws commerce platform adc",
+  "in_feed": false,
+  "reason": "closed",
+  "closed_at": 1795370053,
+  "last_seen": 1795370053
  },
  {
   "id": "simplify:0559e77e-4693-4e8a-a1c3-177e65abdd9a",

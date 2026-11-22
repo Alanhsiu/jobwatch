@@ -8,7 +8,7 @@ sync between devices through this repo. No servers, no database, no cost — a p
 bot token. This repo's tracker: **[alanhsiu.github.io/jobwatch](https://alanhsiu.github.io/jobwatch/)** (a fork gets its own at `https://<owner>.github.io/<repo>/`).
 
 <!-- JOBS:HEAD:START -->
-_323 open new-grad roles at 51 companies · list last changed 2026-11-21 · scans every ~2 h_ · **[Open the tracker](https://alanhsiu.github.io/jobwatch/)** · [Full list ↓](#current-roles) · TikTok 106 · ByteDance 33 · Amazon 26 · Apple 13 · Palantir 12 · Shield AI 12 · Anduril 9 · Microsoft 6 · …
+_322 open new-grad roles at 51 companies · list last changed 2026-11-22 · scans every ~2 h_ · **[Open the tracker](https://alanhsiu.github.io/jobwatch/)** · [Full list ↓](#current-roles) · TikTok 106 · ByteDance 33 · Amazon 25 · Apple 13 · Palantir 12 · Shield AI 12 · Anduril 9 · Microsoft 6 · …
 <!-- JOBS:HEAD:END -->
 
 ## How it works
@@ -333,12 +333,11 @@ and `.nojekyll` into `docs/`, set Pages to `/docs`, and give every device a toke
 
 </details>
 <details>
-<summary>Amazon (26)</summary>
+<summary>Amazon (25)</summary>
 
 - [Software Development Engineer - Robotics](https://amazon.jobs/en/jobs/10607764/software-development-engineer-robotics-2027) · [2](https://amazon.jobs/en/jobs/10567489/software-development-engineer-robotics-early-career-2027) — Austin, TX, North Reading, MA, Westborough, MA; Seattle, WA, Nashville, TN, Austin, TX · posted 2026-11-18 · SWE · BS
 - [Software Development Engineer 1 - Inference models optimization - AWS Neuron Inference](https://amazon.jobs/en/jobs/10598223/software-development-engineer-i-inference-models-optimization-aws-neuron-inference) — Cupertino, CA · posted 2026-11-11 · ML · BS
 - [Software Development Engineer Early Career - Amazon Dedicated Cloud](https://amazon.jobs/en/jobs/10601956/software-development-engineer-amazon-dedicated-cloud-early-career-2027-amazon-dedicated-cloud-adc) — Seattle, WA, Jessup, MD, Arlington County, Arlington, VA · posted 2026-11-11 · SWE · BS/MS/PhD
-- [Systems Development Engineer - AWS Commerce Platform-ADC](https://amazon.jobs/en/jobs/10598815/systems-development-engineer-aws-commerce-platform-adc) — Denver, CO · posted 2026-11-06 · SWE · BS/MS/PhD
 - [Software Development Engineer – Early Career](https://amazon.jobs/en/jobs/10597803/software-development-engineer-amazon-leo-early-career-2027-us) — Redmond, WA · posted 2026-11-05 · SWE · BS/MS
 - [Software Development Engineer – Early Career - Embedded Systems](https://amazon.jobs/en/jobs/10598021/software-development-engineer-embedded-systems-amazon-leo-early-career-2027-us) · [2](https://amazon.jobs/en/jobs/10595839/software-development-engineer-embedded-systems-early-career-2027-us) — Redmond, WA, Northridge, LA; Seattle, WA, Cupertino, CA, United States · posted 2026-11-05 · HW · BS/MS
 - [Software Developer Engineer 1 - Security Platform](https://amazon.jobs/en/jobs/10597112/software-dev-engineer-i-security-platform) — Seattle, WA, SF, Irvine, CA · posted 2026-11-05 · SWE · BS
