@@ -2128,6 +2128,29 @@
   "reason": null
  },
  {
+  "id": "simplify:65631f60-2928-47c7-a3b3-2c66d4748283",
+  "first_seen": 1795403745,
+  "company": "Rivian",
+  "title": "Attributes Method Engineer",
+  "location": "Irvine, CA",
+  "url": "https://careers.rivian.com/jobs/34080?icims=1",
+  "category": "SWE",
+  "posted": "2026-09-30",
+  "date_posted": 1790807021,
+  "active": true,
+  "locations": [
+   "Irvine, CA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's"
+  ],
+  "sponsorship": "Other",
+  "group": "rivian|attributes method engineer",
+  "in_feed": true,
+  "reason": null
+ },
+ {
   "id": "simplify:d739b0c1-7de2-4820-8075-fc8cf49855fd",
   "first_seen": 1790812668,
   "company": "Atlassian",

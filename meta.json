@@ -4,28 +4,28 @@
  "repo": "Alanhsiu/jobwatch",
  "branch": "main",
  "pages_url": "https://alanhsiu.github.io/jobwatch/",
- "last_run": 1795370053,
- "last_change": 1795370053,
+ "last_run": 1795403745,
+ "last_change": 1795403745,
  "last_result": "ok",
  "feed": {
-  "records": 18505,
-  "active": 3132,
-  "fetched_at": 1795370053,
+  "records": 18454,
+  "active": 3139,
+  "fetched_at": 1795403745,
   "attempts": 1
  },
  "counts": {
-  "active": 322,
+  "active": 323,
   "closed": 378,
   "untracked": 47,
-  "groups": 271,
-  "companies": 51,
-  "new_this_run": 0,
+  "groups": 272,
+  "companies": 52,
+  "new_this_run": 1,
   "silent_known_this_run": 0,
-  "closed_this_run": 1,
+  "closed_this_run": 0,
   "untracked_this_run": 0
  },
  "rejects": {
-  "category": 138,
+  "category": 137,
   "phd": 170,
   "title": 16,
   "region": 44,
@@ -704,6 +704,14 @@
    "names": [],
    "denied": 0
   },
+  "rivian": {
+   "active": 1,
+   "all_time": 1,
+   "names": [
+    "Rivian"
+   ],
+   "denied": 0
+  },
   "rivos": {
    "active": 0,
    "all_time": 0,
@@ -994,8 +1002,8 @@
   }
  },
  "telegram": {
-  "mode": "none",
-  "delivered": 0,
+  "mode": "sent",
+  "delivered": 1,
   "failed_chunks": 0,
   "creds": true
  },

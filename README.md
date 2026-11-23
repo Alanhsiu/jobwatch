@@ -8,7 +8,7 @@ sync between devices through this repo. No servers, no database, no cost — a p
 bot token. This repo's tracker: **[alanhsiu.github.io/jobwatch](https://alanhsiu.github.io/jobwatch/)** (a fork gets its own at `https://<owner>.github.io/<repo>/`).
 
 <!-- JOBS:HEAD:START -->
-_322 open new-grad roles at 51 companies · list last changed 2026-11-22 · scans every ~2 h_ · **[Open the tracker](https://alanhsiu.github.io/jobwatch/)** · [Full list ↓](#current-roles) · TikTok 106 · ByteDance 33 · Amazon 25 · Apple 13 · Palantir 12 · Shield AI 12 · Anduril 9 · Microsoft 6 · …
+_323 open new-grad roles at 52 companies · list last changed 2026-11-23 · scans every ~2 h_ · **[Open the tracker](https://alanhsiu.github.io/jobwatch/)** · [Full list ↓](#current-roles) · TikTok 106 · ByteDance 33 · Amazon 25 · Apple 13 · Palantir 12 · Shield AI 12 · Anduril 9 · Microsoft 6 · …
 <!-- JOBS:HEAD:END -->
 
 ## How it works
@@ -698,6 +698,12 @@ and `.nojekyll` into `docs/`, set Pages to `/docs`, and give every device a toke
 <summary>Perplexity AI (1)</summary>
 
 - [Member of Technical Staff - Software Engineer - AI Policy and Strategic Initiatives](https://jobs.ashbyhq.com/perplexity/1056951e-8a42-4330-b72c-90162b3cd1c9/application?embed=true) — Washington, DC, SF · posted 2026-11-07 · SWE
+
+</details>
+<details open>
+<summary>Rivian (1)</summary>
+
+- [Attributes Method Engineer](https://careers.rivian.com/jobs/34080?icims=1) — Irvine, CA · posted 2026-09-30 · SWE · BS
 
 </details>
 <details open>
