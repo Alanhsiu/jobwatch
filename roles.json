@@ -1271,31 +1271,6 @@
   "reason": null
  },
  {
-  "id": "simplify:d08ceabe-f3ba-46d0-ac76-e4809c9fe1e9",
-  "first_seen": 1793177023,
-  "company": "Shield AI",
-  "title": "Autonomous Software Engineer New Grad",
-  "location": "San Diego, CA",
-  "url": "https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/c0735824-2b3c-46a2-a888-99e7376a9606/application?embed=true",
-  "category": "HW",
-  "posted": "2026-10-27",
-  "date_posted": 1793059200,
-  "active": true,
-  "locations": [
-   "San Diego, CA"
-  ],
-  "region": "US",
-  "degrees": [
-   "Bachelor's",
-   "Master's",
-   "PhD"
-  ],
-  "sponsorship": "Other",
-  "group": "shield ai|autonomous software engineer new grad",
-  "in_feed": true,
-  "reason": null
- },
- {
   "id": "simplify:add2af69-d211-451e-87a2-8feb56317943",
   "first_seen": 1793064694,
   "company": "Microsoft",
@@ -8813,6 +8788,33 @@
   "reason": "closed",
   "closed_at": 1793676619,
   "last_seen": 1793676619
+ },
+ {
+  "id": "simplify:d08ceabe-f3ba-46d0-ac76-e4809c9fe1e9",
+  "first_seen": 1793177023,
+  "company": "Shield AI",
+  "title": "Autonomous Software Engineer New Grad",
+  "location": "San Diego, CA",
+  "url": "https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/c0735824-2b3c-46a2-a888-99e7376a9606/application?embed=true",
+  "category": "HW",
+  "posted": "2026-10-27",
+  "date_posted": 1793059200,
+  "active": false,
+  "locations": [
+   "San Diego, CA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's",
+   "PhD"
+  ],
+  "sponsorship": "Other",
+  "group": "shield ai|autonomous software engineer new grad",
+  "in_feed": false,
+  "reason": "closed",
+  "closed_at": 1795465243,
+  "last_seen": 1795465243
  },
  {
   "id": "simplify:b3968d77-3489-4bef-9ff3-acd12708ba23",
