@@ -1,5 +1,29 @@
 [
  {
+  "id": "simplify:0b03f09e-f8ed-4344-8984-f9e750cc2440",
+  "first_seen": 1795495899,
+  "company": "Microsoft",
+  "title": "Software Engineer-Securing AI",
+  "location": "Redmond, WA",
+  "url": "https://apply.careers.microsoft.com/careers/job/1970393557073425",
+  "category": "SWE",
+  "posted": "2026-11-24",
+  "date_posted": 1795488684,
+  "active": true,
+  "locations": [
+   "Redmond, WA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "microsoft|software engineer securing ai",
+  "in_feed": true,
+  "reason": null
+ },
+ {
   "id": "simplify:eeb8a3d8-a05a-4abf-b269-e5682537a216",
   "first_seen": 1795231009,
   "company": "Apple",
@@ -352,32 +376,6 @@
   "last_seen": 1794762967
  },
  {
-  "id": "simplify:8317de49-cf07-44e3-9ff1-0de4a824662a",
-  "first_seen": 1794477423,
-  "company": "Shield AI",
-  "title": "Engineer 2 New Grad - Software - Perception",
-  "location": "United States",
-  "url": "https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/2aa92f37-7e2f-4c12-9f2c-1316e1a743a7/application?embed=true",
-  "category": "SWE",
-  "posted": "2026-11-11",
-  "date_posted": 1794355200,
-  "active": true,
-  "locations": [
-   "United States"
-  ],
-  "region": "US",
-  "degrees": [
-   "Bachelor's",
-   "Master's",
-   "PhD"
-  ],
-  "sponsorship": "Other",
-  "group": "shield ai|engineer 2 new grad software perception",
-  "in_feed": true,
-  "reason": null,
-  "last_seen": 1794762967
- },
- {
   "id": "simplify:0120e440-b745-4397-ba25-12ed4f87430c",
   "first_seen": 1794362350,
   "company": "Salesforce",
@@ -481,31 +479,6 @@
   "reason": null
  },
  {
-  "id": "simplify:2a02aac8-141d-448e-bdf4-a6842f1f372e",
-  "first_seen": 1794188766,
-  "company": "Shield AI",
-  "title": "Engineer 1 New Grad - Software - Perception",
-  "location": "Washington, DC",
-  "url": "https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/e4ac2482-6da7-4ab9-bab8-7bccbf3f6ae7/application?embed=true",
-  "category": "SWE",
-  "posted": "2026-11-08",
-  "date_posted": 1794096000,
-  "active": true,
-  "locations": [
-   "Washington, DC"
-  ],
-  "region": "US",
-  "degrees": [
-   "Bachelor's",
-   "Master's",
-   "PhD"
-  ],
-  "sponsorship": "Other",
-  "group": "shield ai|engineer 1 new grad software perception",
-  "in_feed": true,
-  "reason": null
- },
- {
   "id": "simplify:ef376430-19cd-41b4-baa8-322fc5fcf45a",
   "first_seen": 1794389746,
   "company": "Shield AI",
@@ -527,31 +500,6 @@
   ],
   "sponsorship": "Other",
   "group": "shield ai|engineer 1 new grad software perception",
-  "in_feed": true,
-  "reason": null
- },
- {
-  "id": "simplify:07edd5c1-ff46-4123-aaab-3b21723aefff",
-  "first_seen": 1794188766,
-  "company": "Shield AI",
-  "title": "Engineer 2 New Grad - Multiple Teams",
-  "location": "Washington, DC",
-  "url": "https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/e7cb113f-9656-452c-a214-40241dfc04b0/application?embed=true",
-  "category": "SWE",
-  "posted": "2026-11-08",
-  "date_posted": 1794096000,
-  "active": true,
-  "locations": [
-   "Washington, DC"
-  ],
-  "region": "US",
-  "degrees": [
-   "Bachelor's",
-   "Master's",
-   "PhD"
-  ],
-  "sponsorship": "Other",
-  "group": "shield ai|engineer 2 new grad multiple teams",
   "in_feed": true,
   "reason": null
  },
@@ -587,32 +535,6 @@
   "title": "Software Engineer 1 New Grad - Software - Autonomy Capabilities",
   "location": "United States",
   "url": "https://jobs.ashbyhq.com/shield/955d48ad-9380-4621-91f4-51f3f093ac10/application?embed=true",
-  "category": "SWE",
-  "posted": "2026-11-08",
-  "date_posted": 1794096000,
-  "active": true,
-  "locations": [
-   "United States"
-  ],
-  "region": "US",
-  "degrees": [
-   "Bachelor's",
-   "Master's",
-   "PhD"
-  ],
-  "sponsorship": "Other",
-  "group": "shield ai|software engineer 1 new grad software autonomy capabilities",
-  "in_feed": true,
-  "reason": null,
-  "last_seen": 1794762967
- },
- {
-  "id": "simplify:cb9057c1-ead7-42d2-8535-e6ee376a8005",
-  "first_seen": 1794188766,
-  "company": "Shield AI",
-  "title": "Software Engineer 1 New Grad - Software - Autonomy Capabilities",
-  "location": "United States",
-  "url": "https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/955d48ad-9380-4621-91f4-51f3f093ac10/application?embed=true",
   "category": "SWE",
   "posted": "2026-11-08",
   "date_posted": 1794096000,
@@ -1533,29 +1455,6 @@
   ],
   "sponsorship": "Other",
   "group": "amazon|system development engineer region reliability engineering",
-  "in_feed": true,
-  "reason": null
- },
- {
-  "id": "simplify:74eb4b4b-ac29-4bdc-90f3-f70b743e4c06",
-  "first_seen": 1793177023,
-  "company": "Shield AI",
-  "title": "Software Engineer New Grad",
-  "location": "Seattle, WA",
-  "url": "https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/986a26e9-0597-4402-85ee-0f05a6012902/application?embed=true",
-  "category": "SWE",
-  "posted": "2026-10-23",
-  "date_posted": 1792713600,
-  "active": true,
-  "locations": [
-   "Seattle, WA"
-  ],
-  "region": "US",
-  "degrees": [
-   "Bachelor's"
-  ],
-  "sponsorship": "Other",
-  "group": "shield ai|software engineer new grad",
   "in_feed": true,
   "reason": null
  },
@@ -4559,31 +4458,6 @@
   "reason": null
  },
  {
-  "id": "simplify:3d753fc3-2bd4-4933-88e0-f2500926ed8b",
-  "company": "ByteDance",
-  "title": "Data Lake Infrastructure & Data Analytics Research Engineer Graduate - AML-ARK",
-  "location": "Seattle, WA",
-  "url": "https://jobs.bytedance.com/en/position/7672395094280063285/detail",
-  "category": "ML",
-  "posted": "2026-08-11",
-  "date_posted": 1786468730,
-  "active": true,
-  "first_seen": 1786492155.1446466,
-  "last_seen": 1789521191.4314806,
-  "locations": [
-   "Seattle, WA"
-  ],
-  "region": "US",
-  "degrees": [
-   "Bachelor's",
-   "Master's"
-  ],
-  "sponsorship": "Other",
-  "group": "bytedance|data lake infrastructure data analytics research engineer graduate aml ark",
-  "in_feed": true,
-  "reason": null
- },
- {
   "id": "simplify:73cef19e-ced7-497b-bf62-388cb64b1801",
   "company": "ByteDance",
   "title": "Visual Generation & Multimodal Evaluation Machine Learning Engineer Graduate",
@@ -4654,31 +4528,6 @@
   ],
   "sponsorship": "Other",
   "group": "bytedance|visual generation multimodal evaluation machine learning engineer graduate applied machine learning ark",
-  "in_feed": true,
-  "reason": null
- },
- {
-  "id": "simplify:2edede57-7aef-4b3c-bf5a-75457e023318",
-  "company": "ByteDance",
-  "title": "Data Lake Infrastructure & Data Analytics Research Engineer Graduate - Applied Machine Learning Ark",
-  "location": "San Jose, CA",
-  "url": "https://jobs.bytedance.com/en/position/7671107540954777861/detail",
-  "category": "ML",
-  "posted": "2026-08-10",
-  "date_posted": 1786388382,
-  "active": true,
-  "first_seen": 1786405220.6323364,
-  "last_seen": 1789521191.4314806,
-  "locations": [
-   "San Jose, CA"
-  ],
-  "region": "US",
-  "degrees": [
-   "Bachelor's",
-   "Master's"
-  ],
-  "sponsorship": "Other",
-  "group": "bytedance|data lake infrastructure data analytics research engineer graduate applied machine learning ark",
   "in_feed": true,
   "reason": null
  },
@@ -8190,6 +8039,33 @@
   "last_seen": 1794613302
  },
  {
+  "id": "simplify:8317de49-cf07-44e3-9ff1-0de4a824662a",
+  "first_seen": 1794477423,
+  "company": "Shield AI",
+  "title": "Engineer 2 New Grad - Software - Perception",
+  "location": "United States",
+  "url": "https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/2aa92f37-7e2f-4c12-9f2c-1316e1a743a7/application?embed=true",
+  "category": "SWE",
+  "posted": "2026-11-11",
+  "date_posted": 1794355200,
+  "active": false,
+  "locations": [
+   "United States"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's",
+   "PhD"
+  ],
+  "sponsorship": "Other",
+  "group": "shield ai|engineer 2 new grad software perception",
+  "in_feed": false,
+  "reason": "closed",
+  "last_seen": 1795495899,
+  "closed_at": 1795495899
+ },
+ {
   "id": "simplify:1d0612f6-6b43-47c4-9a7f-65017afa789c",
   "first_seen": 1794314795,
   "company": "Anysphere",
@@ -8321,6 +8197,87 @@
   "reason": "closed",
   "closed_at": 1794613302,
   "last_seen": 1794613302
+ },
+ {
+  "id": "simplify:2a02aac8-141d-448e-bdf4-a6842f1f372e",
+  "first_seen": 1794188766,
+  "company": "Shield AI",
+  "title": "Engineer 1 New Grad - Software - Perception",
+  "location": "Washington, DC",
+  "url": "https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/e4ac2482-6da7-4ab9-bab8-7bccbf3f6ae7/application?embed=true",
+  "category": "SWE",
+  "posted": "2026-11-08",
+  "date_posted": 1794096000,
+  "active": false,
+  "locations": [
+   "Washington, DC"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's",
+   "PhD"
+  ],
+  "sponsorship": "Other",
+  "group": "shield ai|engineer 1 new grad software perception",
+  "in_feed": false,
+  "reason": "closed",
+  "closed_at": 1795495899,
+  "last_seen": 1795495899
+ },
+ {
+  "id": "simplify:07edd5c1-ff46-4123-aaab-3b21723aefff",
+  "first_seen": 1794188766,
+  "company": "Shield AI",
+  "title": "Engineer 2 New Grad - Multiple Teams",
+  "location": "Washington, DC",
+  "url": "https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/e7cb113f-9656-452c-a214-40241dfc04b0/application?embed=true",
+  "category": "SWE",
+  "posted": "2026-11-08",
+  "date_posted": 1794096000,
+  "active": false,
+  "locations": [
+   "Washington, DC"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's",
+   "PhD"
+  ],
+  "sponsorship": "Other",
+  "group": "shield ai|engineer 2 new grad multiple teams",
+  "in_feed": false,
+  "reason": "closed",
+  "closed_at": 1795495899,
+  "last_seen": 1795495899
+ },
+ {
+  "id": "simplify:cb9057c1-ead7-42d2-8535-e6ee376a8005",
+  "first_seen": 1794188766,
+  "company": "Shield AI",
+  "title": "Software Engineer 1 New Grad - Software - Autonomy Capabilities",
+  "location": "United States",
+  "url": "https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/955d48ad-9380-4621-91f4-51f3f093ac10/application?embed=true",
+  "category": "SWE",
+  "posted": "2026-11-08",
+  "date_posted": 1794096000,
+  "active": false,
+  "locations": [
+   "United States"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's",
+   "PhD"
+  ],
+  "sponsorship": "Other",
+  "group": "shield ai|software engineer 1 new grad software autonomy capabilities",
+  "in_feed": false,
+  "reason": "closed",
+  "last_seen": 1795495899,
+  "closed_at": 1795495899
  },
  {
   "id": "simplify:ae0259f6-a081-4a42-8a14-c855b03e92f6",
@@ -9098,6 +9055,31 @@
   "reason": "closed",
   "closed_at": 1792840603,
   "last_seen": 1792840603
+ },
+ {
+  "id": "simplify:74eb4b4b-ac29-4bdc-90f3-f70b743e4c06",
+  "first_seen": 1793177023,
+  "company": "Shield AI",
+  "title": "Software Engineer New Grad",
+  "location": "Seattle, WA",
+  "url": "https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/986a26e9-0597-4402-85ee-0f05a6012902/application?embed=true",
+  "category": "SWE",
+  "posted": "2026-10-23",
+  "date_posted": 1792713600,
+  "active": false,
+  "locations": [
+   "Seattle, WA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's"
+  ],
+  "sponsorship": "Other",
+  "group": "shield ai|software engineer new grad",
+  "in_feed": false,
+  "reason": "closed",
+  "closed_at": 1795495899,
+  "last_seen": 1795495899
  },
  {
   "id": "simplify:f0af7b08-4219-47f9-bdb7-9ff2e900dcc8",
@@ -12528,6 +12510,32 @@
   "group": "bytedance|agent evaluation evolution researcher graduate applied machine learning ark"
  },
  {
+  "id": "simplify:3d753fc3-2bd4-4933-88e0-f2500926ed8b",
+  "company": "ByteDance",
+  "title": "Data Lake Infrastructure & Data Analytics Research Engineer Graduate - AML-ARK",
+  "location": "Seattle, WA",
+  "url": "https://jobs.bytedance.com/en/position/7672395094280063285/detail",
+  "category": "ML",
+  "posted": "2026-08-11",
+  "date_posted": 1786468730,
+  "active": false,
+  "first_seen": 1786492155.1446466,
+  "last_seen": 1795495899,
+  "locations": [
+   "Seattle, WA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "bytedance|data lake infrastructure data analytics research engineer graduate aml ark",
+  "in_feed": false,
+  "reason": "closed",
+  "closed_at": 1795495899
+ },
+ {
   "id": "simplify:7f2aef69-8f56-49be-8f29-f9b37419bd0e",
   "company": "ByteDance",
   "title": "Research Engineer",
@@ -12636,10 +12644,9 @@
    "PhD"
   ],
   "sponsorship": "Other",
-  "in_feed": true,
+  "in_feed": false,
   "closed_at": 1789570473,
-  "reason": "untracked",
-  "why": "phd",
+  "reason": "closed",
   "group": "bytedance|data lake infrastructure data analytics research engineer graduate applied machine learning ark"
  },
  {
@@ -12727,6 +12734,32 @@
   "closed_at": 1788483176,
   "reason": "closed",
   "group": "bytedance|machine learning engineer graduate aml engine orchestration"
+ },
+ {
+  "id": "simplify:2edede57-7aef-4b3c-bf5a-75457e023318",
+  "company": "ByteDance",
+  "title": "Data Lake Infrastructure & Data Analytics Research Engineer Graduate - Applied Machine Learning Ark",
+  "location": "San Jose, CA",
+  "url": "https://jobs.bytedance.com/en/position/7671107540954777861/detail",
+  "category": "ML",
+  "posted": "2026-08-10",
+  "date_posted": 1786388382,
+  "active": false,
+  "first_seen": 1786405220.6323364,
+  "last_seen": 1795495899,
+  "locations": [
+   "San Jose, CA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "bytedance|data lake infrastructure data analytics research engineer graduate applied machine learning ark",
+  "in_feed": false,
+  "reason": "closed",
+  "closed_at": 1795495899
  },
  {
   "id": "simplify:34e8252a-5780-4198-ae6b-5c5a32bab687",
@@ -12864,10 +12897,9 @@
    "PhD"
   ],
   "sponsorship": "Other",
-  "in_feed": true,
+  "in_feed": false,
   "closed_at": 1789570473,
-  "reason": "untracked",
-  "why": "phd",
+  "reason": "closed",
   "group": "bytedance|ai molecular dynamics algorithm researcher graduate seed ai for science atomistic ai"
  },
  {
