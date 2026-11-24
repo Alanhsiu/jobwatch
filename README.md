@@ -8,7 +8,7 @@ sync between devices through this repo. No servers, no database, no cost — a p
 bot token. This repo's tracker: **[alanhsiu.github.io/jobwatch](https://alanhsiu.github.io/jobwatch/)** (a fork gets its own at `https://<owner>.github.io/<repo>/`).
 
 <!-- JOBS:HEAD:START -->
-_316 open new-grad roles at 52 companies · list last changed 2026-11-24 · scans every ~2 h_ · **[Open the tracker](https://alanhsiu.github.io/jobwatch/)** · [Full list ↓](#current-roles) · TikTok 106 · ByteDance 31 · Amazon 25 · Apple 13 · Palantir 12 · Anduril 9 · Microsoft 7 · Shield AI 6 · …
+_316 open new-grad roles at 52 companies · list last changed 2026-11-24 · scans every ~2 h_ · **[Open the tracker](https://alanhsiu.github.io/jobwatch/)** · [Full list ↓](#current-roles) · TikTok 106 · ByteDance 31 · Amazon 25 · Apple 13 · Palantir 12 · Anduril 9 · Microsoft 7 · Shield AI 7 · …
 <!-- JOBS:HEAD:END -->
 
 ## How it works
@@ -406,25 +406,15 @@ and `.nojekyll` into `docs/`, set Pages to `/docs`, and give every device a toke
 
 </details>
 <details open>
-<summary>Shield AI (6)</summary>
+<summary>Shield AI (7)</summary>
 
+- [Engineer 2 New Grad - Software - Autonomy Capabilities](https://jobs.ashbyhq.com/shield/24de5a65-86ce-4269-ad26-0a3e85b42eec/application?embed=true) — Arlington County, Arlington, VA, San Diego, CA · posted 2026-11-11 · HW · BS/MS/PhD
 - [Engineer 2 New Grad - Software - Perception](https://jobs.ashbyhq.com/shield/2aa92f37-7e2f-4c12-9f2c-1316e1a743a7/application?embed=true) — United States · posted 2026-11-11 · SWE · BS/MS/PhD
 - [Engineer 1 New Grad - Software - Perception](https://jobs.ashbyhq.com/shield/e4ac2482-6da7-4ab9-bab8-7bccbf3f6ae7/application?embed=true) — Washington, DC · posted 2026-11-08 · SWE · BS/MS/PhD
 - [Engineer 2 New Grad - Multiple Teams](https://jobs.ashbyhq.com/shield/e7cb113f-9656-452c-a214-40241dfc04b0/application?embed=true) — Washington, DC · posted 2026-11-08 · SWE · BS/MS/PhD
 - [Software Engineer 1 New Grad - Software - Autonomy Capabilities](https://jobs.ashbyhq.com/shield/955d48ad-9380-4621-91f4-51f3f093ac10/application?embed=true) — United States · posted 2026-11-08 · SWE · BS/MS/PhD
 - [Software Engineer 1 New Grad - Internal Tools](https://jobs.ashbyhq.com/shield/986a26e9-0597-4402-85ee-0f05a6012902/application?embed=true) — Seattle, WA · posted 2026-11-07 · SWE · BS
 - [Autonomous Software Engineer New Grad](https://jobs.ashbyhq.com/shield/c0735824-2b3c-46a2-a888-99e7376a9606/application?embed=true) — San Diego, CA · posted 2026-11-03 · HW · BS/MS/PhD
-
-</details>
-<details open>
-<summary>Susquehanna International Group (6)</summary>
-
-- [Software Developer - Core Order Management System - C++](https://careers-sig.icims.com/jobs/11068/job?mobile=true&needsRedirect=false) — Chicago, IL · posted 2026-11-05 · SWE
-- [Faculty Fellow](https://careers-sig.icims.com/jobs/9584/job?mobile=true&needsRedirect=false) — Bala Cynwyd, PA · posted 2026-11-05 · ML
-- [Quantitative Sports Researcher – Graduate Hire](https://careers-sig.icims.com/jobs/4454/job?mobile=true&needsRedirect=false) — Bala Cynwyd, PA · posted 2026-11-05 · Quant · MS/PhD
-- [Market Surveillance Data and Technology Analyst](https://careers-sig.icims.com/jobs/11693/job?mobile=true&needsRedirect=false) — Bala Cynwyd, PA · posted 2026-11-04 · ML · BS
-- [Trading System Engineer New Grad](https://careers-sig.icims.com/jobs/11349/job?mobile=true&needsRedirect=false) — Bala Cynwyd, PA · posted 2026-08-21 · Quant · BS/MS
-- [Quantitative Strategy Developer New Grad](https://careers-sig.icims.com/jobs/11321/job?mobile=true&needsRedirect=false) — Bala Cynwyd, PA · posted 2026-08-19 · Quant · BS/MS
 
 </details>
 <details open>
@@ -454,6 +444,16 @@ and `.nojekyll` into `docs/`, set Pages to `/docs`, and give every device a toke
 - [Runtime Engineer New Grad](https://sambanova.ai/sambanova-available-positions/?gh_jid=6224843004) — Austin, TX, San Jose, CA · posted 2026-10-27 · SWE · BS/MS/PhD
 - [Compiler Engineer New Grad](https://sambanova.ai/sambanova-available-positions/?gh_jid=6224835004) — Austin, TX, San Jose, CA · posted 2026-10-27 · SWE · BS/MS/PhD
 - [AI Performance Engineer New Grad](https://sambanova.ai/sambanova-available-positions/?gh_jid=6224936004) — Austin, TX, San Jose, CA · posted 2026-10-20 · ML · BS/MS/PhD
+
+</details>
+<details open>
+<summary>Susquehanna International Group (5)</summary>
+
+- [Software Developer - Core Order Management System - C++](https://careers-sig.icims.com/jobs/11068/job?mobile=true&needsRedirect=false) — Chicago, IL · posted 2026-11-05 · SWE
+- [Quantitative Sports Researcher – Graduate Hire](https://careers-sig.icims.com/jobs/4454/job?mobile=true&needsRedirect=false) — Bala Cynwyd, PA · posted 2026-11-05 · Quant · MS/PhD
+- [Market Surveillance Data and Technology Analyst](https://careers-sig.icims.com/jobs/11693/job?mobile=true&needsRedirect=false) — Bala Cynwyd, PA · posted 2026-11-04 · ML · BS
+- [Trading System Engineer New Grad](https://careers-sig.icims.com/jobs/11349/job?mobile=true&needsRedirect=false) — Bala Cynwyd, PA · posted 2026-08-21 · Quant · BS/MS
+- [Quantitative Strategy Developer New Grad](https://careers-sig.icims.com/jobs/11321/job?mobile=true&needsRedirect=false) — Bala Cynwyd, PA · posted 2026-08-19 · Quant · BS/MS
 
 </details>
 <details open>

@@ -350,6 +350,32 @@
   "reason": null
  },
  {
+  "id": "simplify:f633b964-2b4e-4cc9-909b-0de4e42c4cc6",
+  "first_seen": 1795543043,
+  "company": "Shield AI",
+  "title": "Engineer 2 New Grad - Software - Autonomy Capabilities",
+  "location": "Arlington County, Arlington, VA, San Diego, CA",
+  "url": "https://jobs.ashbyhq.com/shield/24de5a65-86ce-4269-ad26-0a3e85b42eec/application?embed=true",
+  "category": "HW",
+  "posted": "2026-11-11",
+  "date_posted": 1794355200,
+  "active": true,
+  "locations": [
+   "Arlington County, Arlington, VA",
+   "San Diego, CA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's",
+   "PhD"
+  ],
+  "sponsorship": "Other",
+  "group": "shield ai|engineer 2 new grad software autonomy capabilities",
+  "in_feed": true,
+  "reason": null
+ },
+ {
   "id": "simplify:735965af-ac15-473a-a2ef-8a15ab46f590",
   "first_seen": 1794477423,
   "company": "Shield AI",
@@ -715,27 +741,6 @@
   "degrees": [],
   "sponsorship": "Other",
   "group": "susquehanna international group|software developer core order management system c",
-  "in_feed": true,
-  "reason": null
- },
- {
-  "id": "simplify:79702bf6-af31-445f-97a0-9127d09059a3",
-  "first_seen": 1793896389,
-  "company": "Susquehanna International Group",
-  "title": "Faculty Fellow",
-  "location": "Bala Cynwyd, PA",
-  "url": "https://careers-sig.icims.com/jobs/9584/job?mobile=true&needsRedirect=false",
-  "category": "ML",
-  "posted": "2026-11-05",
-  "date_posted": 1793865150,
-  "active": true,
-  "locations": [
-   "Bala Cynwyd, PA"
-  ],
-  "region": "US",
-  "degrees": [],
-  "sponsorship": "Other",
-  "group": "susquehanna international group|faculty fellow",
   "in_feed": true,
   "reason": null
  },
@@ -8386,6 +8391,29 @@
   "last_seen": 1795022505
  },
  {
+  "id": "simplify:79702bf6-af31-445f-97a0-9127d09059a3",
+  "first_seen": 1793896389,
+  "company": "Susquehanna International Group",
+  "title": "Faculty Fellow",
+  "location": "Bala Cynwyd, PA",
+  "url": "https://careers-sig.icims.com/jobs/9584/job?mobile=true&needsRedirect=false",
+  "category": "ML",
+  "posted": "2026-11-05",
+  "date_posted": 1793865150,
+  "active": false,
+  "locations": [
+   "Bala Cynwyd, PA"
+  ],
+  "region": "US",
+  "degrees": [],
+  "sponsorship": "Other",
+  "group": "susquehanna international group|faculty fellow",
+  "in_feed": false,
+  "reason": "closed",
+  "closed_at": 1795543043,
+  "last_seen": 1795543043
+ },
+ {
   "id": "simplify:ec527e6a-082e-4155-a7f4-a114d18663c0",
   "first_seen": 1793862012,
   "company": "Microsoft",
@@ -12555,10 +12583,9 @@
    "PhD"
   ],
   "sponsorship": "Other",
-  "in_feed": true,
+  "in_feed": false,
   "closed_at": 1789570473,
-  "reason": "untracked",
-  "why": "phd",
+  "reason": "closed",
   "group": "bytedance|research engineer"
  },
  {
@@ -16289,10 +16316,11 @@
    "PhD"
   ],
   "sponsorship": "Other",
-  "in_feed": false,
+  "in_feed": true,
   "closed_at": 1789234769,
-  "reason": "closed",
-  "group": "susquehanna international group sig|quantitative systematic trader"
+  "reason": "untracked",
+  "group": "susquehanna international group sig|quantitative systematic trader",
+  "why": "phd"
  },
  {
   "id": "simplify:48008e25-fd18-4181-a61e-792a9c962548",
@@ -16341,10 +16369,11 @@
    "PhD"
   ],
   "sponsorship": "Other",
-  "in_feed": false,
+  "in_feed": true,
   "closed_at": 1789234769,
-  "reason": "closed",
-  "group": "susquehanna international group sig|quantitative researcher"
+  "reason": "untracked",
+  "group": "susquehanna international group sig|quantitative researcher",
+  "why": "phd"
  },
  {
   "id": "simplify:2da60465-c35e-418c-ba70-4bdf052f70b7",

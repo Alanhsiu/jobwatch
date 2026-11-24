@@ -4,33 +4,33 @@
  "repo": "Alanhsiu/jobwatch",
  "branch": "main",
  "pages_url": "https://alanhsiu.github.io/jobwatch/",
- "last_run": 1795495899,
- "last_change": 1795495899,
+ "last_run": 1795543043,
+ "last_change": 1795543043,
  "last_result": "ok",
  "feed": {
-  "records": 18448,
-  "active": 3099,
-  "fetched_at": 1795495899,
+  "records": 18470,
+  "active": 3085,
+  "fetched_at": 1795543043,
   "attempts": 1
  },
  "counts": {
   "active": 316,
   "closed": 388,
-  "untracked": 45,
+  "untracked": 46,
   "groups": 270,
   "companies": 52,
   "new_this_run": 1,
   "silent_known_this_run": 0,
-  "closed_this_run": 7,
+  "closed_this_run": 1,
   "untracked_this_run": 0
  },
  "rejects": {
-  "category": 130,
-  "phd": 165,
-  "title": 14,
+  "category": 128,
+  "phd": 166,
+  "title": 15,
   "region": 43,
   "sponsorship": 0,
-  "age": 31
+  "age": 30
  },
  "keywords": {
   "adobe": {
@@ -777,8 +777,8 @@
    "denied": 0
   },
   "shield ai": {
-   "active": 6,
-   "all_time": 33,
+   "active": 7,
+   "all_time": 34,
    "names": [
     "Shield AI"
    ],
@@ -825,7 +825,7 @@
    "denied": 0
   },
   "susquehanna": {
-   "active": 6,
+   "active": 5,
    "all_time": 6,
    "names": [
     "Susquehanna International Group"
