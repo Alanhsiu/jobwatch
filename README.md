@@ -8,7 +8,7 @@ sync between devices through this repo. No servers, no database, no cost — a p
 bot token. This repo's tracker: **[alanhsiu.github.io/jobwatch](https://alanhsiu.github.io/jobwatch/)** (a fork gets its own at `https://<owner>.github.io/<repo>/`).
 
 <!-- JOBS:HEAD:START -->
-_314 open new-grad roles at 52 companies · list last changed 2026-11-25 · scans every ~2 h_ · **[Open the tracker](https://alanhsiu.github.io/jobwatch/)** · [Full list ↓](#current-roles) · TikTok 105 · ByteDance 31 · Amazon 26 · Apple 13 · Palantir 12 · Anduril 9 · Microsoft 7 · Shield AI 7 · …
+_310 open new-grad roles at 51 companies · list last changed 2026-11-25 · scans every ~2 h_ · **[Open the tracker](https://alanhsiu.github.io/jobwatch/)** · [Full list ↓](#current-roles) · TikTok 105 · ByteDance 31 · Amazon 26 · Apple 13 · Palantir 12 · Anduril 9 · Shield AI 7 · Applied Intuition 5 · …
 <!-- JOBS:HEAD:END -->
 
 ## How it works
@@ -207,6 +207,7 @@ and `.nojekyll` into `docs/`, set Pages to `/docs`, and give every device a toke
 <details>
 <summary>TikTok (105)</summary>
 
+- [Backend Software Engineer - Data Lifecycle Management](https://lifeattiktok.com/search/7710030288165996805) — San Jose, CA · posted 2026-11-25 · SWE · BS
 - [Research Engineer - Agentic Video Editing](https://lifeattiktok.com/search/7704036750285867269) — San Jose, CA · posted 2026-11-06 · SWE · BS/MS
 - [Software Engineer Graduate - Data Ecosystem - 2027 Start](https://lifeattiktok.com/search/7685769994391832837) — San Jose, CA · posted 2026-10-14 · SWE · BS/MS
 - [Research Scientist Graduate](https://lifeattiktok.com/search/7695929967028750645) — Seattle, WA · posted 2026-10-13 · ML · BS/MS
@@ -219,7 +220,6 @@ and `.nojekyll` into `docs/`, set Pages to `/docs`, and give every device a toke
 - [Data Engineer Graduate - Data Platform E-commerce](https://lifeattiktok.com/search/7676253726624024837) — San Jose, CA · posted 2026-08-26 · ML · BS/MS
 - [Data Engineer Graduate - Data Platform Global Live](https://lifeattiktok.com/search/7678120538997098805) · [2](https://lifeattiktok.com/search/7675484418022181173) — San Jose, CA · posted 2026-08-26 · ML · BS/MS
 - [Graduate Software Engineer - TikTok Search Data Infra](https://lifeattiktok.com/search/7675829388634392837) — San Jose, CA · posted 2026-08-20 · SWE · BS/MS
-- [Machine Learning Engineer Graduate - E-Commerce Supply Chain & Logistics](https://lifeattiktok.com/search/7675844938504702213) — San Jose, CA · posted 2026-08-20 · ML · BS/MS
 - [Machine Learning Engineer Graduate - E-Commerce Governance](https://lifeattiktok.com/search/7674023327725373701) · [2](https://lifeattiktok.com/search/7674025781001062709) — San Jose, CA; Seattle, WA · posted 2026-08-17 · ML · BS/MS
 - [Data Scientist Graduate - Multimedia](https://lifeattiktok.com/search/7673672141010815237) · [2](https://lifeattiktok.com/search/7670288355678177589) — San Jose, CA · posted 2026-08-15 · ML · BS/MS
 - [Software Engineer Graduate - Foundation Platform](https://lifeattiktok.com/search/7673674252889246005) · [2](https://lifeattiktok.com/search/7670276769459456309) — San Jose, CA · posted 2026-08-14 · SWE · BS/MS
@@ -398,15 +398,6 @@ and `.nojekyll` into `docs/`, set Pages to `/docs`, and give every device a toke
 
 </details>
 <details open>
-<summary>Microsoft (7)</summary>
-
-- [Software Engineer-Securing AI](https://apply.careers.microsoft.com/careers/job/1970393557073425) — Redmond, WA · posted 2026-11-24 · SWE · BS/MS
-- [Software Engineer](https://apply.careers.microsoft.com/careers/job/1970393557075456) · [2](https://apply.careers.microsoft.com/careers/job/1970393557053863) · [3](https://apply.careers.microsoft.com/careers/job/1970393557053350) · [4](https://apply.careers.microsoft.com/careers/job/1970393557025694) — United States; Redmond, WA; Reston, VA; Redmond, WA, Reston, VA · posted 2026-11-19 · SWE · BS/MS
-- [Software Engineer Agentic Security](https://apply.careers.microsoft.com/careers/job/1970393557074643) — Redmond, WA · posted 2026-11-17 · SWE · BS/MS
-- [Software Engineer - Ctj - Poly](https://apply.careers.microsoft.com/careers/job/1970393556860973) — Annapolis Junction, MD, Reston, VA · posted 2026-06-18 · SWE · BS
-
-</details>
-<details open>
 <summary>Shield AI (7)</summary>
 
 - [Engineer 2 New Grad - Software - Autonomy Capabilities](https://jobs.ashbyhq.com/shield/24de5a65-86ce-4269-ad26-0a3e85b42eec/application?embed=true) — Arlington County, Arlington, VA, San Diego, CA · posted 2026-11-11 · HW · BS/MS/PhD
@@ -481,6 +472,13 @@ and `.nojekyll` into `docs/`, set Pages to `/docs`, and give every device a toke
 - [Quantitative AI Technical Staff](https://www.citadelsecurities.com/careers/details/quantitative-ai-technical-staff/) — Miami, FL · posted 2026-07-22 · ML · BS/MS/PhD
 - [Graduate Software Engineer](https://www.citadelsecurities.com/careers/details/software-engineer-university-graduate-us/) — Miami, FL, NYC · posted 2026-07-06 · SWE · BS/MS/PhD
 - [Quantitative Trader – University Graduate](https://www.citadelsecurities.com/careers/details/quantitative-trader-university-graduate-us-miami/) · [2](https://www.citadelsecurities.com/careers/details/quantitative-trader-university-graduate-us-new-york/) — Miami, FL; NYC · posted 2026-07-06 · Quant · BS/MS/PhD
+
+</details>
+<details open>
+<summary>Microsoft (4)</summary>
+
+- [Software Engineer](https://apply.careers.microsoft.com/careers/job/1970393557075456) · [2](https://apply.careers.microsoft.com/careers/job/1970393557053350) · [3](https://apply.careers.microsoft.com/careers/job/1970393557025694) — United States; Reston, VA; Redmond, WA, Reston, VA · posted 2026-11-19 · SWE · BS/MS
+- [Software Engineer - Ctj - Poly](https://apply.careers.microsoft.com/careers/job/1970393556860973) — Annapolis Junction, MD, Reston, VA · posted 2026-06-18 · SWE · BS
 
 </details>
 <details open>
@@ -695,12 +693,6 @@ and `.nojekyll` into `docs/`, set Pages to `/docs`, and give every device a toke
 <summary>Perplexity AI (1)</summary>
 
 - [Member of Technical Staff - Software Engineer - AI Policy and Strategic Initiatives](https://jobs.ashbyhq.com/perplexity/1056951e-8a42-4330-b72c-90162b3cd1c9/application?embed=true) — Washington, DC, SF · posted 2026-11-07 · SWE
-
-</details>
-<details open>
-<summary>Rivian (1)</summary>
-
-- [Attributes Method Engineer](https://careers.rivian.com/jobs/34080?icims=1) — Irvine, CA · posted 2026-09-30 · SWE · BS
 
 </details>
 <details open>

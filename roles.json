@@ -1,5 +1,28 @@
 [
  {
+  "id": "simplify:b4da1054-8bb0-4994-ab28-a7d8190f5116",
+  "first_seen": 1795617499,
+  "company": "TikTok",
+  "title": "Backend Software Engineer - Data Lifecycle Management",
+  "location": "San Jose, CA",
+  "url": "https://lifeattiktok.com/search/7710030288165996805",
+  "category": "SWE",
+  "posted": "2026-11-25",
+  "date_posted": 1795590887,
+  "active": true,
+  "locations": [
+   "San Jose, CA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's"
+  ],
+  "sponsorship": "Other",
+  "group": "tiktok|backend software engineer data lifecycle management",
+  "in_feed": true,
+  "reason": null
+ },
+ {
   "id": "simplify:16c2d7a3-1fe5-4717-afa8-6f92a77428c4",
   "first_seen": 1795574202,
   "company": "Amazon",
@@ -19,30 +42,6 @@
   ],
   "sponsorship": "Other",
   "group": "amazon|front end engineer",
-  "in_feed": true,
-  "reason": null
- },
- {
-  "id": "simplify:0b03f09e-f8ed-4344-8984-f9e750cc2440",
-  "first_seen": 1795495899,
-  "company": "Microsoft",
-  "title": "Software Engineer-Securing AI",
-  "location": "Redmond, WA",
-  "url": "https://apply.careers.microsoft.com/careers/job/1970393557073425",
-  "category": "SWE",
-  "posted": "2026-11-24",
-  "date_posted": 1795488684,
-  "active": true,
-  "locations": [
-   "Redmond, WA"
-  ],
-  "region": "US",
-  "degrees": [
-   "Bachelor's",
-   "Master's"
-  ],
-  "sponsorship": "Other",
-  "group": "microsoft|software engineer securing ai",
   "in_feed": true,
   "reason": null
  },
@@ -166,30 +165,6 @@
   ],
   "sponsorship": "Other",
   "group": "amazon|software development engineer robotics",
-  "in_feed": true,
-  "reason": null
- },
- {
-  "id": "simplify:542753ed-5d89-4aa7-855f-a20530ae5084",
-  "first_seen": 1794922692,
-  "company": "Microsoft",
-  "title": "Software Engineer Agentic Security",
-  "location": "Redmond, WA",
-  "url": "https://apply.careers.microsoft.com/careers/job/1970393557074643",
-  "category": "SWE",
-  "posted": "2026-11-17",
-  "date_posted": 1794883795,
-  "active": true,
-  "locations": [
-   "Redmond, WA"
-  ],
-  "region": "US",
-  "degrees": [
-   "Bachelor's",
-   "Master's"
-  ],
-  "sponsorship": "Other",
-  "group": "microsoft|software engineer agentic security",
   "in_feed": true,
   "reason": null
  },
@@ -477,31 +452,6 @@
   "in_feed": true,
   "reason": null,
   "last_seen": 1794444664
- },
- {
-  "id": "simplify:f8dff735-83eb-4c12-bafc-e9568cf30001",
-  "first_seen": 1794283899,
-  "company": "Microsoft",
-  "title": "Software Engineer",
-  "location": "Redmond, WA",
-  "url": "https://apply.careers.microsoft.com/careers/job/1970393557053863",
-  "category": "SWE",
-  "posted": "2026-11-09",
-  "date_posted": 1794267495,
-  "active": true,
-  "locations": [
-   "Redmond, WA"
-  ],
-  "region": "US",
-  "degrees": [
-   "Bachelor's",
-   "Master's"
-  ],
-  "sponsorship": "Other",
-  "group": "microsoft|software engineer",
-  "in_feed": true,
-  "reason": null,
-  "last_seen": 1794669102
  },
  {
   "id": "simplify:3dbb6972-d6ac-421f-a585-0e73f702f92a",
@@ -2006,29 +1956,6 @@
   "reason": null
  },
  {
-  "id": "simplify:65631f60-2928-47c7-a3b3-2c66d4748283",
-  "first_seen": 1795403745,
-  "company": "Rivian",
-  "title": "Attributes Method Engineer",
-  "location": "Irvine, CA",
-  "url": "https://careers.rivian.com/jobs/34080?icims=1",
-  "category": "SWE",
-  "posted": "2026-09-30",
-  "date_posted": 1790807021,
-  "active": true,
-  "locations": [
-   "Irvine, CA"
-  ],
-  "region": "US",
-  "degrees": [
-   "Bachelor's"
-  ],
-  "sponsorship": "Other",
-  "group": "rivian|attributes method engineer",
-  "in_feed": true,
-  "reason": null
- },
- {
   "id": "simplify:d739b0c1-7de2-4820-8075-fc8cf49855fd",
   "first_seen": 1790812668,
   "company": "Atlassian",
@@ -3289,31 +3216,6 @@
   ],
   "sponsorship": "Other",
   "group": "tiktok|graduate software engineer tiktok search data infra",
-  "in_feed": true,
-  "reason": null
- },
- {
-  "id": "simplify:c9dff2be-8f4e-4123-866d-9dac43703bd2",
-  "company": "TikTok",
-  "title": "Machine Learning Engineer Graduate - E-Commerce Supply Chain & Logistics",
-  "location": "San Jose, CA",
-  "url": "https://lifeattiktok.com/search/7675844938504702213",
-  "category": "ML",
-  "posted": "2026-08-20",
-  "date_posted": 1787190346,
-  "active": true,
-  "first_seen": 1787239672.4111407,
-  "last_seen": 1794987755,
-  "locations": [
-   "San Jose, CA"
-  ],
-  "region": "US",
-  "degrees": [
-   "Bachelor's",
-   "Master's"
-  ],
-  "sponsorship": "Other",
-  "group": "tiktok|machine learning engineer graduate e commerce supply chain logistics",
   "in_feed": true,
   "reason": null
  },
@@ -7727,6 +7629,58 @@
   "reason": null
  },
  {
+  "id": "simplify:0b03f09e-f8ed-4344-8984-f9e750cc2440",
+  "first_seen": 1795495899,
+  "company": "Microsoft",
+  "title": "Software Engineer-Securing AI",
+  "location": "Redmond, WA",
+  "url": "https://apply.careers.microsoft.com/careers/job/1970393557073425",
+  "category": "SWE",
+  "posted": "2026-11-24",
+  "date_posted": 1795488684,
+  "active": false,
+  "locations": [
+   "Redmond, WA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "microsoft|software engineer securing ai",
+  "in_feed": false,
+  "reason": "closed",
+  "closed_at": 1795617499,
+  "last_seen": 1795617499
+ },
+ {
+  "id": "simplify:542753ed-5d89-4aa7-855f-a20530ae5084",
+  "first_seen": 1794922692,
+  "company": "Microsoft",
+  "title": "Software Engineer Agentic Security",
+  "location": "Redmond, WA",
+  "url": "https://apply.careers.microsoft.com/careers/job/1970393557074643",
+  "category": "SWE",
+  "posted": "2026-11-17",
+  "date_posted": 1794883795,
+  "active": false,
+  "locations": [
+   "Redmond, WA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "microsoft|software engineer agentic security",
+  "in_feed": false,
+  "reason": "closed",
+  "closed_at": 1795617499,
+  "last_seen": 1795617499
+ },
+ {
   "id": "simplify:e225362a-3608-44aa-ae93-8c06b023ccd7",
   "first_seen": 1794884347,
   "company": "Microsoft",
@@ -8044,6 +7998,32 @@
   "reason": "closed",
   "closed_at": 1794638653,
   "last_seen": 1794638653
+ },
+ {
+  "id": "simplify:f8dff735-83eb-4c12-bafc-e9568cf30001",
+  "first_seen": 1794283899,
+  "company": "Microsoft",
+  "title": "Software Engineer",
+  "location": "Redmond, WA",
+  "url": "https://apply.careers.microsoft.com/careers/job/1970393557053863",
+  "category": "SWE",
+  "posted": "2026-11-09",
+  "date_posted": 1794267495,
+  "active": false,
+  "locations": [
+   "Redmond, WA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "microsoft|software engineer",
+  "in_feed": false,
+  "reason": "closed",
+  "last_seen": 1795617499,
+  "closed_at": 1795617499
  },
  {
   "id": "simplify:4d117eb5-e4cd-4625-bc89-63338bb2dd70",
@@ -10483,6 +10463,31 @@
   "last_seen": 1791846268
  },
  {
+  "id": "simplify:65631f60-2928-47c7-a3b3-2c66d4748283",
+  "first_seen": 1795403745,
+  "company": "Rivian",
+  "title": "Attributes Method Engineer",
+  "location": "Irvine, CA",
+  "url": "https://careers.rivian.com/jobs/34080?icims=1",
+  "category": "SWE",
+  "posted": "2026-09-30",
+  "date_posted": 1790807021,
+  "active": false,
+  "locations": [
+   "Irvine, CA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's"
+  ],
+  "sponsorship": "Other",
+  "group": "rivian|attributes method engineer",
+  "in_feed": false,
+  "reason": "closed",
+  "closed_at": 1795617499,
+  "last_seen": 1795617499
+ },
+ {
   "id": "simplify:e60e9a94-ba50-4649-b502-e7203a9eb65f",
   "first_seen": 1790746990,
   "company": "NVIDIA",
@@ -11961,6 +11966,32 @@
   "closed_at": 1795574202
  },
  {
+  "id": "simplify:c9dff2be-8f4e-4123-866d-9dac43703bd2",
+  "company": "TikTok",
+  "title": "Machine Learning Engineer Graduate - E-Commerce Supply Chain & Logistics",
+  "location": "San Jose, CA",
+  "url": "https://lifeattiktok.com/search/7675844938504702213",
+  "category": "ML",
+  "posted": "2026-08-20",
+  "date_posted": 1787190346,
+  "active": false,
+  "first_seen": 1787239672.4111407,
+  "last_seen": 1795617499,
+  "locations": [
+   "San Jose, CA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "tiktok|machine learning engineer graduate e commerce supply chain logistics",
+  "in_feed": false,
+  "reason": "closed",
+  "closed_at": 1795617499
+ },
+ {
   "id": "simplify:f3bdb586-bbfb-45b8-95e7-a64529d56300",
   "company": "TikTok",
   "title": "Machine Learning Engineer Graduate - E-Commerce Supply Chain & Logistics - LLM/Agent",
@@ -11980,10 +12011,9 @@
    "PhD"
   ],
   "sponsorship": "Other",
-  "in_feed": true,
+  "in_feed": false,
   "closed_at": 1789570473,
-  "reason": "untracked",
-  "why": "phd",
+  "reason": "closed",
   "group": "tiktok|machine learning engineer graduate e commerce supply chain logistics llm agent"
  },
  {
