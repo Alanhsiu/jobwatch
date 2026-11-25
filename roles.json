@@ -1,5 +1,28 @@
 [
  {
+  "id": "simplify:16c2d7a3-1fe5-4717-afa8-6f92a77428c4",
+  "first_seen": 1795574202,
+  "company": "Amazon",
+  "title": "Front-End Engineer",
+  "location": "Seattle, WA",
+  "url": "https://amazon.jobs/en/jobs/10610793/front-end-engineer-2027-us",
+  "category": "SWE",
+  "posted": "2026-11-24",
+  "date_posted": 1795561536,
+  "active": true,
+  "locations": [
+   "Seattle, WA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's"
+  ],
+  "sponsorship": "Other",
+  "group": "amazon|front end engineer",
+  "in_feed": true,
+  "reason": null
+ },
+ {
   "id": "simplify:0b03f09e-f8ed-4344-8984-f9e750cc2440",
   "first_seen": 1795495899,
   "company": "Microsoft",
@@ -1243,30 +1266,6 @@
   "reason": null
  },
  {
-  "id": "simplify:264dcc23-f8cc-4727-878c-256ca9b41d00",
-  "first_seen": 1794314795,
-  "company": "xAI",
-  "title": "AI Tutor – Uzbek",
-  "location": "Remote in USA, Remote in UK, Remote in Australia",
-  "url": "https://job-boards.greenhouse.io/xai/jobs/5270905007",
-  "category": "ML",
-  "posted": "2026-10-26",
-  "date_posted": 1793008046,
-  "active": true,
-  "locations": [
-   "Remote in USA",
-   "Remote in UK",
-   "Remote in Australia",
-   "Remote in Canada"
-  ],
-  "region": "US",
-  "degrees": [],
-  "sponsorship": "Other",
-  "group": "xai|ai tutor uzbek",
-  "in_feed": true,
-  "reason": null
- },
- {
   "id": "simplify:02ac8a2d-f366-4013-9348-467a4d1a5e6a",
   "first_seen": 1793365922,
   "company": "xAI",
@@ -2302,32 +2301,6 @@
   "reason": null
  },
  {
-  "id": "simplify:5f473e5a-c08d-4e76-ae09-29c68b392aea",
-  "first_seen": 1789716522,
-  "company": "Stripe",
-  "title": "Software Engineer - Early Career - Immediate Start",
-  "location": "Seattle, WA, SF, NYC",
-  "url": "https://stripe.com/jobs/search?gh_jid=8212508",
-  "category": "SWE",
-  "posted": "2026-09-18",
-  "date_posted": 1789694971,
-  "active": true,
-  "locations": [
-   "Seattle, WA",
-   "SF",
-   "NYC"
-  ],
-  "region": "US",
-  "degrees": [
-   "Bachelor's",
-   "Master's"
-  ],
-  "sponsorship": "Other",
-  "group": "stripe|software engineer early career immediate start",
-  "in_feed": true,
-  "reason": null
- },
- {
   "id": "simplify:a47dfc85-2d9a-4cad-9a29-0c244dc1a46e",
   "first_seen": 1789621243,
   "company": "Tower Research Capital",
@@ -3291,31 +3264,6 @@
   ],
   "sponsorship": "Other",
   "group": "nvidia|architecture energy modeling engineer power modeling methodology and analysis",
-  "in_feed": true,
-  "reason": null
- },
- {
-  "id": "simplify:5050a4ec-870d-44d2-894d-d2369c296564",
-  "company": "TikTok",
-  "title": "Machine Learning Engineer Graduate - E-Commerce Supply Chain & Logistics",
-  "location": "Seattle, WA",
-  "url": "https://lifeattiktok.com/search/7675843332462872885",
-  "category": "ML",
-  "posted": "2026-08-20",
-  "date_posted": 1787190347,
-  "active": true,
-  "first_seen": 1787239672.4111407,
-  "last_seen": 1789521191.4314806,
-  "locations": [
-   "Seattle, WA"
-  ],
-  "region": "US",
-  "degrees": [
-   "Bachelor's",
-   "Master's"
-  ],
-  "sponsorship": "Other",
-  "group": "tiktok|machine learning engineer graduate e commerce supply chain logistics",
   "in_feed": true,
   "reason": null
  },
@@ -8905,6 +8853,32 @@
   "last_seen": 1793134036
  },
  {
+  "id": "simplify:264dcc23-f8cc-4727-878c-256ca9b41d00",
+  "first_seen": 1794314795,
+  "company": "xAI",
+  "title": "AI Tutor – Uzbek",
+  "location": "Remote in USA, Remote in UK, Remote in Australia",
+  "url": "https://job-boards.greenhouse.io/xai/jobs/5270905007",
+  "category": "ML",
+  "posted": "2026-10-26",
+  "date_posted": 1793008046,
+  "active": false,
+  "locations": [
+   "Remote in USA",
+   "Remote in UK",
+   "Remote in Australia",
+   "Remote in Canada"
+  ],
+  "region": "US",
+  "degrees": [],
+  "sponsorship": "Other",
+  "group": "xai|ai tutor uzbek",
+  "in_feed": false,
+  "reason": "closed",
+  "closed_at": 1795574202,
+  "last_seen": 1795574202
+ },
+ {
   "id": "simplify:1a4a719d-1af6-4e2d-b468-5929d8a8611a",
   "first_seen": 1793365922,
   "company": "xAI",
@@ -10870,6 +10844,34 @@
   "last_seen": 1791874429
  },
  {
+  "id": "simplify:5f473e5a-c08d-4e76-ae09-29c68b392aea",
+  "first_seen": 1789716522,
+  "company": "Stripe",
+  "title": "Software Engineer - Early Career - Immediate Start",
+  "location": "Seattle, WA, SF, NYC",
+  "url": "https://stripe.com/jobs/search?gh_jid=8212508",
+  "category": "SWE",
+  "posted": "2026-09-18",
+  "date_posted": 1789694971,
+  "active": false,
+  "locations": [
+   "Seattle, WA",
+   "SF",
+   "NYC"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "stripe|software engineer early career immediate start",
+  "in_feed": false,
+  "reason": "closed",
+  "closed_at": 1795574202,
+  "last_seen": 1795574202
+ },
+ {
   "id": "simplify:b6708f55-ced2-419a-9010-bf33b8b94595",
   "first_seen": 1791127536,
   "company": "Microsoft",
@@ -11933,6 +11935,32 @@
   "group": "wintermute|trading analyst"
  },
  {
+  "id": "simplify:5050a4ec-870d-44d2-894d-d2369c296564",
+  "company": "TikTok",
+  "title": "Machine Learning Engineer Graduate - E-Commerce Supply Chain & Logistics",
+  "location": "Seattle, WA",
+  "url": "https://lifeattiktok.com/search/7675843332462872885",
+  "category": "ML",
+  "posted": "2026-08-20",
+  "date_posted": 1787190347,
+  "active": false,
+  "first_seen": 1787239672.4111407,
+  "last_seen": 1795574202,
+  "locations": [
+   "Seattle, WA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "tiktok|machine learning engineer graduate e commerce supply chain logistics",
+  "in_feed": false,
+  "reason": "closed",
+  "closed_at": 1795574202
+ },
+ {
   "id": "simplify:f3bdb586-bbfb-45b8-95e7-a64529d56300",
   "company": "TikTok",
   "title": "Machine Learning Engineer Graduate - E-Commerce Supply Chain & Logistics - LLM/Agent",
@@ -11978,10 +12006,9 @@
    "PhD"
   ],
   "sponsorship": "Other",
-  "in_feed": true,
+  "in_feed": false,
   "closed_at": 1789570473,
-  "reason": "untracked",
-  "why": "phd",
+  "reason": "closed",
   "group": "tiktok|machine learning engineer graduate multiple teams"
  },
  {
