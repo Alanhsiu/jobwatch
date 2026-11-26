@@ -4,33 +4,33 @@
  "repo": "Alanhsiu/jobwatch",
  "branch": "main",
  "pages_url": "https://alanhsiu.github.io/jobwatch/",
- "last_run": 1795617499,
- "last_change": 1795617499,
+ "last_run": 1795653093,
+ "last_change": 1795653093,
  "last_result": "ok",
  "feed": {
-  "records": 18468,
-  "active": 3072,
-  "fetched_at": 1795617499,
+  "records": 18457,
+  "active": 3076,
+  "fetched_at": 1795653093,
   "attempts": 1
  },
  "counts": {
-  "active": 310,
+  "active": 311,
   "closed": 398,
   "untracked": 44,
-  "groups": 266,
+  "groups": 267,
   "companies": 51,
   "new_this_run": 1,
   "silent_known_this_run": 0,
-  "closed_this_run": 5,
+  "closed_this_run": 0,
   "untracked_this_run": 0
  },
  "rejects": {
   "category": 129,
   "phd": 164,
-  "title": 15,
-  "region": 43,
+  "title": 14,
+  "region": 42,
   "sponsorship": 0,
-  "age": 30
+  "age": 29
  },
  "keywords": {
   "adobe": {
@@ -879,8 +879,8 @@
    "denied": 0
   },
   "two sigma": {
-   "active": 3,
-   "all_time": 5,
+   "active": 4,
+   "all_time": 6,
    "names": [
     "Two Sigma"
    ],

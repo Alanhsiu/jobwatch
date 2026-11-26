@@ -1,5 +1,28 @@
 [
  {
+  "id": "simplify:e4843efd-7da9-4f50-bcc0-09645323705d",
+  "first_seen": 1795653093,
+  "company": "Two Sigma",
+  "title": "Quantitative Trader",
+  "location": "NYC",
+  "url": "https://twosigma.avature.net/careers/JobDetail/14440",
+  "category": "Quant",
+  "posted": "2026-11-25",
+  "date_posted": 1795647999,
+  "active": true,
+  "locations": [
+   "NYC"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's"
+  ],
+  "sponsorship": "Other",
+  "group": "two sigma|quantitative trader",
+  "in_feed": true,
+  "reason": null
+ },
+ {
   "id": "simplify:b4da1054-8bb0-4994-ab28-a7d8190f5116",
   "first_seen": 1795617499,
   "company": "TikTok",
