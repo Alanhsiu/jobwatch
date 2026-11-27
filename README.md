@@ -8,7 +8,7 @@ sync between devices through this repo. No servers, no database, no cost — a p
 bot token. This repo's tracker: **[alanhsiu.github.io/jobwatch](https://alanhsiu.github.io/jobwatch/)** (a fork gets its own at `https://<owner>.github.io/<repo>/`).
 
 <!-- JOBS:HEAD:START -->
-_307 open new-grad roles at 50 companies · list last changed 2026-11-26 · scans every ~2 h_ · **[Open the tracker](https://alanhsiu.github.io/jobwatch/)** · [Full list ↓](#current-roles) · TikTok 105 · ByteDance 31 · Amazon 26 · Apple 13 · Palantir 12 · Anduril 9 · Shield AI 7 · Applied Intuition 5 · …
+_303 open new-grad roles at 49 companies · list last changed 2026-11-27 · scans every ~2 h_ · **[Open the tracker](https://alanhsiu.github.io/jobwatch/)** · [Full list ↓](#current-roles) · TikTok 105 · ByteDance 31 · Amazon 26 · Apple 13 · Palantir 12 · Anduril 9 · Shield AI 7 · Applied Intuition 5 · …
 <!-- JOBS:HEAD:END -->
 
 ## How it works
@@ -455,15 +455,6 @@ and `.nojekyll` into `docs/`, set Pages to `/docs`, and give every device a toke
 - [Data Scientist Graduate](https://campus-americas.icims.com/jobs/26000/data-scientist%2c-2027-graduate-u.s./job) — Seattle, WA · posted 2026-09-30 · ML · MS
 - [Machine Learning Engineer - 2027 Graduate](https://campus-americas.icims.com/jobs/25999/machine-learning-engineer%2c-2027-graduate-u.s./job) — Seattle, WA · posted 2026-09-24 · ML · BS/MS
 - [Software Engineer](https://campus-americas.icims.com/jobs/25813/software-engineer%2c-2027-graduate-u.s./job) — Seattle, WA · posted 2026-09-15 · SWE · BS/MS
-
-</details>
-<details open>
-<summary>Citadel (4)</summary>
-
-- [Sector Data Scientist - Central Team](https://www.citadel.com/careers/details/sector-data-scientist-central-team/) — NYC · posted 2026-07-27 · ML · BS/MS
-- [Quantitative Trader: Equity Quantitative Research – University Graduate](https://www.citadel.com/careers/details/quantitative-trader-equity-quantitative-research-university-graduate-us/) — NYC · posted 2026-07-07 · Quant · BS
-- [Quantitative Research Analyst University Graduate](https://www.citadel.com/careers/details/quantitative-research-analyst-university-graduate-us/) — Greenwich, CT, Miami, FL, NYC · posted 2026-07-06 · Quant · BS/MS
-- [Software Engineer – University Graduate](https://www.citadel.com/careers/details/software-engineer-university-graduate-us/) — Greenwich, CT, Houston, TX, Miami, FL · posted 2026-07-06 · SWE
 
 </details>
 <details open>
