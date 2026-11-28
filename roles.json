@@ -217,6 +217,30 @@
   "reason": null
  },
  {
+  "id": "simplify:a1090125-5984-4a8a-9e90-a82f10f7491d",
+  "first_seen": 1795853110,
+  "company": "xAI",
+  "title": "AI Tutor – Chinese",
+  "location": "Remote in USA, Remote in UK, Remote in Australia",
+  "url": "https://job-boards.greenhouse.io/xai/jobs/5090180007",
+  "category": "ML",
+  "posted": "2026-11-11",
+  "date_posted": 1794440636,
+  "active": true,
+  "locations": [
+   "Remote in USA",
+   "Remote in UK",
+   "Remote in Australia",
+   "Remote in Canada"
+  ],
+  "region": "US",
+  "degrees": [],
+  "sponsorship": "Other",
+  "group": "xai|ai tutor chinese",
+  "in_feed": true,
+  "reason": null
+ },
+ {
   "id": "simplify:42c18703-03b0-4206-9280-c89c414cffec",
   "first_seen": 1794444664,
   "company": "Amazon",
@@ -1704,6 +1728,32 @@
   "group": "apple|os software engineer evaluation",
   "in_feed": true,
   "reason": null
+ },
+ {
+  "id": "simplify:8944e3f6-18d2-4e20-b86a-23223ceba88f",
+  "first_seen": 1791785449,
+  "company": "NVIDIA",
+  "title": "Software Engineer New Grad - DL Kernel Libraries",
+  "location": "Santa Clara, CA",
+  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--DL-Kernel-Libraries---New-College-Grad-2027_JR2027337",
+  "category": "SWE",
+  "posted": "2026-10-11",
+  "date_posted": 1791676800,
+  "active": true,
+  "locations": [
+   "Santa Clara, CA"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's",
+   "PhD"
+  ],
+  "sponsorship": "Other",
+  "group": "nvidia|software engineer new grad dl kernel libraries",
+  "in_feed": true,
+  "reason": null,
+  "last_seen": 1792568912
  },
  {
   "id": "simplify:9f92b24f-ac56-4f00-9aa8-355eb21841bd",
@@ -9529,33 +9579,6 @@
   "reason": "closed",
   "closed_at": 1794389746,
   "last_seen": 1794389746
- },
- {
-  "id": "simplify:8944e3f6-18d2-4e20-b86a-23223ceba88f",
-  "first_seen": 1791785449,
-  "company": "NVIDIA",
-  "title": "Software Engineer New Grad - DL Kernel Libraries",
-  "location": "Santa Clara, CA",
-  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--DL-Kernel-Libraries---New-College-Grad-2027_JR2027337",
-  "category": "SWE",
-  "posted": "2026-10-11",
-  "date_posted": 1791676800,
-  "active": false,
-  "locations": [
-   "Santa Clara, CA"
-  ],
-  "region": "US",
-  "degrees": [
-   "Bachelor's",
-   "Master's",
-   "PhD"
-  ],
-  "sponsorship": "Other",
-  "group": "nvidia|software engineer new grad dl kernel libraries",
-  "in_feed": false,
-  "reason": "closed",
-  "closed_at": 1792568912,
-  "last_seen": 1792568912
  },
  {
   "id": "simplify:96b88f42-fdea-4557-a58f-4847e5ce71d3",
