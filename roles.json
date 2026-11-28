@@ -6720,31 +6720,6 @@
   "reason": null
  },
  {
-  "id": "simplify:053e56c0-3d9e-4d1c-83c7-b891671a652c",
-  "company": "Hudson River Trading",
-  "title": "Algorithm Developer New Grad - Quant Researcher",
-  "location": "NYC",
-  "url": "https://www.hudsonrivertrading.com/careers/job/?gh_jid=8052050",
-  "category": "Quant",
-  "posted": "2026-07-13",
-  "date_posted": 1783981845,
-  "active": true,
-  "first_seen": 1784014543.6740808,
-  "last_seen": 1789521191.4314806,
-  "locations": [
-   "NYC"
-  ],
-  "region": "US",
-  "degrees": [
-   "Bachelor's",
-   "Master's"
-  ],
-  "sponsorship": "Other",
-  "group": "hudson river trading|algorithm developer new grad quant researcher",
-  "in_feed": true,
-  "reason": null
- },
- {
   "id": "simplify:f23af277-4d3f-4466-bf58-2551a4eff09a",
   "company": "DRW",
   "title": "Quantitative Researcher",
@@ -15107,6 +15082,32 @@
   "group": "doordash|software engineer 1"
  },
  {
+  "id": "simplify:053e56c0-3d9e-4d1c-83c7-b891671a652c",
+  "company": "Hudson River Trading",
+  "title": "Algorithm Developer New Grad - Quant Researcher",
+  "location": "NYC",
+  "url": "https://www.hudsonrivertrading.com/careers/job/?gh_jid=8052050",
+  "category": "Quant",
+  "posted": "2026-07-13",
+  "date_posted": 1783981845,
+  "active": false,
+  "first_seen": 1784014543.6740808,
+  "last_seen": 1795885119,
+  "locations": [
+   "NYC"
+  ],
+  "region": "US",
+  "degrees": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "sponsorship": "Other",
+  "group": "hudson river trading|algorithm developer new grad quant researcher",
+  "in_feed": false,
+  "reason": "closed",
+  "closed_at": 1795885119
+ },
+ {
   "id": "simplify:33d712fe-87e1-49e6-ba71-1dd17d118d63",
   "company": "Hudson River Trading",
   "title": "Algorithm Developer - Quant Researcher",
@@ -15126,10 +15127,9 @@
    "PhD"
   ],
   "sponsorship": "Other",
-  "in_feed": true,
+  "in_feed": false,
   "closed_at": 1789570473,
-  "reason": "untracked",
-  "why": "phd",
+  "reason": "closed",
   "group": "hudson river trading|algorithm developer quant researcher"
  },
  {

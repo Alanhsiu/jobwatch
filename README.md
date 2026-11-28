@@ -8,7 +8,7 @@ sync between devices through this repo. No servers, no database, no cost — a p
 bot token. This repo's tracker: **[alanhsiu.github.io/jobwatch](https://alanhsiu.github.io/jobwatch/)** (a fork gets its own at `https://<owner>.github.io/<repo>/`).
 
 <!-- JOBS:HEAD:START -->
-_305 open new-grad roles at 49 companies · list last changed 2026-11-28 · scans every ~2 h_ · **[Open the tracker](https://alanhsiu.github.io/jobwatch/)** · [Full list ↓](#current-roles) · TikTok 105 · ByteDance 31 · Amazon 26 · Apple 13 · Palantir 12 · Anduril 9 · Shield AI 7 · Applied Intuition 5 · …
+_304 open new-grad roles at 49 companies · list last changed 2026-11-28 · scans every ~2 h_ · **[Open the tracker](https://alanhsiu.github.io/jobwatch/)** · [Full list ↓](#current-roles) · TikTok 105 · ByteDance 31 · Amazon 26 · Apple 13 · Palantir 12 · Anduril 9 · Shield AI 7 · Applied Intuition 5 · …
 <!-- JOBS:HEAD:END -->
 
 ## How it works
@@ -574,13 +574,6 @@ and `.nojekyll` into `docs/`, set Pages to `/docs`, and give every device a toke
 
 </details>
 <details open>
-<summary>Hudson River Trading (2)</summary>
-
-- [Software Engineer - C++ or Python](https://www.hudsonrivertrading.com/careers/job/?gh_jid=8052122) — Austin, TX, Chicago, IL, NYC · posted 2026-07-13 · SWE · BS/MS
-- [Algorithm Developer New Grad - Quant Researcher](https://www.hudsonrivertrading.com/careers/job/?gh_jid=8052050) — NYC · posted 2026-07-13 · Quant · BS/MS
-
-</details>
-<details open>
 <summary>IMC Trading (2)</summary>
 
 - [Performance Engineer](https://job-boards.eu.greenhouse.io/imc/jobs/4823836101) — Chicago, IL · posted 2026-08-27 · SWE · BS
@@ -655,6 +648,12 @@ and `.nojekyll` into `docs/`, set Pages to `/docs`, and give every device a toke
 <summary>Figure (1)</summary>
 
 - [Data Quality Analyst](https://job-boards.greenhouse.io/figureai/jobs/4590702006) — San Jose, CA · posted 2026-10-13 · ML
+
+</details>
+<details open>
+<summary>Hudson River Trading (1)</summary>
+
+- [Software Engineer - C++ or Python](https://www.hudsonrivertrading.com/careers/job/?gh_jid=8052122) — Austin, TX, Chicago, IL, NYC · posted 2026-07-13 · SWE · BS/MS
 
 </details>
 <details open>
